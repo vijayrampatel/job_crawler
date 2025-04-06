@@ -54,5 +54,6 @@ jobs:
           git add data/database.json
           git add data/carwler.json
           git commit -m "Update job database [skip ci]" || echo "No changes to commit"
+          git pull
           git push
 
