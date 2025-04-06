@@ -38,6 +38,10 @@ jobs:
         run: python linkedin_crawler.py
         
       - name: Run TF-IDF matcher
+        env:
+          SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
+          RECIPIENT_EMAIL: ${{ vars.RECIPIENT_EMAIL }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: python tfidf_matcher.py
         
       - name: Commit and push changes
