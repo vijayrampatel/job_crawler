@@ -66,6 +66,7 @@ def send_batch_email_notification(matching_jobs, recipient_email):
             <table border="1" cellpadding="5">
               <tr>
                 <th>Company</th>
+                <th>Matched Company</th>
                 <th>Job Title</th>
                 <th>Match Score</th>
                 <th>Link</th>
