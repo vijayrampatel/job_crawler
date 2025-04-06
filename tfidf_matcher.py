@@ -42,9 +42,9 @@ def send_batch_email_notification(matching_jobs, recipient_email):
     try:
         # Email settings
         sender_email = os.environ.get("SENDER_EMAIL")  # Replace with your Gmail
-        print(f"Sender email: {sender_email}")  # Debugging line to check sender email
+        # print(f"Sender email: {sender_email}")  # Debugging line to check sender email
         sender_password = os.environ.get("SENDER_PASSWORD") 
-        print(f"Sender password: {'*' * len(sender_password) if sender_password else 'Not Set'}")  # Mask password for security
+        # print(f"Sender password: {'*' * len(sender_password) if sender_password else 'Not Set'}")  # Mask password for security
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
         
