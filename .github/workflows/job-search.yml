@@ -44,7 +44,7 @@ jobs:
         env:
           SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
           RECIPIENT_EMAIL: ${{ vars.RECIPIENT_EMAIL }}
-          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          SENDER_PASSWORD: ${{ vars.SENDER_PASSWORD }}
         run: python tfidf_matcher.py
         
       - name: Commit and push changes
