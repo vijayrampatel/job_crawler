@@ -1,573 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Stefanini North America and APAC",
-        "location": "Davie, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stefanini-north-america-and-apac-4193987622?position=1&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=avj%2FF07UKJixCMBgwDmCfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Data Science Engineer",
-        "company": "Takeda",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-engineer-at-takeda-4196155006?position=2&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=OTT5KPMAsxTwgJ30Jp9QNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I/II",
-        "company": "Laserfiche",
-        "location": "Long Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-at-laserfiche-4090899145?position=3&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=McyVAsyl0rJ9PoKAyb033Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Mitchell Martin Inc.",
-        "location": "Davidson, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mitchell-martin-inc-4193926645?position=4&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=Rj8aFGFHKsCMVc6h1X7uJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer 2",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-at-intuit-4213298327?position=5&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=KiTpmfcA75vtfxJDRxIDUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Cloud Data Engineer (Onsite)",
-        "company": "Colony Brands, Inc.",
-        "location": "Monroe, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cloud-data-engineer-onsite-at-colony-brands-inc-4188252916?position=6&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=6X%2Bwt1nJzzZN6HaPvIDt6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "2025 Graduate Software Dev Engineer",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Dresden, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2025-graduate-software-dev-engineer-at-amazon-web-services-aws-4176565257?position=7&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=pUPdV%2F4GpRTr%2BU7pyZPUIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Mitchell Martin Inc.",
-        "location": "Davidson, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-mitchell-martin-inc-4193934089?position=8&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=s42WqGnjurJciPbtC2iwnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Season Health",
-        "location": "Los Angeles Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-season-health-4212259471?position=9&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=9xnEWeI3u%2B1tJETS5BGbig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Product & Data Analyst",
-        "company": "Pacific Premier Bank",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/product-data-analyst-at-pacific-premier-bank-4196147126?position=10&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=cE3bWXCT4rq45%2FiNDfuQgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Season Health",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-season-health-4212259482?position=11&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=1zv%2FVZvF6Qr7kX%2BD5wwK4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Engineering - Digitization and Workflow - Software Engineer - Associate - Dallas",
-        "company": "Goldman Sachs",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineering-digitization-and-workflow-software-engineer-associate-dallas-at-goldman-sachs-4149761294?position=12&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=qr7vpWasadXj4tqvCh6SNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - AI and Automation",
-        "company": "TDECU",
-        "location": "Sugar Land, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-ai-and-automation-at-tdecu-4193918912?position=14&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=cxfdU3m3XsJ0C9nLdsUdxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Co-Op IT - MLOps Engineer - 1 role 1",
-        "company": "Boehringer Ingelheim",
-        "location": "Ridgefield, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/co-op-it-mlops-engineer-1-role-1-at-boehringer-ingelheim-4196194533?position=15&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=x4F2xcyFLMTJ0%2BL0LoKi0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Wealth Management-Dallas-Associate-Front-End Software Engineer",
-        "company": "Goldman Sachs",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/wealth-management-dallas-associate-front-end-software-engineer-at-goldman-sachs-4149786739?position=16&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=mBMb%2BQrNP3M35zX%2FtWyNBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Security Software Engineer (Starshield)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-starshield-at-spacex-4176779641?position=17&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=WsgL%2BD2taZJlL95AMR1%2BQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "GTM Engineer",
-        "company": "Swift Immersive",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gtm-engineer-at-swift-immersive-4212263413?position=18&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=cFm3X%2B0j2aCgL6HRKHo74A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Design Software (Starship Reliability)",
-        "company": "SpaceX",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-software-starship-reliability-at-spacex-4176780812?position=23&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=e%2BCOGIeZBZ6m5PTDvM20Og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Legal Data Analyst - Data Enrichment",
-        "company": "Bloomberg",
-        "location": "Skillman, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/legal-data-analyst-data-enrichment-at-bloomberg-4152228067?position=25&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=YB10yPRuHlikw8Q7XTVMUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "IT/Blockchain Infrastructure Engineer",
-        "company": "CertiK",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-blockchain-infrastructure-engineer-at-certik-4106753549?position=26&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=c5ZIP6FSkswWzX4unCkSUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "VQI Data Abstractor: Part-Time",
-        "company": "Q-Centrix",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/vqi-data-abstractor-part-time-at-q-centrix-4062993559?position=28&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=DulmDryXz4gDQ%2F2hO%2Fbzsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "ANALYST-FLIGHT TEST DATA",
-        "company": "Dassault Falcon Jet",
-        "location": "Arkansas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-flight-test-data-at-dassault-falcon-jet-4195941608?position=29&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=V9Rvn5%2FUYyAdH4X2LOrY7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Planning Engineer, System Modeling",
-        "company": "NYISO",
-        "location": "Rensselaer, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/planning-engineer-system-modeling-at-nyiso-4087323818?position=30&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=1ORZ1girytqVDoKbz7cKqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst, Fuels Databank",
-        "company": "Constellation",
-        "location": "Kennett Square, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-fuels-databank-at-constellation-4174694825?position=31&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=RiVEBtwA0dJUL%2FZbBLX%2FTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "AR / Augmented Reality Software Engineer",
-        "company": "Cognizant",
-        "location": "Warren, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ar-augmented-reality-software-engineer-at-cognizant-4192177805?position=32&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=K9hd4w%2Fa1nnU4qb904YiOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Customer Care Data Analyst - Schaumburg, IL",
-        "company": "R.S. Hughes Co., Inc.",
-        "location": "Schaumburg, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/customer-care-data-analyst-schaumburg-il-at-r-s-hughes-co-inc-4196148134?position=33&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=WekBaNNazkupg86RqY3DJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Field Engineer",
-        "company": "CMC",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-at-cmc-4187161391?position=34&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=Efvsx1WrvMXI4bExIBhYUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Corporate Risk Intelligence Analyst",
-        "company": "Associated Bank",
-        "location": "Greater Milwaukee",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/corporate-risk-intelligence-analyst-at-associated-bank-4192533056?position=35&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=lhKopvyYcieqvXzKJNl5vQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Production Engineer (Starship Electronics)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/production-engineer-starship-electronics-at-spacex-4030706784?position=36&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=jo9XT%2Bp%2BdNAESi2hQ45qwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Network & Credentialing QA Analyst (Hybrid)",
-        "company": "Dearborn Group",
-        "location": "Lombard, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/network-credentialing-qa-analyst-hybrid-at-dearborn-group-4192177813?position=37&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=UA4%2F3cBy20cta2DJAEXT3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Project Engineer",
-        "company": "Jobot",
-        "location": "Magna, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobot-4209965671?position=38&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=%2Fd4avH6a0Pvsz%2Ft5bxzekQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "Portfolio Assistant",
-        "company": "Kidder Mathews",
-        "location": "Tacoma, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/portfolio-assistant-at-kidder-mathews-4193988918?position=39&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=8bmlkOE3%2BYPnjq5qtbmYIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25"
-    },
-    {
-        "title": "SALES ENGINEER",
-        "company": "Carter Machinery",
-        "location": "Elkridge, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-carter-machinery-4213411468?position=40&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=BRUZ62uspENtVblohJtJLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "SALES ENGINEER",
-        "company": "Carter Machinery",
-        "location": "Mechanicsville, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-carter-machinery-4213408616?position=41&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=T2Mv0htKpP078gCDJsnDvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Analog Mixed Signal IC Design Engineer",
-        "company": "Marvell Technology",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-analog-mixed-signal-ic-design-engineer-at-marvell-technology-4094571338?position=42&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=msESIS9ltwGcwsNlIwQ%2FyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "DevOps Engineer, Transaction Banking, Data Platform",
-        "company": "Goldman Sachs",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-transaction-banking-data-platform-at-goldman-sachs-4149759382?position=43&pageNum=0&refId=SSkCyOJUAm2Sj4bkGwgnEw%3D%3D&trackingId=p%2BRo6uezs1fpcajs2t7B1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 14:56:25",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer I (R-17830)",
-        "company": "Dun & Bradstreet",
-        "location": "Jacksonville, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-r-17830-at-dun-bradstreet-4211908579?position=1&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=cJsmwd20wLGtvg3S7XyVHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Mitchell Martin Inc.",
-        "location": "Davidson, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mitchell-martin-inc-4193926645?position=2&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=JJex7dOh06ZLleycFnOckQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114492?position=3&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=S4mMnVH9gb6rGEajg7Bbxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116409?position=5&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=qhS1kohHumE3cUC1Oy7PKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Spring Valley, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-4064740922?position=6&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=ODjIPL86d6JhjQEwOtci%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "GTM Engineer",
-        "company": "Swift Immersive",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gtm-engineer-at-swift-immersive-4212263413?position=7&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=dE%2B%2FsC92wFPvLOxYCLNUdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116437?position=8&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=YuRdAjA%2F8TgVRTq9HCs1aQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Visalia, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115551?position=9&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=Xs4ofrZUYQuLucpM64gDwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "(USA) Software Engineer II - Mobile",
-        "company": "Walmart",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/usa-software-engineer-ii-mobile-at-walmart-4074694092?position=11&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=n0lPrb0lsshuaX%2BO9UMThA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Meridian, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117188?position=12&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=iX%2B8Lam9ISsKIyEOfs0Wyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Bangor, ME",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3849824011?position=19&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=Lz2ZXVLW1444SK%2FnirMBlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Legal Data Analyst - Data Enrichment",
-        "company": "Bloomberg",
-        "location": "Skillman, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/legal-data-analyst-data-enrichment-at-bloomberg-4152228067?position=21&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=JPsqQ6KwCkAFn8Cv8Fy1uQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Montgomery, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115534?position=22&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=ZIynS1u5qS%2ByM86VOvAvrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Gillette, WY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117179?position=23&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=YAvofF2hn1nnbnNndHfmUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Oshkosh, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116415?position=24&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=mznhd%2FO4rNCNIzCyECAlnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Pierre, SD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112643?position=25&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=jIAsZRbAPfhIcocOBtYCJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "ANALYST-FLIGHT TEST DATA",
-        "company": "Dassault Falcon Jet",
-        "location": "Arkansas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-flight-test-data-at-dassault-falcon-jet-4195941608?position=27&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=U1sGm5gdWhLDaph4loR7DA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Services Mechanical Commissioning Engineer Staff II",
-        "company": "CAI Mission Critical",
-        "location": "Kansas City, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-services-mechanical-commissioning-engineer-staff-ii-at-cai-mission-critical-3842980666?position=28&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=2FZa6NxphYedhuxz3%2BmKBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "AR / Augmented Reality Software Engineer",
-        "company": "Cognizant",
-        "location": "Warren, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ar-augmented-reality-software-engineer-at-cognizant-4192177805?position=29&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=vGm49ztHv9r0AUtcyWhJtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst II (R-17831)",
-        "company": "Dun & Bradstreet",
-        "location": "Jacksonville, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-r-17831-at-dun-bradstreet-4211911390?position=30&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=vSpvViydt4hl3zLzi99wNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Level Business/Data Analyst",
-        "company": "Asta Crs Inc",
-        "location": "Ashburn, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-level-business-data-analyst-at-asta-crs-inc-4209975128?position=31&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=qrLzZv302abT0f9f17ptCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Analog Mixed Signal IC Design Engineer",
-        "company": "Marvell Technology",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-analog-mixed-signal-ic-design-engineer-at-marvell-technology-4094571338?position=32&pageNum=0&refId=soC1bFpvjMiL7totQJmG%2FA%3D%3D&trackingId=riF4IAW16%2Bglt6mX%2F77q9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-04-19 15:16:02",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer I (R-17830)",
         "company": "Dun & Bradstreet",
         "location": "Jacksonville, FL",
@@ -1331,5 +763,352 @@
         "source": "LinkedIn",
         "scraped_date": "2025-04-19 15:55:39",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer I (R-17830)",
+        "company": "Dun & Bradstreet",
+        "location": "Jacksonville, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-r-17830-at-dun-bradstreet-4211908579?position=1&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=dPJwjLftrlh1bWsPk3gxZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst-I",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-tietalent-4213417846?position=2&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=uW1yVRBODUqUfXZqXMSe1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114492?position=3&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=r%2FxwKldaL3ppf%2Bplg2%2Bgsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "(USA) Staff, Software Engineer",
+        "company": "Walmart",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/usa-staff-software-engineer-at-walmart-3955794777?position=4&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=7tTpYykkP%2FGTqs9kpBmpzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer - iOS",
+        "company": "Walmart",
+        "location": "Bentonville, AR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-at-walmart-3910743857?position=5&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=fF5GiOpKdw0OMOX41vA4Hg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116409?position=6&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=qxoWkbxAMHD9DS%2BZBZ%2Bokw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Spring Valley, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-4064740922?position=7&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=jNAtd%2Fv%2FPfx9gNe4Tsjt5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Machine Learning",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-tietalent-4213418852?position=8&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=vBgHxdfvtsHztOWUt5xa2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer - Machine Learning",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-tietalent-4213423223?position=9&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=V%2BC5LjpSfFjwWa3vuoSI4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Chandler, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116437?position=10&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=miEeF3UALMg5bgybxz8ZSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Visalia, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115551?position=11&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=UEVoBBDEDDAIoDN%2Bd8IuNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Frontend",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-tietalent-4213417967?position=12&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=hhWzoQ2Ii910iq0nbv8fnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "(USA) Software Engineer II - Mobile",
+        "company": "Walmart",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/usa-software-engineer-ii-mobile-at-walmart-4074694092?position=13&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=olv%2BnptzBgHbiiJyRKGkvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer, Frontend",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-tietalent-4213418925?position=14&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=o5S43zqJQcPpItDGrXzEcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tietalent-4213416925?position=15&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=MvyVnrKqzRBoTFduc5bVdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Meridian, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117188?position=16&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=T%2BOvaBI%2BGQoPuTVEdep1Yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Bangor, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3849824011?position=17&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=XatwX3Vh1IN8Cmm%2FfXIhVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer | Backend",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tietalent-4213423239?position=18&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=jHJ5y74hpCyzJ8CuHXhVAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer - Full Stack/frontend - AI",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-frontend-ai-at-tietalent-4213422669?position=19&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=QzNFwk8HMDIBzc6c5w6cFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Machine Learning Engineer, Enterprise GenAI",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-enterprise-genai-at-tietalent-4213417895?position=20&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=eTHrGPFtrzNdJqffcfbuLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer - Search Platform [IC4]",
+        "company": "TieTalent",
+        "location": "Kentucky, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-search-platform-ic4-at-tietalent-4213418967?position=21&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=CHDV%2B4iEZGOfAydBK9jTKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer, Frontend - Enterprise Gen AI",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-enterprise-gen-ai-at-tietalent-4213420748?position=22&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=u71O9hFCp1TId0aR1mW6EA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Montgomery, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115534?position=23&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=lq8Il5pMdhsHFkRgoca2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Fullstack",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-tietalent-4213421561?position=24&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=huXpGgrr%2BbFl56eK3Dqrzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Gillette, WY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117179?position=25&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=E%2FkeKtbDU4NK9L6kB1gH%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Oshkosh, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116415?position=26&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=Vewh8SGA2W3c8iVOMwwPvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Pierre, SD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112643?position=27&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=4KnhfXOsJ%2BKdaF7RcNQqVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Machine learning",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-at-tietalent-4213420736?position=28&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=rH4V5OU%2F5fDU1OFE3Egbxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Data Scientist (Amy)",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-amy-at-tietalent-4213424165?position=29&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=UgQDRWvqFrxZ7T%2B9AOEKtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Data Center Services Mechanical Commissioning Engineer Staff II",
+        "company": "CAI Mission Critical",
+        "location": "Kansas City, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-services-mechanical-commissioning-engineer-staff-ii-at-cai-mission-critical-3842980666?position=30&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=cjkB6XLDSAWSH4tW8mX4iA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer for Chemistry Applications",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-for-chemistry-applications-at-tietalent-4213416920?position=31&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=8Xa%2BOZ%2Bn8RsOyeIEK9ByEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Cleared Data Scientist (3236)",
+        "company": "TieTalent",
+        "location": "District of Columbia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cleared-data-scientist-3236-at-tietalent-4213417983?position=32&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=ZxD1nL0KDTQx4o0RuMWdRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Analyst II (R-17831)",
+        "company": "Dun & Bradstreet",
+        "location": "Jacksonville, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-ii-r-17831-at-dun-bradstreet-4211911390?position=33&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=9sXpVBorQ5I1W7lUMaMU1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist - 218201",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-218201-at-tietalent-4213422687?position=34&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=t5Gm9GBxUhrUys4JSDSGLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Data Scientist 2",
+        "company": "TieTalent",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-2-at-tietalent-4213420839?position=35&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=tKQtToygUk3Ksiz7txFdaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Electrical/Software/Mechanical/Aerospace Engineer",
+        "company": "Raytheon Technologies",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-software-mechanical-aerospace-engineer-at-raytheon-technologies-4212266158?position=36&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=LDmeal4IB%2BdKtgfNlvonCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
+    },
+    {
+        "title": "Data Scientist - Monetization, Quora (Remote)",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-monetization-quora-remote-at-tietalent-4213420709?position=37&pageNum=0&refId=ymHjWUN8BQWgZEoRFl4ORA%3D%3D&trackingId=2%2FIN3FTKEYcv5P5%2BhPiaYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-04-19 16:20:27"
     }
 ]
