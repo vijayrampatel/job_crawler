@@ -125,9 +125,8 @@ for record in json_data:
         print(f"Skipping {record['company']} - Email already sent")
         continue
 
-    if record["email_sent"] == True:
-        continue
-        
+    print("passed")
+    print(record)
     company_name = record["company"]
     job_url = record["url"]
     print(f"\nProcessing company: {company_name}")
