@@ -122,8 +122,8 @@ for record in json_data:
     if record.get("email_sent", False):
         print(f"Skipping {record['company']} - Email already sent")
         continue
-        
-    print(record)
+
+    
     company_name = record["company"]
     job_url = record["url"]
     print(f"\nProcessing company: {company_name}")
@@ -165,6 +165,8 @@ for record in json_data:
             'url': job_url,
             'location': record.get('location', 'Unknown Location')
         })
+
+        print(matching_jobs)
 
         # Mark this record for email sent flag (will be updated later)
         record["email_sent"] = True
