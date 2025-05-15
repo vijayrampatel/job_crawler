@@ -1,1334 +1,732 @@
 [
     {
-        "title": "Analytics Engineer",
-        "company": "MedWatchers",
-        "location": "San Diego County, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-medwatchers-4227685741?position=1&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=swzev8V%2FvRnhcv%2FnI73DBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Business Intelligence Data Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-nestl%C3%A9-4228460351?position=2&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=6Bp7nZ%2FKQzRKXU%2FrmsR0Gg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
         "title": "Data Analyst",
-        "company": "A2E",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-a2e-4227543971?position=3&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=xTTK2Kb3uK%2F6hllG702vzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "industrialEnet",
-        "location": "Wilsonville, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-industrialenet-4230145156?position=4&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=1tJiw5RdNcYuMIZ1erqi3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227687839?position=6&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=dr%2BtEhgE51VCTofqbQ5vFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Airswift",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-airswift-4227549142?position=7&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=SyQdfEQsOPAc%2BB8pt4cw3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "mthree",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mthree-4227542761?position=10&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=f1FGdI%2BvIpuzbny4FW%2FipA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Satwic Inc",
-        "location": "Glendale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-satwic-inc-4230139616?position=12&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=Vg4E9UdKMbYz07ysnO7Yew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227693030?position=13&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=yHakso79nA523lk3ZHiGKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227690412?position=14&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=othXo%2FcTFpgfzn%2BL2Hcmdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Power BI Developer - SGWSJP00014222",
-        "company": "Randstad Digital Americas",
-        "location": "Hollywood, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-developer-sgwsjp00014222-at-randstad-digital-americas-4230149057?position=16&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=WUHb15HGwaXGh5RlQJZ8tw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227692134?position=18&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=xxe9gBlsq1SywkjAABEkog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Supermicro",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-supermicro-4230139793?position=20&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=5xTTV3s%2F6UjqyXwD9dNu2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer - Data Engineering (FinTech) (Remote)",
-        "company": "Talentify.io",
+        "company": "Blueprint",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-engineering-fintech-remote-at-talentify-io-4227692054?position=21&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=dHLQQzZBmL5DAEybQONnWQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blueprint-4227914010?position=1&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=qCjTqG2KAMZaC2HJ9zqu9Q%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Shopper Insights Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Solon, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/shopper-insights-analyst-at-nestl%C3%A9-4230141873?position=22&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=G3yXLB6WAfm0c342PvxuVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Procurement Data Analyst",
-        "company": "Spirent Communications",
+        "title": "Software Engineer I/II (Data Engineering) (Remote - US)",
+        "company": "BNSF Railway",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/procurement-data-analyst-at-spirent-communications-4227687598?position=23&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=gFCJBNdKPn7ngWLdaN0Lig%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-data-engineering-remote-us-at-bnsf-railway-4227910690?position=2&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=PuQoyyIewcTzlerPSQ2jSw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Business Intelligence Analyst",
-        "company": "GardaWorld",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-gardaworld-4227685940?position=24&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=ysT5ePqe%2FZIkoVUx4bt%2BPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Regulatory Data Analyst (Remote)",
-        "company": "Talentify.io",
+        "title": "Software Engineer I / Software Engineer II - Backend (Remote - US)",
+        "company": "BNSF Railway",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/regulatory-data-analyst-remote-at-talentify-io-4227690293?position=25&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=ix15%2BobVS1LyKijBchJ0Iw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-software-engineer-ii-backend-remote-us-at-bnsf-railway-4227912479?position=3&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=lBg82wZX1WioIoFlZC%2BZRw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Research Analyst (MTV Entertainment Group)- Freelance, Hybrid (NYC)",
-        "company": "Paramount",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-mtv-entertainment-group-freelance-hybrid-nyc-at-paramount-4230143194?position=26&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=Zpu3Ikits7uhK8EQ2tt%2F5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Quantitative Researcher",
-        "company": "Confidential",
-        "location": "New York, NY",
+        "title": "Analytics Data Operations Engineer  I",
+        "company": "Cencora",
+        "location": "Texas, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-confidential-4230140625?position=27&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=IWsFEGIs%2BiDr0eeI9Jf40Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/analytics-data-operations-engineer-i-at-cencora-4227551729?position=4&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=5kRLcINQoX7lK2a27YHClQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Project Engineer",
-        "company": "Zoetis",
-        "location": "Charles City, IA",
+        "title": "Talent Data Analyst",
+        "company": "Arnold & Porter",
+        "location": "Washington, DC",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-zoetis-4227684879?position=28&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=uoPTqtfr%2FHU8vG811X2k9Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/talent-data-analyst-at-arnold-porter-4201330961?position=5&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=hFOoExY8u%2F0YInRxk49kUg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Associate Consultant, Building Automation Controls Engineer",
-        "company": "WSP in the U.S.",
-        "location": "Troy, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-consultant-building-automation-controls-engineer-at-wsp-in-the-u-s-4227688754?position=29&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=lvF725bovDhBNYNNJ2Nggw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22"
-    },
-    {
-        "title": "Radio Frequency Network Engineer",
-        "company": "VELCO - Vermont Electric Power Company",
-        "location": "Rutland, VT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/radio-frequency-network-engineer-at-velco-vermont-electric-power-company-4227541871?position=30&pageNum=0&refId=LbQKZvRDquUw1%2BaL8sgVJg%3D%3D&trackingId=I%2FQbpP6UqRrNiZgqjCe8Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:17:22",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "MedWatchers",
-        "location": "San Diego County, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-medwatchers-4227685741?position=1&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=jW1pbmf3ysQFpUfhrwGYdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Data Analyst",
-        "company": "A2E",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-a2e-4227543971?position=2&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=PHgWk7yEGE6Cuc%2FNsh%2B6SQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Conflation Labs",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-conflation-labs-4226494072?position=3&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=htB%2Fa%2Bw5pYVkSApR%2BDyRVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Business Intelligence Data Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-nestl%C3%A9-4228460351?position=4&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=5gkGJacaSEQRRc1Djks5ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "industrialEnet",
-        "location": "Wilsonville, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-industrialenet-4230145156?position=5&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=qlw1D8FYYGR25EVEOnYKbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Airswift",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-airswift-4227549142?position=7&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=aZV35xKgmpmBLaBlm4TgzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227687839?position=8&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=krZB9w%2BRzraNMQpfi8Hmxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Power BI Developer - SGWSJP00014222",
-        "company": "Randstad Digital Americas",
-        "location": "Hollywood, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-developer-sgwsjp00014222-at-randstad-digital-americas-4230149057?position=11&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=UxUPrz34URdWz6w1TpEdPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Power BI Consultant",
-        "company": "Breakwater Consulting",
+        "title": "Software Engineer I/II (Network Engineering) (Remote - US)",
+        "company": "BNSF Railway",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-consultant-at-breakwater-consulting-4223518757?position=13&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=5c86H2wzcpjEP2dY45sSkg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-network-engineering-remote-us-at-bnsf-railway-4227910687?position=6&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=d8ggIiUmYh94L0BqKVZ2yQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "mthree",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mthree-4227542761?position=14&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=6xLtbbnKfCe%2BzLVn4DuDvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Satwic Inc",
-        "location": "Glendale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-satwic-inc-4230139616?position=15&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=%2F8peZyXWfeVdE6gm56O5DA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227693030?position=16&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=dNAYxe%2BX6bP5C8698IQI%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227690412?position=17&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=rE8WR%2BHj9OZYLtvxnq4KOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Shopper Insights Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Solon, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/shopper-insights-analyst-at-nestl%C3%A9-4230141873?position=20&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=U07iiUaWh7EblODcUzchNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227692134?position=21&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=cQP2K%2BCWKLt4dJvDnlgBxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Supermicro",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-supermicro-4230139793?position=23&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=WMkZlFUk%2BPNVIjcMphVrKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer - Data Engineering (FinTech) (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-engineering-fintech-remote-at-talentify-io-4227692054?position=24&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=NXJld%2FF1ch6QosoHuSD13A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Procurement Data Analyst",
-        "company": "Spirent Communications",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/procurement-data-analyst-at-spirent-communications-4227687598?position=25&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=FaCU6lQcOZFFrUV04VbRRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "GardaWorld",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-gardaworld-4227685940?position=26&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=dKZaSd7YO0hPrkVcSBzl%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Regulatory Data Analyst (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/regulatory-data-analyst-remote-at-talentify-io-4227690293?position=27&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=S6VNZOIN3byXgYzR%2BqEgAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Research Analyst (MTV Entertainment Group)- Freelance, Hybrid (NYC)",
-        "company": "Paramount",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-mtv-entertainment-group-freelance-hybrid-nyc-at-paramount-4230143194?position=28&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=ZtDzHQS7aNoPsNQNio1FAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Quantitative Researcher",
-        "company": "Confidential",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-confidential-4230140625?position=29&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=ggtWAZnPml6CL7AhZV7YOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Project Engineer",
-        "company": "Zoetis",
-        "location": "Charles City, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-zoetis-4227684879?position=30&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=teUwPpdxeTAIF84A%2BJwE%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Consultant, Building Automation Controls Engineer",
-        "company": "WSP in the U.S.",
-        "location": "Troy, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-consultant-building-automation-controls-engineer-at-wsp-in-the-u-s-4227688754?position=31&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=Qs3ZxNFzgyVXDiau%2FXqgjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28"
-    },
-    {
-        "title": "Radio Frequency Network Engineer",
-        "company": "VELCO - Vermont Electric Power Company",
-        "location": "Rutland, VT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/radio-frequency-network-engineer-at-velco-vermont-electric-power-company-4227541871?position=32&pageNum=0&refId=CW0CnSxaCgIQpOzQ368RhQ%3D%3D&trackingId=Jiv7JSAtXvYdoxzMmIobiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:33:28",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "MedWatchers",
-        "location": "San Diego County, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-medwatchers-4227685741?position=2&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=ux117JIumIksAUeuE4MhNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Conflation Labs",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-conflation-labs-4226494072?position=5&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=BNOJ3wKJe0rOfW2%2B8BZ4uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Data Analyst",
-        "company": "A2E",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-a2e-4227543971?position=6&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=AOqINzScrJf5MzzQ3lWMpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Business Intelligence Data Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-nestl%C3%A9-4228460351?position=7&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=Nth3vL4Q9d9ayMGgy0Cyag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Software Engineer",
-        "company": "industrialEnet",
-        "location": "Wilsonville, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-industrialenet-4230145156?position=8&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=7bo1yHDcLqlzgOCY%2BXAP6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer 3 - Cloud Security",
-        "company": "Juniper Networks",
-        "location": "Cupertino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-3-cloud-security-at-juniper-networks-4198482349?position=9&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=IPfdCQalUjeDcky4OunKUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Airswift",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-airswift-4227549142?position=13&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=rjVFtbVzw8TRzJ%2FcQMxYmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "mthree",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mthree-4227542761?position=14&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=1qMcf9ek0zq%2FnSIyznqe1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Power BI Consultant",
-        "company": "Breakwater Consulting",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-consultant-at-breakwater-consulting-4223518757?position=18&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=H%2BHoTe4zPBAvHWc4OSiE3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227693030?position=19&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=oRlIFY4thztpLiS5GxP81w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227692134?position=21&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=nMkTRFxztjQRQwn0I5iN%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227687839?position=22&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=ewKeGjwp%2BJ9zZsWwwpwPsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Satwic Inc",
-        "location": "Glendale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-satwic-inc-4230139616?position=24&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=gy7NMveHcqdhHFH5bb4jiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Costa Mesa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227689531?position=26&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=6pCBDO%2FEqYDZz7rTtpCSoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Frontend Developer (VDC)",
-        "company": "Veeam Software",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-developer-vdc-at-veeam-software-4227695969?position=27&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=RnhkYUEFejOsc7HZ2dmZ7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230152071?position=28&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=PfDgl%2Bt6msmTZA4zeUfPew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Shopper Insights Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Solon, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/shopper-insights-analyst-at-nestl%C3%A9-4230141873?position=29&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=8sBfapuaOeTBfccI35ZlmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Horizontal Talent",
-        "location": "North Reading, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-horizontal-talent-4227552195?position=30&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=QicfSxENXLD6DwwbZJlMIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Modeler",
-        "company": "Randstad Digital Americas",
-        "location": "Roanoke, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-modeler-at-randstad-digital-americas-4230143623?position=32&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=IZWF4hiUA7huAGQDZa7%2B6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Solutions Analyst",
-        "company": "Guidehouse",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-solutions-analyst-at-guidehouse-4230141918?position=33&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=SHMSYE8hvrlUnwmf1sSCUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Supermicro",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-supermicro-4230139793?position=34&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=ZauTaNiQKQbqSb6e87JeLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230151094?position=35&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=PlcLMZbRQdKVgIcnqrZmiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "GardaWorld",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-gardaworld-4227685940?position=36&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=f4VnUzWMUc%2F2ILEqIwiJWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230152070?position=37&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=AMPnQr%2Bt5pVZI0J0HdqDYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Staff Software Engineer - Data Engineering (FinTech) (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-engineering-fintech-remote-at-talentify-io-4227692054?position=38&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=wMAPSwL%2FMPXBt8I5kK2qAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "SOC Support Engineer III, AWS SOC Security Support Engineer",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/soc-support-engineer-iii-aws-soc-security-support-engineer-at-amazon-web-services-aws-4230145654?position=39&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=poQW61Z%2B04P99BeOVAUfwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Science Intern",
-        "company": "SproutsAI",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-intern-at-sproutsai-4227900201?position=40&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=hecBNv21jUnqreo%2FeYGjtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Procurement Data Analyst",
-        "company": "Spirent Communications",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/procurement-data-analyst-at-spirent-communications-4227687598?position=41&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=QjOLRCNCnMmzj6T%2Bx8qWkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Regulatory Data Analyst (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/regulatory-data-analyst-remote-at-talentify-io-4227690293?position=42&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=WWLs6%2BG5gflGlATAa8cv%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "SOC Support Engineer III, AWS SOC Security Support Engineer",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/soc-support-engineer-iii-aws-soc-security-support-engineer-at-amazon-web-services-aws-4230149485?position=43&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=uHm7X0jSxqTOoaw2zITDKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Research Analyst (MTV Entertainment Group)- Freelance, Hybrid (NYC)",
-        "company": "Paramount",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-mtv-entertainment-group-freelance-hybrid-nyc-at-paramount-4230143194?position=44&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=OgMbRKxBB9MNEpqqMmPUzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Mechanical Engineer - Damage Assessment",
-        "company": "J.S. Held LLC",
-        "location": "Anaheim, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-damage-assessment-at-j-s-held-llc-4227552240?position=45&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=jTDVe4IgTuVYxaZE6IRcWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Quantitative Researcher",
-        "company": "Confidential",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-confidential-4230140625?position=46&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=otWRFoFw1C%2FbUAuUlYWTAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Project Engineer",
-        "company": "Zoetis",
-        "location": "Charles City, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-zoetis-4227684879?position=47&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=MzCKaBgeIJYGAVifRPshKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Consultant, Building Automation Controls Engineer",
-        "company": "WSP in the U.S.",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-consultant-building-automation-controls-engineer-at-wsp-in-the-u-s-4227690420?position=48&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=O7WYErNTE%2F6pq1jiRLtgEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02"
-    },
-    {
-        "title": "Radio Frequency Network Engineer",
-        "company": "VELCO - Vermont Electric Power Company",
-        "location": "Rutland, VT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/radio-frequency-network-engineer-at-velco-vermont-electric-power-company-4227541871?position=49&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=WYqBUhXcxRPYF1FjxSgJqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Market Operations Analyst",
-        "company": "Lockton",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/market-operations-analyst-at-lockton-4230160473?position=50&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=Ybjshdca3FXw4KruJHzFNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Post Market Performance Follow (PMPF) Analyst - Temporary",
-        "company": "Bio-Rad Laboratories",
-        "location": "Hercules, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/post-market-performance-follow-pmpf-analyst-temporary-at-bio-rad-laboratories-4227554003?position=51&pageNum=0&refId=PFzfn%2BdYLZyZzuMFZQhx0g%3D%3D&trackingId=WNPzcCo138w52iQ97DA0dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:48:02",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "MedWatchers",
-        "location": "San Diego County, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-medwatchers-4227685741?position=2&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=IboDCmgDYy3oMv8a80njjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
     },
     {
         "title": "Data Engineer",
-        "company": "Wiraa",
+        "company": "Jobs via Dice",
+        "location": "Fremont, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4227909414?position=7&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=ASoedHrY8sbgFFTEj8zkpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Jr. Data & Insights Analyst - Broadcast & Traditional Media Industry",
+        "company": "Quire",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4230160446?position=3&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=5BZd6sJ82rWJyUzmkO2SIw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-insights-analyst-broadcast-traditional-media-industry-at-quire-4227912775?position=8&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=T5RSLVliWWl7d3jR%2F425bQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "New York, NY",
+        "title": "Data Analyst/Norcross, GA/Payment Routing",
+        "company": "Motion Recruitment",
+        "location": "Atlanta, GA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227905431?position=4&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=2cMhFYd6rpUo%2B8nCr1EMcw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-norcross-ga-payment-routing-at-motion-recruitment-4230180761?position=9&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=uxvxGk%2Bh7EmUBwj21MEs%2Bw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "San Diego, CA",
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Atlanta, GA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227906381?position=5&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Bnbwl9Xxi9%2BrtYM9PmlpUw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4227909276?position=10&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=ciRV2XC6kxgPbkWkEcXLJA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "Las Vegas, NV",
+        "title": "Data & ML Engineer",
+        "company": "Jobs via Dice",
+        "location": "Costa Mesa, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227698955?position=6&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=wM8Ks7TCZ%2BP6iXyG3uGP7Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-ml-engineer-at-jobs-via-dice-4227910250?position=11&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=3O9otkvfNUEG6OAIuLZP2w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "Minneapolis, MN",
+        "title": "Software Engineer - Fraud",
+        "company": "Shipt",
+        "location": "Jefferson County, AL",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227903383?position=7&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=%2BUWFAkOE5OnMpiMTHKMyHA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fraud-at-shipt-4230111475?position=12&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=oju3yKqmyMS1%2BRrNetc0xQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "Jacksonville, FL",
+        "title": "Software Engineer I/II (Application Security) (Remote - US)",
+        "company": "BNSF Railway",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227904233?position=8&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=%2BS1cSx2I2gt6fQOFsUWl4w%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-application-security-remote-us-at-bnsf-railway-4227911641?position=13&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=sOv8lU6FSL8fq62GpNjE4g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Engineer Data Platform Associate - US Remote",
-        "company": "Lensa",
-        "location": "Houston, TX",
+        "title": "Analytics Developer I - Dallas",
+        "company": "Baylor Scott & White Health",
+        "location": "Dallas, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4227904309?position=9&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=TMauBUr54MgH7CtLTFqb0A%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/analytics-developer-i-dallas-at-baylor-scott-white-health-4230191123?position=14&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=0KO3lQZScxK7PKVE5XoJ1g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Data Analyst",
-        "company": "A2E",
-        "location": "Denver, CO",
+        "title": "Software Engineer I/II (SAP Full Stack Development) (Remote - US)",
+        "company": "BNSF Railway",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-a2e-4227543971?position=13&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=21YF95rUISo6FBb9KtMqMA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-sap-full-stack-development-remote-us-at-bnsf-railway-4227911639?position=15&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=yOe0VUbU47QbT6FYBb%2BWlg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Business Intelligence Data Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-nestl%C3%A9-4228460351?position=14&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Zk8ZGEP%2FTH5GDBQrjq9bVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
         "title": "Software Engineer",
-        "company": "industrialEnet",
-        "location": "Wilsonville, OR",
+        "company": "Wells Fargo",
+        "location": "Charlotte, NC",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-industrialenet-4230145156?position=16&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=dB3pcpuFOO9NYz%2Fub1MgLg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4230194378?position=16&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=wJCiT5dhnpymSCD97eg4vg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Software Engineer 3 - Cloud Security",
-        "company": "Juniper Networks",
-        "location": "Cupertino, CA",
+        "title": "HRIS Data Analyst",
+        "company": "Scalian",
+        "location": "Herndon, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-3-cloud-security-at-juniper-networks-4198482349?position=17&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=4hiSKISM47TS4ZCXSObACA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/hris-data-analyst-at-scalian-4230188756?position=17&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=GQsxiKx82iwXMt1tmO2rNw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Lensa",
-        "location": "Sacramento, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-lensa-4227904353?position=18&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=YT4oWNVzOoT1si6WQWvZ%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Airswift",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-airswift-4227549142?position=21&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=lU9od1CYHtkYudaND8PRJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Full-Stack",
-        "company": "Rescale",
+        "title": "Data Analyst (w/ SQL expertise) **REMOTE**",
+        "company": "Jobs via Dice",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-rescale-4230144574?position=22&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=T%2FEAXkDp5pT2VSljfJLbUw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-w-sql-expertise-remote-at-jobs-via-dice-4227907761?position=18&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=8s1Fsy1oeL59Nnr9yAIt%2BA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Frontend Developer (VDC)",
-        "company": "Veeam Software",
-        "location": "California, United States",
+        "title": "Analyst - Data Science, Customer Marketing Analytics",
+        "company": "American Express",
+        "location": "New York, NY",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-developer-vdc-at-veeam-software-4227695969?position=23&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=6%2BqGnsAarAB%2Ba%2FkBOTOUvg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/analyst-data-science-customer-marketing-analytics-at-american-express-4230114394?position=19&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=COFQMS8RLDWGmoDxrV7JxQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Pleasanton, CA",
+        "title": "Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Manassas, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227687839?position=25&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Ir1xTyqnzRsbgR6dwQmbgA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-general-dynamics-mission-systems-4226468453?position=20&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=XH3AcBQuo0i37WXkAWXiwg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Power BI Consultant",
-        "company": "Breakwater Consulting",
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-consultant-at-breakwater-consulting-4223518757?position=28&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Is3BTsf7VDcA%2Bhy344%2BycQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227908577?position=21&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=l3lde8Th9BP%2Fq8vZxCxI4w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "IT Software Engineer - Build Team Remote",
-        "company": "Lensa",
-        "location": "Indianapolis, IN",
+        "title": "AI Engineer",
+        "company": "Zachary Piper Solutions",
+        "location": "Ashburn, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4227900433?position=29&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=x0uv5wRVAmXPLKTAoHUA8Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-zachary-piper-solutions-4227909215?position=22&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=am60lpYyYmfypK%2BpL0dAAA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Engineer 1, Software Development & Engineering",
-        "company": "Comcast",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-1-software-development-engineering-at-comcast-4227696226?position=30&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Mg%2F9YxkSZf305fadySWfhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Costa Mesa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227689531?position=31&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=EWHDx3Yv5cyHgxGOxEKm2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227693030?position=32&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=zVJ1gXBaUpLPFKeCCExNrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "mthree",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mthree-4227542761?position=33&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=IPmg8%2FH6rz9tcKh7Dm7jVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Horizontal Talent",
-        "location": "North Reading, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-horizontal-talent-4227552195?position=34&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=4P1OsDYEcJdLtL484qxuEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "IT Software Engineer - Build Team Remote",
-        "company": "Lensa",
-        "location": "Lincoln, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4227905132?position=35&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=%2FVOg%2B4LNbRqiROYzlICFYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
         "title": "Data Scientist",
-        "company": "Satwic Inc",
-        "location": "Glendale, CA",
+        "company": "Aditi Consulting",
+        "location": "Thousand Oaks, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-satwic-inc-4230139616?position=36&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=%2BvMJ6Dq28S1OnZPli8jVoA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-aditi-consulting-4230179825?position=23&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=CEZAfxgyHhYVCFyfJ1EyHA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227690412?position=38&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Z2P7tOBCG58A3entW7hIgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "IT Software Engineer - Build Team Remote",
-        "company": "Lensa",
-        "location": "Trenton, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4227902385?position=39&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=ldjlRDN4FNuskbrxyQ%2BaIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "IT Software Engineer - Build Team Remote",
-        "company": "Lensa",
-        "location": "Springfield, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4227697736?position=40&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=1L53%2B%2FRgZdOWpm3ZRyb%2BlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227692134?position=41&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=Fw0XdsgZsUJWRK78UhuMPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230152071?position=42&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=nmt7BF6bMcE2HxcvdsdShA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Shopper Insights Analyst",
-        "company": "Nestl\u00e9",
-        "location": "Solon, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/shopper-insights-analyst-at-nestl%C3%A9-4230141873?position=43&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=AsTQ%2Fq6VCmJmW4aFy0gqwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Network Infrastructure Engineer II - Remote/Poland",
-        "company": "Lensa",
+        "title": "Engineer I",
+        "company": "Windstream",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/network-infrastructure-engineer-ii-remote-poland-at-lensa-4227902417?position=45&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=YtgFLZHU3OxkoOzG0KW3RA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/engineer-i-at-windstream-4227910181?position=25&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=%2FoEvt3J7shP9rKISnu9faQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
     },
     {
-        "title": "Data Analyst II - Vendor Success",
-        "company": "Corpay Technologies",
-        "location": "Richmond, VA",
+        "title": "HSC Analyst",
+        "company": "The Hawk Group",
+        "location": "Oklahoma, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-vendor-success-at-corpay-technologies-4230160501?position=47&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=kBEv2WXfDjbdpfEV6zfqjQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/hsc-analyst-at-the-hawk-group-4227555330?position=26&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=KB8fQVmV1duFcTrSwbtJsw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227909363?position=27&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=NVS%2F9iXSsBYdJ%2BHvt0TfHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227907573?position=28&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=reCFP19raO%2FR0GtpQXk%2BVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Postgres database Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/postgres-database-engineer-at-jobs-via-dice-4227908444?position=29&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Q94Igz9Eo3LGJHvHLKYOAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Principal Software Engineer - MacOS - C/C++ (Prisma Access)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-macos-c-c%2B%2B-prisma-access-at-palo-alto-networks-4230193403?position=30&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=baaqcSq6g9udZHJ%2B%2FqKwcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "US Tech Solutions",
+        "location": "Thousand Oaks, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-us-tech-solutions-4227553488?position=31&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=gRfFf6FRJkSkPBi%2BwGIUPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4230187187?position=32&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=AhqC2bww8wUcwQMbLlWYmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Mason, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227908573?position=33&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=upzvE96LlpKpYRuX5ILoHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Healthcare Data Analyst/Developer with LLM Experience- W2 Only",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-developer-with-llm-experience-w2-only-at-jobs-via-dice-4227908495?position=34&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=VZ6S%2BuLzgG2pJQVwknuzCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Engineer Software - Cyber Security (San Diego CA) - R10195302",
+        "company": "Northrop Grumman",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-cyber-security-san-diego-ca-r10195302-at-northrop-grumman-4230192914?position=35&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Ev6mTQRsysUq%2Flgwa13wTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Tata Consultancy Services",
+        "location": "Bellevue, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-tata-consultancy-services-4227561291?position=36&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=adkakb82rQmzz1PcjsLfVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
+        "email_sent": true
+    },
+    {
+        "title": "Data Center Facility Engineer",
+        "company": "Allied OneSource",
+        "location": "Kansas City, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-facility-engineer-at-allied-onesource-4230182851?position=37&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=E7ZURN%2BY%2BA06SVePhDXZ2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "SAS Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sas-data-analyst-at-jobs-via-dice-4227913121?position=38&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=EnD1AsbFv7xsUaF4hN0QTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Software Development Engineer in Test (SDET) wireless",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-wireless-at-jobs-via-dice-4227910358?position=39&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Nbt%2FGvlv3Gui9JRHlHjFbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Power BI Developer - SGWSJP00014222",
+        "company": "Jobs via Dice",
+        "location": "Hollywood, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-developer-sgwsjp00014222-at-jobs-via-dice-4227905970?position=40&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=oyykaJAPkPmn2VYpEWsUFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Fredericksburg, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4227907631?position=41&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Kb%2BB94yRO2ljFAzFl%2BJoeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
         "title": "Data Modeler",
-        "company": "Randstad Digital Americas",
-        "location": "Roanoke, TX",
+        "company": "Jobs via Dice",
+        "location": "Princeton, NJ",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-modeler-at-randstad-digital-americas-4230143623?position=49&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=vjX9u8fYeT9ZzClSO0Zagg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-modeler-at-jobs-via-dice-4227906802?position=42&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Ippo5yfNeNa8WFRVIgQ3FQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Staff Quantitative Analyst",
+        "company": "Portland General Electric",
+        "location": "Tualatin, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-quantitative-analyst-at-portland-general-electric-4230402063?position=43&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=%2FogKsUAmYC3dNODobx2OoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Data Solutions Analyst",
-        "company": "Guidehouse",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-solutions-analyst-at-guidehouse-4230141918?position=50&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=4DImRHI9FqaV%2B67FHBr2ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "GardaWorld",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-gardaworld-4227685940?position=51&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=i5k2OpdMelYFdP8vf5NnOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230151094?position=52&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=N74TPtuO15tMlTfaelRQ8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "System Engineer",
-        "company": "Supermicro",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-supermicro-4230139793?position=53&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=PiUCE%2BNmkwpIutbsk4JOHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
-    },
-    {
-        "title": "QA Analyst",
-        "company": "Brilliant Corners",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-analyst-at-brilliant-corners-4230152070?position=54&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=5bE9o3VdVtWIOUzuUDKjlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Staff Software Engineer - Data Engineering (FinTech) (Remote)",
-        "company": "Talentify.io",
+        "title": "Data Analyst SQL code & Project Delivery Specialist",
+        "company": "Jobs via Dice",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-engineering-fintech-remote-at-talentify-io-4227692054?position=55&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=oSvyPsNshTOhr3WENULvVg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sql-code-project-delivery-specialist-at-jobs-via-dice-4227908560?position=44&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=%2FUytkdv9Q3YHjqo8MKwCbg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "SOC Support Engineer III, AWS SOC Security Support Engineer",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Herndon, VA",
+        "title": "Research Associate \u2013 Smartphones and connected devices, US",
+        "company": "Counterpoint Research",
+        "location": "Fort Collins, CO",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/soc-support-engineer-iii-aws-soc-security-support-engineer-at-amazon-web-services-aws-4230149486?position=56&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=ZyCRXk4XC9woskbCXdKW3g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-%E2%80%93-smartphones-and-connected-devices-us-at-counterpoint-research-4175739827?position=45&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=kbWUorNp9CyDSfz7p7GC1w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "SOC Support Engineer III, AWS SOC Security Support Engineer",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Herndon, VA",
+        "title": "Data Quality Analyst - SAS BASE",
+        "company": "Jobs via Dice",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/soc-support-engineer-iii-aws-soc-security-support-engineer-at-amazon-web-services-aws-4230145654?position=57&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=dVEskuB0Ije4Zkoynl6%2B8g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-quality-analyst-sas-base-at-jobs-via-dice-4227910360?position=46&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=ihGrhE%2FoeyfSwo70221WXQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Advanced Excel Specialist",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/advanced-excel-specialist-at-jobs-via-dice-4227911247?position=47&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=9joixkm5dHfzkcZeXwroRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Field Engineer 1",
+        "company": "JE Dunn Construction",
+        "location": "Omaha, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/field-engineer-1-at-je-dunn-construction-4227907474?position=48&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=atbCFxxW5rZfFt95ESyeDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Software Engineer, Full Stack",
-        "company": "Capital One",
-        "location": "McLean, VA",
+        "title": "Power BI Tableau Developer local to NJ/NY/PA",
+        "company": "Jobs via Dice",
+        "location": "Jersey City, NJ",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-capital-one-4230167382?position=58&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=GSM%2F5OM4Igq4CHk8XjflFw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-tableau-developer-local-to-nj-ny-pa-at-jobs-via-dice-4227906888?position=49&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=SupLJMYFnhGO66c%2B3O%2BjpQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
-        "email_sent": true
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "IT Software Engineer - AS400/IBMi Implementation Team Remote",
-        "company": "Lensa",
+        "title": "Data Scientist (US, Canada & LATAM - W2 EOR)- Remote (691)",
+        "company": "Braintrust",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-us-canada-latam-w2-eor-remote-691-at-braintrust-4227913553?position=50&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=cKFRPJbHjCYJGQzpWotnsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Hybrid: Snowflake Developer",
+        "company": "Jobs via Dice",
         "location": "Atlanta, GA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-as400-ibmi-implementation-team-remote-at-lensa-4227699516?position=59&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=NJcleKKWPYNCNmnv2VNDnQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/hybrid-snowflake-developer-at-jobs-via-dice-4227908587?position=51&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=rXI1QNG4Hmq246ZWTzHssQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Data Science Intern",
-        "company": "SproutsAI",
+        "title": "Software Engineer- Electronic Product Development",
+        "company": "Jobs via Dice",
+        "location": "Bingen, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-electronic-product-development-at-jobs-via-dice-4227912160?position=53&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=UofQTq3rgv%2FoFEAe99J05w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Software Engineer (C++/MFC)",
+        "company": "Jobs via Dice",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-mfc-at-jobs-via-dice-4227909271?position=54&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=kzHFturPjnzUMxUA6Cknaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Ruby on Rails Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ruby-on-rails-software-engineer-at-jobs-via-dice-4227906779?position=55&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=hKGnqFU7CEZy8wfhQae5Uw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Entry Level Mechanical Engineer",
+        "company": "Salas O'Brien",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-mechanical-engineer-at-salas-o-brien-4227911031?position=56&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=Jr5OwzvwMbol%2BYYYy%2BCc0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Buisness system analyst",
+        "company": "Jobs via Dice",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/buisness-system-analyst-at-jobs-via-dice-4227913071?position=57&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=KUxy%2FxXNMbm5a2m7QJA2eg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "C/C++ Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-at-jobs-via-dice-4227911189?position=58&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=qj7pHAUJ7EouA6PDf6Pxww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Analyst Power BI - W2 Requirement",
+        "company": "Jobs via Dice",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-power-bi-w2-requirement-at-jobs-via-dice-4227910393?position=59&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=%2BPbenxbCcYwFywkeUGb%2Few%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jobs via Dice",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobs-via-dice-4227910326?position=60&pageNum=0&refId=ex8QsGj5JlyXqG5mGeJsvw%3D%3D&trackingId=JPBSa3ekjly6m5MAoIJKsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Engineer I",
+        "company": "Windstream",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-intern-at-sproutsai-4227900201?position=60&pageNum=0&refId=zr1hQLTjBa6LAH%2BgZRCSPA%3D%3D&trackingId=yoBV9IqzXNSPEDGpjYVKpw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/engineer-i-at-windstream-4227910181?position=1&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=O1k1krqU63MgNFLb%2Fd81bg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227687839?position=1&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=q5FVdyMRhoxh7iwZL692KA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Power BI Consultant",
-        "company": "Breakwater Consulting",
+        "title": "HSC Analyst",
+        "company": "The Hawk Group",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hsc-analyst-at-the-hawk-group-4227555330?position=2&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=AEKlHl6WOwGUyJ1qPq89pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-consultant-at-breakwater-consulting-4223518757?position=4&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=rqkeYWH8mNdeVpIHPKoYXg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227909363?position=3&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=%2F0NIu0hFxyO3fXJenRuK2Q%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "IT Software Engineer - Build Team Remote",
-        "company": "Lensa",
-        "location": "Indianapolis, IN",
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Hawaii, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4227900433?position=5&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=wCjTzRllGD5sQVitWXeA5w%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227907573?position=4&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=BNko47Kwvn2F2vH76LGI4Q%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Engineer 1, Software Development & Engineering",
-        "company": "Comcast",
-        "location": "Philadelphia, PA",
+        "title": "Postgres database Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-1-software-development-engineering-at-comcast-4227696226?position=6&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=egi5zHRNdmLqqBeLBZTTCA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/postgres-database-engineer-at-jobs-via-dice-4227908444?position=5&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=kbsRdhHMAu%2B58QmyBfTbjA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Principal Software Engineer - MacOS - C/C++ (Prisma Access)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-macos-c-c%2B%2B-prisma-access-at-palo-alto-networks-4230193403?position=6&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=mBFeRHJq8%2FnLbCrnNgYPdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Costa Mesa, CA",
+        "title": "Data Scientist",
+        "company": "US Tech Solutions",
+        "location": "Thousand Oaks, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227689531?position=7&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=NByD%2FBgahOdaK74l5FblCA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-us-tech-solutions-4227553488?position=7&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=Ts5r5oyKR%2Fs70Wi0MvoIKw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Business Intelligence Analyst",
-        "company": "Schneider Electric",
-        "location": "Dallas, TX",
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-schneider-electric-4227693030?position=8&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=v0oH9ecJisMLPXlETRs7Xw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4230187187?position=8&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=G5SlsoJrVWg33ovWcMTfKw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     },
     {
-        "title": "Junior Software Engineer",
-        "company": "mthree",
-        "location": "Columbus, Ohio Metropolitan Area",
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Mason, OH",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mthree-4227542761?position=9&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=ZNQ6WIugBDIKluLWH0d1vw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4227908573?position=9&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=tC5rHLf2sekMBeJDJZMRXw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00"
+        "scraped_date": "2025-05-15 01:25:08"
     },
     {
-        "title": "Software Development Engineer",
-        "company": "Horizontal Talent",
-        "location": "North Reading, MA",
+        "title": "Healthcare Data Analyst/Developer with LLM Experience- W2 Only",
+        "company": "Jobs via Dice",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-horizontal-talent-4227552195?position=10&pageNum=2&refId=XkCcZU%2BHfBw0DW%2F7ahY1%2BQ%3D%3D&trackingId=b7OAB2xy2l8n%2BcpnZkByig%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-developer-with-llm-experience-w2-only-at-jobs-via-dice-4227908495?position=10&pageNum=2&refId=UuWLuUBQAoMR3QDE1OgCaQ%3D%3D&trackingId=VuOG7slWKZBDWK03E4WLjQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-05-14 23:57:00",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Scientist (US, Canada & LATAM - W2 EOR)- Remote (691)",
+        "company": "Braintrust",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-us-canada-latam-w2-eor-remote-691-at-braintrust-4227913553?position=1&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=e9pN%2FFEDRHR%2F4UAsROKhwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Hybrid: Snowflake Developer",
+        "company": "Jobs via Dice",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hybrid-snowflake-developer-at-jobs-via-dice-4227908587?position=2&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=lrKvk%2FROE9MnZBElC%2BruVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Software Engineer- Electronic Product Development",
+        "company": "Jobs via Dice",
+        "location": "Bingen, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-electronic-product-development-at-jobs-via-dice-4227912160?position=4&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=NSLDuzkC6L%2B%2FcQElj1zJvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Software Engineer (C++/MFC)",
+        "company": "Jobs via Dice",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-mfc-at-jobs-via-dice-4227909271?position=5&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=lzrzyRXzuCrB%2F2WBulGRWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Ruby on Rails Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ruby-on-rails-software-engineer-at-jobs-via-dice-4227906779?position=6&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=8OijU1nAn197gQl7iET2GQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Entry Level Mechanical Engineer",
+        "company": "Salas O'Brien",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-mechanical-engineer-at-salas-o-brien-4227911031?position=7&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=weuPyA9RWY9nJBxJL0R50g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Buisness system analyst",
+        "company": "Jobs via Dice",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/buisness-system-analyst-at-jobs-via-dice-4227913071?position=8&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=rRArr3AuQciroquj2Ftp0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "C/C++ Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-at-jobs-via-dice-4227911189?position=9&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=kVsjbsl5XuMdlFOWhDuDpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Data Analyst Power BI - W2 Requirement",
+        "company": "Jobs via Dice",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-power-bi-w2-requirement-at-jobs-via-dice-4227910393?position=10&pageNum=5&refId=IS68rkFQYV6kF%2FIgxOfsMg%3D%3D&trackingId=5GV83tuHgoRmKK5ZxL%2BbHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08"
+    },
+    {
+        "title": "Centralized Road Foreman Engines (Atlanta, GA)",
+        "company": "Norfolk Southern",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/centralized-road-foreman-engines-atlanta-ga-at-norfolk-southern-4227908332?position=1&pageNum=7&refId=xhz740EeF8su5lTXAFUO%2FA%3D%3D&trackingId=9KfC3Zv00%2Fch1SajWqbyDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-15 01:25:08",
         "email_sent": true
     }
 ]
