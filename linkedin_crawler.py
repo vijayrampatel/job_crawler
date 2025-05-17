@@ -238,6 +238,7 @@ class LinkedInJobCrawler:
         new_jobs = []
         for job in current_jobs:
             if self.is_new_job(job):
+                job['email_sent'] = False
                 new_jobs.append(job)
         
 
