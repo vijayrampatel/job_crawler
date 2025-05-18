@@ -136,7 +136,6 @@ for record in json_data:
     result_df = excel_data.copy()
     result_df['Similarity_Score'] = cosine_similarities
 
-    print(result_df)
     # Set a threshold for considering a match
     threshold = 0.6
     result_df['Is_Match'] = result_df['Similarity_Score'] >= threshold
