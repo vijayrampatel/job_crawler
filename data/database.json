@@ -1,15 +1,5 @@
 [
     {
-        "title": "Engineer 1",
-        "company": "Case Western Reserve University",
-        "location": "Cleveland, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-1-at-case-western-reserve-university-4219580000?position=1&pageNum=0&refId=F1X404tA4IjrctcFvuX5Ug%3D%3D&trackingId=Xmc%2Bl2F4R5jp0Qyinesa6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 20:39:20",
-        "email_sent": true
-    },
-    {
         "title": "Datov\u00fd specialista_FIT data\nEngineering a IT",
         "company": "\u010cesk\u00e1 spo\u0159itelna - Firmy a podnikatel\u00e9",
         "location": "Praha, TX",
@@ -68,5 +58,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-18 21:20:58",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Cromatic",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cromatic-4229991813?position=2&pageNum=0&refId=s%2F82hZxgumnjKo9xeIIKGg%3D%3D&trackingId=PElJPJSqrpHehJLYA3Zk9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 21:46:13",
+        "email_sent": false
+    },
+    {
+        "title": "KubeVirt Consultant",
+        "company": "Kramasoft_MortgageSpecialist",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/kubevirt-consultant-at-kramasoft-mortgagespecialist-4229980487?position=8&pageNum=0&refId=s%2F82hZxgumnjKo9xeIIKGg%3D%3D&trackingId=bunED2aAQXX6m8UCcWM9%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 21:46:14",
+        "email_sent": false
     }
 ]
