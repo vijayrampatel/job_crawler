@@ -34,7 +34,7 @@ class LinkedInJobCrawler:
         self.config = {
             'job_url': 'https://www.linkedin.com/jobs/search/?f_TPR=r3600&f_E=2%2C3&keywords=data%20engineer',
             'keywords': ['python', 'developer', 'engineer', 'data engineer', 'airflow', 'etl', 'aws', 'snowflake', 'databricks'],
-            'excluded_keywords': ['senior', 'lead', '5+ years'],
+            'excluded_keywords': ['5+ years', '4+ years', 'manager', 'director'],
             'database_file': str(database_path),
             'user_agents': [
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -121,7 +121,7 @@ class LinkedInJobCrawler:
             # Compare key fields to determine if it's the same job
             if (job['title'] == prev_job['title'] and 
                 job['company'] == prev_job['company'] and
-                job['url'] == prev_job['url']):
+                job['location'] == prev_job['location']):
                 return False
         return True
         
