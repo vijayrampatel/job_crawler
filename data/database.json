@@ -1,55 +1,5 @@
 [
     {
-        "title": "Software Engineer (JS, Python)",
-        "company": "Wiraa",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-python-at-wiraa-4232458072?position=1&pageNum=0&refId=%2FaesxStIgA3nLfHtWENIHg%3D%3D&trackingId=778DPD8RtiX2oWCYVi0oOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 17:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test",
-        "company": "Align Technology",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-align-technology-4184925122?position=2&pageNum=0&refId=%2FaesxStIgA3nLfHtWENIHg%3D%3D&trackingId=hatPDdKfQ4qSCl3h70GjFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 17:45:42",
-        "email_sent": true
-    },
-    {
-        "title": "Booking Analyst",
-        "company": "Assistant Global Recruit",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/booking-analyst-at-assistant-global-recruit-4230542932?position=6&pageNum=0&refId=%2FaesxStIgA3nLfHtWENIHg%3D%3D&trackingId=OqokSSxBCmfcnLzoytRmnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 17:45:42",
-        "email_sent": true
-    },
-    {
-        "title": "Booking Analyst",
-        "company": "Housing Global service",
-        "location": "Orlando, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/booking-analyst-at-housing-global-service-4232443420?position=4&pageNum=0&refId=yeEMP8K8prYVY36r%2B%2BTwpQ%3D%3D&trackingId=OD97rCbZN94xsOaFumvmJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 17:56:26",
-        "email_sent": true
-    },
-    {
-        "title": "Booking Analyst",
-        "company": "Air Online.com",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/booking-analyst-at-air-online-com-4229989406?position=8&pageNum=0&refId=yeEMP8K8prYVY36r%2B%2BTwpQ%3D%3D&trackingId=KDIUI%2BBAp7ZMDk6Zl0AxTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-18 17:56:26",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "City of Philadelphia",
         "location": "Philadelphia, PA",
@@ -367,6 +317,46 @@
         "url": "https://www.linkedin.com/jobs/view/ruby-on-rails-software-engineer-at-jobs-via-dice-4229986743?position=30&pageNum=0&refId=xpzGtz0zNZw%2B5uVqCzN0ng%3D%3D&trackingId=3h0u%2BGhwPfOHLXgPYhPg%2Fw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-05-18 18:45:23",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Core Infrastructure",
+        "company": "Moveworks",
+        "location": "Mountain View, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-infrastructure-at-moveworks-4209254217?position=4&pageNum=0&refId=oV18yRgBIXbZj2BmEbhY7g%3D%3D&trackingId=gpMxEeohxUmBaB5YciDERQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 18:56:49",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4229991168?position=14&pageNum=0&refId=oV18yRgBIXbZj2BmEbhY7g%3D%3D&trackingId=tiBAhc3MxLwbE73IO64BDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 18:56:49",
+        "email_sent": false
+    },
+    {
+        "title": "Fusion Center Intelligence Analyst",
+        "company": "hackajob",
+        "location": "Henderson, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fusion-center-intelligence-analyst-at-hackajob-4229988793?position=28&pageNum=0&refId=oV18yRgBIXbZj2BmEbhY7g%3D%3D&trackingId=yE37BAEchb7oyRqwPg5ppA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 18:56:49",
+        "email_sent": false
+    },
+    {
+        "title": "Ruby on Rails Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ruby-on-rails-software-engineer-at-jobs-via-dice-4229991200?position=34&pageNum=0&refId=oV18yRgBIXbZj2BmEbhY7g%3D%3D&trackingId=QrLoe6SDGry9by8w%2FWlhwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-18 18:56:49",
         "email_sent": false
     }
 ]
