@@ -112,7 +112,6 @@ def send_batch_email_notification(matching_jobs, recipient_email):
 matching_jobs = []  # To store all matching jobs
 
 for record in json_data:
-    print(record)
     if "email_sent" in record:
         continue
     if "company" not in record or "url" not in record:
@@ -144,7 +143,8 @@ for record in json_data:
     # Add similarity scores to a copy of the dataframe
     result_df = excel_data.copy()
     result_df['Similarity_Score'] = cosine_similarities
-    
+
+    print(result_df)
     # Set a threshold for considering a match
     threshold = 0.6
     result_df['Is_Match'] = result_df['Similarity_Score'] >= threshold
