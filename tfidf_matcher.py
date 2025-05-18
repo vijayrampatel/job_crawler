@@ -112,10 +112,11 @@ def send_batch_email_notification(matching_jobs, recipient_email):
 matching_jobs = []  # To store all matching jobs
 
 for record in json_data:
-    print(record["email_sent"])
+
     if record["email_sent"]:
         print(f"Skipping {record['company']} - Email already sent")
         continue
+        
     print(record["email_sent"], record["company"])
     company_name = record["company"]
     job_url = record["url"]
