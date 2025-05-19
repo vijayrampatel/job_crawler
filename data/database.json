@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Amco IT Systems Inc.",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-amco-it-systems-inc-4232721922?position=1&pageNum=0&refId=Xzu9TCedkzzDpaMGKeDYmg%3D%3D&trackingId=WlmM45wiC8yg1jTCAHHY5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-19 03:55:08",
-        "email_sent": true
-    },
-    {
-        "title": "Artificial Intelligence Engineer",
-        "company": "Borough",
-        "location": "Burlington, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-borough-4230209767?position=2&pageNum=0&refId=Xzu9TCedkzzDpaMGKeDYmg%3D%3D&trackingId=YaVwnbkLq9N%2B20JyJfcawg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-19 03:55:08",
-        "email_sent": true
-    },
-    {
-        "title": "Cloud Software Engineer, FinOps",
-        "company": "TP-Link",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-finops-at-tp-link-4230559144?position=3&pageNum=0&refId=Xzu9TCedkzzDpaMGKeDYmg%3D%3D&trackingId=AB3xJWhw7DVolNFAxg15%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-19 03:55:08",
-        "email_sent": false
-    },
-    {
         "title": "Evaluation Manager",
         "company": "4Culture",
         "location": "Seattle, WA",
@@ -37,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/evaluation-manager-at-4culture-4230210849?position=2&pageNum=0&refId=VM%2BGWxSjnR1VZKpKLUBEwg%3D%3D&trackingId=TVezYfeik%2BzjNqoGJyFfew%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-05-19 04:25:59",
+        "email_sent": false
+    },
+    {
+        "title": "Applied Research Scientist",
+        "company": "Gridware",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-research-scientist-at-gridware-4227556184?position=3&pageNum=0&refId=7y%2BeJnN60TouoX1kcvxP2Q%3D%3D&trackingId=6SkkdXlwpebJuN5pPt8PhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-19 04:59:54",
         "email_sent": false
     }
 ]
