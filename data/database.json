@@ -1,145 +1,5 @@
 [
     {
-        "title": "Azure Data Engineer",
-        "company": "eTeam",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-eteam-4233038351?position=3&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=X%2FeD5E2H3e8xopEBmQJlDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "SQL Data Analyst",
-        "company": "Apt",
-        "location": "Birmingham, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-data-analyst-at-apt-4235373083?position=8&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=gS9WjGphsIssoFHEjgseGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "MARi",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-mari-4233035088?position=11&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=BhlhbuIT3wP%2BBBSf1RyUlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Android",
-        "company": "Walmart",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-walmart-4219887943?position=15&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=niNY1O2K7aX9HTbeImhUzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Android",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-walmart-4219885898?position=22&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=LJnRXAP7pAeMW510Jg3fUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "East Windsor, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4231859742?position=27&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=D4BMSkduf5hJmhdOgz%2BvPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Backend Software Engineer - Music Promotion",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-music-promotion-at-tiktok-4233017557?position=33&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=zqWeS%2BVKp7AvaVHIYJ%2F0Cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst | Local to MD | Must have Telecom industry Exp",
-        "company": "Largeton Group",
-        "location": "Maryland Heights, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-local-to-md-must-have-telecom-industry-exp-at-largeton-group-4235344757?position=34&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=y3Q29L7RYj4lR8olnfMSkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Scientist",
-        "company": "Tech Consulting",
-        "location": "Maryland, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4233037540?position=35&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=VCiWczyQgQQHs3RAEsbNYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst (Bangkok Based, relocation provided)",
-        "company": "Agoda",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-bangkok-based-relocation-provided-at-agoda-4161496258?position=42&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=x5RUCHzJtWCIM0ElcPFXIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": false
-    },
-    {
-        "title": "QC Data Reviewer",
-        "company": "FUJIFILM Diosynth Biotechnologies",
-        "location": "College Station, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qc-data-reviewer-at-fujifilm-diosynth-biotechnologies-4220611615?position=45&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=YxZUjBTtvOjVaX1m5yFTjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Laboratory Engineering Technical Support I",
-        "company": "FUJIFILM Diosynth Biotechnologies",
-        "location": "College Station, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/laboratory-engineering-technical-support-i-at-fujifilm-diosynth-biotechnologies-4210959538?position=47&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=dAw1rp%2BDlG7x7ptcSmjjDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "Industrial Engineer",
-        "company": "Siemens",
-        "location": "Grand Prairie, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/industrial-engineer-at-siemens-4220538414?position=48&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=894h4CPF1hIORhcNnJ%2F69w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
-        "title": "AI Infrastructure Engineer, ML Data Platform",
-        "company": "Scale AI",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-ml-data-platform-at-scale-ai-4218868368?position=58&pageNum=0&refId=BPn65cLjxxxZ1ANML7JrMw%3D%3D&trackingId=0ALzviMLzcqTa%2FH5OtqzRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-22 14:41:44",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst",
         "company": "Dexian",
         "location": "United States",
@@ -518,5 +378,75 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-22 15:39:21",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Eleven Recruiting",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-eleven-recruiting-4180041495?position=6&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=bE1B9j3mlyBKgOSrN4gFjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "topGrads",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-topgrads-4233046263?position=9&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=LBEBeyzTVcOl1v%2BwlSrrQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Xlent IT service",
+        "location": "Dublin, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-xlent-it-service-4229496695?position=10&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=ZAQU2mxMX8iGw969q6HEGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer(Entry Level)",
+        "company": "Ethic Leaf LLC",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-ethic-leaf-llc-4232555281?position=11&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=qDxK4o9oOq1OJu0e%2F%2F0Ftg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Analytics Analyst",
+        "company": "L.E.K. Consulting",
+        "location": "Boston, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-analyst-at-l-e-k-consulting-4233041350?position=12&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=vmkJ8oQPh0hDy%2BIaXvwBUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Sales Engineer",
+        "company": "Virginia Transformer Corp",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-sales-engineer-at-virginia-transformer-corp-4235381100?position=22&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=9nkhP7vlGEfFKWU6YwOPxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Engineer / Engineer",
+        "company": "Dominion Energy",
+        "location": "Glen Allen, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-engineer-at-dominion-energy-4230917266?position=37&pageNum=0&refId=%2FXfL3gMik%2F4jo0XhkMgEMw%3D%3D&trackingId=WGeY8qiNLiAEkrC15bWX7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-22 15:50:50",
+        "email_sent": false
     }
 ]
