@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "City of Philadelphia",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-city-of-philadelphia-4237351280?position=1&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=CIcpnMCH%2FzDWxOLfwOlqSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "DISCO HI-TEC AMERICA, INC.",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-disco-hi-tec-america-inc-4235025609?position=2&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=WV33DOgOeIiTGfPSFEryCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Sprocket Security",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-sprocket-security-4235027264?position=3&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=QVZr6TIEcHRug6R7ZbdxoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Integration Systems Engineer",
-        "company": "City of Philadelphia",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-integration-systems-engineer-at-city-of-philadelphia-4237352135?position=5&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=AsRYEONYssgQq9w8WVaHKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": true
-    },
-    {
-        "title": "Data & ML Engineer",
-        "company": "Jobs via Dice",
-        "location": "Costa Mesa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-ml-engineer-at-jobs-via-dice-4235027206?position=7&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=%2BjlsFxP2QYdgbyosIuy%2Btw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer / Data Scientist",
-        "company": "TieTalent",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-data-scientist-at-tietalent-4237360153?position=10&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=hBmBJs80clXpfP0TSnIzDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4235022439?position=13&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=CAouDd4l76%2BBy6pNnLaNZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Whitehouse, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4235026279?position=14&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=K%2BObBNgkgJwk2oe8f0Vtaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Integrations Engineer",
-        "company": "Jobs via Dice",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-integrations-engineer-at-jobs-via-dice-4235020743?position=15&pageNum=0&refId=eQjnY3Ng4U9erfGquyKDKQ%3D%3D&trackingId=sfDkfMdWvXLhjr4Gq6jswg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 19:57:40",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist",
         "company": "JOS Group LLC",
         "location": "United States",
@@ -118,5 +28,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-25 20:50:00",
         "email_sent": true
+    },
+    {
+        "title": "System Engineer",
+        "company": "Alstom",
+        "location": "West Mifflin, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-alstom-4232829713?position=2&pageNum=0&refId=bDSGWPXO0Qa1CfahpGoxrg%3D%3D&trackingId=p2NR9r7SxWiU73TrCNEwRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 20:59:47",
+        "email_sent": false
+    },
+    {
+        "title": "R&D - Electrical Engineer",
+        "company": "Procell",
+        "location": "Greater Hartford",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/r-d-electrical-engineer-at-procell-4237353940?position=5&pageNum=0&refId=bDSGWPXO0Qa1CfahpGoxrg%3D%3D&trackingId=oNmX6V5z6hZtIFxHv7pb0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 20:59:47",
+        "email_sent": false
     }
 ]
