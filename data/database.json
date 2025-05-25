@@ -1,65 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Zipher",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-zipher-4232292586?position=1&pageNum=0&refId=7wf2RQrz02%2FU0RViRZYZZA%3D%3D&trackingId=wQFzUqe2ZKyK6tcPmoOUBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 16:56:35",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Sandhills Global",
-        "location": "Lincoln, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-sandhills-global-3594987830?position=4&pageNum=0&refId=7wf2RQrz02%2FU0RViRZYZZA%3D%3D&trackingId=SiQs8LuHk2KZMXiFBzhQXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 16:56:35",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Geotechnical Engineer",
-        "company": "GeoEngineers Inc.",
-        "location": "Spokane, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-geotechnical-engineer-at-geoengineers-inc-4235015495?position=7&pageNum=0&refId=7wf2RQrz02%2FU0RViRZYZZA%3D%3D&trackingId=3CG%2FkH%2BZ7v8s5BFtudm5ug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 16:56:35",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4237304134?position=1&pageNum=0&refId=xcxxZdPgbM%2FCu2blv4ADbA%3D%3D&trackingId=00Bl9W3VueVw2V%2FqpOWGOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 17:15:25",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (R&D)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-r-d-at-wiraa-4237198917?position=2&pageNum=0&refId=xcxxZdPgbM%2FCu2blv4ADbA%3D%3D&trackingId=2MUkx0N%2F8t7dHl%2B0QA7K9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 17:15:25",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4237306093?position=3&pageNum=0&refId=xcxxZdPgbM%2FCu2blv4ADbA%3D%3D&trackingId=TNfkJWTQc%2B9KG6eSjPvCig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-25 17:15:25",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Revelyst",
         "location": "San Diego, CA",
@@ -137,6 +77,56 @@
         "url": "https://www.linkedin.com/jobs/view/crime-analyst-at-city-of-denton-4237336193?position=9&pageNum=0&refId=tYg4iNm%2FZyHR%2BeZMP34t0A%3D%3D&trackingId=qJtz4G%2Fun%2FkeyBIXgYTmug%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-05-25 17:56:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Master)",
+        "company": "Wiraa",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-master-at-wiraa-4237346457?position=2&pageNum=0&refId=B4xLNxwfdd7r7JP2EjRXmw%3D%3D&trackingId=Ymamd3kl8Y8E7sGdzz%2FPig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 18:23:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Louisville, KY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4235025337?position=11&pageNum=0&refId=B4xLNxwfdd7r7JP2EjRXmw%3D%3D&trackingId=Pht%2BF1D6OrG%2Fyc0SaY0npw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 18:23:06",
+        "email_sent": false
+    },
+    {
+        "title": "Test Engineer",
+        "company": "Jobs via Dice",
+        "location": "Oklahoma City, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/test-engineer-at-jobs-via-dice-4235026285?position=15&pageNum=0&refId=B4xLNxwfdd7r7JP2EjRXmw%3D%3D&trackingId=Nut%2Bdv%2BSQj3IZRCXIpcsBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 18:23:06",
+        "email_sent": false
+    },
+    {
+        "title": "Hybrid - Software Engineer (C#/.NET/React) - GenAi team",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hybrid-software-engineer-c%23-net-react-genai-team-at-jobs-via-dice-4235024401?position=16&pageNum=0&refId=B4xLNxwfdd7r7JP2EjRXmw%3D%3D&trackingId=JAl6Kj4KpVsV9WPG60w1Zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 18:23:06",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Jobs via Dice",
+        "location": "Magna, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobs-via-dice-4235021616?position=17&pageNum=0&refId=B4xLNxwfdd7r7JP2EjRXmw%3D%3D&trackingId=PqzPKKecQ3zu42%2BWGlIfzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-25 18:23:06",
         "email_sent": false
     }
 ]
