@@ -1,15 +1,5 @@
 [
     {
-        "title": "CONFIDENTIAL",
-        "company": "TalentAlly",
-        "location": "Watsonville, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/confidential-at-talentally-4235050937?position=1&pageNum=0&refId=%2FOrrIO6lBK3HA5ziLcZJkQ%3D%3D&trackingId=yaf7GycCTJspvhdeUpT4rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-26 05:44:30",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "City of Philadelphia",
         "location": "Philadelphia, PA",
@@ -48,5 +38,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-26 06:27:41",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer (Backend) -",
+        "company": "Rakuten Rewards",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-rakuten-rewards-4193621079?position=2&pageNum=0&refId=oN73u9gzQn2GfgK32aLtaQ%3D%3D&trackingId=FOnaWRyT8YQZlZ4C6bismA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-26 06:53:26",
+        "email_sent": false
     }
 ]
