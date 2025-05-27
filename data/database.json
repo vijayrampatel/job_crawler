@@ -1,15 +1,5 @@
 [
     {
-        "title": "Customer Engineer",
-        "company": "Uniphore",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/customer-engineer-at-uniphore-4235815932?position=3&pageNum=0&refId=Hpvk7QZuhoixmVerYeqgQA%3D%3D&trackingId=PreWK0q5THRVApgGv9TBkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 05:55:31",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "City of Philadelphia",
         "location": "Philadelphia, PA",
@@ -38,5 +28,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-27 06:50:10",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer (Backend) -",
+        "company": "Rakuten Rewards",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-rakuten-rewards-4193621079?position=2&pageNum=0&refId=8WWhNXMQmSjAbo%2FGU4epcw%3D%3D&trackingId=3XKf8rbPhD471l5ujOqUfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 07:00:37",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Quant Engineer",
+        "company": "TP ICAP",
+        "location": "Greater Houston",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-quant-engineer-at-tp-icap-4235820621?position=3&pageNum=0&refId=8WWhNXMQmSjAbo%2FGU4epcw%3D%3D&trackingId=GTma13hj97h5oew1eJOz6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 07:00:37",
+        "email_sent": false
     }
 ]
