@@ -1,145 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Milford, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4222412476?position=2&pageNum=0&refId=50qby8rOFGvj6RY4ghBJ%2FA%3D%3D&trackingId=t71iAr1Gfp9iB4q%2Fq0RMdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:15:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Fraud",
-        "company": "Shipt",
-        "location": "Hennepin County, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fraud-at-shipt-4209888418?position=3&pageNum=0&refId=50qby8rOFGvj6RY4ghBJ%2FA%3D%3D&trackingId=lrSqaUmofE5492rRQ5vdxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:15:42",
-        "email_sent": true
-    },
-    {
-        "title": "Data Specialist",
-        "company": "Acosta Group",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-acosta-group-4235640743?position=13&pageNum=0&refId=50qby8rOFGvj6RY4ghBJ%2FA%3D%3D&trackingId=7AeXRcijM4ds3eqMqu7MBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:15:42",
-        "email_sent": false
-    },
-    {
-        "title": "Design Associate - Industrial Analytics",
-        "company": "The Haskell Company",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/design-associate-industrial-analytics-at-the-haskell-company-4208438114?position=21&pageNum=0&refId=50qby8rOFGvj6RY4ghBJ%2FA%3D%3D&trackingId=z%2FMxAbBjhy6I7EeT14DYHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:15:42",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "Tempus AI",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-tempus-ai-4222403700?position=3&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=N%2FPC5v00CHo5CM1UxFNCrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Front End Software Engineer",
-        "company": "SS&C Technologies",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-ss-c-technologies-4222400366?position=6&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=DqrWWydbxTaQpY8Pza3Hgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Blue Yonder",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-blue-yonder-4222444457?position=8&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=gjNmMU1xURslpe57W1Oqcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Servicing",
-        "company": "Upstart",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-servicing-at-upstart-4078073924?position=10&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=H%2FN3k8KU5GepjueNotz9Xg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4235868304?position=16&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=5zcBiciElakpsP3S6YoDtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Software Engineer",
-        "company": "BW Design Group",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-bw-design-group-4222387991?position=23&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=9es8UhDjALBwW89lsuYMfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Entry Level System Engineer",
-        "company": "Zachary Piper Solutions",
-        "location": "Elizabeth City, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-system-engineer-at-zachary-piper-solutions-4222388884?position=24&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=SsYAOVPu2GCebFs1ZZN6sA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": false
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "ASSA ABLOY Group",
-        "location": "New Haven, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-assa-abloy-group-4222407763?position=25&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=CnJ91%2BohWcZrFIL1ktswKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Platform Control Software Engineer",
-        "company": "Forterra",
-        "location": "Clarksburg, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/platform-control-software-engineer-at-forterra-4083071424?position=27&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=K%2BHEI%2FMhMnpEvt5veWcKbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data and Computational Sciences Research Scientist \u2013 Image Analytics",
-        "company": "Vertex Pharmaceuticals",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-and-computational-sciences-research-scientist-%E2%80%93-image-analytics-at-vertex-pharmaceuticals-4222381836?position=31&pageNum=0&refId=IxLrOd9snHCsnGDYGqpDOA%3D%3D&trackingId=HZUhrWxteUP6Rp5KbJZDHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-27 11:31:44",
-        "email_sent": true
-    },
-    {
         "title": "Data Center BMS Field Engineer",
         "company": "LVI Associates",
         "location": "United States",
@@ -418,5 +278,345 @@
         "source": "LinkedIn",
         "scraped_date": "2025-05-27 11:55:39",
         "email_sent": true
+    },
+    {
+        "title": "Engineer Data Platform Associate - US Remote",
+        "company": "Lensa",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-platform-associate-us-remote-at-lensa-4235881056?position=3&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=ewnoDB907fEciQXDUaS6Ow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer, Behavior Planning & Prediction",
+        "company": "Woven by Toyota",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-behavior-planning-prediction-at-woven-by-toyota-4210586922?position=8&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=DQ4eTQhlna8Pj%2F3tQjTzBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer I, Customer Experience, Seattle",
+        "company": "Lensa",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-customer-experience-seattle-at-lensa-4238270030?position=9&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=0xF7HyaWXYRbc4H%2BAWzHhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer, Behavior Planning & Prediction",
+        "company": "Woven by Toyota",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-behavior-planning-prediction-at-woven-by-toyota-4210593121?position=10&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=kpHM9Fz9CFZAMTcNu2yz0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analytics Associate - US Based Remote",
+        "company": "Lensa",
+        "location": "Russell, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-associate-us-based-remote-at-lensa-4235875820?position=11&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=Wd7e8kpmOccuB9yofBcY2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "IT Software Engineer - Build Team Remote",
+        "company": "Lensa",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-lensa-4235879265?position=12&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=I4bvfgNFY%2BkEG1sUKmYlWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Testing Engineer",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-testing-engineer-at-lensa-4238263966?position=15&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=7R5uQepjjFM7lYYp19T5gQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer L1",
+        "company": "DigiFlight, Inc.",
+        "location": "Fort Meade, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-l1-at-digiflight-inc-3912573090?position=16&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=u0X1OCfEg9uPUa5bvXHrVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Scientist",
+        "company": "Medline Industries, LP",
+        "location": "Northfield, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-medline-industries-lp-4221965865?position=27&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=hGPsrFkAha0BxwgOZQ%2FJJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235877918?position=32&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=6BoNTZCpbN56plukKsTUbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Maryland, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235882346?position=33&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=hPcKKUpkwUpq%2F34EUgfJEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Portfolio Data Operations Analyst",
+        "company": "Addepar",
+        "location": "Salt Lake City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/portfolio-data-operations-analyst-at-addepar-4223955748?position=34&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=CH32BPKcj8p4BolVNMIGSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Wake Forest, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884186?position=35&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=vzLaNoVhc87EMBqF9t8png%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884195?position=36&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=GdpHtMr8Sbr9Ou4mADfpZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "High Point, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235880510?position=37&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=8gxyOLtsXsiWI4zFmTBCxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Arizona, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884192?position=38&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=1N0V4hR%2BsIi95pQsQCjuBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235877920?position=40&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=%2FpP%2F0JvCXbDKtAg4TXLY%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "San Marcos, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235882383?position=41&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=GYHcH3Cn5pkFYKOSIPtHcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "East Lansing, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235879639?position=46&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=wS5nKYgLTvyI%2FB9myF7Liw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Revature",
+        "location": "Iowa, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4235877766?position=53&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=4rO%2FdLxdjjAbM89L08Pyxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": ".NET Software Engineer",
+        "company": "Revature",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-software-engineer-at-revature-4235880358?position=58&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=e6gnlQ%2BaDhPrPIzKAbcGtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": ".NET Software Engineer",
+        "company": "Revature",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-software-engineer-at-revature-4235879507?position=59&pageNum=0&refId=6qdDGKW08qbssaK8rHHp6g%3D%3D&trackingId=vPdcYxFLkVJsdhfd6mZasw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235877918?position=2&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=9q1p%2F8yV7qCszMuf%2FiNCEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Maryland, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235882346?position=3&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=Lip9YJKcc3YKPyYguC%2F%2BSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Portfolio Data Operations Analyst",
+        "company": "Addepar",
+        "location": "Salt Lake City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/portfolio-data-operations-analyst-at-addepar-4223955748?position=4&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=B2ox3Lb8NWo48QPJEn46WA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Wake Forest, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884186?position=5&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=kF0l%2FdRyHBNhwOS3TBJmvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884195?position=6&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=SN5VjB%2FsmQrc9cc7VbM0MA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "High Point, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235880510?position=7&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=31gSq4bPfUffMOGjkHOS1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "Arizona, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235884192?position=8&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=OVEmU%2BpUlXtOY%2FW8YghK1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Revature",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4235877920?position=10&pageNum=2&refId=Gm5nSp2Ld0dcsfG54rzw1w%3D%3D&trackingId=WfF9D1vaygJQWIM6CcGmnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Revature",
+        "location": "Iowa, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4235877766?position=1&pageNum=5&refId=KwCmMQrCaJXPejE1V9tHPQ%3D%3D&trackingId=X6YFrdVj2pcH27sZbxO99A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": ".NET Software Engineer",
+        "company": "Revature",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-software-engineer-at-revature-4235880358?position=5&pageNum=5&refId=KwCmMQrCaJXPejE1V9tHPQ%3D%3D&trackingId=Jnq3gn3Pzibgqrz8dxY8zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": ".NET Software Engineer",
+        "company": "Revature",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-software-engineer-at-revature-4235879507?position=6&pageNum=5&refId=KwCmMQrCaJXPejE1V9tHPQ%3D%3D&trackingId=086AFdu0blEHwxtyFdVJJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
+    },
+    {
+        "title": ".NET Software Engineer",
+        "company": "Revature",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-software-engineer-at-revature-4235882225?position=9&pageNum=5&refId=KwCmMQrCaJXPejE1V9tHPQ%3D%3D&trackingId=w3O%2BOJ7E3yTq2Sme%2B%2FXVIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-27 12:37:40",
+        "email_sent": false
     }
 ]
