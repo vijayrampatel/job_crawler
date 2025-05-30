@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "MANTEGIES",
-        "location": "Austin, Texas Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-mantegies-4238432602?position=1&pageNum=0&refId=YoNlYQsvoJ%2FQc61S%2Bte1qg%3D%3D&trackingId=gn4GjqQBN9k3%2FMvtwU%2FQhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-30 09:56:14",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "Snowflake",
-        "location": "Menlo Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-snowflake-4226327459?position=3&pageNum=0&refId=YoNlYQsvoJ%2FQc61S%2Bte1qg%3D%3D&trackingId=hVZKqbaz%2FKbbpSGhOyEYSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-30 09:56:14",
-        "email_sent": true
-    },
-    {
-        "title": "******** ********, ******** (*** *****)",
-        "company": "********",
-        "location": "*** *********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-all-teams-at-doordash-4191619014?position=6&pageNum=0&refId=YoNlYQsvoJ%2FQc61S%2Bte1qg%3D%3D&trackingId=LX1jjiq5WGdfqPATA1oi2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-30 09:56:14",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II (NYC)",
         "company": "Garner Health",
         "location": "New York, NY",
@@ -157,6 +127,46 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-motion-recruitment-4208601569?position=7&pageNum=0&refId=F1YBZuzObDJJS0eoDD4FSg%3D%3D&trackingId=x21Gf7AMuNFaw%2FCPUu8qfg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-05-30 10:55:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TieTalent",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tietalent-4240660181?position=3&pageNum=0&refId=a6diUMPSRQRuYMcuX1mWBg%3D%3D&trackingId=8BsNj%2BGQi4OVDNMjNCaaKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-30 11:15:04",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*********",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tietalent-4240663044?position=4&pageNum=0&refId=a6diUMPSRQRuYMcuX1mWBg%3D%3D&trackingId=%2F18tgomQ0pfV9NZzsGSNoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-30 11:15:04",
+        "email_sent": false
+    },
+    {
+        "title": "********* ********",
+        "company": "********",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-fivetran-4223864928?position=5&pageNum=0&refId=a6diUMPSRQRuYMcuX1mWBg%3D%3D&trackingId=ECC4lGaKWmWs1TsnRyg0dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-30 11:15:04",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "***",
+        "location": "*****, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4238441234?position=7&pageNum=0&refId=a6diUMPSRQRuYMcuX1mWBg%3D%3D&trackingId=zz0%2B7k%2BMHl%2BfT6%2Fgy6%2BxmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-30 11:15:04",
         "email_sent": false
     }
 ]
