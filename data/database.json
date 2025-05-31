@@ -1,35 +1,5 @@
 [
     {
-        "title": "******** **** *******",
-        "company": "********** ** ********",
-        "location": "***************, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-at-university-of-virginia-4236888747?position=6&pageNum=0&refId=ryMqqo8BO097n1kMOsz0QQ%3D%3D&trackingId=TfOCZtTwL7YVr7SqlZVepA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-31 05:36:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer",
-        "company": "Kforce Inc",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-at-kforce-inc-4241049534?position=3&pageNum=0&refId=T4HZv29WDfk2%2BNVFLKywQg%3D%3D&trackingId=bONvZ%2BUMmNaSbRs%2Fl%2BiwRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-31 05:47:25",
-        "email_sent": true
-    },
-    {
-        "title": "******** ********, *****",
-        "company": "********* *******",
-        "location": "**** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-scale-at-windborne-systems-4238862901?position=7&pageNum=0&refId=T4HZv29WDfk2%2BNVFLKywQg%3D%3D&trackingId=ywTJbHGoWgoGa2XyRelQJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-05-31 05:47:25",
-        "email_sent": false
-    },
-    {
         "title": "******** ******** **",
         "company": "***** ******** ***",
         "location": "******, **",
@@ -97,6 +67,46 @@
         "url": "https://www.linkedin.com/jobs/view/genai-python-systems-engineer-%E2%80%93-senior-associate-at-pwc-4238868151?position=7&pageNum=0&refId=70fzTaELkACrYSUBKCdxyA%3D%3D&trackingId=gh4jc%2B%2B6CoS0NHkf02ouAQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-05-31 06:23:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Adelaide",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-adelaide-4241381414?position=1&pageNum=0&refId=faT1ByVzyYdNdV%2BjS4u6nQ%3D%3D&trackingId=LvHidEogGjFe3xl7pRtIQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-31 06:48:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, San Francisco, CA",
+        "company": "HomeLight",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-san-francisco-ca-at-homelight-4237848238?position=2&pageNum=0&refId=faT1ByVzyYdNdV%2BjS4u6nQ%3D%3D&trackingId=jdSWfMc5c4YL239XfLdjpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-31 06:48:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Scale",
+        "company": "WindBorne Systems",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-scale-at-windborne-systems-4238862901?position=3&pageNum=0&refId=faT1ByVzyYdNdV%2BjS4u6nQ%3D%3D&trackingId=XiIYi3eC7I0d8yIeUfjYzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-31 06:48:09",
+        "email_sent": false
+    },
+    {
+        "title": "*** ******** *, *** *** *** *********",
+        "company": "******* - *****+ ******** *********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/adc-engineer-i-aws-dbs-adc-analytics-at-mygwork-lgbtq%2B-business-community-4237275940?position=4&pageNum=0&refId=faT1ByVzyYdNdV%2BjS4u6nQ%3D%3D&trackingId=2TMqj2jsI8swxdoJAvauYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-05-31 06:48:09",
         "email_sent": false
     }
 ]
