@@ -1,45 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4241912597?position=1&pageNum=0&refId=Y8KuLRffHbOJciqdpeaWMA%3D%3D&trackingId=%2FZ9xamJzSSKeJWZWf0EnGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-01 20:23:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4241913523?position=3&pageNum=0&refId=Y8KuLRffHbOJciqdpeaWMA%3D%3D&trackingId=fWZmwOrGL9RbEh1wlqzl0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-01 20:23:59",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "**** *********",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-szns-solutions-4241937738?position=4&pageNum=0&refId=Y8KuLRffHbOJciqdpeaWMA%3D%3D&trackingId=JwxC8Vq3Z40yFYMOr6zuag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-01 20:23:59",
-        "email_sent": false
-    },
-    {
-        "title": "***** *** ******** (**** *****)",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-full-stack-at-wiraa-4241913524?position=5&pageNum=0&refId=Y8KuLRffHbOJciqdpeaWMA%3D%3D&trackingId=nm7rBqhjmMqAbVcBSgJXWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-01 20:23:59",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "[cafeteria]",
         "location": "New York City Metropolitan Area",
@@ -68,5 +28,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-01 21:15:46",
         "email_sent": true
+    },
+    {
+        "title": "Front End Engineer (Full Stack)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-full-stack-at-wiraa-4241913524?position=4&pageNum=0&refId=wPL8WV7e%2FHN%2FzZKOv1fSmw%3D%3D&trackingId=qSULayNuTAW3B%2F4ce4MX%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-01 21:31:14",
+        "email_sent": false
     }
 ]
