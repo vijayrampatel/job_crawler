@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Analyst I",
-        "company": "Stackline",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-stackline-4240234932?position=1&pageNum=0&refId=7FXr5CVVDFjd5u6sjUQS%2Bw%3D%3D&trackingId=i3EN1bQaEnCyGDUsYpYIiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-02 17:17:09",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Digital Prospectors",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-digital-prospectors-4242867533?position=3&pageNum=0&refId=7FXr5CVVDFjd5u6sjUQS%2Bw%3D%3D&trackingId=HUsXn6bT8UrvotiknaO3ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-02 17:17:09",
-        "email_sent": false
-    },
-    {
-        "title": "****** ********",
-        "company": "*******, ***.",
-        "location": "*** ****, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4233734581?position=4&pageNum=0&refId=7FXr5CVVDFjd5u6sjUQS%2Bw%3D%3D&trackingId=29onBrKw1jCy8LZAM4cGZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-02 17:17:09",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********/******** ********",
-        "company": "**** ***** *******",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/security-software-platform-engineer-at-ford-motor-company-4242868244?position=5&pageNum=0&refId=7FXr5CVVDFjd5u6sjUQS%2Bw%3D%3D&trackingId=MaNE1OWn9qfKxJOjjOp8BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-02 17:17:09",
-        "email_sent": false
-    },
-    {
-        "title": "********* **** *******",
-        "company": "******* *****",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-belfort-group-4242861543?position=6&pageNum=0&refId=7FXr5CVVDFjd5u6sjUQS%2Bw%3D%3D&trackingId=kfSY6Nz4Q2XR%2F4fpn1Yaqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-02 17:17:09",
-        "email_sent": false
-    },
-    {
         "title": "******** **** ****** ********",
         "company": "***********",
         "location": "**********, **",
@@ -97,6 +47,716 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ersg-ltd-4240259644?position=4&pageNum=0&refId=gEyOxI6nIFWfR3TrVvIPgQ%3D%3D&trackingId=a7F6mxtPDtC4NfylJr8Wtw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-02 17:57:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Safelite",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-safelite-4239623006?position=1&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=m1%2BB%2FpCFTgP2QsPA7HiuGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Rokt",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rokt-4239608781?position=3&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=Vd2XOu3qBtmHIHknBXpl1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ersg Ltd",
+        "location": "Portland, Oregon Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ersg-ltd-4240259644?position=4&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=naApkCL8rlE1qW4yqs7KcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "AppCard, Inc.",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4233734581?position=5&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=Xvxx33496BjwAF2Tgb8wGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Early-Career Friendly)",
+        "company": "LeadMagic",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-friendly-at-leadmagic-4243000465?position=6&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=Qyn7ZEcdE0eO3Ja7pVNxDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Health Data Analyst",
+        "company": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/health-data-analyst-at-university-of-michigan-4239567646?position=7&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=3xKNR0KP1EUKb7LeEWF6Pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Healthcare Claims Data Analyst",
+        "company": "Zelis",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-claims-data-analyst-at-zelis-4242896805?position=8&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=crFkzbpcmDj1Gimd4V7a%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Physical Data Center Engineer",
+        "company": "Brooksource",
+        "location": "Carrollton, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/physical-data-center-engineer-at-brooksource-4240254055?position=9&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=rP0d0q4TurbfPssK1ZsSug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
+        "company": "The Muse",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-the-muse-4239963234?position=10&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=Q7ATBoT%2FfUHKqOLOYsJOnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2",
+        "company": "Juniper Networks",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-at-juniper-networks-4204273127?position=11&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=uR8AR2xIRWvtOUU9fRyGyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer with Relativity & eDiscovery",
+        "company": "Visionary Innovative Technology Solutions LLC",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-with-relativity-ediscovery-at-visionary-innovative-technology-solutions-llc-4234992553?position=12&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=fVq6Q9oi2XW9KaqHJPdg%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239963230?position=14&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=bq%2FhHwskURdxAdmdTy08qA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
+        "company": "The Muse",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-the-muse-4239964163?position=15&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=toDw44fySdG0ug0HrbBNJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239960486?position=16&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=fhGaI0N1xKBdnzIsGZcngQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Oceanside, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239959859?position=17&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=ZzZ%2BabToDTOZ3bD%2F7%2FnEwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Big Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Richmond, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/big-data-engineer-at-jobs-via-dice-4240261710?position=18&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=72LfbOZ79KtFr1XanVJG8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
+        "company": "The Muse",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-the-muse-4239963227?position=19&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=7R9w4baH5fM2wzOfiX%2FFRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Drexel University",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-drexel-university-4243000007?position=20&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=G9YsCtu84rnhj3%2Bcd9mrwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
+        "company": "The Muse",
+        "location": "Concord, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-the-muse-4239958994?position=21&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=HZj2iBIkoTL7GfdulTbFeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Santa Barbara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239961422?position=22&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=F6YUpHC6rtlwpKI9Pk85NA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "Talent Nest IT",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-talent-nest-it-4240248011?position=23&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=nECi0Pjb1tcX0QM0ahJrJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Tool/Exploit Developer (Red Team Operator)",
+        "company": "Oak Grove Technologies",
+        "location": "Fort Belvoir, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-tool-exploit-developer-red-team-operator-at-oak-grove-technologies-4242893794?position=24&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=q7SpKjYyIOugMyQD2x%2Ffhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
+        "company": "The Muse",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-the-muse-4239959862?position=25&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=%2Fsbr0OiATYRpNaB%2Fy0LEDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239959860?position=26&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=T0bpV%2BUAl7lMc8%2B4sgpODA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "San Luis Obispo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239964158?position=27&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=KdQ7iNKKcIrC3JNKH%2BNA4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Newark, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239965070?position=28&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=eXvWsWXXWc2%2Bcvun3N6G6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239961418?position=29&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=9Vq8ZHbJ%2B%2BpL%2BNZEA8ECnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "HCLTech",
+        "location": "Mossville, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-hcltech-4239622020?position=30&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=XERBqLRS6IwPtQ9f7HkbEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
+        "company": "The Muse",
+        "location": "Santa Barbara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-the-muse-4239959861?position=31&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=C9TqzoX6YYamKFk%2BzNvTxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239964159?position=32&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=e7JQXXNL34klUiq7gLfRNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Richmond, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239960480?position=33&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=UKLb%2BbYP6buLKDbjab0DTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239960481?position=34&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=YyvCtc72O7LYuIqPw82cDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend ( Developer Experience - Server Foundations)",
+        "company": "The Muse",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-developer-experience-server-foundations-at-the-muse-4239962341?position=35&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=J9Rs0VK%2For%2FOGGxxv2oNlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
+        "company": "The Muse",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-the-muse-4239963226?position=37&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=bDL7xzkvoVVhtiCE4RpH8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Ridgefield, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4242899741?position=38&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=bVGRSUq6lPc5Ih32fGO7eA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Diversified Services Network, Inc.",
+        "location": "Mossville, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-diversified-services-network-inc-4243009194?position=39&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=apOWtUOZI2Ydk3NVScFyoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "San Luis Obispo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239963225?position=40&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=eTINTz%2FF4lw%2FrjpIFH94AQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, II - Calibration",
+        "company": "Torc Robotics",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-calibration-at-torc-robotics-4240261503?position=41&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=8OG87A1NBGevRiJH6dxe%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Rokt",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-rokt-4239612204?position=42&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=xuhXx4BTi1XGHuO32%2FB4UA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Software 1 - 23506",
+        "company": "Mission Technologies, a division of HII",
+        "location": "Dayton, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-1-23506-at-mission-technologies-a-division-of-hii-4240251966?position=43&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=%2FQd4vbdCigCUMhdR9Z0WAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer - Jersey City, NJ (2 days onsite) - W2 Candidates / Any Visa EXCEPT H1Bs",
+        "company": "Jobs via Dice",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-jersey-city-nj-2-days-onsite-w2-candidates-any-visa-except-h1bs-at-jobs-via-dice-4240260773?position=44&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=%2FdPSEVho89LJqEuK2bbvEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Information System Security Engineer",
+        "company": "Data Intelligence, LLC",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/information-system-security-engineer-at-data-intelligence-llc-4240246860?position=45&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=u3OMCRRBzFj1Kcq46eVAbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "RESEARCH DATA ANALYST II",
+        "company": "CA Department of Corrections & Rehabilitation",
+        "location": "Sacramento, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-ii-at-ca-department-of-corrections-rehabilitation-4239617105?position=46&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=SNXrj9fxkFr61T%2FHeIqgtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Salesforce Developer)",
+        "company": "Jobs via Dice",
+        "location": "St. Petersburg, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-salesforce-developer-at-jobs-via-dice-4240263170?position=48&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=nn5UzEmtd1Y7rV006LsOHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Salesforce Developer)",
+        "company": "Jobs via Dice",
+        "location": "Rochester, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-salesforce-developer-at-jobs-via-dice-4240259758?position=50&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=B6l0HipN4yQaLi0sTDe5Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (TS/SCI with Poly required)",
+        "company": "GCI Incorporated",
+        "location": "Chantilly, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ts-sci-with-poly-required-at-gci-incorporated-4242897509?position=51&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=zqLSP%2Fyic5d0xAwe3G6Fbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Java/Big Data Developer",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-big-data-developer-at-jobs-via-dice-4240262597?position=52&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=W42i%2FmFV27KFCI2XOQX9vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Associate thru Staff Engineer, New Construction Management",
+        "company": "Oncor Electric Delivery",
+        "location": "Midland, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-associate-thru-staff-engineer-new-construction-management-at-oncor-electric-delivery-4239626005?position=53&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=1ya4kNS0HuxYKgdTtB01QQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer in Test (SDET)",
+        "company": "Jobs via Dice",
+        "location": "Okemos, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-jobs-via-dice-4240259871?position=54&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=7rcWe5TmnMHjNvl%2FCaqOWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "RTA Posted Job Description",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rta-posted-job-description-at-jobs-via-dice-4240260741?position=56&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=ER1aPSCjGNMttZj8i90fjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Reliability Engineer",
+        "company": "Mercer Engineering Research Center",
+        "location": "Warner Robins, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/reliability-engineer-at-mercer-engineering-research-center-4239625159?position=57&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=FYjwF5scXVXmMrizJjDP3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Modeler with PostGre SQL Database",
+        "company": "Jobs via Dice",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-modeler-with-postgre-sql-database-at-jobs-via-dice-4240262559?position=58&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=crbBejgdZ%2FmhSZ9O%2FgRg9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Commissioning Engineer 1",
+        "company": "Genelco",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-1-at-genelco-4240231662?position=59&pageNum=0&refId=2ZDTItKJni2YsnqJd7gx%2FQ%3D%3D&trackingId=a9bBBm2EV7uko6bRhCDWqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239959860?position=1&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=hA862uTo%2F8zxeIlMQGGSRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "San Luis Obispo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239964158?position=2&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=YpyuLASyDtHAGp1yHNTTJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Consumer - New Product Vertical)",
+        "company": "The Muse",
+        "location": "Newark, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-new-product-vertical-at-the-muse-4239965070?position=3&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=fM1jt88mAgn7Ipd7v5a6jA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239961418?position=4&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=3sVwHvZcT%2FUjsAr9o9iDEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "HCLTech",
+        "location": "Mossville, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-hcltech-4239622020?position=5&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=Ke9v5IfBQwe66ZxPd8kQJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
+        "company": "The Muse",
+        "location": "Santa Barbara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-the-muse-4239959861?position=6&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=Y8C9GG%2FNDicjdFaA7ZYFcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239964159?position=7&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=HPoQ4stR05VKY8YNxw6F5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Richmond, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239960480?position=8&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=%2BeahDoJQUNQJL8v68UkM6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - (Blockchain Platform - Nodes)",
+        "company": "The Muse",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-nodes-at-the-muse-4239960481?position=9&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=lgKj64b9Ec6VufuBUWhetA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend ( Developer Experience - Server Foundations)",
+        "company": "The Muse",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-developer-experience-server-foundations-at-the-muse-4239962341?position=10&pageNum=2&refId=yTKd%2F2JFIV13aVJcgEy%2FHg%3D%3D&trackingId=Qz7q8M6EKlTrKz3oQWYBVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (TS/SCI with Poly required)",
+        "company": "GCI Incorporated",
+        "location": "Chantilly, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ts-sci-with-poly-required-at-gci-incorporated-4242897509?position=1&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=2JJU8BeEp6NQiS7zokf46w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Java/Big Data Developer",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-big-data-developer-at-jobs-via-dice-4240262597?position=2&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=BcX%2BuhSouGLPD%2Bcr115EgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Associate thru Staff Engineer, New Construction Management",
+        "company": "Oncor Electric Delivery",
+        "location": "Midland, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-associate-thru-staff-engineer-new-construction-management-at-oncor-electric-delivery-4239626005?position=3&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=dB4zbEYkGowVc8aodHnt6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer in Test (SDET)",
+        "company": "Jobs via Dice",
+        "location": "Okemos, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-jobs-via-dice-4240259871?position=4&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=cU1KbF1ik6f0l4lTtzeV2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "RTA Posted Job Description",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rta-posted-job-description-at-jobs-via-dice-4240260741?position=6&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=WqDYs4zVzRiFaqhrTz74hQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Reliability Engineer",
+        "company": "Mercer Engineering Research Center",
+        "location": "Warner Robins, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/reliability-engineer-at-mercer-engineering-research-center-4239625159?position=7&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=U87IgoV1zCufDnXmY2jlaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Modeler with PostGre SQL Database",
+        "company": "Jobs via Dice",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-modeler-with-postgre-sql-database-at-jobs-via-dice-4240262559?position=8&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=TQo8AvaFryC4Uu7K5mlfHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
+        "email_sent": false
+    },
+    {
+        "title": "Commissioning Engineer 1",
+        "company": "Genelco",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-1-at-genelco-4240231662?position=9&pageNum=5&refId=n%2F5m9%2Big9HQJPRadjBhwdw%3D%3D&trackingId=%2F7zIQmMImOi%2BeP0fcRg95g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-02 18:30:37",
         "email_sent": false
     }
 ]
