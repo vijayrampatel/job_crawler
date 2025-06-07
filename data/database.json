@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "City of New York",
-        "location": "Queens, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-city-of-new-york-4243754499?position=3&pageNum=0&refId=L93bLo%2FRPi8mDAewvwqwQA%3D%3D&trackingId=EXe7inpQ5m2p7z9hu0M9zA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-07 14:47:31",
-        "email_sent": true
-    },
-    {
-        "title": "********* **** ********",
-        "company": "****",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-atcc-4200920938?position=4&pageNum=0&refId=L93bLo%2FRPi8mDAewvwqwQA%3D%3D&trackingId=RCHPMqAn55r2GNAjbuEjYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-07 14:47:31",
-        "email_sent": false
-    },
-    {
         "title": "Fraud Data Analyst (Hybrid)",
         "company": "TEKsystems",
         "location": "Minneapolis, MN",
@@ -858,5 +838,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-07 15:34:52",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "J29, Inc.",
+        "location": "Millersville, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-j29-inc-4244367374?position=1&pageNum=0&refId=2Pbs2BQxYQEVufAr%2BfoAUQ%3D%3D&trackingId=Iu7fLCo0ggOEtJPEuka0UQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-07 15:47:49",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Engineer",
+        "company": "ATCC",
+        "location": "Manassas, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-atcc-4200920938?position=2&pageNum=0&refId=2Pbs2BQxYQEVufAr%2BfoAUQ%3D%3D&trackingId=J2q5cFjKRlMnAfaoHqZsPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-07 15:47:49",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** - ****** *********",
+        "company": "***",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-senior-associate-at-pwc-4229591512?position=4&pageNum=0&refId=2Pbs2BQxYQEVufAr%2BfoAUQ%3D%3D&trackingId=N5ea%2F1XBoEi8s4D5tX%2FkvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-07 15:47:49",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** - ****** *********",
+        "company": "***",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-senior-associate-at-pwc-4229596083?position=5&pageNum=0&refId=2Pbs2BQxYQEVufAr%2BfoAUQ%3D%3D&trackingId=at9bxv1uoNjiVq66Y36rBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-07 15:47:49",
+        "email_sent": false
+    },
+    {
+        "title": "**** *********",
+        "company": "*.*.*. **********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4244367322?position=6&pageNum=0&refId=2Pbs2BQxYQEVufAr%2BfoAUQ%3D%3D&trackingId=YI8vrgeBbHL5znI%2FeL2LoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-07 15:47:49",
+        "email_sent": false
     }
 ]
