@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Talkney",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talkney-4246993708?position=2&pageNum=0&refId=F9wehva7T4Z2sVL2vs4ZOw%3D%3D&trackingId=clL%2Fu%2BFQ4K%2BGmWAC7OCMUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-08 19:39:30",
-        "email_sent": false
-    },
-    {
         "title": "Energy Data Analyst",
         "company": "talisman",
         "location": "Greater Houston",
@@ -38,5 +28,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-08 20:23:55",
         "email_sent": true
+    },
+    {
+        "title": "Formulary Operations Analyst",
+        "company": "RxSense",
+        "location": "Princeton, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/formulary-operations-analyst-at-rxsense-4246991806?position=12&pageNum=0&refId=XnbIU95CPfkNjJOPSuqqOw%3D%3D&trackingId=1oa%2BnQgvfwyEFQClmbrEWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-08 20:40:43",
+        "email_sent": false
     }
 ]
