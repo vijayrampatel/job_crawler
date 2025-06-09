@@ -1,35 +1,5 @@
 [
     {
-        "title": "****** **** ********* ********",
-        "company": "****** ******",
-        "location": "*****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/senior-data-analytics-engineer-at-talent-groups-4247472080?position=5&pageNum=0&refId=Q2JiP3bVjJS96uEQvXRj1g%3D%3D&trackingId=6BwPYkCsIH04P6u7KObvGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-09 14:23:20",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******** - ****** *********",
-        "company": "***",
-        "location": "**********, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-senior-associate-at-pwc-4230284863?position=6&pageNum=0&refId=Q2JiP3bVjJS96uEQvXRj1g%3D%3D&trackingId=29CPMljJ616U0eFMWsI6qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-09 14:23:20",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******** - ****** *********",
-        "company": "***",
-        "location": "**********, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-senior-associate-at-pwc-4230290184?position=7&pageNum=0&refId=Q2JiP3bVjJS96uEQvXRj1g%3D%3D&trackingId=YMPB%2B5FgHOXmGgI3Evy4DA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-09 14:23:20",
-        "email_sent": false
-    },
-    {
         "title": "******** ******** (** / **)",
         "company": "******",
         "location": "******, **",
@@ -488,5 +458,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-09 15:21:09",
         "email_sent": true
+    },
+    {
+        "title": "**** ********",
+        "company": "**********",
+        "location": "******-**** ***** *********",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4245366701?position=4&pageNum=0&refId=3Uz3zGiseKIFYnVjUKNPbg%3D%3D&trackingId=%2F8E%2FyeYQcIXl%2Bdh%2F15ATpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-09 15:43:00",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** - ****** *********",
+        "company": "***",
+        "location": "*****, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-senior-associate-at-pwc-4230287426?position=6&pageNum=0&refId=3Uz3zGiseKIFYnVjUKNPbg%3D%3D&trackingId=mQtETvdbX79zfAI3T3rSPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-09 15:43:00",
+        "email_sent": false
     }
 ]
