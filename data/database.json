@@ -1,26 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4246718253?position=2&pageNum=0&refId=I6lKtnVMJSwSbVkXd8hSRg%3D%3D&trackingId=eNOq2BpAkEg9rOZLreAi1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-10 22:55:36",
-        "email_sent": false
-    },
-    {
-        "title": "******** **** *******",
-        "company": "************ ***.",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-solutioneers-inc-4240287511?position=7&pageNum=0&refId=I6lKtnVMJSwSbVkXd8hSRg%3D%3D&trackingId=WpxeVJPxhrjepcs%2BJWIgOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-10 22:55:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Cognizant",
         "location": "Dallas, TX",
         "date_posted": "Recent",
@@ -608,5 +588,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-10 23:46:21",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Cognizant",
+        "location": "Newark, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4246720951?position=3&pageNum=0&refId=D8b%2FUzSotopXZkwRy1J%2FTg%3D%3D&trackingId=OqBpwHnAhkc9Mp0gUFEqIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-10 23:57:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4246726052?position=4&pageNum=0&refId=D8b%2FUzSotopXZkwRy1J%2FTg%3D%3D&trackingId=Z%2F5c8dEDzrzGwRmLZGprEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-10 23:57:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4246723361?position=5&pageNum=0&refId=D8b%2FUzSotopXZkwRy1J%2FTg%3D%3D&trackingId=VqY9IcfeSmrZBP%2B2uNq0%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-10 23:57:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4246724225?position=6&pageNum=0&refId=D8b%2FUzSotopXZkwRy1J%2FTg%3D%3D&trackingId=cusJ1JGMJkj%2FetOHDx880w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-10 23:57:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4246727042?position=7&pageNum=0&refId=D8b%2FUzSotopXZkwRy1J%2FTg%3D%3D&trackingId=RTbRqWG%2Bjba934Ng9yMDmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-10 23:57:14",
+        "email_sent": false
     }
 ]
