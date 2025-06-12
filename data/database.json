@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Horizontal Talent",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-horizontal-talent-4247627280?position=1&pageNum=0&refId=C5sAF%2FnDN%2BJQ1ezqMKrl3g%3D%3D&trackingId=%2F%2BtDAvhAr40wHHjVXOux%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 06:52:18",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Expedite Technology Solutions LLC",
-        "location": "Weehawken, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-expedite-technology-solutions-llc-4249486038?position=2&pageNum=0&refId=C5sAF%2FnDN%2BJQ1ezqMKrl3g%3D%3D&trackingId=LMHijwFbW%2F6S3Fti5kyAsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 06:52:18",
-        "email_sent": true
-    },
-    {
-        "title": "**** ******* ********",
-        "company": "**************",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-systems-engineer-at-milliporesigma-4247759043?position=5&pageNum=0&refId=C5sAF%2FnDN%2BJQ1ezqMKrl3g%3D%3D&trackingId=Ct0cu67lopHlTMYnbEaNsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 06:52:18",
-        "email_sent": false
-    },
-    {
-        "title": "****** *************/********* ********",
-        "company": "****** *****, ***",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-administrator-scripting-engineer-at-planit-group-llc-4249485230?position=6&pageNum=0&refId=C5sAF%2FnDN%2BJQ1ezqMKrl3g%3D%3D&trackingId=7XOWnzqthVCJ78j2KNuxgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 06:52:18",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (****), *******",
-        "company": "****",
-        "location": "*****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-analyst-at-mufg-4247762875?position=7&pageNum=0&refId=C5sAF%2FnDN%2BJQ1ezqMKrl3g%3D%3D&trackingId=6Y%2BB%2FSS9AYdyceFWDm%2BWjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 06:52:18",
-        "email_sent": false
-    },
-    {
         "title": "Consumer Insights Analyst",
         "company": "SharkNinja",
         "location": "Needham, MA",
@@ -318,5 +268,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-12 07:47:11",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Carilion Clinic",
+        "location": "Roanoke, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-carilion-clinic-4249491610?position=2&pageNum=0&refId=wAa9hluo%2F1g3cxV1dwFaEg%3D%3D&trackingId=yfZK8qZJMWD6F%2FzPdYCpKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 07:55:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4249438900?position=3&pageNum=0&refId=wAa9hluo%2F1g3cxV1dwFaEg%3D%3D&trackingId=CghjVl9CDv3GrmbSIuqjGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 07:55:46",
+        "email_sent": false
+    },
+    {
+        "title": "******* ********, ******",
+        "company": "*********",
+        "location": "***** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/systems-engineer-mobile-at-snowflake-4249470799?position=6&pageNum=0&refId=wAa9hluo%2F1g3cxV1dwFaEg%3D%3D&trackingId=lO6yJ0nrxLHE%2BMHAfUoq7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 07:55:46",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "*********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-gofast007-4248685874?position=7&pageNum=0&refId=wAa9hluo%2F1g3cxV1dwFaEg%3D%3D&trackingId=EY1qXdiSpxZ1w1obDX2%2FHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 07:55:46",
+        "email_sent": false
     }
 ]
