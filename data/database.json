@@ -1,115 +1,5 @@
 [
     {
-        "title": "Software Engineer I",
-        "company": "Allied Benefit Systems",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-allied-benefit-systems-4246145855?position=2&pageNum=0&refId=3omdZ99nrRBD46rZJqrjdQ%3D%3D&trackingId=C0bualBkqRfFj%2B%2BVJqtPiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:20:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer III",
-        "company": "Aditi Consulting",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-aditi-consulting-4231763440?position=3&pageNum=0&refId=3omdZ99nrRBD46rZJqrjdQ%3D%3D&trackingId=JT9TCVfTKauhM93WB025xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:20:43",
-        "email_sent": true
-    },
-    {
-        "title": "**** *******",
-        "company": "********** - ******** & ********** ****",
-        "location": "** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hiretalent-staffing-recruiting-firm-4250018513?position=4&pageNum=0&refId=3omdZ99nrRBD46rZJqrjdQ%3D%3D&trackingId=lD4TuEWJ7rj8s2%2BP0VUOYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:20:43",
-        "email_sent": false
-    },
-    {
-        "title": "********* ******** ********",
-        "company": "*** ************",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-bpm-microsystems-4248525273?position=5&pageNum=0&refId=3omdZ99nrRBD46rZJqrjdQ%3D%3D&trackingId=w5qFflVz0M3g9Bm5wjLftw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:20:43",
-        "email_sent": false
-    },
-    {
-        "title": "****** ********",
-        "company": "******** ****",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-everline-tech-4247037695?position=7&pageNum=0&refId=3omdZ99nrRBD46rZJqrjdQ%3D%3D&trackingId=Wq4o1mzXGRcbO665pRoPhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:20:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "CareQuest Institute for Oral Health",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carequest-institute-for-oral-health-4250020899?position=1&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=eixc6yMRyWU898mRwXnnFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4248523685?position=2&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=EtqKix2%2FRwHPDE2Jiuf%2F5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4248523697?position=3&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=6ScFaSnyrOujS3EH7GZsPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4250014914?position=4&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=%2F8skoZycTh%2B3%2BZUmFegNyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******** **** ***+ ******* + *** **********",
-        "company": "********* ********** ********** ********* ***",
-        "location": "*** ****, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-with-dbt%2B-airflow-%2B-aws-experience-at-visionary-innovative-technology-solutions-llc-4247949236?position=5&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=IqOCgLm%2Fm9NyEXGIh%2BH7KQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "****** ****** **** ******** - **** ** ** **********, **!",
-        "company": "********* ******* ********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-splunk-data-engineer-join-us-in-huntsville-al%21-at-accenture-federal-services-4226467164?position=7&pageNum=0&refId=KTLEqCyi80z71kKtjmdEWw%3D%3D&trackingId=re7L%2BdFMHqhLkp1sQaVI7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 21:33:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "AARATECH",
         "location": "California, United States",
@@ -147,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-covetus-4250030076?position=6&pageNum=0&refId=q%2BLEeNoHOArHSsjno%2BJ9Lg%3D%3D&trackingId=8aXbXlb2yZuXdIMBqFbZng%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-12 22:17:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Strategic Retail Partners",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-strategic-retail-partners-4250027537?position=1&pageNum=0&refId=kHegby1JMzHkIfru6CIP8Q%3D%3D&trackingId=FhYIKZrfomFGrv1niYMaPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 22:38:41",
         "email_sent": false
     }
 ]
