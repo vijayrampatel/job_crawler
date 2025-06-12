@@ -1,25 +1,5 @@
 [
     {
-        "title": "******** ********",
-        "company": "********* *******",
-        "location": "*** ********* *** ****",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alexander-chapman-4249678523?position=4&pageNum=0&refId=ZWFpE21S7r8YfbgcGWz%2FTA%3D%3D&trackingId=XWo6ytWSGUvdxbZ8684XFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 13:58:02",
-        "email_sent": false
-    },
-    {
-        "title": "********* **** ********",
-        "company": "*****",
-        "location": "*** *****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-lensa-4249665162?position=5&pageNum=0&refId=ZWFpE21S7r8YfbgcGWz%2FTA%3D%3D&trackingId=EciWGdmEcjqKBu3r3PMIdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-12 13:58:02",
-        "email_sent": false
-    },
-    {
         "title": "**** *******",
         "company": "*****",
         "location": "*** ****, **",
@@ -58,5 +38,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-12 14:45:39",
         "email_sent": true
+    },
+    {
+        "title": "**** ******** ***",
+        "company": "******* *****",
+        "location": "*** **** **** ************ ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-horizon-media-4232803237?position=4&pageNum=0&refId=qVgIXkrkiLJMeoHrroAWNw%3D%3D&trackingId=dt7xn8lz8%2BRR3Qoncw9G9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 15:21:06",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4248172266?position=5&pageNum=0&refId=qVgIXkrkiLJMeoHrroAWNw%3D%3D&trackingId=%2BeSArzn7TZOTDxSSl%2BIv9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 15:21:06",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "**********",
+        "location": "******* ******* ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4249814332?position=7&pageNum=0&refId=qVgIXkrkiLJMeoHrroAWNw%3D%3D&trackingId=gkPocDo1%2FPJLqXVNQHm65g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-12 15:21:06",
+        "email_sent": false
     }
 ]
