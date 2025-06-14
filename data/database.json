@@ -1,15 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "**** *** ****",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4249349405?position=4&pageNum=0&refId=wV5DYiyl4%2BCdMgNfGbrsbw%3D%3D&trackingId=2SZeSvBGd1HVA%2FiXfcmoaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-14 06:52:40",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Jobs via Dice",
         "location": "Sunnyvale, CA",
@@ -87,6 +77,16 @@
         "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-york-space-systems-llc-4250907916?position=5&pageNum=0&refId=fZz%2BUKueXZNahOsIVd8uZQ%3D%3D&trackingId=zp5xwKqv60ViEnDM47K3vg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-14 07:32:05",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "White & Case LLP",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-white-case-llp-4250948903?position=1&pageNum=0&refId=v5JsOXU%2FHopdhQaXwLl9JA%3D%3D&trackingId=yCFlDlzHCgKxWYdqCdahMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-14 07:56:33",
         "email_sent": false
     }
 ]
