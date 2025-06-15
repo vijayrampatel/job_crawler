@@ -1,15 +1,5 @@
 [
     {
-        "title": "******** ********",
-        "company": "***** ********** ***",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-asoft-consulting-llc-4250113826?position=7&pageNum=0&refId=r2Cd2iTgHrC6ynYCnWaFbw%3D%3D&trackingId=Wjotf1mWVZGt0z79UZESqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-15 21:39:07",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "Wiraa",
         "location": "United States",
@@ -58,5 +48,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-15 22:19:58",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "CityScape LLC",
+        "location": "Cleveland, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cityscape-llc-4249127500?position=2&pageNum=0&refId=stBBn6EhEpOS%2BCn8tQVmVQ%3D%3D&trackingId=wUtbGn26XOOC51dPr0ON6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-15 22:39:41",
+        "email_sent": false
+    },
+    {
+        "title": "***** ********** **** ***********",
+        "company": "**** ** **** *****",
+        "location": "**** **** *****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/asset-management-data-coordinator-at-town-of-palm-beach-4251414851?position=6&pageNum=0&refId=stBBn6EhEpOS%2BCn8tQVmVQ%3D%3D&trackingId=tSE22%2BcAAD9CThGYlrlKLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-15 22:39:41",
+        "email_sent": false
     }
 ]
