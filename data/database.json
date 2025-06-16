@@ -1,46 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Sam's Club",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sam-s-club-4250568978?position=2&pageNum=0&refId=0KOkzQ7QvgE1Uib%2F81EZfQ%3D%3D&trackingId=Sf0K2QbTDXtx3nU28Me7qA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-16 17:30:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Cognizant",
-        "location": "Blaine, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4250567132?position=3&pageNum=0&refId=0KOkzQ7QvgE1Uib%2F81EZfQ%3D%3D&trackingId=jiqhZokPdG%2FO%2FzMCBh25pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-16 17:30:57",
-        "email_sent": true
-    },
-    {
-        "title": "********* ********",
-        "company": "******* ****** *********",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-shields-health-solutions-4246020708?position=4&pageNum=0&refId=0KOkzQ7QvgE1Uib%2F81EZfQ%3D%3D&trackingId=TltEkH5K%2BXaUYyMj6M0Ngg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-16 17:30:57",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "********",
-        "location": "*****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aaratech-4250579139?position=6&pageNum=0&refId=G4p%2B%2BV8A%2F0%2FPHE59mkyh%2BA%3D%3D&trackingId=%2B26OzOjl17dq09LRKo4mXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-16 17:51:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Great Minds Executive Talent Agency",
         "location": "Los Angeles, CA",
         "date_posted": "Recent",
@@ -107,6 +67,56 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aaratech-4250576247?position=7&pageNum=0&refId=7xj4j%2BsJg1u8I89UFKJIaw%3D%3D&trackingId=kk%2BiUXE18vAs%2FUn6nSrUwQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-16 18:26:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "National Council of Architectural Registration Boards (NCARB)",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-national-council-of-architectural-registration-boards-ncarb-4250583447?position=2&pageNum=0&refId=rXR205RlbcxTwBMHZEUNLw%3D%3D&trackingId=t6NOtxPxnih0MRA1DJIrdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-16 18:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4250587611?position=3&pageNum=0&refId=rXR205RlbcxTwBMHZEUNLw%3D%3D&trackingId=WGxi78A%2Bl9q7W3F5KgoiFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-16 18:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cognizant-4250567132?position=5&pageNum=0&refId=rXR205RlbcxTwBMHZEUNLw%3D%3D&trackingId=yJjmNzO2r5NOVU8j9CjKpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-16 18:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "***",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-brg-4250573668?position=6&pageNum=0&refId=rXR205RlbcxTwBMHZEUNLw%3D%3D&trackingId=r3772saTohH85lmm2TXcpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-16 18:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******* (**********)",
+        "company": "*****",
+        "location": "************, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-at-wiraa-4251691607?position=7&pageNum=0&refId=rXR205RlbcxTwBMHZEUNLw%3D%3D&trackingId=INzSrsQpycjIvSZC6b513g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-16 18:52:01",
         "email_sent": false
     }
 ]
