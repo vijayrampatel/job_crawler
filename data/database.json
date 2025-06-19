@@ -1,15 +1,5 @@
 [
     {
-        "title": "****** **** ********",
-        "company": "***********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-brooksource-4253236794?position=5&pageNum=0&refId=WJgu5zh0ZJd9juFoXSsrlg%3D%3D&trackingId=pnbbMEqYlhng%2FgYIRJq0tQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-19 13:45:51",
-        "email_sent": false
-    },
-    {
         "title": "**** ********",
         "company": "*****",
         "location": "*** ****, **",
@@ -808,5 +798,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-19 14:40:42",
         "email_sent": true
+    },
+    {
+        "title": "Associate Data Engineer",
+        "company": "Newmark",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-newmark-4223253655?position=1&pageNum=0&refId=8teMuoFyolHLbrOLjeLT7A%3D%3D&trackingId=r2n6FP3aCxy4IVHy2WJVLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-19 14:52:09",
+        "email_sent": false
     }
 ]
