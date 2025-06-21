@@ -1,25 +1,5 @@
 [
     {
-        "title": "******** ******** ***",
-        "company": "***** **********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-aditi-consulting-4241062763?position=4&pageNum=0&refId=tgSMwSeR0IeLAxOo86cC%2Bw%3D%3D&trackingId=5UoWv%2BqXN%2FYrQKZkW%2Fblhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-21 09:40:30",
-        "email_sent": false
-    },
-    {
-        "title": "******* ******** ********",
-        "company": "*********",
-        "location": "***** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-snowflake-4226327459?position=6&pageNum=0&refId=tgSMwSeR0IeLAxOo86cC%2Bw%3D%3D&trackingId=ultafk5Bsi4c%2FcADHct5VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-21 09:40:30",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Q2",
         "location": "Austin, TX",
@@ -257,6 +237,76 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-q2-4147631941?position=5&pageNum=0&refId=AM7%2B3sH6l2OGPFih3zsQZg%3D%3D&trackingId=pioQr25dljNzOKTR3cbZJQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-21 10:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Fivetran",
+        "location": "Oakland, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-fivetran-4223864928?position=1&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=B9TZfyjZUuRbEzBiPH4cmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4223777257?position=2&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=T3qFq7mknYzT9w85gU1Wiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4224758320?position=3&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=1zf72AtZjAFWeuRewm2kbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** - ****-******** ****",
+        "company": "*****",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4224755456?position=4&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=8YXbUAmomRMs5mGZAS9%2BYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** *********",
+        "company": "*****",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-pipeline-developer-at-bln24-4224890070?position=5&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=Lc1tACbcNR1eHwxiUqcouQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*-**** ********** *****, ***.",
+        "location": "************, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-v-soft-consulting-group-inc-4238824942?position=6&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=8UHHA8xzbsOIQ4OEbGaGbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "**********",
+        "location": "*** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-similarweb-4240996285?position=7&pageNum=0&refId=9tb5HpcDNJ7J5pYHrHGCVw%3D%3D&trackingId=QKg6i5bhaBdjizep7vVgcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 10:46:38",
         "email_sent": false
     }
 ]
