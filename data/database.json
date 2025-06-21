@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4254524091?position=1&pageNum=0&refId=uBR93eaC83fY1VA8MC9Gxg%3D%3D&trackingId=amM7eZ%2Fp75JnHtuVjdCZvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-21 18:00:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "NetApp",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-netapp-4254516977?position=5&pageNum=0&refId=uBR93eaC83fY1VA8MC9Gxg%3D%3D&trackingId=5gKVcR%2B%2B2GjdrQ%2FMeAvcgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-21 18:00:05",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4254524087?position=14&pageNum=0&refId=uBR93eaC83fY1VA8MC9Gxg%3D%3D&trackingId=hf5wTQsibVA68sxkp1o5QQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-21 18:00:05",
-        "email_sent": false
-    },
-    {
         "title": "Systems Engineer",
         "company": "insightsoftware",
         "location": "Raleigh, NC",
@@ -77,6 +47,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-etl-at-jobs-via-dice-4250782068?position=4&pageNum=0&refId=lJ6RpP6noQfjAB%2BIILfvQg%3D%3D&trackingId=O6bIhcgl7PUCNpnkkwsU8Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-21 18:51:04",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4254446779?position=3&pageNum=0&refId=%2FcgH%2FWk5bllMb5cQVu3CTw%3D%3D&trackingId=NwquViX8Ye4KP4VRaMCeiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-21 19:01:17",
         "email_sent": false
     }
 ]
