@@ -1,25 +1,5 @@
 [
     {
-        "title": "******** ********",
-        "company": "******* *****",
-        "location": "*****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-stelvio-group-4255135868?position=4&pageNum=0&refId=fdACbKObLoS71FlVjctLDA%3D%3D&trackingId=jaD00ESuQOrKHb4wpUE3Tw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-23 10:47:00",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******** ********",
-        "company": "**** **********",
-        "location": "*****, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-tech-consulting-4255071036?position=6&pageNum=0&refId=fdACbKObLoS71FlVjctLDA%3D%3D&trackingId=VHHU%2FmmqB6xS%2Blinr%2BOv%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-23 10:47:00",
-        "email_sent": false
-    },
-    {
         "title": "Data Transformation Engineer",
         "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
         "location": "Horsham, PA",
@@ -498,5 +478,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-06-23 11:46:00",
         "email_sent": true
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Franklin Fitch",
+        "location": "Lawrenceville, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-franklin-fitch-4255157034?position=1&pageNum=0&refId=vimv%2F0kUzZ0D8X8tSOmqXg%3D%3D&trackingId=c%2F8M8dnb%2B8EahSEv05U4oQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-23 11:55:51",
+        "email_sent": false
+    },
+    {
+        "title": "****** ******** ********",
+        "company": "********** ***.",
+        "location": "*** ******, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4252650296?position=4&pageNum=0&refId=vimv%2F0kUzZ0D8X8tSOmqXg%3D%3D&trackingId=lw4xd8riVXfEcLH7CJuyRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-23 11:55:51",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "********* *******",
+        "location": "*** ********* *** ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alexander-chapman-4249678523?position=6&pageNum=0&refId=vimv%2F0kUzZ0D8X8tSOmqXg%3D%3D&trackingId=uVMniiSOhtCdtRZkW5i8fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-23 11:55:51",
+        "email_sent": false
     }
 ]
