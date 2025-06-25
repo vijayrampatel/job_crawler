@@ -1,45 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Capstone Investment Advisors",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-capstone-investment-advisors-4257483872?position=1&pageNum=0&refId=40GahlFGWuwTWOSpXMToyQ%3D%3D&trackingId=48D7lXYj58df%2FOvjFcMdsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 20:30:46",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "ALLY",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-ally-4254390283?position=2&pageNum=0&refId=40GahlFGWuwTWOSpXMToyQ%3D%3D&trackingId=a5JVdz3jv6tKpYjm935sbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 20:30:46",
-        "email_sent": true
-    },
-    {
-        "title": "**** *******",
-        "company": "************ *******",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-intelligence-federal-4257484129?position=4&pageNum=0&refId=40GahlFGWuwTWOSpXMToyQ%3D%3D&trackingId=xdhR1J0EbROrSGB9t9znbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 20:30:46",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "****",
-        "location": "****** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4256314172?position=5&pageNum=0&refId=40GahlFGWuwTWOSpXMToyQ%3D%3D&trackingId=4uKxhPlnMKjG5wL%2FR%2FWUwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 20:30:46",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst II - Employee Benefits",
         "company": "Alliant Insurance Services",
         "location": "United States",
@@ -177,6 +137,56 @@
         "url": "https://www.linkedin.com/jobs/view/onsite-tableau-developer-analyst-ma-ri-ct-locals-at-mindsoft-solutions-4256316426?position=7&pageNum=0&refId=%2F6NqpB8WyIjirJlI7S5K8w%3D%3D&trackingId=ZiEmMuc8NN4ArXbBf6R3qg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-25 21:23:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-international-u-k-ltd-4257704109?position=2&pageNum=0&refId=DJn82a8XRs1hxORd2Rnlzw%3D%3D&trackingId=hBotUq3Ss0c9OH9JsWoMKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-25 21:40:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "OPTOFIDELITY",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-optofidelity-4256315692?position=3&pageNum=0&refId=DJn82a8XRs1hxORd2Rnlzw%3D%3D&trackingId=khy8rwWaALRGA%2FQ8azVe%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-25 21:40:49",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "*********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cpacharge-4257700174?position=5&pageNum=0&refId=DJn82a8XRs1hxORd2Rnlzw%3D%3D&trackingId=8VAia3oVb%2FXb41EjrjwY7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-25 21:40:49",
+        "email_sent": false
+    },
+    {
+        "title": "***** ******** *********** ********",
+        "company": "****** *********",
+        "location": "*********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/genai-software-development-engineer-at-inspyr-solutions-4257498439?position=6&pageNum=0&refId=DJn82a8XRs1hxORd2Rnlzw%3D%3D&trackingId=cSfGeaQ3FVre43MeXaytpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-25 21:40:49",
+        "email_sent": false
+    },
+    {
+        "title": "******** ************ *******",
+        "company": "***** **********",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-aditi-consulting-4257491799?position=7&pageNum=0&refId=DJn82a8XRs1hxORd2Rnlzw%3D%3D&trackingId=jjB6zYsE30AVNRRUohgedA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-25 21:40:49",
         "email_sent": false
     }
 ]
