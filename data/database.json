@@ -1,152 +1,72 @@
 [
     {
-        "title": "Data Specialist",
-        "company": "the LEGO Group",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-the-lego-group-4254396180?position=1&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=XSrxVWxXhX9BCsUOkpBjOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Salesforce",
-        "company": "GreatAmerica Financial Services",
-        "location": "West Des Moines, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-salesforce-at-greatamerica-financial-services-4178584223?position=2&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=ck1v7jQXy21tRYPdOXUh9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": true
-    },
-    {
-        "title": "Agent Software Engineer",
-        "company": "Decagon",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/agent-software-engineer-at-decagon-4257710504?position=3&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=DCBOwKuDfSo1kexhfNnSog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": false
-    },
-    {
-        "title": "******** *********** ******** *",
-        "company": "****** ******** ********",
-        "location": "******** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-at-propio-language-services-4257701906?position=4&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=sYbHiCdIgCwZHVNKt5MwQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** ** - **** ********",
-        "company": "*******",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-platform-at-klaviyo-4256318943?position=5&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=WC5puEts9NxXzysDIq0SsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "*********",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cognizant-4256323560?position=6&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=63ymgp5VUFq9DZuUvC4DPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** ** ****",
-        "company": "******* ******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-insight-global-4256326413?position=7&pageNum=0&refId=2VHRgVdUAlFLB%2By9lAaB9w%3D%3D&trackingId=HbQOMI3aMDCnpqSgsGitrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:17:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Systems Engineer I",
-        "company": "Experis",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-systems-engineer-i-at-experis-4256326392?position=1&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=kty27KUFxTu1HBS4Q3sP4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Azure Data Engineer",
-        "company": "CGI",
-        "location": "Lafayette, LA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-azure-data-engineer-at-cgi-4257705955?position=2&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=PZr7ceXkAwwdNETwlPzB7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": true
-    },
-    {
-        "title": "**** ********",
-        "company": "********.**",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobright-ai-4256323935?position=4&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=wEsZCx4h%2FXWryByJ71wWkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "********.**",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobright-ai-4256326820?position=5&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=v9b88kddqryrLaiZhpXBoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "********.**",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobright-ai-4256328758?position=6&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=KKwLiHGp%2F7Rly%2Fqyiph95g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": false
-    },
-    {
-        "title": "****** **** *******",
-        "company": "***********",
-        "location": "********* *******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-brooksource-4256329496?position=7&pageNum=0&refId=mfJ%2BG04kHHcU9Iq4QBf%2BMQ%3D%3D&trackingId=6jzzACHyDrdKLl%2B5oNh9vg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:34:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentBurst, an Inc 5000 company",
+        "title": "Data Engineer, Amazon Smart Vehicles, Amazon Smart Vehicles",
+        "company": "Lensa",
         "location": "Sunnyvale, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentburst-an-inc-5000-company-4253965778?position=1&pageNum=0&refId=e4PnNtkEUY4Ji10D6rO%2Fgw%3D%3D&trackingId=FfTFtAs%2BmNIkHNCZJcDKVQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-amazon-smart-vehicles-amazon-smart-vehicles-at-lensa-4257730134?position=1&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=1GtEW6n9pn0CAYsO1kRePw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:48:55",
+        "scraped_date": "2025-06-26 01:57:17",
         "email_sent": false
     },
     {
-        "title": "**** **********",
-        "company": "*** **** *****",
-        "location": "******, **",
+        "title": "Associate Data Engineer",
+        "company": "Lensa",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-the-lego-group-4254396180?position=4&pageNum=0&refId=e4PnNtkEUY4Ji10D6rO%2Fgw%3D%3D&trackingId=t%2FVrxBn%2BogzoSBwz3CFO8g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-lensa-4257730250?position=2&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=%2Bn5Jh5noRqjX2nIUi06rqQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-06-25 23:48:55",
+        "scraped_date": "2025-06-26 01:57:17",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Engineer",
+        "company": "Lensa",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-lensa-4257728279?position=3&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=i4CABAcHdxc7XjOZ%2Fm2jfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 01:57:17",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lensa-4257723754?position=4&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=nV1TzZvQxb%2FxR3MWmJUlZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 01:57:17",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*****",
+        "location": "************, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-quill-4257743287?position=5&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=wRbLxIRKK3XHm5JPeDjgAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 01:57:17",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** (********)",
+        "company": "*****",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-starlink-at-lensa-4257722989?position=6&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=hAF4aS5pqxs2ZVSWyBPIoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 01:57:17",
+        "email_sent": false
+    },
+    {
+        "title": "********* ******** ****",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-data-at-lensa-4257728356?position=7&pageNum=0&refId=6x5IwtjlJRHJSYiUaC3ltw%3D%3D&trackingId=B6t9uWX2AVx8NoAF2NPQqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 01:57:17",
         "email_sent": false
     }
 ]
