@@ -1,15 +1,5 @@
 [
     {
-        "title": "** ******** - ********",
-        "company": "*** *****'* *******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-engineer-software-at-the-wendy-s-company-4195249398?position=4&pageNum=0&refId=Wy6D%2ByUMMuIdc50LyQCk2w%3D%3D&trackingId=s5Pa5uTeDSHG26Ha5MnIWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-06-26 09:52:06",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Database Engineering",
         "company": "Snowflake",
         "location": "Menlo Park, CA",
@@ -87,6 +77,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4257893663?position=7&pageNum=0&refId=Ro2ef8X%2F1PnMtq3jfUNQQA%3D%3D&trackingId=mU%2F%2BJfZs4oTTwaxZH%2B%2Fp%2FQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-06-26 10:43:23",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Glencore",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-glencore-4227655962?position=1&pageNum=0&refId=ZPL5FQlpKtU6%2BJBfO8hJ2g%3D%3D&trackingId=YTDh3sAjn0at4B1LUsKfPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 10:57:08",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** - *****",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fraud-at-shipt-4227642109?position=7&pageNum=0&refId=ZPL5FQlpKtU6%2BJBfO8hJ2g%3D%3D&trackingId=BuEcGbG7FJHKk1vfbTvMUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-06-26 10:57:08",
         "email_sent": false
     }
 ]
