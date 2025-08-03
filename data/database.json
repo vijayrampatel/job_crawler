@@ -1,105 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Similarweb",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-similarweb-4240996285?position=2&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=5ydrXVuGzKxMndp%2B%2BXHU7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Software Engineer - Supply Chain",
-        "company": "Ford Motor Company",
-        "location": "Allen Park, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-software-engineer-supply-chain-at-ford-motor-company-4212383080?position=3&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=s8v9QVnBWUDVmCGvLfmQUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "C3 AI",
-        "location": "Redwood City, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-c3-ai-4252416460?position=6&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=e6WdmGvHC0i1YBcbdtGtsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Research Data Scientist",
-        "company": "Tatari",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-data-scientist-at-tatari-4254148935?position=11&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=Bj5l2Ak2JE%2BMhkhSCHeg4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Research Data Scientist",
-        "company": "Tatari",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-data-scientist-at-tatari-4254155059?position=12&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=ReRxzXZIrL3douuMt%2FdlCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "MANTECH",
-        "location": "Chantilly, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-mantech-4252496477?position=13&pageNum=0&refId=1HxsPqNsrZw8LEFgDznwSA%3D%3D&trackingId=uPpC18zh%2BPRBq%2FNqvt3X8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:19:24",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Engineer",
-        "company": "Candex",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-candex-4278447992?position=2&pageNum=0&refId=KkUTKRvgTlDbGmztD6a6GQ%3D%3D&trackingId=%2FkmUUt3%2F65%2FX3VqLPsJ9xQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:35:11",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "BioSpace",
-        "location": "Mettawa, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-biospace-4279136979?position=3&pageNum=0&refId=KkUTKRvgTlDbGmztD6a6GQ%3D%3D&trackingId=uHK95Ycj0w9Dw0JJx3GRiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:35:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Scientist, Data II",
-        "company": "BioSpace",
-        "location": "North Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-scientist-data-ii-at-biospace-4279135967?position=16&pageNum=0&refId=KkUTKRvgTlDbGmztD6a6GQ%3D%3D&trackingId=qH5Dkcq23VCM85Kutly3XQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:35:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Manager, Payer Contract Analytics (Market Access Insights) (National Payer)",
-        "company": "AbbVie",
-        "location": "Mettawa, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-manager-payer-contract-analytics-market-access-insights-national-payer-at-abbvie-4254146190?position=18&pageNum=0&refId=KkUTKRvgTlDbGmztD6a6GQ%3D%3D&trackingId=43pPcRlNXrm5fnMnqPUX5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-03 11:35:11",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer, Site Reliability (SRE)",
         "company": "HRL Laboratories, LLC",
         "location": "Malibu, CA",
@@ -217,6 +117,86 @@
         "url": "https://www.linkedin.com/jobs/view/associate-research-delivery-portuguese-and-english-speaking-at-exiger-4253821096?position=27&pageNum=0&refId=%2FY4zLL7oEHVwaf4EsdniVQ%3D%3D&trackingId=kD%2B7AbTh9ne5qX9Mg7R3zA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-03 11:57:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "HHAeXchange",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hhaexchange-4253871719?position=3&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=rrukzjPF7n%2BbCVkXiL9Wqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-sr-at-wiraa-4279364506?position=4&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=xp9bNW9pvJbKZI9knDZFnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "New Relic",
+        "location": "Portland, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-new-relic-4226340764?position=5&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=VSw%2BYuXxToH%2BwgX6%2FUPKKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-wiraa-4279369272?position=12&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=EMiM9KPiVE%2BkhROtz7BCIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4279369440?position=13&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=QmJkLZXKyTeNTfj2eLj5qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4279364509?position=14&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=BO1%2FgBFGR7SheJY6B1fUGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Civil Designer",
+        "company": "Jedson Engineering",
+        "location": "Cincinnati, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/civil-designer-at-jedson-engineering-4174927170?position=23&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=q2WyeAQysadiuFYHz8RoVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative Outside Sales",
+        "company": "Builders FirstSource",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4211114723?position=24&pageNum=0&refId=vyMYJMg1jl6cRmKmCmEG6A%3D%3D&trackingId=hVRqyhSsA0txo2kw%2BkntEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-03 12:43:18",
         "email_sent": false
     }
 ]
