@@ -1,256 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4283903301?position=3&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=ghoOt4f3pRy5xmcRIq0Phw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "GCP Data Engineer",
-        "company": "Meritore Technologies",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gcp-data-engineer-at-meritore-technologies-4283560452?position=5&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=XQqupcBDgayUM30xp6zVLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Insight Global",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-4283564212?position=7&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=SAP7mVAqtq2MEC5J%2BaC3iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Crew",
-        "location": "Hopkins, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-crew-4283905846?position=10&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=%2BEg%2FrYL8caeGIdZ24vQ57w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Rokt",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rokt-4281713206?position=11&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=GlM0OfDBzq1msV8Emht8wg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Shamrock Trading Corporation",
-        "location": "Overland Park, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-shamrock-trading-corporation-4283915029?position=13&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=bgicJKoDklJKW6hkH71bKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (AI Infra)",
-        "company": "Pylon",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-infra-at-pylon-4283914664?position=14&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=1%2BY4Oiy4iYOBYLAKX46%2B4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer, Sports Platform",
-        "company": "bet365",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-sports-platform-at-bet365-4283554166?position=15&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=V5S2KgYXP%2BNyaWDNOugI8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Junior AI Data Scientist",
-        "company": "Intellect Group",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-ai-data-scientist-at-intellect-group-4283792120?position=16&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=KaIIyCp6u65n9b%2BKVKs3Pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "AI & Data Analyst",
-        "company": "American AI Tech",
-        "location": "Wilmington, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-data-analyst-at-american-ai-tech-4283919115?position=17&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=m%2Fut6F4uN12dMdC2IxqLNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Systems Analyst",
-        "company": "Shamrock Trading Corporation",
-        "location": "Overland Park, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-systems-analyst-at-shamrock-trading-corporation-4283908846?position=22&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=9TX4SedriiaD%2Fi1MbG0uiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Bank of America",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-bank-of-america-4283912057?position=27&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=znn0T75jmKkfEoPix7DLYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4279804270?position=29&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=l5l6lxh%2B7muNNqyYwkCZng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Investigative Data Analytics - Consultant",
-        "company": "J.S. Held LLC",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/investigative-data-analytics-consultant-at-j-s-held-llc-4283906839?position=34&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=pHSZgME7qPoGkySjyMh3%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "WMS Software Engineer (Odoo)",
-        "company": "Anduril Industries",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/wms-software-engineer-odoo-at-anduril-industries-4283909831?position=37&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=bhijfm22XkY7tSDCEq0TiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Automotive Connectivity & Data (35700-MKAI)",
-        "company": "TalentAlly",
-        "location": "Novi, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-automotive-connectivity-data-35700-mkai-at-talentally-4283922124?position=40&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=pmRHDNB%2FIal07JmAhX5BPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SAIC",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-saic-4283906399?position=41&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=cSomnNeUmyAKUSPfl16tiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Environmental SCADA Engineer",
-        "company": "Tesla",
-        "location": "Fremont, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/environmental-scada-engineer-at-tesla-4283908763?position=43&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=90z9QmhzUGW1bH1IJ5p56w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Alternative Data Management - Analyst",
-        "company": "iCapital",
-        "location": "Stamford, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/alternative-data-management-analyst-at-icapital-4283915687?position=44&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=b8E95V0sb8tCMUzv1pFp5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst (W2 only, no sponsorship)",
-        "company": "BRMi",
-        "location": "Vienna, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-w2-only-no-sponsorship-at-brmi-4283913323?position=45&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=IVKITMt9vF0049wlWo9CmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "Coordinator",
-        "company": "Ascendion",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/coordinator-at-ascendion-4283565179?position=53&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=Ej3nrGWA3fC%2BGX5iGyLKvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "\ud83d\ude80 HIRING NOW | \ud83d\udcca Actuarial Data Scientist | \ud83d\udcbb Digital Transformation | \ud83e\udd16 Advanced ML Projects | \ud83d\udca1 Innovate in the Insurance Space | \ud83d\udcb5 Up to $175k Package | \ud83c\udfe2 Onsite \u2013 Multiple US Locations",
-        "company": "Data Revolution",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-now-%F0%9F%93%8A-actuarial-data-scientist-%F0%9F%92%BB-digital-transformation-%F0%9F%A4%96-advanced-ml-projects-%F0%9F%92%A1-innovate-in-the-insurance-space-%F0%9F%92%B5-up-to-%24175k-package-%F0%9F%8F%A2-onsite-%E2%80%93-multiple-us-locations-at-data-revolution-4280669220?position=54&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=5%2F2qC7%2Bn9VDQedkIpQEiCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": true
-    },
-    {
-        "title": "Performance Analyst",
-        "company": "LMK Recruiting Solutions",
-        "location": "Orange County, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/performance-analyst-at-lmk-recruiting-solutions-4283561428?position=56&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=XgwU2nmuAGKplTsHoCqP%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "(USA) Analyst II, Business Analysis and Insights - Health and Wellness Non-Store Operations",
-        "company": "Walmart",
-        "location": "Carrollton, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/usa-analyst-ii-business-analysis-and-insights-health-and-wellness-non-store-operations-at-walmart-4283556929?position=57&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=MRrU0gYgT590gLd85nZrOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "Bilingual (English/Spanish)  Data Scientist II",
-        "company": "Parzr: Software Consulting & Technology Staffing",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bilingual-english-spanish-data-scientist-ii-at-parzr-software-consulting-technology-staffing-4283900608?position=60&pageNum=0&refId=J601bz04C%2BwBhvgEkFLJvQ%3D%3D&trackingId=RiHw4JRaOLOTjKOQvGur8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-12 18:54:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Carmeuse",
         "location": "Pittsburgh, PA",
         "date_posted": "Recent",
@@ -1158,5 +908,155 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-12 19:43:01",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst (entry-level)",
+        "company": "Matic",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-matic-4283956005?position=2&pageNum=0&refId=hK%2F7jqtBbbACguAcf5DumA%3D%3D&trackingId=yXGbBPI7xs%2Bql94mwT5KZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst Surgical Services Part Time Days",
+        "company": "Doctors Hospital of Manteca",
+        "location": "Manteca, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-surgical-services-part-time-days-at-doctors-hospital-of-manteca-4283942252?position=55&pageNum=0&refId=hK%2F7jqtBbbACguAcf5DumA%3D%3D&trackingId=jWT8MwLmBtvPSDg1idwiqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst Surgical Services Part Time Days",
+        "company": "Doctors Hospital of Manteca",
+        "location": "Manteca, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-surgical-services-part-time-days-at-doctors-hospital-of-manteca-4283942252?position=5&pageNum=5&refId=6KHdhntvA6eGYjCT398SKA%3D%3D&trackingId=RoAvt4QDl6R43l1cnl0lIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Backend (Trust and Safety Foundations)",
+        "company": "Affirm",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-trust-and-safety-foundations-at-affirm-4283927657?position=6&pageNum=7&refId=utsf1o4%2FBZSdQ1%2BDCzooFw%3D%3D&trackingId=%2BL%2F9L8EAGAirxEpGO9f4bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "RESEARCH DATA ANALYST II",
+        "company": "California Department of Social Services",
+        "location": "Sacramento, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-ii-at-california-department-of-social-services-4283945485?position=7&pageNum=7&refId=utsf1o4%2FBZSdQ1%2BDCzooFw%3D%3D&trackingId=cQqCFTh6E01yptSkQh2ENA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Backend (Trust and Safety Foundations)",
+        "company": "Affirm",
+        "location": "Las Vegas, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-trust-and-safety-foundations-at-affirm-4283926833?position=1&pageNum=10&refId=scLnx%2Ba2vF347ThNr%2BjSgQ%3D%3D&trackingId=HnrJm1sVIl3IgZjjL86Jfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Backend (Trust and Safety Foundations)",
+        "company": "Affirm",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-trust-and-safety-foundations-at-affirm-4283930537?position=3&pageNum=10&refId=scLnx%2Ba2vF347ThNr%2BjSgQ%3D%3D&trackingId=LG1Gf%2Bv5vW1u0exGPeTNmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Information System Security Engineer with Security Clearance",
+        "company": "TalentAlly",
+        "location": "Greater Philadelphia",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/information-system-security-engineer-with-security-clearance-at-talentally-4283798187?position=5&pageNum=10&refId=scLnx%2Ba2vF347ThNr%2BjSgQ%3D%3D&trackingId=KxmgNwJBdcxzfkQL%2FfNZCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Critical Facilities Engineer",
+        "company": "Allied OneSource",
+        "location": "Shawnee, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-critical-facilities-engineer-at-allied-onesource-4283942773?position=6&pageNum=10&refId=scLnx%2Ba2vF347ThNr%2BjSgQ%3D%3D&trackingId=W%2FaEsclBnITsb2VmuzK9cg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Product Analyst, Copilot",
+        "company": "ZoomInfo",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-product-analyst-copilot-at-zoominfo-4283797648?position=1&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=WS9Lq2Mp8VTIYityUposBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Engineer",
+        "company": "ITT Inc.",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-itt-inc-4283560866?position=2&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=WxP4AFmSLgSDxEj5NsfuLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Shipper Support - DM (Nashville)",
+        "company": "Aston Carter",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/shipper-support-dm-nashville-at-aston-carter-4283941111?position=3&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=5bYvClm0x6jmQWaKUWFm2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Chinese Language Specialist",
+        "company": "iMerit Scholars",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/chinese-language-specialist-at-imerit-scholars-4273242180?position=4&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=W4x46fyxeFOisPCkKRNFSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Care Coordinator",
+        "company": "Stratasys",
+        "location": "Eden Prairie, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/customer-care-coordinator-at-stratasys-4283907901?position=5&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=HUfDTBWTqy707iHUq1IsBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
+    },
+    {
+        "title": "Construction Inspector",
+        "company": "Pennoni",
+        "location": "Princeton, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/construction-inspector-at-pennoni-4283907257?position=6&pageNum=12&refId=z4Yv1VUG%2BwqquNegSgcoPQ%3D%3D&trackingId=ciH4FBPyM1T0XCDzvHJg2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-12 19:55:39",
+        "email_sent": false
     }
 ]
