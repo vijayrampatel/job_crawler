@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4287738187?position=1&pageNum=0&refId=uXvRTSrG%2BWbxlSLqOpqdjg%3D%3D&trackingId=AzGfNeJ8urnNXe4yuWjHqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-17 14:23:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "RA Capital Management",
         "location": "Boston, MA",
         "date_posted": "Recent",
@@ -198,5 +188,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-17 15:18:06",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Truveta",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-truveta-4287723846?position=3&pageNum=0&refId=Akc%2BnIQd2S3tlmQBzBy21Q%3D%3D&trackingId=Xxt%2Fq2Q2yX1k%2BRI4ld1Aqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-17 15:35:08",
+        "email_sent": false
     }
 ]
