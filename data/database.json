@@ -1,656 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "TBG | The Bachrach Group",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tbg-the-bachrach-group-4285882078?position=3&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=8sr19PXMAW%2FE%2FGAGrV5sJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Kavaliro",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kavaliro-4288933657?position=7&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=7hRiThjnIbdfzLTbu6FOQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "TeleTracking",
-        "location": "Greater Pittsburgh Region",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-teletracking-4273768780?position=8&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=FSbcU81n9P%2FN6ZdGJ%2BSUXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "HirePower Staffing Solution",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirepower-staffing-solution-4285875875?position=9&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=kdFPv5ywUTAutAU99DJa2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Static Data, Analyst",
-        "company": "MUFG",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/static-data-analyst-at-mufg-4273767352?position=18&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=mptiY28KTUz1A9FrBGGEwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288934891?position=23&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=1ClFWr51%2FBIP4ZPCRiuVdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288936687?position=24&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=0MpcByYTplhOBY2FDmMM5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, High Performance Computing",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-high-performance-computing-at-spacex-4171082745?position=25&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=UUspgPqzaLyvhAiLeP0aKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288935789?position=26&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=kKzz0QeCelpSVwz5QCMQ8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288941026?position=27&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=t%2FCIUvR5Adl2fY6e5HfXGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288939275?position=28&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=t81OjgXcdnfp2I5g1vOEFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Cardinal Health",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cardinal-health-4272173603?position=29&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=z8bVW1odzTysZXzx4gLvuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288937510?position=30&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=emUG%2BRNqEP1FGEMlGBY9lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "A-Line Staffing Solutions",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-a-line-staffing-solutions-4288933388?position=31&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=J3rRO4J2XGZ98VyGabOlZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288937506?position=32&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=gTWCRajtxSJtgSbqI2s6Uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Prestige Staffing",
-        "location": "Greater St. Louis",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prestige-staffing-4288228192?position=33&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=X2O2B7WBtvj57siQNsFT9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288934896?position=36&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=GgyXHEACuL56f3T8XA6Mnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288933941?position=37&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=hSq%2B1x0fmw8WrZq3adeKlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288935787?position=38&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=TyrGDAB9CXpL3Jq9FeCRyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288939280?position=39&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=RRzmBb4e1A255ojTxSn3Yg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Minneapolis\u2013Saint Paul, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288937507?position=41&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=G3wNx6Kx66vwbMzz0Y4YsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288939278?position=44&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=NKOwSQJWpNyjsqtVcGVINw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288935791?position=45&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=qc%2BNlMvuBCF1I1zgP5zZjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Boise, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288940233?position=46&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=BzZy%2BCD6SzyWmr7Fa74%2FFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Urbana, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288936689?position=48&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=9RamkqgGTSDgFV784Lcu5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Ithaca, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288935792?position=49&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=MSsM5dJ7UnFFLMoza3xGBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288934890?position=51&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=4472p%2Fw60QcXiwVUwOvx1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "EOTECH",
-        "location": "Clarksville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-eotech-4277867924?position=52&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=l06QwBv89bC1qoPCsRrFHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288934885?position=53&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=DjYFxoPZGVnoxQfV8v5O4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288937499?position=55&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=UUnnsavjsWekDka2v4WFpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288939273?position=58&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=9Aso8v8xx9UvKasPCdPrlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288936682?position=59&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=qXSMk1wOU5KN3i2PQSELNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288934884?position=60&pageNum=0&refId=jwbjuiX9iYjptEKPZ1J3JQ%3D%3D&trackingId=MgwijiUtJFbLdZUA%2FrPL1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288935789?position=1&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=Qq57ivJ%2BDSx06V71turSLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288941026?position=2&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=d1A%2F%2BmldwcLdxErXalqaiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288939275?position=3&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=CTZDlCUDDxZFwpRmBnLdDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Cardinal Health",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cardinal-health-4272173603?position=4&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=JUPtHtRr8cGMkwVYbaaPZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288937510?position=5&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=D1xaLcV0KIsztNLMfb%2BDBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "A-Line Staffing Solutions",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-a-line-staffing-solutions-4288933388?position=6&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=p5KsFHtKwSxhwnk0KdjWmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, AI Studio",
-        "company": "Speechify",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-studio-at-speechify-4288937506?position=7&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=AfURi%2Bv%2FZ6JzmWDFBVd6Wg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Prestige Staffing",
-        "location": "Greater St. Louis",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prestige-staffing-4288228192?position=8&pageNum=2&refId=96Azu0VOWN6yKHDqzVFurg%3D%3D&trackingId=mCvdF7M2v30RZ4EEeeP9Ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288934890?position=1&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=7vU7pnEjQ7UHyUCxzKAETw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "EOTECH",
-        "location": "Clarksville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-eotech-4277867924?position=2&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=7W3lkMp3WOrczZhNb%2BvXDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288934885?position=3&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=n53SVuzfuSg%2B1BNlH7gmYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288937499?position=5&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=PTMfDajMNVhLmGuIsodhYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288941024?position=6&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=Y0IY%2F89ihQMIxp8a6%2FBLPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288939273?position=9&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=DLW0DZTmgVRXV7wFaM9k5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Studio",
-        "company": "Speechify",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288936682?position=10&pageNum=5&refId=3A9Zd%2Bkxi9qJ06f2JErVwg%3D%3D&trackingId=o39LdWeGjhXeyrRry5Xu5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "HirePower Staffing Solution",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-hirepower-staffing-solution-4285874211?position=3&pageNum=7&refId=SiQKxIiO9bDBirQbRqmqnw%3D%3D&trackingId=S%2BsqpQ2YUwyZB%2Fi8UC5aww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Real-Time Video Systems",
-        "company": "mundane",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-real-time-video-systems-at-mundane-4288412778?position=5&pageNum=7&refId=SiQKxIiO9bDBirQbRqmqnw%3D%3D&trackingId=WX9BCdThvVu3%2Fq9NHiLnAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "GPU Software Engineer",
-        "company": "Roche",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-at-roche-4278052241?position=10&pageNum=7&refId=SiQKxIiO9bDBirQbRqmqnw%3D%3D&trackingId=it3i4FOQy%2Fu6iDwI3RViuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, Reuters",
-        "company": "Thomson Reuters",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-reuters-at-thomson-reuters-4288933639?position=2&pageNum=10&refId=N9pPZ0NY%2Fh%2BU8m%2BaRNlEYA%3D%3D&trackingId=PK1VaUha3FLVwEjcP6sFSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285875535?position=6&pageNum=10&refId=N9pPZ0NY%2Fh%2BU8m%2BaRNlEYA%3D%3D&trackingId=5rkYi%2FykIMP%2Bk%2BMe0kFJkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285874691?position=8&pageNum=10&refId=N9pPZ0NY%2Fh%2BU8m%2BaRNlEYA%3D%3D&trackingId=idA%2Bym8uNijhsN3vkTEfqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Power Systems Engineer",
-        "company": "Scale Microgrids",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-systems-engineer-at-scale-microgrids-4288925865?position=9&pageNum=10&refId=N9pPZ0NY%2Fh%2BU8m%2BaRNlEYA%3D%3D&trackingId=HPgWHZrpwXPWwgym49i9ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Duluth, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285875761?position=1&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=sJNGpQZh6GW5NIEQBvl%2B%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285874638?position=2&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=pc7TnhZBp%2BjQ%2FOWUV6RU%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285875598?position=3&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=E3FoOMeuCTq1MSdH5pQs%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II",
-        "company": "Expedia Group",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4288935598?position=4&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=0qwRnaqhz1zX5dvbJyHZAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": true
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Charleston, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285877487?position=5&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=Ly0kSH8EN1Y9eb7eb8hNFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "St Charles, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285875568?position=6&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=eVbpMs57FVYD92Ldx6JoAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Cleveland, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285881274?position=7&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=ZB5X%2FfA26ZQIygnwNd9%2FYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Tallahassee, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285882018?position=8&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=jxhRBMn1cE8bH2wlH085dQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Knoxville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285882137?position=9&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=5gCSrR%2FlkhUtbGdTEVsOEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer / Web Developer",
-        "company": "Jobot Consulting",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285877510?position=10&pageNum=12&refId=t0r2By51ybV5PR2mnbcnVw%3D%3D&trackingId=Fvt2tii77TlrLt40MMkDNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 13:44:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Beacon Hill",
         "location": "United States",
         "date_posted": "Recent",
@@ -1648,5 +998,165 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-20 14:41:34",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst (Finance)",
+        "company": "Vercel",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-finance-at-vercel-4288906650?position=28&pageNum=0&refId=OHe2SNuTK9G3UXHBIMbYRQ%3D%3D&trackingId=Xn3R7jOwKb%2FyhTzRbDL7fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence / Data Analyst",
+        "company": "Jack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-jack-4284167087?position=29&pageNum=0&refId=OHe2SNuTK9G3UXHBIMbYRQ%3D%3D&trackingId=yT3zr8NXIwdvPtpRaBZcsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analytics Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-analyst-at-wiraa-4288905811?position=49&pageNum=0&refId=OHe2SNuTK9G3UXHBIMbYRQ%3D%3D&trackingId=GL4m3OZVcXPTXf%2F8mVPqHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Finance)",
+        "company": "Vercel",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-finance-at-vercel-4288906650?position=4&pageNum=2&refId=PZcW%2FZ89Vtijvdb%2BjyuMFw%3D%3D&trackingId=YJS%2FQV5mS4RTteWEahEtRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence / Data Analyst",
+        "company": "Jack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-jack-4284167087?position=5&pageNum=2&refId=PZcW%2FZ89Vtijvdb%2BjyuMFw%3D%3D&trackingId=wD24a0wheKKvSamDfiGgfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Studio",
+        "company": "Speechify",
+        "location": "Minneapolis\u2013Saint Paul, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-studio-at-speechify-4288933933?position=3&pageNum=7&refId=zpwYy8wy6MLVlYFIGiQ3YQ%3D%3D&trackingId=bYmTy1mCmWE3EJ%2FYUJVBTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analytics Specialist",
+        "company": "Dechert LLP",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-specialist-at-dechert-llp-4288944390?position=2&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=HT%2FOJX6QgVJl%2B8Gl81FgWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Assistant, Business Intelligence & Strategy",
+        "company": "Warner Music Group",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/assistant-business-intelligence-strategy-at-warner-music-group-4252879060?position=3&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=z5YxRKz4VyDoGshBxmXYzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - Windows Cloud",
+        "company": "Jobright.ai",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-windows-cloud-at-jobright-ai-4288226452?position=4&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=xuy13p%2FfnpniJgZwlNUcEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "L.E.K. Consulting",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4288944672?position=5&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=jrtPKE0FVyzFjiOlYicJBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Flex Hybrid in Chicago, IL",
+        "company": "Cboe Global Markets",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flex-hybrid-in-chicago-il-at-cboe-global-markets-4277857142?position=6&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=WPT1rtpUxECMDwnBhJKiMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Engineer II",
+        "company": "Honeywell",
+        "location": "Salem, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-ii-at-honeywell-4264191143?position=7&pageNum=10&refId=UC9DAcWk51d3edZ5Cq0Z7Q%3D%3D&trackingId=qseSdJg%2BH%2BA3dKpJ0y3hSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "React Software Engineer / Web Developer",
+        "company": "Jobot Consulting",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285880276?position=6&pageNum=12&refId=60LraiE5XUfQh54WotAacQ%3D%3D&trackingId=JVvrfVz1iXYYs20NFK82UQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III, Full Stack, Google Play",
+        "company": "Jobright.ai",
+        "location": "Mountain View, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-full-stack-google-play-at-jobright-ai-4288219703?position=7&pageNum=12&refId=60LraiE5XUfQh54WotAacQ%3D%3D&trackingId=D%2FIzZqZtwmj0zBcubUs9Pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "React Software Engineer / Web Developer",
+        "company": "Jobot Consulting",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-web-developer-at-jobot-consulting-4285880168?position=9&pageNum=12&refId=60LraiE5XUfQh54WotAacQ%3D%3D&trackingId=Bpc0qwhfB8JSe96D3knXSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Foundry Design Automation Software Engineer",
+        "company": "Jobright.ai",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-foundry-design-automation-software-engineer-at-jobright-ai-4288221458?position=10&pageNum=12&refId=60LraiE5XUfQh54WotAacQ%3D%3D&trackingId=4OV3Qbd98RZjVgs3TUWgrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 14:56:26",
+        "email_sent": false
     }
 ]
