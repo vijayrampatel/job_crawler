@@ -1,215 +1,5 @@
 [
     {
-        "title": "Data Analyst 4",
-        "company": "Aditi Consulting",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-4-at-aditi-consulting-4269591332?position=5&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=6396wVLZPENo5lDJ6TRPhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4288229909?position=10&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=vvE%2FtXHjMpCftPc2WEuxDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "York Solutions, LLC",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-york-solutions-llc-4288236269?position=12&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=1PAG3lHEFxvLCak3B0VcQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "REQ Solutions",
-        "location": "Aliso Viejo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-req-solutions-4288956047?position=28&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=U2s4vNW9WfthyHkYWpIySw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Salesforce Data Analyst",
-        "company": "Addison Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-addison-group-4288248066?position=40&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=mmIj4PA2onrk9VHbR2WhhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4288949147?position=45&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=R94WLH1veKptV6ETfzYI6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4288949146?position=48&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=c0dLj%2BEOkZl4qAQWyjEz%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Wanco Inc.",
-        "location": "Arvada, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-wanco-inc-4288951687?position=50&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=RwpMgN%2BqXxWMf23fxYC2Sw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Diversified Services Network, Inc.",
-        "location": "Mossville, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-diversified-services-network-inc-4288941692?position=53&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=ffQtgpqJItgoDDd7O9Fqxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Engineering - SDLC Engineering - Build & Test Acceleration - Software Engineer - Associate - Salt Lake City",
-        "company": "Goldman Sachs",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineering-sdlc-engineering-build-test-acceleration-software-engineer-associate-salt-lake-city-at-goldman-sachs-4274024091?position=56&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=J7RNUtKVNBHI%2FfhFiFzfXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Developer (Financial Services)",
-        "company": "Christofferson Robb & Company",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/developer-financial-services-at-christofferson-robb-company-4288246165?position=58&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=ttIIrnd1%2BIRLSuCn0dCFiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "American Software Resources, Inc",
-        "location": "Woodmere, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-american-software-resources-inc-4288247105?position=60&pageNum=0&refId=BmrbHI282T0qCuOqasMfUw%3D%3D&trackingId=zAg%2FtAvgqsY%2F8zd8%2FALIJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "REQ Solutions",
-        "location": "Aliso Viejo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-req-solutions-4288956047?position=2&pageNum=2&refId=7jmQowQFXYDQo%2BDHol%2FLtQ%3D%3D&trackingId=Brqww5mjOO%2BCwAQ8LHhU1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Diversified Services Network, Inc.",
-        "location": "Mossville, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-diversified-services-network-inc-4288941692?position=3&pageNum=5&refId=n9XchkrPstfYMeDOOAs1ZA%3D%3D&trackingId=0yPmzTjTDs%2Fb6BNAa9KhBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Engineering - SDLC Engineering - Build & Test Acceleration - Software Engineer - Associate - Salt Lake City",
-        "company": "Goldman Sachs",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineering-sdlc-engineering-build-test-acceleration-software-engineer-associate-salt-lake-city-at-goldman-sachs-4274024091?position=6&pageNum=5&refId=n9XchkrPstfYMeDOOAs1ZA%3D%3D&trackingId=OGIR3PasZ%2B%2F0nvwhwb10oA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Developer (Financial Services)",
-        "company": "Christofferson Robb & Company",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/developer-financial-services-at-christofferson-robb-company-4288246165?position=8&pageNum=5&refId=n9XchkrPstfYMeDOOAs1ZA%3D%3D&trackingId=gv%2BcMIBkAj9%2FdUOHYyr2nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "American Software Resources, Inc",
-        "location": "Woodmere, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-american-software-resources-inc-4288247105?position=10&pageNum=5&refId=n9XchkrPstfYMeDOOAs1ZA%3D%3D&trackingId=D3mng0q4PCvyEpMt9XfT6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Civil Engineer II",
-        "company": "2IM Group, LLC",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/civil-engineer-ii-at-2im-group-llc-4281071066?position=6&pageNum=7&refId=cxkR0awGAo5LjC%2FkAsy7aQ%3D%3D&trackingId=rg9oV5t47u1MQEySr%2FynbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Instrumentation and Controls Commissioning Engineer",
-        "company": "LotusWorks",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/instrumentation-and-controls-commissioning-engineer-at-lotusworks-4277833124?position=7&pageNum=7&refId=cxkR0awGAo5LjC%2FkAsy7aQ%3D%3D&trackingId=m0gIAIbOf7pACb30ERq10A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Flow Analyst - AMP",
-        "company": "Quest Diagnostics",
-        "location": "Pompano Beach, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/flow-analyst-amp-at-quest-diagnostics-4285892003?position=8&pageNum=7&refId=cxkR0awGAo5LjC%2FkAsy7aQ%3D%3D&trackingId=1ALK7sIzJr%2BHcC47xEGRrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - Water/Wastewater Engineering",
-        "company": "Jones Edmunds",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-water-wastewater-engineering-at-jones-edmunds-4288946507?position=9&pageNum=7&refId=cxkR0awGAo5LjC%2FkAsy7aQ%3D%3D&trackingId=pGlT6X5m7D4LNXYxTYqwTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-20 15:59:52",
-        "email_sent": true
-    },
-    {
         "title": "SQL Data Engineer",
         "company": "Apex Systems",
         "location": "Charlotte, NC",
@@ -868,5 +658,235 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-20 16:50:36",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Eterna",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-eterna-4288239868?position=1&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=e3hoI8x3fK7YfEWEQSDR0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "the LEGO Group",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-lego-group-4285899502?position=2&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=GXgbtGIQJt4z2%2FfwM63kqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Full Time: Data Engineer with Capital Market Experience",
+        "company": "Visionary Innovative Technology Solutions LLC",
+        "location": "Newark, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-time-data-engineer-with-capital-market-experience-at-visionary-innovative-technology-solutions-llc-4285883552?position=4&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=2D%2FBKqJpgIYBToko2TlcOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "System One",
+        "location": "Auburn, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-system-one-4288954322?position=8&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=iHCkOn8quyRgTUL44zkNOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4282857219?position=10&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=TjRSNLsarj6oLrVnpS1oow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Finance)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-finance-at-wiraa-4288906650?position=15&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=qxj3VgnSRuciI11MttLBlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Manager/Analytics Engineer",
+        "company": "Progressive Data Jobs",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-manager-analytics-engineer-at-progressive-data-jobs-4285898448?position=18&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=XtfV7wsnDVeipRjKs1SiOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "James Search Group",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4288951517?position=19&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=Iq%2FXdGJ8ly09d3smTQ%2BN2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Fullstack Software Engineer",
+        "company": "Tandym Group",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-tandym-group-4288243157?position=22&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=J4dP%2FGz64W3S7o0AeXvFDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Emonics LLC",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-emonics-llc-4288243129?position=23&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=TmtDBHT1nx2ubkE3ta5Lxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288948846?position=28&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=Nx%2BAOHF%2FC4YH6dd0iC2CSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288954254?position=31&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=BLkSznXklq4rFjBtLXmV1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288954258?position=34&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=w8gffmFfCcoG8wntboYCzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Nebraska, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288955119?position=38&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=7cbkiCPr3PVrJGDLwJMH%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Whittier, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288950550?position=40&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=hsOP3p9LGO5cHswEgRoGdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288948842?position=41&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=m0VRc03HYk5%2F3O2rHblArA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Columbus, Ohio Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288963593?position=43&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=07gCBiaENr8lGQn1fZ9kQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-remote-at-jobright-ai-4285896562?position=44&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=%2BbgKhXJ4IobBdt2JqIYuuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288957803?position=51&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=A0ibroLODtBKb%2BCNCsIllA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Evaluation and Data Analyst",
+        "company": "Family Connections, Inc.",
+        "location": "East Orange, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/evaluation-and-data-analyst-at-family-connections-inc-4285898623?position=55&pageNum=0&refId=VFoT4qP13mjj43pylrPQOw%3D%3D&trackingId=1pov5D2v1Z%2B0f98CCfI2oA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288948846?position=3&pageNum=2&refId=xd54iicj5o5jRWINZuPdyA%3D%3D&trackingId=WK3CRVR%2F7XJe09N%2FJh95XA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288954254?position=6&pageNum=2&refId=xd54iicj5o5jRWINZuPdyA%3D%3D&trackingId=21H4I%2FLw7tzLHrKLqvv34Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4288954258?position=9&pageNum=2&refId=xd54iicj5o5jRWINZuPdyA%3D%3D&trackingId=%2FRTHz9JpowapsqVHQp2BqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-20 16:59:57",
+        "email_sent": false
     }
 ]
