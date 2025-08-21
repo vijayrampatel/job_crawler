@@ -1,285 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Atlantic Group",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-atlantic-group-4289270795?position=1&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=z1V9ZxtVDI2UMO4AjmHvrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4286322245?position=2&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=aaWdqGm%2F0qj4AB4ITRYhhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Database Engineer",
-        "company": "Visa",
-        "location": "Mentor, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-visa-4289004834?position=4&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=pPXCA4xs6%2Fb9hsaP%2BOJ8xQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "NYC Department of Finance",
-        "location": "Manhattan, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-nyc-department-of-finance-4286700499?position=6&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=Mf9xudyh4YgrBWzgmMgCEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-appcard-inc-4285004066?position=10&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=t1sLutms08vHN5zA3PGagg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "AppCard, Inc.",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4285896325?position=12&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=vl2ylnEyEsBFHR5UXbCIBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ulbrich Stainless Steels & Special Metals, Inc.",
-        "location": "College Park, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ulbrich-stainless-steels-special-metals-inc-4289273407?position=13&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=lwWwFskElFvH6VcQVanCcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Recruiting from Scratch",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-recruiting-from-scratch-4283079670?position=21&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=lmsvb1iMteLDsb7U8ZaJog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Infrastructure Engineer (Starlink)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-infrastructure-engineer-starlink-at-spacex-4238984380?position=23&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=wa0iIx56DvzqsZTd8f9zUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Engineer Software (Prisma Access Data-Plane Applications)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-prisma-access-data-plane-applications-at-palo-alto-networks-4289005928?position=26&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=3m%2F8P4ZKyDL9QAcqSoEQkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4282823587?position=31&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=Bor3Mk3qQ2%2FC1K6b01OdqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Symbotic",
-        "location": "Seymour, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4278374541?position=32&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=2XK4E7WUrUDGvv2u4H18yg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Flight Software (Starship)",
-        "company": "SpaceX",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-flight-software-starship-at-spacex-4224019553?position=37&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=gkmJFvQ4EGi12ZnqosL47A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Bureau of Environmental Sciences and Engineering",
-        "company": "NYC Department of Health and Mental Hygiene",
-        "location": "Queens, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-bureau-of-environmental-sciences-and-engineering-at-nyc-department-of-health-and-mental-hygiene-4286704329?position=42&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=f5g6UA%2BYW1FdPs2CeBOglw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer- COBRA",
-        "company": "Mission Technologies, a division of HII",
-        "location": "Patuxent River, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cobra-at-mission-technologies-a-division-of-hii-4275003566?position=44&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=EdYEvJNfuefz0E3PzY5U%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Mitchell Martin Inc.",
-        "location": "Titusville, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-mitchell-martin-inc-4267484487?position=47&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=Ab1B8HqYUk%2FXgRfw2Zc21A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - COBRA",
-        "company": "Mission Technologies, a division of HII",
-        "location": "Vandenberg Village, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cobra-at-mission-technologies-a-division-of-hii-4275008256?position=50&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=jA4gjS9X63ZC4mIXeL25%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "AlphaRoute",
-        "location": "Waltham, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-alpharoute-4289275608?position=52&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=9rKheGqDvf9yfZfjyhzL5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "System Solutions Engineer (Field)",
-        "company": "L3Harris Technologies",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-solutions-engineer-field-at-l3harris-technologies-4278371822?position=54&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=AeQPghQlnlR7mKQewYejQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Quantitative Analyst II-Fraud Analytics",
-        "company": "Fifth Third Bank",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-ii-fraud-analytics-at-fifth-third-bank-4274352247?position=56&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=VnvKUtEasDHMM3%2B5LXbyxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Automation Software Test Engineer",
-        "company": "L3Harris Technologies",
-        "location": "Rochester, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-software-test-engineer-at-l3harris-technologies-4278376385?position=57&pageNum=0&refId=YaIiynlx4i3bDndR1OzKjA%3D%3D&trackingId=%2BLJxowb8b3B7gXsmrFV6kQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Principal Engineer Software (Prisma Access Data-Plane Applications)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-prisma-access-data-plane-applications-at-palo-alto-networks-4289005928?position=1&pageNum=2&refId=CEP%2B8wV8K%2BWU0yJ1YGQeEw%3D%3D&trackingId=lu0kiLrGuODhZNc%2BoVXNZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4282823587?position=6&pageNum=2&refId=CEP%2B8wV8K%2BWU0yJ1YGQeEw%3D%3D&trackingId=Qe56uuAJMbTNDAadjCDMyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Symbotic",
-        "location": "Seymour, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4278374541?position=7&pageNum=2&refId=CEP%2B8wV8K%2BWU0yJ1YGQeEw%3D%3D&trackingId=cRrpxrCMLjltfV4uieFBgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "AlphaRoute",
-        "location": "Waltham, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-alpharoute-4289275608?position=2&pageNum=5&refId=FIBCiR6CQyrsRrPCcZ9exg%3D%3D&trackingId=Yd2Wu29YLBXtjwQ3B7smNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "System Solutions Engineer (Field)",
-        "company": "L3Harris Technologies",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-solutions-engineer-field-at-l3harris-technologies-4278371822?position=4&pageNum=5&refId=FIBCiR6CQyrsRrPCcZ9exg%3D%3D&trackingId=%2BoFegxmyq3MqmrwC%2FvMrHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Quantitative Analyst II-Fraud Analytics",
-        "company": "Fifth Third Bank",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-ii-fraud-analytics-at-fifth-third-bank-4274352247?position=6&pageNum=5&refId=FIBCiR6CQyrsRrPCcZ9exg%3D%3D&trackingId=lEZVBhvOoGzErcQFtgxDzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
-        "title": "Automation Software Test Engineer",
-        "company": "L3Harris Technologies",
-        "location": "Rochester, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-software-test-engineer-at-l3harris-technologies-4278376385?position=7&pageNum=5&refId=FIBCiR6CQyrsRrPCcZ9exg%3D%3D&trackingId=nfz1T7%2FTudwPxRj8Gf4ksA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-21 13:44:40",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst, Sr.",
         "company": "Under Armour",
         "location": "United States",
@@ -1038,5 +758,105 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-21 14:40:36",
         "email_sent": true
+    },
+    {
+        "title": "Principal Software Engineer in Test (Prisma SASE-ADEM)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-in-test-prisma-sase-adem-at-palo-alto-networks-4289287102?position=54&pageNum=0&refId=JqlPiSMOMuCvsBQd2T%2Bvmw%3D%3D&trackingId=nI0%2FrQ%2FdYIN705H3Ij5%2B8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "L.E.K. Consulting",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4289015782?position=55&pageNum=0&refId=JqlPiSMOMuCvsBQd2T%2Bvmw%3D%3D&trackingId=t%2FoO1gABog0r540%2BSSXnCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Services Analyst",
+        "company": "ZoomInfo",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-services-analyst-at-zoominfo-4289288026?position=57&pageNum=0&refId=JqlPiSMOMuCvsBQd2T%2Bvmw%3D%3D&trackingId=PwgF8GPTv7qtRnKGyWbzjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer in Test (Prisma SASE-ADEM)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-in-test-prisma-sase-adem-at-palo-alto-networks-4289287102?position=4&pageNum=5&refId=qL9URFpcLCKdtSFVBq77qg%3D%3D&trackingId=o9mdBj7AGd9QpQeb2XHfKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "L.E.K. Consulting",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4289015782?position=5&pageNum=5&refId=qL9URFpcLCKdtSFVBq77qg%3D%3D&trackingId=dsA9%2Fz%2FmgNwPvy8C1MkWrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Services Analyst",
+        "company": "ZoomInfo",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-services-analyst-at-zoominfo-4289288026?position=7&pageNum=5&refId=qL9URFpcLCKdtSFVBq77qg%3D%3D&trackingId=1KSKMSf%2BxFGDQIN5ZWiJow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1 - 23832 (FS Poly Required)",
+        "company": "Mission Technologies, a division of HII",
+        "location": "Fort Meade, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-23832-fs-poly-required-at-mission-technologies-a-division-of-hii-4263142691?position=5&pageNum=7&refId=5HQHIWnfVWx%2B3UEVRhYQhQ%3D%3D&trackingId=0earSETgZCWIIr1NOsbuVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Research Associate - Data Analysis",
+        "company": "The Center for Election Innovation & Research",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-data-analysis-at-the-center-for-election-innovation-research-4289107914?position=8&pageNum=7&refId=5HQHIWnfVWx%2B3UEVRhYQhQ%3D%3D&trackingId=PNloz2UbeiDQ8oGZUjSzBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Controllers Engineering \u2013 Dallas - Associate, Data Governance - 9117685",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/controllers-engineering-%E2%80%93-dallas-associate-data-governance-9117685-at-goldman-sachs-4274379650?position=9&pageNum=7&refId=5HQHIWnfVWx%2B3UEVRhYQhQ%3D%3D&trackingId=hIZwjl2e1wbbaclLMt8MrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
+    },
+    {
+        "title": "Decision Analytics Associate Consultant - Bioinformatics",
+        "company": "ZS",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/decision-analytics-associate-consultant-bioinformatics-at-zs-4204922242?position=10&pageNum=7&refId=5HQHIWnfVWx%2B3UEVRhYQhQ%3D%3D&trackingId=as2gT%2FNyD6YmS45qJCfPWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-21 14:54:09",
+        "email_sent": false
     }
 ]
