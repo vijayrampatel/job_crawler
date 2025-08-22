@@ -1,35 +1,5 @@
 [
     {
-        "title": "RESEARCH DATA ANALYST II",
-        "company": "Caltrans District 3",
-        "location": "Sacramento, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-ii-at-caltrans-district-3-4289423914?position=9&pageNum=0&refId=FQtR3cb40Bg9BmwKD45Brw%3D%3D&trackingId=6Zk4QI3r4k56syNu%2Bl2iTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-22 04:44:01",
-        "email_sent": false
-    },
-    {
-        "title": "DATA SCIENTIST",
-        "company": "Shell Energy",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-shell-energy-4289729828?position=10&pageNum=0&refId=FQtR3cb40Bg9BmwKD45Brw%3D%3D&trackingId=R%2FV%2BXJLmAkW1VKahm7MNng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-22 04:44:01",
-        "email_sent": true
-    },
-    {
-        "title": "ASSOCIATE GOVERNMENTAL PROGRAM ANALYST",
-        "company": "Caltrans District 3",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-governmental-program-analyst-at-caltrans-district-3-4289430188?position=15&pageNum=0&refId=FQtR3cb40Bg9BmwKD45Brw%3D%3D&trackingId=PYSMiX0Z%2BsiUxZOVU3%2BtAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-22 04:44:01",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer I, QuBIT",
         "company": "myGwork - LGBTQ+ Business Community",
         "location": "Bellevue, WA",
@@ -228,5 +198,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-22 05:38:17",
         "email_sent": true
+    },
+    {
+        "title": "Associate Data Modeler",
+        "company": "LendingClub",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-modeler-at-lendingclub-4289436331?position=8&pageNum=0&refId=AxCDLJMIDdZZpfgTHeCvvQ%3D%3D&trackingId=WPYZqyAIcJmt3xTFUA2FJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-22 05:49:32",
+        "email_sent": false
+    },
+    {
+        "title": "Solution Intelligence (SI) Specialist-Analytics",
+        "company": "Essex Lake Group",
+        "location": "Princeton, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solution-intelligence-si-specialist-analytics-at-essex-lake-group-4266129679?position=9&pageNum=0&refId=AxCDLJMIDdZZpfgTHeCvvQ%3D%3D&trackingId=tW5RW3BFbzNwXNe9xNXR1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-22 05:49:32",
+        "email_sent": false
+    },
+    {
+        "title": "Development Data Specialist",
+        "company": "Inside Higher Ed",
+        "location": "San Marcos, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/development-data-specialist-at-inside-higher-ed-4289726950?position=10&pageNum=0&refId=AxCDLJMIDdZZpfgTHeCvvQ%3D%3D&trackingId=UdPxLAVug2Kk9iKg%2BjjSjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-22 05:49:32",
+        "email_sent": false
+    },
+    {
+        "title": "Production Engineer II",
+        "company": "Amrize",
+        "location": "Lakewood, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/production-engineer-ii-at-amrize-4286770897?position=23&pageNum=0&refId=AxCDLJMIDdZZpfgTHeCvvQ%3D%3D&trackingId=xIwBuEc%2F61Q%2BxIlHqB%2FkTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-22 05:49:32",
+        "email_sent": false
+    },
+    {
+        "title": "Process Engineer",
+        "company": "TalentAlly",
+        "location": "Brunswick, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/process-engineer-at-talentally-4271545133?position=24&pageNum=0&refId=AxCDLJMIDdZZpfgTHeCvvQ%3D%3D&trackingId=uVsMhRhJogUYCDBvs0V9oQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-22 05:49:32",
+        "email_sent": false
     }
 ]
