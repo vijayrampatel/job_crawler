@@ -1,35 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Tech Consulting",
-        "location": "Albany, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-tech-consulting-4290082629?position=1&pageNum=0&refId=Z4Y3Or6T8ZMWoepSW2fwoQ%3D%3D&trackingId=K9m0gDifdY3oPb29kMiSow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 16:39:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Realtor.com",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-realtor-com-4290284455?position=4&pageNum=0&refId=Z4Y3Or6T8ZMWoepSW2fwoQ%3D%3D&trackingId=%2FU7%2Bpa%2BoJWO33BrFuO66lw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 16:39:48",
-        "email_sent": false
-    },
-    {
-        "title": "OCU-Technical-Mechanical Engineering Technician-1st Shift",
-        "company": "Cummins West Africa Limited",
-        "location": "Seymour, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ocu-technical-mechanical-engineering-technician-1st-shift-at-cummins-west-africa-limited-4290410004?position=13&pageNum=0&refId=Z4Y3Or6T8ZMWoepSW2fwoQ%3D%3D&trackingId=jVRAQaScBjhsNE%2BlpFrLdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 16:39:48",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "CareFirst BlueCross BlueShield",
         "location": "United States",
@@ -158,5 +128,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-23 17:32:42",
         "email_sent": true
+    },
+    {
+        "title": "Healthcare Data Analyst",
+        "company": "Associated Eye Care",
+        "location": "Stillwater, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-associated-eye-care-4287657322?position=2&pageNum=0&refId=FCgNl3W5T%2FbL9jISmoLzjQ%3D%3D&trackingId=hs%2BuCNoknfWCTXLmHKGyJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:46:26",
+        "email_sent": false
+    },
+    {
+        "title": "SOFTWARE ENGINEER",
+        "company": "Avancer Corporation",
+        "location": "Cranbury, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-avancer-corporation-4290088236?position=3&pageNum=0&refId=FCgNl3W5T%2FbL9jISmoLzjQ%3D%3D&trackingId=sITAxQDe0GR3JVe5jjmBeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:46:26",
+        "email_sent": false
     }
 ]
