@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Scientist Controls Engineer (LAP)",
-        "company": "Ford Motor Company",
-        "location": "Louisville, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-controls-engineer-lap-at-ford-motor-company-4265274918?position=4&pageNum=0&refId=WfEUHzcCjIYut%2FiANTP%2FVg%3D%3D&trackingId=GnnYnXOxtFQJtYD5r639ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 10:56:13",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer, Network Emulation & Simulation (R3792)",
-        "company": "Shield AI",
-        "location": "San Diego Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-network-emulation-simulation-r3792-at-shield-ai-4254255772?position=27&pageNum=0&refId=WfEUHzcCjIYut%2FiANTP%2FVg%3D%3D&trackingId=mao0w2hsqvY0rVK5ThFMAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 10:56:13",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst",
         "company": "Similarweb",
         "location": "New York, NY",
@@ -408,5 +388,65 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-24 11:49:14",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4224755456?position=1&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=WILoazn1lyPWYoOX%2BkndtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
+    },
+    {
+        "title": "Controls Engineer - Data Center",
+        "company": "BW Design Group",
+        "location": "St Louis, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4211152615?position=13&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=UOs7qYmLIcAQgRDjXSBZig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
+    },
+    {
+        "title": "Database Software Delivery Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-software-delivery-engineer-at-tata-consultancy-services-4278190142?position=22&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=SslTsEGzP%2F3bj7JUzwfWoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle Developer",
+        "company": "AbbVie",
+        "location": "North Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/oracle-developer-at-abbvie-4222854019?position=23&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=4KuJZj6KYTwZGfJxc0slwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Development Engineer in Test",
+        "company": "Tata Consultancy Services",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-development-engineer-in-test-at-tata-consultancy-services-4278407590?position=29&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=RYliEMLoAXP%2FEPhFgsn4rg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
+    },
+    {
+        "title": "Geotechnical Staff Engineer",
+        "company": "S&ME",
+        "location": "Greater Wilmington Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/geotechnical-staff-engineer-at-s-me-4241074965?position=49&pageNum=0&refId=CFPPb7wVNYVdDcdsi14Atw%3D%3D&trackingId=NaRLy3i%2BolYELPg0HzVP%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:59:05",
+        "email_sent": false
     }
 ]
