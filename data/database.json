@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer - Post-training Data",
-        "company": "Magic",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4224755456?position=2&pageNum=0&refId=u%2BMaWzFpdPL5qPTVYqhn%2FA%3D%3D&trackingId=kq3Dgm6zU%2FIEOo5cLqvvQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 10:47:13",
-        "email_sent": true
-    },
-    {
-        "title": "Database Software Delivery Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-software-delivery-engineer-at-tata-consultancy-services-4278190142?position=12&pageNum=0&refId=u%2BMaWzFpdPL5qPTVYqhn%2FA%3D%3D&trackingId=yuXCt%2B1G7exyrSloqh3zHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 10:47:13",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Development Engineer in Test",
-        "company": "Tata Consultancy Services",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-development-engineer-in-test-at-tata-consultancy-services-4278407590?position=17&pageNum=0&refId=u%2BMaWzFpdPL5qPTVYqhn%2FA%3D%3D&trackingId=WTvz7vjhhXTlVAiypfE6Rg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 10:47:13",
-        "email_sent": true
-    },
-    {
         "title": "Data Scientist Controls Engineer (LAP)",
         "company": "Ford Motor Company",
         "location": "Louisville, KY",
@@ -388,5 +358,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-24 11:39:49",
         "email_sent": true
+    },
+    {
+        "title": "GCP Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Issaquah, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/gcp-data-engineer-at-tata-consultancy-services-4278179032?position=4&pageNum=0&refId=lfP7EaBhMOqZIRPRmbTKnw%3D%3D&trackingId=pwrtrTpuvYRjViK1jy%2FnsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:49:14",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Software Engineer",
+        "company": "Northslope Technologies",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-northslope-technologies-4227412064?position=14&pageNum=0&refId=lfP7EaBhMOqZIRPRmbTKnw%3D%3D&trackingId=U%2BCmpNpk0x1Xplo360J35Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:49:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (OOD/OOP, Linux, HPC)",
+        "company": "KLA",
+        "location": "Milpitas, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ood-oop-linux-hpc-at-kla-4276247683?position=26&pageNum=0&refId=lfP7EaBhMOqZIRPRmbTKnw%3D%3D&trackingId=s3m4%2BTCRkNp3dvL5ZMGxkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:49:14",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "Tata Consultancy Services",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4278186699?position=31&pageNum=0&refId=lfP7EaBhMOqZIRPRmbTKnw%3D%3D&trackingId=sn%2BUwqV8XyKHq2p%2FKg0LWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:49:14",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "Tata Consultancy Services",
+        "location": "Fontana, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4278186688?position=34&pageNum=0&refId=lfP7EaBhMOqZIRPRmbTKnw%3D%3D&trackingId=sx1tM91E%2FN27F0j12gSzNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 11:49:14",
+        "email_sent": false
     }
 ]
