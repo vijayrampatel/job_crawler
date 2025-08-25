@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4290635981?position=1&pageNum=0&refId=0P%2BFlw%2F11VW3GIHhmUXrFQ%3D%3D&trackingId=HmxAIsvmbfEBKowMVrCTYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 03:51:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-data-engineer-at-best-job-tool-4290644108?position=2&pageNum=0&refId=0P%2BFlw%2F11VW3GIHhmUXrFQ%3D%3D&trackingId=NeFmJu1nf%2BCV4h7h9p44MQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 03:51:58",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, I",
         "company": "Zebra Technologies",
         "location": "Holtsville, NY",
@@ -38,5 +18,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-25 04:48:11",
         "email_sent": true
+    },
+    {
+        "title": "Data Manager/Analytics Engineer",
+        "company": "Progressive Data Jobs",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-manager-analytics-engineer-at-progressive-data-jobs-4290535065?position=3&pageNum=0&refId=0HeR3wFPeFB4Jr0hs%2BWumQ%3D%3D&trackingId=yfk1l1mI30%2FSI%2F5EqYsQfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 04:58:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4275400264?position=4&pageNum=0&refId=0HeR3wFPeFB4Jr0hs%2BWumQ%3D%3D&trackingId=T67%2FJJnV8wtOWvNzhuibLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 04:58:20",
+        "email_sent": false
     }
 ]
