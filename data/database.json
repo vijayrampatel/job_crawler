@@ -1,195 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "World Finance",
-        "location": "Greenville-Spartanburg-Anderson, South Carolina Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-world-finance-4259487465?position=2&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=mM3Yg1jDUpO2PyU4RZlTxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-appcard-inc-4288569362?position=14&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=kawj6SA5MFFU18jGXQfVGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "AppCard, Inc.",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4285896325?position=18&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=0BUhhUy4dtOzYR0Z0TRKWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Business Needs Inc.",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-business-needs-inc-4290814331?position=20&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=V9s1cVI%2BSiyNzNdgZ4tQtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Aurora, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4288317307?position=22&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=PriDnIlESVBVqvWRgrft6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "Dexian",
-        "location": "Merrimack, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-dexian-4288587466?position=23&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=dYk4xF2%2B0a1KnR1sUKD7HA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "HirePower Staffing Solution",
-        "location": "Tallahassee, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirepower-staffing-solution-4288584921?position=24&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=0rsJtDFGMQLHGEhR%2BvVA4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Cyber Software Engineer - DevOps",
-        "company": "Lockheed Martin",
-        "location": "Fort Meade, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cyber-software-engineer-devops-at-lockheed-martin-4290922087?position=29&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=04lbrTWzdYV5UGvAbOt8VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Consumers Energy",
-        "location": "Jackson, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-consumers-energy-4290829274?position=34&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=WdshNUNSUBwezzyzzRe%2FxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Device Configuration",
-        "company": "Eagle Eye Networks",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-device-configuration-at-eagle-eye-networks-4290928878?position=36&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=1NmUtwbIxzkvScErdGIB5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Apex Systems",
-        "location": "Carmel, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-apex-systems-4280979651?position=39&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=BU6RTQ24dja%2BEoMBxwNGEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Quality Engineer",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-at-lockheed-martin-4290920185?position=42&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=ST9ZwvZEVmptUyyB0ByzjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - .Net",
-        "company": "Visa",
-        "location": "Highlands Ranch, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-at-visa-4290813362?position=47&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=HXq98fTqYv9715ec12qwLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Product Support Specialist",
-        "company": "Action Technology",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/product-support-specialist-at-action-technology-4290923049?position=55&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=DDnVotq1%2Fd17CqZaw5nZEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Technical Recruiter",
-        "company": "Ascendion",
-        "location": "El Segundo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-recruiter-at-ascendion-4290826509?position=59&pageNum=0&refId=7KTo9ZfpQyYNoJpArjqxrA%3D%3D&trackingId=FxjwNH5BeubmirHZNfVPBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Cyber Software Engineer - DevOps",
-        "company": "Lockheed Martin",
-        "location": "Fort Meade, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cyber-software-engineer-devops-at-lockheed-martin-4290922087?position=5&pageNum=2&refId=ZcwKGbMLtWhNlY4nVrW9ew%3D%3D&trackingId=k0fdYchK3y6TaXsDXgPbXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Consumers Energy",
-        "location": "Jackson, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-consumers-energy-4290829274?position=10&pageNum=2&refId=ZcwKGbMLtWhNlY4nVrW9ew%3D%3D&trackingId=D8MoP6zZ46YKuyW1vIKO%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Product Support Specialist",
-        "company": "Action Technology",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/product-support-specialist-at-action-technology-4290923049?position=6&pageNum=5&refId=F6BqwwgS5itDA5sl922XeA%3D%3D&trackingId=qQerQECGEqa5cVXaf3F3cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
-        "title": "Technical Recruiter",
-        "company": "Ascendion",
-        "location": "El Segundo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-recruiter-at-ascendion-4290826509?position=10&pageNum=5&refId=F6BqwwgS5itDA5sl922XeA%3D%3D&trackingId=cWS6ixMw%2FMWmdEk6U4hT6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 17:56:17",
-        "email_sent": true
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -1068,5 +878,135 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-25 18:51:33",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Willis Aeronautical Services, Inc.",
+        "location": "Pompano Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-willis-aeronautical-services-inc-4290958004?position=16&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=%2BuzNI0r2i6O6ZHkT62HNQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Engineer - M",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4290836075?position=28&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=4uGYFYQDgH6jSRfU%2BLkMtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer in Test (Prisma SASE-ADEM)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-in-test-prisma-sase-adem-at-palo-alto-networks-4290932268?position=34&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=XLM%2F1KkfxmgKVpMjEpvT%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Emerson",
+        "location": "Shakopee, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-emerson-4290951088?position=42&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=4oiqAwdajVU5FZp45LXjwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Systems Software Engineer",
+        "company": "BAE Systems, Inc.",
+        "location": "Fort Worth, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-at-bae-systems-inc-4288801726?position=47&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=19L0fZTnFgd4qv9FL4iy3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Yield Improvement Data Analyst",
+        "company": "Sanmina",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/yield-improvement-data-analyst-at-sanmina-4290942920?position=51&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=e2PZzkExAwRNQ713P5q%2Fpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4290923938?position=52&pageNum=0&refId=2nkRPuLCZq2p8s0Y%2BHNS7w%3D%3D&trackingId=PV%2FZYCJSqm9DCv2pWMS9EA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Engineer - M",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4290836075?position=3&pageNum=2&refId=xJyWb4gr7%2FDt2I27iwTjPA%3D%3D&trackingId=OrIxCgPFrF%2FtW0ES6AgLmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer in Test (Prisma SASE-ADEM)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-in-test-prisma-sase-adem-at-palo-alto-networks-4290932268?position=9&pageNum=2&refId=xJyWb4gr7%2FDt2I27iwTjPA%3D%3D&trackingId=hZrjvpUrpY0jGgi73bDyLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Yield Improvement Data Analyst",
+        "company": "Sanmina",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/yield-improvement-data-analyst-at-sanmina-4290942920?position=1&pageNum=5&refId=ToCM6NlMwXUXPFEPEJGDww%3D%3D&trackingId=xoF8Pyv58ELpdMCQegERqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4290923938?position=2&pageNum=5&refId=ToCM6NlMwXUXPFEPEJGDww%3D%3D&trackingId=QC23Q7aUVkQYm4JXkMQ2jA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "CRM Analyst",
+        "company": "Prospect Capital Management",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/crm-analyst-at-prospect-capital-management-4288802483?position=7&pageNum=7&refId=C6IdJ%2B2fs0UiL3qgcdY%2FYg%3D%3D&trackingId=Oj1SPE%2BASEV%2FCwJEphxl%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Project Assistant (Part-Time)",
+        "company": "Womble Bond Dickinson (US) LLP",
+        "location": "Winston-Salem, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-project-assistant-part-time-at-womble-bond-dickinson-us-llp-4288599444?position=10&pageNum=7&refId=C6IdJ%2B2fs0UiL3qgcdY%2FYg%3D%3D&trackingId=tJMlIk9wCrLuKvwf16gICg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 19:01:30",
+        "email_sent": false
     }
 ]
