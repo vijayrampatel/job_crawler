@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer, I",
-        "company": "Zebra Technologies",
-        "location": "Holtsville, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-zebra-technologies-4287140529?position=2&pageNum=0&refId=ncXpZfGArrn%2FxjUGU5ZEcA%3D%3D&trackingId=6TyyrlwmBw7wd3AJ9XYNgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 04:48:11",
-        "email_sent": true
-    },
-    {
-        "title": "Solution Intelligence (SI) Specialist-Analytics",
-        "company": "Essex Lake Group",
-        "location": "Princeton, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/solution-intelligence-si-specialist-analytics-at-essex-lake-group-4266129679?position=5&pageNum=0&refId=ncXpZfGArrn%2FxjUGU5ZEcA%3D%3D&trackingId=7c51m8acLAXHqkTQ4zDX%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-25 04:48:11",
-        "email_sent": true
-    },
-    {
         "title": "Data Manager/Analytics Engineer",
         "company": "Progressive Data Jobs",
         "location": "United States",
@@ -58,5 +38,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-25 05:26:11",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4274978768?position=1&pageNum=0&refId=KN5TCFxZ6z3r0eYtH8TwLw%3D%3D&trackingId=elBBQ%2F0%2BC994w4oHN0uO2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 05:56:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (ONSITE)",
+        "company": "Westchester Medical Center Health Network",
+        "location": "Valhalla, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-onsite-at-westchester-medical-center-health-network-4290640766?position=6&pageNum=0&refId=KN5TCFxZ6z3r0eYtH8TwLw%3D%3D&trackingId=Gh%2BL7%2BtTsWKgusQctS75Qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 05:56:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Marketing AI Agents",
+        "company": "MAI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-marketing-ai-agents-at-mai-4290537150?position=8&pageNum=0&refId=KN5TCFxZ6z3r0eYtH8TwLw%3D%3D&trackingId=RtiWLW%2FUuYK9Tumm5WSn4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-25 05:56:36",
+        "email_sent": false
     }
 ]
