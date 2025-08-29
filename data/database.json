@@ -1,455 +1,5 @@
 [
     {
-        "title": "Associate Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-beaconfire-inc-4290745281?position=4&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=lPtGXpQVReDjDfRG%2FYfosQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer - Business Intelligence",
-        "company": "LaunchCode",
-        "location": "Scott AFB, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-business-intelligence-at-launchcode-4285896360?position=7&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=wBLaatHJBnQ2gT9U4kL%2F8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Pharmacy Benefits)",
-        "company": "Leavitt Group",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-pharmacy-benefits-at-leavitt-group-4293003035?position=8&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=woQ8eurfN76E1Zym4f6VVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (ML)",
-        "company": "DoorDash",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-doordash-4292949548?position=9&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=o0JTP2wGINlCqM6%2BndGj7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Armada",
-        "location": "Bellevue, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-armada-4292966690?position=16&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=VGuI6nuTO6OF7QEw3vGMng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Backend Software Engineer (Python, Go)",
-        "company": "hackajob",
-        "location": "Mt. Laurel, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-python-go-at-hackajob-4293018367?position=19&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=EPAf34v2ZtxXBxFY6EhKMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "AI Software Engineer",
-        "company": "LaunchCode",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-launchcode-4292589152?position=23&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=6CC9BczSJLvGQj0KwfkpGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Q2",
-        "location": "Cary, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-q2-4291163907?position=27&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=i%2F4dFdPBpCLyKhZWpnojEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "HPC Engineer",
-        "company": "Viridien",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/hpc-engineer-at-viridien-4278832491?position=38&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=4SAOc5Q5u4jNmNJ4%2BNR0Wg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "State Affairs",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-state-affairs-4267841543?position=40&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=iWKePaodGnDLKEFF6b9WBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer (Angular)",
-        "company": "CACI International Inc",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-angular-at-caci-international-inc-4292968085?position=42&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=S5BlMvta52VQ2J%2BOowwEPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "KellyMitchell Group",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kellymitchell-group-4292975004?position=43&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=Cu6QTcWRyHmGS6mOfeF4JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Accenture Federal Services",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-accenture-federal-services-4273371592?position=46&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=Iz9vuVV2DQgr67bXhF6FeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839",
-        "company": "Northrop Grumman",
-        "location": "Morrisville, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-at-northrop-grumman-4292967514?position=53&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=klcv4ntQ%2BgxCgSnZYVUeiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839-3",
-        "company": "Northrop Grumman",
-        "location": "Fairfax, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-3-at-northrop-grumman-4292966605?position=55&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=5hChTFGUTQkovh%2BFRjeKWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839-2",
-        "company": "Northrop Grumman",
-        "location": "Linthicum Heights, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-2-at-northrop-grumman-4292968437?position=56&pageNum=0&refId=kGLugFoKxZxQtbGeA8CuvA%3D%3D&trackingId=kvx3q5kd2WgLIuOzuJJ2WQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Q2",
-        "location": "Cary, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-q2-4291163907?position=2&pageNum=2&refId=XsZXUD3pQgVdTQJPsZE3lw%3D%3D&trackingId=Gn9Z1CcOda6CWvLPOvS1mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839",
-        "company": "Northrop Grumman",
-        "location": "Morrisville, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-at-northrop-grumman-4292967514?position=3&pageNum=5&refId=Rigu3YSYbJreSZp6VV93YQ%3D%3D&trackingId=kc1uhLgnVbGAfm4Uap7vHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839-3",
-        "company": "Northrop Grumman",
-        "location": "Fairfax, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-3-at-northrop-grumman-4292966605?position=5&pageNum=5&refId=Rigu3YSYbJreSZp6VV93YQ%3D%3D&trackingId=BKGZx0CzAOvoXkwV7cnE5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2 - R10205839-2",
-        "company": "Northrop Grumman",
-        "location": "Linthicum Heights, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10205839-2-at-northrop-grumman-4292968437?position=6&pageNum=5&refId=Rigu3YSYbJreSZp6VV93YQ%3D%3D&trackingId=OVc0Jmb2UMRjK9cuOecuhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Amentum",
-        "location": "Dahlgren, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-amentum-4292971366?position=3&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=2o7mcpcfQ0Bhel8aXMa8vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Jobs via Dice",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-jobs-via-dice-4293010083?position=4&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=1merWTRHJB%2FWQDmRPW1%2BcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Guidepost Solutions",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-guidepost-solutions-4292968453?position=6&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=diJd5GVILKXCAkBekBk6iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "M/E Engineer 1",
-        "company": "JE Dunn Construction",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-1-at-je-dunn-construction-4292699863?position=7&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=o1z8plwoeLD5WosKNx7flw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Facility Engineer",
-        "company": "Allied OneSource",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-facility-engineer-at-allied-onesource-4292961474?position=8&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=6SbRZQiU1hvTdZjPGPaF2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Commissioning Field Engineer - QA Inspections -Ohio",
-        "company": "Bala Consulting Engineers",
-        "location": "Wayne, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-commissioning-field-engineer-qa-inspections-ohio-at-bala-consulting-engineers-4282328124?position=10&pageNum=7&refId=XDMnOSSgjlD9A%2FrG5YEiYw%3D%3D&trackingId=GNNHPyL2oJCsiecpidxL0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer Gas Transmission",
-        "company": "CenterPoint Energy",
-        "location": "Noblesville, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-gas-transmission-at-centerpoint-energy-4291177390?position=1&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=qustaugukm6Ygmq8EvKIlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Entry-Level Civil Engineer",
-        "company": "AECOM",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-civil-engineer-at-aecom-4292455683?position=2&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=vB9SXRiFcfudtZbS9yg5ug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Departmental Analyst 9-P11",
-        "company": "State of Michigan",
-        "location": "Michigan, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/departmental-analyst-9-p11-at-state-of-michigan-4291172633?position=3&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=FrnkkwrXGgxFuUGPI%2FkBXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Entry-Level Hydrology & Hydraulics Engineer",
-        "company": "Mead & Hunt",
-        "location": "Greater Madison Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-hydrology-hydraulics-engineer-at-mead-hunt-4291176594?position=4&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=El0rCGc1Dchv5QTeg6FFwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Technical Support Engineer II (TSE II)",
-        "company": "Piper Companies",
-        "location": "Morrisville, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-support-engineer-ii-tse-ii-at-piper-companies-4293011040?position=5&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=gNb%2BrRBUS%2BvMWiFy%2BYFOyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Computer Engineer (Engineer Hardware 2) - 25283",
-        "company": "Mission Technologies, a division of HII",
-        "location": "Wright-Patterson Air Force Base, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/computer-engineer-engineer-hardware-2-25283-at-mission-technologies-a-division-of-hii-4293001569?position=6&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=In3zI7psMpbiY8rvEuXImg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Analyst",
-        "company": "Mercy Medical Center, Baltimore, MD",
-        "location": "Baltimore, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-analyst-at-mercy-medical-center-baltimore-md-4292962826?position=7&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=OdkngBomrLJ0UkgE35%2BZsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "Computer Engineer (Engineer Hardware 2) - 25282",
-        "company": "Mission Technologies, a division of HII",
-        "location": "Dayton, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/computer-engineer-engineer-hardware-2-25282-at-mission-technologies-a-division-of-hii-4293000602?position=8&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=kqV2kEOkKWTk19U4jGPyFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Civil Engineers in New York Metro!",
-        "company": "AECOM",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-civil-engineers-in-new-york-metro%21-at-aecom-4293013323?position=9&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=NfDPnWTDLpTMliPSW4dquA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Electrical Engineer",
-        "company": "AECOM",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-aecom-4292464430?position=10&pageNum=10&refId=4mAkj8sgQ38bZ1zi6YkG3w%3D%3D&trackingId=ODSe4VIytgo1UVWc6FVWSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Clinical Quality Information Abstractor, Clinical Information Analysis",
-        "company": "Norton Healthcare",
-        "location": "Louisville, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/clinical-quality-information-abstractor-clinical-information-analysis-at-norton-healthcare-4293004314?position=2&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=urMqr5FQcBTGbDYjr39VOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Geologists in New York Metro!",
-        "company": "AECOM",
-        "location": "Piscataway, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-geologists-in-new-york-metro%21-at-aecom-4293012337?position=3&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=b2QdfMwpNTaSyjE5t2pA2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Environmental Engineers in New York Metro!",
-        "company": "AECOM",
-        "location": "Latham, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-environmental-engineers-in-new-york-metro%21-at-aecom-4293010419?position=4&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=Xv1yCExeNauK1QXqbgpqpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Environmental Engineers in New York Metro!",
-        "company": "AECOM",
-        "location": "Niagara Falls, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-environmental-engineers-in-new-york-metro%21-at-aecom-4293015304?position=5&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=h7wQ2CKRAaDRi7WH4ZCYoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Geologists in New York Metro!",
-        "company": "AECOM",
-        "location": "Bloomfield, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-geologists-in-new-york-metro%21-at-aecom-4293012372?position=6&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=PASSdDpPBEEJ9KumRFVPLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Project Planning Analyst (PETE Program - TPMO)",
-        "company": "Oncor Electric Delivery",
-        "location": "Fort Worth, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-planning-analyst-pete-program-tpmo-at-oncor-electric-delivery-4291177148?position=7&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=BJkL4ZHn4EnQ8nN%2BL3pe5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Environmental Engineers in New York Metro!",
-        "company": "AECOM",
-        "location": "Piscataway, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-environmental-engineers-in-new-york-metro%21-at-aecom-4293011459?position=8&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=wTSU6dF%2FZmk%2BbGGyVyfXcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Environmental Engineers in New York Metro!",
-        "company": "AECOM",
-        "location": "Bloomfield, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-environmental-engineers-in-new-york-metro%21-at-aecom-4293011448?position=9&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=LyfTFATxbUkW%2BsNEJ65wPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": true
-    },
-    {
-        "title": "Civil Engineering Designer",
-        "company": "LHH",
-        "location": "Trenton, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/civil-engineering-designer-at-lhh-4293012302?position=10&pageNum=12&refId=5PHlIpObHjKGpA87RbJR1w%3D%3D&trackingId=ULEJMJFJ1q3%2FEYA9w1YVWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-29 18:46:05",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -1718,5 +1268,195 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-29 19:38:58",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Equip",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-equip-4292980588?position=1&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=MyqIx0THM4xkP7qOma0s3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "AAI Infotech",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aai-infotech-4286955714?position=18&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=WtOano9wvTJL3cUimtsBXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Front End Software Engineer",
+        "company": "Sparksuite",
+        "location": "Spring, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-sparksuite-4291181436?position=27&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=PqUheen%2FSQwMUNC%2F%2FNEK4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data and AI Analyst",
+        "company": "Kanak Elite Services",
+        "location": "Cary, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-and-ai-analyst-at-kanak-elite-services-4292980543?position=41&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=v1UKhxvOyCa7%2FUmieGwCRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "NinjaOne",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-ninjaone-4292948616?position=51&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=DQqsQZd3TYXC7GYsiCZHfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
+        "company": "ByteDance",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-global-e-commerce-supply-chain-and-logistics-at-bytedance-4293025512?position=55&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=Hf98FUnR1cVgzyeAFVAwgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Leidos",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-leidos-4292986245?position=58&pageNum=0&refId=7BvSmqsF2r%2BCBBcXVvvDiQ%3D%3D&trackingId=Kri9u%2BifYe99GvKpC0dfAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Front End Software Engineer",
+        "company": "Sparksuite",
+        "location": "Spring, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-sparksuite-4291181436?position=3&pageNum=2&refId=j4vMyephmjWI6NpF980E3Q%3D%3D&trackingId=qaO3UsmYLT6Q0bHatH%2BkVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "NinjaOne",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-ninjaone-4292948616?position=2&pageNum=5&refId=cBlpKm85cXrZloBW3UjvBA%3D%3D&trackingId=rD9bLvWa88AuozP0mvKnNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
+        "company": "ByteDance",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-global-e-commerce-supply-chain-and-logistics-at-bytedance-4293025512?position=6&pageNum=5&refId=cBlpKm85cXrZloBW3UjvBA%3D%3D&trackingId=3fz12eQKP2wW2uxTGfaJaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Leidos",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-leidos-4292986245?position=9&pageNum=5&refId=cBlpKm85cXrZloBW3UjvBA%3D%3D&trackingId=2N9L9w1sbdfrJSy7Ggoblg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Python Developer (AWS EKS)",
+        "company": "Jobs via Dice",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-aws-eks-at-jobs-via-dice-4293010138?position=1&pageNum=7&refId=t3hREam2D%2BRpZBcBhuNw8A%3D%3D&trackingId=K9tDmlbqU30d2%2BeaIuxvNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Java Data Integration Developer",
+        "company": "Kanak Elite Services",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-data-integration-developer-at-kanak-elite-services-4292984156?position=2&pageNum=7&refId=t3hREam2D%2BRpZBcBhuNw8A%3D%3D&trackingId=q56rcPS5sEVAL5Rj4i7gWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Natural Language (NL) Data Scientist",
+        "company": "Proviniti",
+        "location": "Alpharetta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/natural-language-nl-data-scientist-at-proviniti-4288579184?position=4&pageNum=7&refId=t3hREam2D%2BRpZBcBhuNw8A%3D%3D&trackingId=2oFcUOoHfv%2Fvdoi%2BgVcziA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Firmware Engineer (FPGA)",
+        "company": "Advanced Energy",
+        "location": "Redwood City, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-firmware-engineer-fpga-at-advanced-energy-4288207018?position=5&pageNum=7&refId=t3hREam2D%2BRpZBcBhuNw8A%3D%3D&trackingId=HAOYveujBa2lTpFsTIUWng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Reporting Analyst",
+        "company": "Freeman Mathis & Gary, LLP",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/reporting-analyst-at-freeman-mathis-gary-llp-4183975714?position=6&pageNum=7&refId=t3hREam2D%2BRpZBcBhuNw8A%3D%3D&trackingId=ls51jVe4jGx3Ha2ccKtOrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "Video Data Evaluator - Onsite",
+        "company": "Pro Integrate",
+        "location": "Washington, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/video-data-evaluator-onsite-at-pro-integrate-4292975974?position=6&pageNum=10&refId=Z2OrHDz8O9Y9jnxFn8%2B3fg%3D%3D&trackingId=MxwwHY7ee5krvrhB6WdyjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "TS/SCI w/ Polygraph: Software and Systems Reverse Engineer w/ 3 years experience",
+        "company": "Onyx Point, LLC.",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ts-sci-w-polygraph-software-and-systems-reverse-engineer-w-3-years-experience-at-onyx-point-llc-4292987160?position=7&pageNum=10&refId=Z2OrHDz8O9Y9jnxFn8%2B3fg%3D%3D&trackingId=9mVWGI%2Fbap0%2B%2FCjQ30QPzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
+    },
+    {
+        "title": "AECOM is Hosting a Networking Event for Upcoming Entry-Level Geologists in New York Metro!",
+        "company": "AECOM",
+        "location": "Buffalo, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/aecom-is-hosting-a-networking-event-for-upcoming-entry-level-geologists-in-new-york-metro%21-at-aecom-4293016256?position=5&pageNum=12&refId=%2FEuHfaZaKTIGjalz0%2FqQZA%3D%3D&trackingId=b9i269a1z0%2FEEm1D1pWMug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-29 19:47:34",
+        "email_sent": false
     }
 ]
