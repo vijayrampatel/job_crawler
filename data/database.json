@@ -1,15 +1,5 @@
 [
     {
-        "title": "Founding Engineer",
-        "company": "Verita AI",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-verita-ai-4293511796?position=4&pageNum=0&refId=kXvdf9HF6JJSaQ6qqdQpXQ%3D%3D&trackingId=sjmzNAI4Po7HqfY%2Fmtb67w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-31 22:39:13",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Peregrine",
         "location": "San Francisco, CA",
@@ -78,5 +68,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-31 23:32:01",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "APK Solutions",
+        "location": "Chantilly, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-apk-solutions-4293499111?position=1&pageNum=0&refId=zkwzpjxF9ZlGO5KgBU%2BvNg%3D%3D&trackingId=q7NHi6r6I4ttRfQrCRcDnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 23:46:02",
+        "email_sent": false
+    },
+    {
+        "title": "Co-Founding Geospatial Software Engineer (Full Stack) - CTO",
+        "company": "LomaAI",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/co-founding-geospatial-software-engineer-full-stack-cto-at-lomaai-4293493505?position=3&pageNum=0&refId=zkwzpjxF9ZlGO5KgBU%2BvNg%3D%3D&trackingId=IvjL%2B%2Bt5Gt4Mr%2Bool14gpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 23:46:02",
+        "email_sent": false
     }
 ]
