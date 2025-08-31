@@ -1,15 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Tech Consulting",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-tech-consulting-4293506452?position=15&pageNum=0&refId=RAZmJDuAlIBOHP1jy8pT7Q%3D%3D&trackingId=Oj7VsP6f1DXI7Zq4FVL4GQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-31 18:56:15",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst (People)",
         "company": "Braze",
         "location": "United States",
@@ -238,5 +228,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-08-31 19:47:10",
         "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "Lehi, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4293513140?position=4&pageNum=0&refId=dn4Hzka4jhvM9IDv21BJ5Q%3D%3D&trackingId=GXePZ4PM4LFZNmN8tDI44g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 19:57:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CVS Health",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cvs-health-4293488134?position=9&pageNum=0&refId=dn4Hzka4jhvM9IDv21BJ5Q%3D%3D&trackingId=EHyxaYlDY8EOMLekITbI%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 19:57:40",
+        "email_sent": false
     }
 ]
