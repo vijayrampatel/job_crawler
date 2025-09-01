@@ -1,15 +1,5 @@
 [
     {
-        "title": "RESEARCHER (Temporary)",
-        "company": "University of Washington",
-        "location": "Washington, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/researcher-temporary-at-university-of-washington-4293714683?position=1&pageNum=0&refId=7Pl9asc0wImwIQp72DI0HQ%3D%3D&trackingId=Uk2B4k74EsYnfuMpDfF%2BaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 04:01:27",
-        "email_sent": true
-    },
-    {
         "title": "Data Scientist",
         "company": "Deepgrids",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-sql-developer-healthcare-at-intevity-4293713993?position=1&pageNum=0&refId=1%2BwzMV7mFPREvpSBcVJEkw%3D%3D&trackingId=KqxP70Yfm0To709gabZCtg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 04:52:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Flutter Mobile Dev) (Remote)",
+        "company": "OPENLANE",
+        "location": "Carmel, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flutter-mobile-dev-remote-at-openlane-4293541320?position=3&pageNum=0&refId=U8Al2KWXN%2BzBVwuBm%2BWswg%3D%3D&trackingId=AXIKsjnO%2FQnBs9peao%2Bixg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 05:19:05",
         "email_sent": false
     }
 ]
