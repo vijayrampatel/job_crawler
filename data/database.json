@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4294137858?position=2&pageNum=0&refId=TPnrd0xb8Z0ZELScyEcKEw%3D%3D&trackingId=7h4FNnvgmE%2Fz%2F9uFtmzN%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:39:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4294115540?position=3&pageNum=0&refId=TPnrd0xb8Z0ZELScyEcKEw%3D%3D&trackingId=PY9wyCM2nBLsxlhIBsvxkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:39:48",
-        "email_sent": false
-    },
-    {
         "title": "Software Developer / Junior Software Engineer",
         "company": "Clay Cooley Auto Group",
         "location": "Irving, TX",
@@ -217,6 +197,46 @@
         "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-best-job-tool-4294146646?position=20&pageNum=0&refId=2jCRFTY46Z5pkmxNj7szlg%3D%3D&trackingId=h4wCzPTcNCwL204k6C5xMQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 21:31:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4294114610?position=11&pageNum=0&refId=Q8Y3P2C85qpT0DnRKUhsWA%3D%3D&trackingId=mHmXfq%2BYYQ1vUd3FSzHzSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Frontend)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wiraa-4294117537?position=14&pageNum=0&refId=Q8Y3P2C85qpT0DnRKUhsWA%3D%3D&trackingId=hJoR1LgdBCMUxiEIzGXplA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294141719?position=15&pageNum=0&refId=Q8Y3P2C85qpT0DnRKUhsWA%3D%3D&trackingId=gcdApkRhIgyouiK2CtcLHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294144511?position=17&pageNum=0&refId=Q8Y3P2C85qpT0DnRKUhsWA%3D%3D&trackingId=r7%2FFGsmOe1WG420wMDWmlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:22",
         "email_sent": false
     }
 ]
