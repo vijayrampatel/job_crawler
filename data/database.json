@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Red Hat",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-red-hat-4294112579?position=2&pageNum=0&refId=UfLQ5eSOoWfPq1LeXc%2FpcQ%3D%3D&trackingId=Hf2himAF3l7VaiCi%2FbxT5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 19:13:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4294115540?position=3&pageNum=0&refId=UfLQ5eSOoWfPq1LeXc%2FpcQ%3D%3D&trackingId=3bCwdipn7ZbR47OrzsclOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 19:13:36",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst (34265)",
-        "company": "Myticas Consulting",
-        "location": "Waukegan, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-34265-at-myticas-consulting-4293841544?position=13&pageNum=0&refId=UfLQ5eSOoWfPq1LeXc%2FpcQ%3D%3D&trackingId=b%2FyBf9gOe6gBGT5zxBbA2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 19:13:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "Recent",
@@ -448,5 +418,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 19:58:34",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4294114610?position=4&pageNum=0&refId=gcdcTkHa3z230MPClDErKw%3D%3D&trackingId=igioZCNy0d75m%2Btw3UCmWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 20:22:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Big Science Sweden \u2022 The Swedish ILO",
+        "location": "Illinois, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-big-science-sweden-%E2%80%A2-the-swedish-ilo-4293857191?position=6&pageNum=0&refId=gcdcTkHa3z230MPClDErKw%3D%3D&trackingId=bul2%2BOwM3c0OWEPrXfzkfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 20:22:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Frontend)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wiraa-4294117537?position=7&pageNum=0&refId=gcdcTkHa3z230MPClDErKw%3D%3D&trackingId=7cR6HF5L%2FuaOvumG8YEwkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 20:22:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294144511?position=9&pageNum=0&refId=gcdcTkHa3z230MPClDErKw%3D%3D&trackingId=4k%2BlQxkOivAgoQVKq3H6ZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 20:22:20",
+        "email_sent": false
     }
 ]
