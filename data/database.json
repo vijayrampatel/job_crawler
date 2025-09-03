@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer (Top Secret)",
-        "company": "Lockheed Martin",
-        "location": "King of Prussia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-top-secret-at-lockheed-martin-4294943302?position=1&pageNum=0&refId=Fs%2F82P2ZL%2FhRL60b4rgHYA%3D%3D&trackingId=v4tPyE%2F1tPIduYEWiw5toQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-03 04:20:57",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Data Focused",
         "company": "Mochi Health",
         "location": "San Francisco, CA",
@@ -78,5 +68,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-03 05:00:20",
         "email_sent": true
+    },
+    {
+        "title": "BI Engineer",
+        "company": "GreenState Credit Union",
+        "location": "North Liberty, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bi-engineer-at-greenstate-credit-union-4294948251?position=2&pageNum=0&refId=dZ4Gyj4VF2Eh4RGVRTvXmw%3D%3D&trackingId=8487IEoLjQgOIQrWVP2chA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-03 05:23:39",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Support Engineer",
+        "company": "Snowflake",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cloud-support-engineer-at-snowflake-4294945663?position=3&pageNum=0&refId=dZ4Gyj4VF2Eh4RGVRTvXmw%3D%3D&trackingId=CHCRqw0%2BxjlMGDK%2FcW%2FYSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-03 05:23:39",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-with-security-clearance-at-clearancejobs-4293162296?position=10&pageNum=0&refId=dZ4Gyj4VF2Eh4RGVRTvXmw%3D%3D&trackingId=%2Bxe57g6ROa5wVcq4qGRTnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-03 05:23:39",
+        "email_sent": false
     }
 ]
