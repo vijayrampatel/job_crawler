@@ -1,315 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Conn Selmer",
-        "location": "Elkhart, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-conn-selmer-4296415142?position=1&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=T9NmgtQgVaWqxDpEYSu2gw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Zuora",
-        "location": "Redwood City, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-zuora-4286233881?position=6&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=%2FoqPW4NAxNgZYqSQGWmtmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "AI Engineer",
-        "company": "MLabs",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-mlabs-4296192808?position=7&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=6QJNvJbwB2wmfCptgQtvaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Shaker Recruitment Marketing",
-        "location": "Oak Park, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-shaker-recruitment-marketing-4295700674?position=9&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=L8kXhpxwuUbJAb%2FMwc2K4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "AI Software Engineer",
-        "company": "V-Soft Consulting Group, Inc.",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-v-soft-consulting-group-inc-4285754650?position=14&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=hjoeaYZE4mRgmjiBPif68g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Denver Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4275403129?position=17&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=DNlANqhkleOcwPV8Ux00kA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Engineer",
-        "company": "MLabs",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-mlabs-4296196493?position=20&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=dhYXWYA2GL9ZLKy%2BZeQIjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Frontend",
-        "company": "Tripeur - a Navan company",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-tripeur-a-navan-company-4294443256?position=23&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=y00hPnhJT0CM1z3u3kFfdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Backend",
-        "company": "Tripeur - a Navan company",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tripeur-a-navan-company-4294438329?position=24&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=w7mOE3swLzT0Ci2UHHHkmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Fiserv",
-        "location": "Lincoln, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fiserv-4285749968?position=25&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=pSF5yDvaSAgX5a8mj93S1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "Kontoor Brands, Inc.",
-        "location": "Greensboro, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-kontoor-brands-inc-4286184816?position=27&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=tESsHKYWO26PJT%2BBWnEfnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Specialist, Data Science",
-        "company": "Merck",
-        "location": "Rahway, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/specialist-data-science-at-merck-4286251342?position=28&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=ona%2FzNouIGpdgiHQsytPMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Firmware Software Engineer",
-        "company": "Aditi Consulting",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/firmware-software-engineer-at-aditi-consulting-4285903096?position=32&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=54kVgZvKV1zTSCHSx7BX7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Front-End Full Stack Engineer II",
-        "company": "Expedia Group",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-full-stack-engineer-ii-at-expedia-group-4285466402?position=33&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=aGh6pAazyjmOdcIT9dSE3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "MLabs",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-mlabs-4296405179?position=37&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=pqct7gyNSMbzY7mWZVMD%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Power BI Specialist",
-        "company": "Challenge Manufacturing",
-        "location": "Grand Rapids, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-specialist-at-challenge-manufacturing-4275254124?position=38&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=i4a0Eg%2Fq6R2Ihiz7BA%2Fuuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Data Scientist",
-        "company": "Allstate",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-data-scientist-at-allstate-4285768834?position=40&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=goWYJk2oIEOVWFxfLwBSMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Quantitative Analyst I",
-        "company": "Fanatics",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-i-at-fanatics-4269220544?position=41&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=z5QDO33BjeINPni2iBYLYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer 1 (iOS) - Aviation",
-        "company": "Garmin",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-ios-aviation-at-garmin-4275210626?position=42&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=tCSny26%2Flb23jD5NiIq%2FQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Technical Specialist- Junior",
-        "company": "V-Soft Consulting Group, Inc.",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-specialist-junior-at-v-soft-consulting-group-inc-4285759194?position=44&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=zMXgsfp8iPxQ%2BFCuovAxNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - Aviation - Oviedo, FL",
-        "company": "Hoyle, Tanner & Associates, Inc.",
-        "location": "Oviedo, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-aviation-oviedo-fl-at-hoyle-tanner-associates-inc-4296416059?position=49&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=PiTWQsIxzebd0mGAHOkzjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Computational Modeling Associate Consultant",
-        "company": "ZS",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/computational-modeling-associate-consultant-at-zs-4210775395?position=52&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=RKIh8zo4IYjq9RA1fP0TVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - Aviation - New England",
-        "company": "Hoyle, Tanner & Associates, Inc.",
-        "location": "Manchester, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-aviation-new-england-at-hoyle-tanner-associates-inc-4296407489?position=53&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=1%2BcoZXk%2FK0WN5oLA9Ka%2BDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Mechanical Product Design Engineer, Platforms, PhD, University Graduate",
-        "company": "Google",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-product-design-engineer-platforms-phd-university-graduate-at-google-4246714076?position=56&pageNum=0&refId=9FcoMm1J8xr5plSIvirnBA%3D%3D&trackingId=ZC88i8TDA6rGXEsvsMl0WQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "Kontoor Brands, Inc.",
-        "location": "Greensboro, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-kontoor-brands-inc-4286184816?position=2&pageNum=2&refId=vG0oOr3F63%2Fl%2Bdtq4RzeUA%3D%3D&trackingId=Oqgud9Ov3O69B1CO4wGf3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Specialist, Data Science",
-        "company": "Merck",
-        "location": "Rahway, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/specialist-data-science-at-merck-4286251342?position=3&pageNum=2&refId=vG0oOr3F63%2Fl%2Bdtq4RzeUA%3D%3D&trackingId=ZoZLXPWiLPC3LfndKPWh3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Firmware Software Engineer",
-        "company": "Aditi Consulting",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/firmware-software-engineer-at-aditi-consulting-4285903096?position=7&pageNum=2&refId=vG0oOr3F63%2Fl%2Bdtq4RzeUA%3D%3D&trackingId=pXHq4Wk8poEkEt2O3V%2FZUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Front-End Full Stack Engineer II",
-        "company": "Expedia Group",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-full-stack-engineer-ii-at-expedia-group-4285466402?position=8&pageNum=2&refId=vG0oOr3F63%2Fl%2Bdtq4RzeUA%3D%3D&trackingId=BMZYVls5KVR98ZdRH7ARDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Computational Modeling Associate Consultant",
-        "company": "ZS",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/computational-modeling-associate-consultant-at-zs-4210775395?position=2&pageNum=5&refId=V9VQux9f1rF0YgNqhSxFig%3D%3D&trackingId=kkfcpArzEI6VAmfrvVRvvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - Aviation - New England",
-        "company": "Hoyle, Tanner & Associates, Inc.",
-        "location": "Manchester, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-aviation-new-england-at-hoyle-tanner-associates-inc-4296407489?position=3&pageNum=5&refId=V9VQux9f1rF0YgNqhSxFig%3D%3D&trackingId=9zguQ8CRxDmXDeEz8Xewew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": false
-    },
-    {
-        "title": "Mechanical Product Design Engineer, Platforms, PhD, University Graduate",
-        "company": "Google",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-product-design-engineer-platforms-phd-university-graduate-at-google-4246714076?position=6&pageNum=5&refId=V9VQux9f1rF0YgNqhSxFig%3D%3D&trackingId=UJ8Ytmh63hlwNmx8Uegs4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-05 10:48:27",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst",
         "company": "Fortress Information Security",
         "location": "Greater Orlando",
@@ -928,5 +618,135 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-05 11:39:50",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Grok Voice",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-grok-voice-at-xai-4219071233?position=2&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=plFL7m%2FfVEjSssn5UwN%2F3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-xai-4246546770?position=4&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=X2OirE938MvkzsADnVSTVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Signify Technology",
+        "location": "Greater Houston",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-signify-technology-4285743273?position=26&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=9E0%2BeZNY76JMNVKLO1wJcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer, Cloud Software",
+        "company": "Tarana Wireless",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-cloud-software-at-tarana-wireless-4219060637?position=32&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=U%2B0tivsKaPj8VF528qumrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Site Reliability Engineer",
+        "company": "Ford Motor Company",
+        "location": "Dearborn, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-site-reliability-engineer-at-ford-motor-company-4249458847?position=34&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=AGNAubtGCR9viPHhQ%2BMkSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Test Automation Engineering",
+        "company": "Aurora",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-test-automation-engineering-at-aurora-4285767512?position=35&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=rW0l%2B8%2Bug1u%2Fjpkvoz6BmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Architect",
+        "company": "LivCor, a Blackstone Portfolio Company",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-architect-at-livcor-a-blackstone-portfolio-company-4275522516?position=43&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=kuHKNjaokBQjjnyv0OCifg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Software Engineer (C++/C#/OOD/OOP)",
+        "company": "KLA",
+        "location": "Milpitas, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-c%2B%2B-c%23-ood-oop-at-kla-4217551914?position=48&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=PzGUAcnDV187FyW4GeU3wA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Manager, Visualization Developer",
+        "company": "SC Johnson",
+        "location": "Racine, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-manager-visualization-developer-at-sc-johnson-4282862023?position=49&pageNum=0&refId=t1qdxeU32FpqlxGY6xPQhA%3D%3D&trackingId=thhKAD6M1ZzZ%2BaOf5i65FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Signify Technology",
+        "location": "Greater Houston",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-signify-technology-4285743273?position=1&pageNum=2&refId=jofNFPP2iC0%2BBah8h65fXA%3D%3D&trackingId=IaTTJRtTBgktxV6SRwsXcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer, Cloud Software",
+        "company": "Tarana Wireless",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-cloud-software-at-tarana-wireless-4219060637?position=7&pageNum=2&refId=jofNFPP2iC0%2BBah8h65fXA%3D%3D&trackingId=MegNhTPjgxe%2Fk6OF8ylqdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Site Reliability Engineer",
+        "company": "Ford Motor Company",
+        "location": "Dearborn, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-site-reliability-engineer-at-ford-motor-company-4249458847?position=9&pageNum=2&refId=jofNFPP2iC0%2BBah8h65fXA%3D%3D&trackingId=PzMUGeJcB1%2B0AEPjGQD9gQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Test Automation Engineering",
+        "company": "Aurora",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-test-automation-engineering-at-aurora-4285767512?position=10&pageNum=2&refId=jofNFPP2iC0%2BBah8h65fXA%3D%3D&trackingId=UX0JCzYvAKxz%2BJ%2Br4UjxzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-05 11:49:04",
+        "email_sent": false
     }
 ]
