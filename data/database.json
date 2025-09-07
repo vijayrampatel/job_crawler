@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4297200945?position=2&pageNum=0&refId=8WHBomVRLxJ5j646ZmbTMQ%3D%3D&trackingId=PJM8DGdzZyLTCJizuiYlrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 03:33:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4297200944?position=3&pageNum=0&refId=8WHBomVRLxJ5j646ZmbTMQ%3D%3D&trackingId=kWgOkZ8SPqYbfttbWrPwqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 03:33:41",
-        "email_sent": false
-    },
-    {
         "title": "Research Data Analyst",
         "company": "Inside Higher Ed",
         "location": "Los Angeles, CA",
@@ -27,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/research-data-analyst-at-inside-higher-ed-4297209756?position=3&pageNum=0&refId=lc%2BuaJDAcxD5Ac2ybQlWFw%3D%3D&trackingId=7%2FDxhquLiWGTKbvQVTVqeg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-07 04:20:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java)",
+        "company": "OPENLANE",
+        "location": "Carmel, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-at-openlane-4296805603?position=3&pageNum=0&refId=U%2Bz0CJOV1o1UnZd0XsNV5w%3D%3D&trackingId=aUw3%2FPULek59n2CfEGjEfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 04:37:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Flutter Mobile Dev) (Remote)",
+        "company": "OPENLANE",
+        "location": "Carmel, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flutter-mobile-dev-remote-at-openlane-4296592699?position=4&pageNum=0&refId=U%2Bz0CJOV1o1UnZd0XsNV5w%3D%3D&trackingId=Q%2BHzqA9vULkf5cSc0Ngt2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 04:37:36",
         "email_sent": false
     }
 ]
