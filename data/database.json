@@ -1,45 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "GenPark",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-genpark-4296814640?position=1&pageNum=0&refId=OJYEc9fWge%2B3vWn1iqO4KA%3D%3D&trackingId=6qoHlS7P9RNMHyRgW1T%2B0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 09:22:23",
-        "email_sent": true
-    },
-    {
-        "title": "Project Engineer - Data Center",
-        "company": "Cupertino Electric, Inc.",
-        "location": "Los Lunas, NM",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-data-center-at-cupertino-electric-inc-4233076736?position=2&pageNum=0&refId=OJYEc9fWge%2B3vWn1iqO4KA%3D%3D&trackingId=Bp5mb%2B33GrPaLk5BE9RPsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 09:22:23",
-        "email_sent": true
-    },
-    {
-        "title": "Software Test Engineer (Clearance Required)",
-        "company": "Whiteboard Federal Technologies",
-        "location": "Chantilly, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-clearance-required-at-whiteboard-federal-technologies-4206616185?position=3&pageNum=0&refId=OJYEc9fWge%2B3vWn1iqO4KA%3D%3D&trackingId=XWTwvmGdsIsRVo8bR3QaVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 09:22:23",
-        "email_sent": false
-    },
-    {
-        "title": "Air Arabia Careers B1 - Technician Line Maintenance / Sharjah & Abu Dhabi || B2 - Technician, Base Maintenance|| Apply Now",
-        "company": "Aviation Jobs",
-        "location": "Indiana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/air-arabia-careers-b1-technician-line-maintenance-sharjah-abu-dhabi-b2-technician-base-maintenance-apply-now-at-aviation-jobs-4295272667?position=5&pageNum=0&refId=OJYEc9fWge%2B3vWn1iqO4KA%3D%3D&trackingId=GG4vsjfR5E7sdl8FCVuI%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 09:22:23",
-        "email_sent": false
-    },
-    {
         "title": "Business Systems Analyst Surgery Full Time Days",
         "company": "Tenet Healthcare",
         "location": "El Paso, TX",
@@ -138,5 +98,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-07 10:15:51",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Valon",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4233269150?position=6&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=2CGbPApmovWIe5UKDts9FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 10:33:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Valon",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4233264658?position=7&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=uZWoRQPX5xY5jwsxtqLGsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 10:33:26",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Developer - AI Implementation",
+        "company": "WorldQuant",
+        "location": "Old Greenwich, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249635839?position=11&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=aRsrRHAz6oQUbrE%2FmIOMvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 10:33:26",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Robotics Engineer",
+        "company": "Orchard",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-robotics-engineer-at-orchard-4237836613?position=13&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=7poRHRodOOGOdplFCnFxPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 10:33:26",
+        "email_sent": false
+    },
+    {
+        "title": "Robotics Hardware Engineer",
+        "company": "Orchard",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/robotics-hardware-engineer-at-orchard-4237832742?position=16&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=rnfxnaNhbCrfUhKELMmvuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 10:33:26",
+        "email_sent": false
     }
 ]
