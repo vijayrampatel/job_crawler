@@ -1,55 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Valon",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4233269150?position=6&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=2CGbPApmovWIe5UKDts9FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 10:33:26",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Valon",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4233264658?position=7&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=uZWoRQPX5xY5jwsxtqLGsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 10:33:26",
-        "email_sent": true
-    },
-    {
-        "title": "Quantitative Developer - AI Implementation",
-        "company": "WorldQuant",
-        "location": "Old Greenwich, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249635839?position=11&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=aRsrRHAz6oQUbrE%2FmIOMvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 10:33:26",
-        "email_sent": true
-    },
-    {
-        "title": "Forward Deployed Robotics Engineer",
-        "company": "Orchard",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-robotics-engineer-at-orchard-4237836613?position=13&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=7poRHRodOOGOdplFCnFxPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 10:33:26",
-        "email_sent": true
-    },
-    {
-        "title": "Robotics Hardware Engineer",
-        "company": "Orchard",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/robotics-hardware-engineer-at-orchard-4237832742?position=16&pageNum=0&refId=NP13PVByq1vF2Wn%2BRwk1Fw%3D%3D&trackingId=rnfxnaNhbCrfUhKELMmvuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-07 10:33:26",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "GenPark",
         "location": "San Francisco Bay Area",
@@ -267,6 +217,76 @@
         "url": "https://www.linkedin.com/jobs/view/hvac-service-technician-at-excool-4296823892?position=23&pageNum=0&refId=mYzYOnhNHTAmCCFmILsJ0g%3D%3D&trackingId=TTWAwhP1t4leUaaY4SDvyQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-07 11:25:26",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Engineer",
+        "company": "Phenom",
+        "location": "Ambler, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-phenom-4250050336?position=1&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=VFlUHuMc98FYRk4jy6aUpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI Infrastructure",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-infrastructure-at-robinhood-4247936431?position=3&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=wSYCglikAq2n5%2Fod%2FWi1zA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Generalist",
+        "company": "Saronic Technologies",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-generalist-at-saronic-technologies-3943864651?position=8&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=QF7r7HwAkFLqe9u%2F%2F3cHnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Motive",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-motive-4185942695?position=13&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=a6x9SHSAFk8i95Ka6T0%2Fuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Post Trade Software Engineer",
+        "company": "PDT Partners",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/post-trade-software-engineer-at-pdt-partners-4288380085?position=14&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=WWh%2FezgGFHDldhV8CI2vxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Future Opportunities - Join Our Talent Pipeline for Data Scientist",
+        "company": "AbbVie",
+        "location": "North Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/future-opportunities-join-our-talent-pipeline-for-data-scientist-at-abbvie-4164564811?position=17&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=Q02yAmSA4x15qTeeaav6tw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
+        "email_sent": false
+    },
+    {
+        "title": "Biostatistician II",
+        "company": "Precision For Medicine",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/biostatistician-ii-at-precision-for-medicine-4272437182?position=24&pageNum=0&refId=ugnaQ8v2OnCEVkzFp8MgxQ%3D%3D&trackingId=4209mN4RB0%2B%2BKtQ%2F2pgIQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-07 11:38:29",
         "email_sent": false
     }
 ]
