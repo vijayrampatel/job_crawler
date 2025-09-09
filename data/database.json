@@ -1,386 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "SoTalent",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4296212284?position=5&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=oiecYY5DEiyPwYQ8S%2F7HGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "SoTalent",
-        "location": "Fort Worth, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4296210310?position=6&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=Vzhw%2BurL8A714BI7Z%2Bp8xg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jack-4297858639?position=7&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=JChCvGytMvkxyAjCAmW9Pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298223276?position=8&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=mkRc25sx9dJDW76cGSG6HQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "Florida, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298227076?position=9&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=hK2l9NS8HCuK7yPXqKz9Rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298216574?position=10&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=TiXBBYO1t9QJN7JqVMW1ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298212577?position=15&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=PssrZ80YhpGwwF54pgW%2Fnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298225109?position=17&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=6nW0X%2FhtA2t57vQEZ8XQgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298224256?position=18&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=tg2Q7jSrGtINpsISa2eD%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Remote)",
-        "company": "Dolan Mental Health",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-dolan-mental-health-4298217529?position=19&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=VgPd1Vc8oFIpci4wqywUSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Intake)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-intake-at-wiraa-4298199394?position=21&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=5r8idfPBjH1tJxjL47thiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Integration Engineer (GitHub/Jira \u2192 Data Warehouse)",
-        "company": "MAASco Tech LLC",
-        "location": "Malvern, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-github-jira-%E2%86%92-data-warehouse-at-maasco-tech-llc-4297862717?position=25&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=%2BTfTwTknywPyY9MacAW9Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Product)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-wiraa-4298187794?position=28&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=FpQ7%2FNdy8PovfWjXXH1AJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SoTalent",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sotalent-4296233114?position=29&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=IIWvAfCGFc9nAPETBl5jSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Hybrid Work Model)",
-        "company": "Sentry",
-        "location": "Stevens Point, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-hybrid-work-model-at-sentry-4288332603?position=34&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=kxkPFuR0MlgN%2F5BAytsIuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Software Engineer I",
-        "company": "Axon",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-i-at-axon-4288360173?position=35&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=ew2vDJMf%2BshRfAa41m0olw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Calance",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-calance-4297852760?position=36&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=pBMDu4IVz8cQeN4TZI%2B5XA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Providence Health & Services",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-providence-health-services-4298195569?position=38&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=MOzLBR1630Fsuq6Q4dSiAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "AFC Modelling - Data Scientist - Associate - Assistant Vice President",
-        "company": "Deutsche Bank",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/afc-modelling-data-scientist-associate-assistant-vice-president-at-deutsche-bank-4298222427?position=42&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=somt2k35nGNbIUu%2B3zdEPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Front-end Software Engineer, Mobile, GeminiApp",
-        "company": "Google DeepMind",
-        "location": "Buffalo-Niagara Falls Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-mobile-geminiapp-at-google-deepmind-4298218612?position=43&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=YSKWIUp4PbGt9RtX0bCB0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. IT Infrastructure Engineer",
-        "company": "Neo4j",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-it-infrastructure-engineer-at-neo4j-4287949743?position=44&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=LkFIVRGjCNQZQwcu4tgvMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer in Test II",
-        "company": "iHeartMedia",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-ii-at-iheartmedia-4277400976?position=46&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=gpYU%2F5irmhDPdz3asEpAzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Software Engineer II, VR",
-        "company": "Axon",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ii-vr-at-axon-4188487734?position=48&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=fVOcnl2sjmYSbf67ii7%2BWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "BAE Systems, Inc.",
-        "location": "Hudson, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-bae-systems-inc-4296218129?position=54&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=nmuB%2BGxHBtN2tWd8QaOXiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst, Advanced Analytics",
-        "company": "Horizon Next",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-advanced-analytics-at-horizon-next-4285043725?position=55&pageNum=0&refId=5l5U02esXa6rKt6XJIDrjg%3D%3D&trackingId=nwEfUYdoIONv%2Fk%2FJ6GT84g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst (Product)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-wiraa-4298187794?position=3&pageNum=2&refId=z6FOmrq2igzIAXhcBzcHHg%3D%3D&trackingId=BGKIEuYDhKiutf1866878A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SoTalent",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sotalent-4296233114?position=4&pageNum=2&refId=z6FOmrq2igzIAXhcBzcHHg%3D%3D&trackingId=xpnN6J%2F0x5%2FWIiopBOIkeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Hybrid Work Model)",
-        "company": "Sentry",
-        "location": "Stevens Point, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-hybrid-work-model-at-sentry-4288332603?position=9&pageNum=2&refId=z6FOmrq2igzIAXhcBzcHHg%3D%3D&trackingId=27Jd1zD5KYgXYLavDtu1dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Software Engineer I",
-        "company": "Axon",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-i-at-axon-4288360173?position=10&pageNum=2&refId=z6FOmrq2igzIAXhcBzcHHg%3D%3D&trackingId=pKRq3gfNuiuERvLUeopArA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "BAE Systems, Inc.",
-        "location": "Hudson, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-bae-systems-inc-4296218129?position=4&pageNum=5&refId=OsxGTQqCN72IflhHBKmf4A%3D%3D&trackingId=ENyUvRccpUNtnBLBqUDClQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst, Advanced Analytics",
-        "company": "Horizon Next",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-advanced-analytics-at-horizon-next-4285043725?position=5&pageNum=5&refId=OsxGTQqCN72IflhHBKmf4A%3D%3D&trackingId=v%2FoedGa1YZusezTTXIecww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Woodbridge, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4297849908?position=1&pageNum=7&refId=8Z%2BmeTTL0hmBNOVs3k9Ssw%3D%3D&trackingId=3tIzeGg9bTFZaRdQgzWI2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Hamilton Township, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4297857640?position=10&pageNum=7&refId=8Z%2BmeTTL0hmBNOVs3k9Ssw%3D%3D&trackingId=oSlFyJZpCPPEmsHwUjU%2BPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": true
-    },
-    {
-        "title": "Research Analyst (Entry - level)",
-        "company": "Dolan Mental Health",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-entry-level-at-dolan-mental-health-4298214653?position=5&pageNum=10&refId=1LBerdT7hFgp52LizJIQtQ%3D%3D&trackingId=GGz09zh4VZqUsyl9GpCFHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Urban Outfitters Digital Analyst",
-        "company": "URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/urban-outfitters-digital-analyst-at-urbn-urban-outfitters-anthropologie-group-free-people-nuuly-4287553202?position=6&pageNum=10&refId=1LBerdT7hFgp52LizJIQtQ%3D%3D&trackingId=iLhj%2FFbj7TE6auPsZgvDRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Research Analyst (Entry - level)",
-        "company": "Dolan Mental Health",
-        "location": "Florida, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-entry-level-at-dolan-mental-health-4298208901?position=7&pageNum=10&refId=1LBerdT7hFgp52LizJIQtQ%3D%3D&trackingId=cfBtwgKLTxGxVdVgEPtB%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Research Analyst (Entry - level)",
-        "company": "Dolan Mental Health",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-entry-level-at-dolan-mental-health-4298228041?position=8&pageNum=10&refId=1LBerdT7hFgp52LizJIQtQ%3D%3D&trackingId=31I4nW2kLrkeXuynW%2F7a6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Research Analyst (Entry - level)",
-        "company": "Dolan Mental Health",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-entry-level-at-dolan-mental-health-4298220470?position=10&pageNum=10&refId=1LBerdT7hFgp52LizJIQtQ%3D%3D&trackingId=H%2FiDuPiyoc1ahYhjgU%2Fs5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-09 14:24:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Altimetrik",
         "location": "United States",
         "date_posted": "Recent",
@@ -1457,6 +1077,266 @@
         "url": "https://www.linkedin.com/jobs/view/associate-consultant-building-automation-controls-engineer-at-wsp-in-the-u-s-4259512760?position=10&pageNum=10&refId=sT9PmIhW9%2Bdf36sITVXZVA%3D%3D&trackingId=46ywfR3DIDqy3IVcwd892A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-09 15:19:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Brooksource",
+        "location": "Columbus, Ohio Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-brooksource-4283028992?position=1&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=Z8LIeSb%2FpTfsXTS1CBttuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Local candidate Only)",
+        "company": "Raas Infotek",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-local-candidate-only-at-raas-infotek-4298245231?position=14&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=TBKhdEAaA1H7ccXSgLKIhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Software Engineer",
+        "company": "Trexquant Investment LP",
+        "location": "Stamford, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-software-engineer-at-trexquant-investment-lp-4297854738?position=16&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=QJFZ6Y%2BKTFWznYMCumtGjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Protection Engineer",
+        "company": "Vanguard Logistics Services",
+        "location": "Cypress, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-protection-engineer-at-vanguard-logistics-services-4298245265?position=31&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=mT9AnOG0Utw5s6eGon%2FrBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer (NiFi Specialist) \u2013 Full-Scope Polygraph",
+        "company": "Hatched Recruitment Group",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-nifi-specialist-%E2%80%93-full-scope-polygraph-at-hatched-recruitment-group-4298248213?position=48&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=4vzOXdceqw9vOjAuACBlEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Sales Data Analyst",
+        "company": "Marvin",
+        "location": "Eagan, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sales-data-analyst-at-marvin-4298244378?position=50&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=6SNUKSJmrbbchWiqzdRtuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist III",
+        "company": "Beacon Hill",
+        "location": "Waukegan, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-beacon-hill-4298227947?position=51&pageNum=0&refId=Dvg4cmLN4CIQviaSH5dYNg%3D%3D&trackingId=SWLv1Q%2FHHeqNvzhMbW%2BcMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Protection Engineer",
+        "company": "Vanguard Logistics Services",
+        "location": "Cypress, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-protection-engineer-at-vanguard-logistics-services-4298245265?position=7&pageNum=2&refId=MFCR%2FuqJM5Of7d%2FrTKkkZQ%3D%3D&trackingId=xxs2ixMPEDijJfGHuJBV3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Sales Data Analyst",
+        "company": "Marvin",
+        "location": "Eagan, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sales-data-analyst-at-marvin-4298244378?position=1&pageNum=5&refId=RGSxtvbZ3vqa88eQpItBOg%3D%3D&trackingId=DPyGxVt3UgiSvYq2xrmitA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist III",
+        "company": "Beacon Hill",
+        "location": "Waukegan, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-beacon-hill-4298227947?position=2&pageNum=5&refId=RGSxtvbZ3vqa88eQpItBOg%3D%3D&trackingId=xmp1NXvNwEmERAU9eIi1LA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Perry, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4298236566?position=3&pageNum=7&refId=9kkCeq9T5Syc6Pp2BWaQTA%3D%3D&trackingId=Ko2nWMA%2FCiGJhYF4FaVRlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "SQL Reporting Analyst",
+        "company": "ConsultNet Technology Services and Solutions",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sql-reporting-analyst-at-consultnet-technology-services-and-solutions-4296228627?position=4&pageNum=7&refId=9kkCeq9T5Syc6Pp2BWaQTA%3D%3D&trackingId=ouZg4b5zgaxclthls3776w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "BUSINESS INTELLIGENCE SPECIALIST-INTERMEDIATE - 09092025-70954",
+        "company": "State of Tennessee",
+        "location": "Davidson County, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-specialist-intermediate-09092025-70954-at-state-of-tennessee-4298168436?position=5&pageNum=7&refId=9kkCeq9T5Syc6Pp2BWaQTA%3D%3D&trackingId=DevWXlFnXaH%2F%2BJqIQ1lVcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist III",
+        "company": "KPG99 INC",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-kpg99-inc-4298229236?position=6&pageNum=7&refId=9kkCeq9T5Syc6Pp2BWaQTA%3D%3D&trackingId=sKM7daFLVcm5QdkUH4mfTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Scientist",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-hirenza-4298246045?position=10&pageNum=7&refId=9kkCeq9T5Syc6Pp2BWaQTA%3D%3D&trackingId=r4hZwqzFO0QzJyKUROWsFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "V.I.E - Data & Engagement Analyst - New Jersey, H/F",
+        "company": "BNP Paribas",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/v-i-e-data-engagement-analyst-new-jersey-h-f-at-bnp-paribas-4295077314?position=1&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=JLr5OZpauunnbYRcGYltOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineer",
+        "company": "Varex Imaging Corporation",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-varex-imaging-corporation-4298234636?position=2&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=cZbFJtBNZOjfq0WVAnCDnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Revenue Operations Analyst",
+        "company": "USIC",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-usic-4296212842?position=4&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=SmAr9q%2FTKpWQSIoLkkwYSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Research Associate - Afternoon Shift",
+        "company": "Insight Global",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-afternoon-shift-at-insight-global-4297873346?position=5&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=aRPxwcHNS4XNImNGaL%2Bb8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Flight Software C++ (Starshield)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flight-software-c%2B%2B-starshield-at-jobs-via-dice-4297855247?position=6&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=gGfOXe6pqOnCAx3TXDJYfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist Principal - Bank AI/ML",
+        "company": "TalentAlly",
+        "location": "San Antonio, Texas Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-principal-bank-ai-ml-at-talentally-4298239212?position=7&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=vmxEqPYyfS2rks7tuDOvjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Research Associate",
+        "company": "Insight Global",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-at-insight-global-4291341520?position=9&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=bsTTyhguFbIZ7BRUANr0sw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Director Data Scientist - Bank AI/ML (Model Development)",
+        "company": "TalentAlly",
+        "location": "Greater Colorado Springs Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/director-data-scientist-bank-ai-ml-model-development-at-talentally-4298226771?position=10&pageNum=10&refId=iJ8ETH3eWLnUnpXEzmnwCA%3D%3D&trackingId=qg3LeHymt0jmGEJ3abymLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "Commercial Real Estate Reporting Specialist",
+        "company": "ASB Real Estate Investments",
+        "location": "Bethesda, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/commercial-real-estate-reporting-specialist-at-asb-real-estate-investments-4296227601?position=1&pageNum=12&refId=rfXsSGcO1jDmZdGh4m665Q%3D%3D&trackingId=0NdHQS8TEEOJ5LcWltX9Lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "SR Category Management Analyst",
+        "company": "Bigelow Tea",
+        "location": "Fairfield, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-category-management-analyst-at-bigelow-tea-4296225643?position=2&pageNum=12&refId=rfXsSGcO1jDmZdGh4m665Q%3D%3D&trackingId=%2F1IPIanvsHYy3Y%2FM2%2BtTzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
+        "email_sent": false
+    },
+    {
+        "title": "QC Data Reviewer \u2013 Pharmaceutical (HPLC/GC, cGMP)",
+        "company": "ttg Talent Solutions",
+        "location": "Coral Springs, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/qc-data-reviewer-%E2%80%93-pharmaceutical-hplc-gc-cgmp-at-ttg-talent-solutions-4297869454?position=3&pageNum=12&refId=rfXsSGcO1jDmZdGh4m665Q%3D%3D&trackingId=8JA6pKC1%2ByPPymmTUzcGJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-09 15:38:00",
         "email_sent": false
     }
 ]
