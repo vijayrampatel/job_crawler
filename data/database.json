@@ -1,205 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4299037353?position=4&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=XCL5loON0DmgeCR%2Bqz9aKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Leidos",
-        "location": "Tewksbury, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-leidos-4299063073?position=12&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=UxCIBYF9lXFr%2F4xapdIOTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "MechMaxx",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-mechmaxx-4299447150?position=28&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=hfnE3Ry6ZCq6ODlnw7%2BAZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Intellect Group",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-intellect-group-4299440257?position=34&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=psZCs0AOGN%2B%2BhMNHXTHUbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "company": "MIT Lincoln Laboratory",
-        "location": "Lexington, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-mit-lincoln-laboratory-4299441509?position=39&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=snX0JMXtB9E94mmV1AdQtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist I",
-        "company": "Cotiviti",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-at-cotiviti-4299048497?position=40&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=101PQqSoQgRFDybPs%2FBpwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analytics Analyst",
-        "company": "LSEG",
-        "location": "Buffalo, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-analyst-at-lseg-4299062139?position=42&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=yB0GTULTpoytqW3Hpzv1AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer-Cooper Lighting Solutions",
-        "company": "Signify",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-cooper-lighting-solutions-at-signify-4252897317?position=44&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=8ZU80bJxC8ktQKN%2FOUHsYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Data Scientist",
-        "company": "Arcadia.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-arcadia-io-4299428876?position=47&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=IBLZlDUQdbd7sogM9MH3Tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Processing Analytics Data Technician",
-        "company": "PharmaCann Inc",
-        "location": "Dwight, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/processing-analytics-data-technician-at-pharmacann-inc-4299056222?position=52&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=RrYFAcI5jZss8UDw3y%2BsBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Lawrence County, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4299043654?position=59&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=OB%2BFcrWfArejCeiZuK0eOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Old Jamestown, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4299045268?position=60&pageNum=0&refId=a4J%2F1vmNDOHeHW2di9TIBA%3D%3D&trackingId=Ykp1iWW63I9Nje0BjbvEwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "MechMaxx",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-mechmaxx-4299447150?position=3&pageNum=2&refId=Wg%2FWRSg8Rxb5JU3J3NQfmQ%3D%3D&trackingId=70DBs3tW1iwTRmwb%2BOuKtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Intellect Group",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-intellect-group-4299440257?position=9&pageNum=2&refId=Wg%2FWRSg8Rxb5JU3J3NQfmQ%3D%3D&trackingId=mnSxj6poXqBv4LQqUqjqHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Processing Analytics Data Technician",
-        "company": "PharmaCann Inc",
-        "location": "Dwight, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/processing-analytics-data-technician-at-pharmacann-inc-4299056222?position=2&pageNum=5&refId=BfmstONqHIR85D%2Bmq182zg%3D%3D&trackingId=gP5hApmLLSN4SjnMJpfioQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Lawrence County, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4299043654?position=9&pageNum=5&refId=BfmstONqHIR85D%2Bmq182zg%3D%3D&trackingId=6M%2BqulppgSFFV0qneQMG0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Old Jamestown, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4299045268?position=10&pageNum=5&refId=BfmstONqHIR85D%2Bmq182zg%3D%3D&trackingId=EFt8CJ0sUrHlVp5FYikhzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer Planning Analyst",
-        "company": "Tap Growth ai",
-        "location": "Newport News, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-planning-analyst-at-tap-growth-ai-4299449002?position=1&pageNum=7&refId=NSgerAeGT9g%2FPHwq%2FLwLQQ%3D%3D&trackingId=MxNPreKVHy62uqPb%2FWtgqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Media Insights Analyst",
-        "company": "Apex Systems",
-        "location": "San Bruno, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/media-insights-analyst-at-apex-systems-4299426696?position=5&pageNum=7&refId=NSgerAeGT9g%2FPHwq%2FLwLQQ%3D%3D&trackingId=q%2Boid34jQ8g6n8DMm9EdZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
-        "title": "Aircraft Systems Engineer 2 (Systems Safety)",
-        "company": "Garmin",
-        "location": "New Century, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aircraft-systems-engineer-2-systems-safety-at-garmin-4252378746?position=6&pageNum=7&refId=NSgerAeGT9g%2FPHwq%2FLwLQQ%3D%3D&trackingId=YAVa12KV21jL1zBxUluNmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 20:18:53",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst, Sr. (Enterprise)",
         "company": "Under Armour",
         "location": "United States",
@@ -738,5 +538,115 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-11 21:15:08",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Infosys",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-infosys-4297488205?position=2&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=rUL0nREcX6Ux%2BF6njnkYTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Junior",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-junior-at-booz-allen-hamilton-international-u-k-ltd-4299468536?position=5&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=TVuhAj0S9%2Fam7G1aft9rCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-international-u-k-ltd-4299458903?position=8&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=38mGBPy2qxVINm0EH4JICQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Palantir Data Engineer",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Honolulu, HI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/palantir-data-engineer-at-booz-allen-hamilton-international-u-k-ltd-4299472186?position=12&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=JnVhKcfJdA%2FmJTGbA33NDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4299464646?position=13&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=6H%2B3sE9jwMkFMVAbU1W90A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Power and Control System Engineer",
+        "company": "LVI Associates",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/power-and-control-system-engineer-at-lvi-associates-4299059661?position=29&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=HJMgaJE4YUCPtGhtjCUCSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java)",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-at-best-job-tool-4299459845?position=35&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=fm7AwNMo3StbBls%2BnDp%2B5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4299021686?position=41&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=RLpGiLh8NcYYwPU8vMxcTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4299463625?position=43&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=2J%2BshIeOeM1QD3A0vK8vRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Part Data and Workflow Analyst - SSL",
+        "company": "NEGU Enterprises",
+        "location": "Dubuque, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/part-data-and-workflow-analyst-ssl-at-negu-enterprises-4299454966?position=47&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=Bk3hLWJypEagKGmpJTHoBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
+    },
+    {
+        "title": "Institutional Research Analyst",
+        "company": "University of Idaho",
+        "location": "Moscow, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/institutional-research-analyst-at-university-of-idaho-4299067325?position=54&pageNum=0&refId=jzkUl7tptdwE9bwx0lkuKw%3D%3D&trackingId=dnhtkSy7jIwaCFEc0lfTfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 21:28:21",
+        "email_sent": false
     }
 ]
