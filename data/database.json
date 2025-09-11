@@ -1,456 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "AbbVie",
-        "location": "Mettawa, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-abbvie-4275009036?position=2&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=Z9jjnYYFHCiQznXoClWzfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, New Grad (2025)",
-        "company": "Sentry",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-2025-at-sentry-4252028280?position=6&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=r8KPRHWv%2F%2Bhcdn1pIrUkkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "InvoiceCloud, Inc.",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-invoicecloud-inc-4272191130?position=8&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=iQtjFYiNeqsR9t%2FJESXU4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4299145936?position=9&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=SJzzf1ZoHMTFF7nUru9RiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "LogRocket",
-        "location": "Greater Boston",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-logrocket-4238235792?position=12&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=bRTXQboL%2FgXFDmYEmHq3ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Michigan, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4298878656?position=14&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=h2WT8ilsNyjlCAO2C25N%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4298896052?position=16&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=4Tyi90xJe4CzP4yPxSaKgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Jr. Data Scientist - Austin, Jr. Developer Program",
-        "company": "Amazon",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-austin-jr-developer-program-at-amazon-4278528600?position=18&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=5cy30nxWRBzs1uVmPx8qdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Claude Code",
-        "company": "Anthropic",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-claude-code-at-anthropic-4274352109?position=20&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=gLhIKxV6uDfr4ktSHGUR%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Deep Learning Engineer",
-        "company": "Mackinnon Bruce International",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/deep-learning-engineer-at-mackinnon-bruce-international-4299160502?position=23&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=70kC7TPRtYybn%2BFOp2iwYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II, P&C Operations",
-        "company": "American National",
-        "location": "Springfield, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-p-c-operations-at-american-national-4289106760?position=25&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=%2Fe3sCH%2BpctJffxLznOBDCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Backend Engineer, Platform Engineering - Network Data",
-        "company": "Kentik",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-platform-engineering-network-data-at-kentik-4096334253?position=26&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=48OPiV1XemJQ7AfDSX7vVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer, Behavior Planning & Prediction",
-        "company": "Woven by Toyota",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-behavior-planning-prediction-at-woven-by-toyota-4210593121?position=27&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=6dAqJGUq9RvGTh4daBAI2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-wiraa-4299148859?position=30&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=aID5QOQ6vzqVn%2FVKSiI8lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Capital One",
-        "location": "McLean, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-capital-one-4299158525?position=32&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=hlKYW8LYHS0611ZxQW8z%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
-        "company": "Driven Insights",
-        "location": "Gardner, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4299149893?position=37&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=0jL2X0Fh7pMzjnXCSkQ22Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Redding, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298873695?position=40&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=4gwDkCsIV%2BI3MNCDz9acFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer (Linux)",
-        "company": "Zipline",
-        "location": "South San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-linux-at-zipline-4289212724?position=41&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=BrYYbEHiUOYeQkwsaO1oIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Compton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298877619?position=44&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=Z6J8Hx22Dtc0GS8Y%2FxBlQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "San Marcos, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298890462?position=45&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=FpJ2rpfGOmbiOFQZusAGdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Capital One",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-capital-one-4299162335?position=46&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=BhZwgvnFuOUg%2F5anKKy6gg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Carson, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298894261?position=47&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=LWgqSCNfs0VWPMOCrdorjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Santa Monica, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298882660?position=50&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=U8K2dmxq5ZMpjlSxTHWm%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Vista, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875641?position=51&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=t7qnkai3C3uhwvJbVH2rNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Goodyear, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875683?position=52&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=z46UacmzVyspYmiN4VOmHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298889585?position=53&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=1sHckkjhSjdIbZb32wYCgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Beaverton, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875644?position=55&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=%2Fu7VQ0a0VCxPG5Uam9dJJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Mission Viejo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298884607?position=56&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=n3ZHlRiGp4MczFf2c5mq8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Longmont, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298881559?position=58&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=Qt%2FasYKfivZpsE9HT%2FRRDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Tracy, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298878719?position=59&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=LgF8n7%2BMViHA7RPWAbd1nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Bend, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298873588?position=60&pageNum=0&refId=FvkKFyEWnxajY1gOYMttCQ%3D%3D&trackingId=Z44n%2F%2FheCt%2BM%2FpiIPNLzTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Backend Engineer, Platform Engineering - Network Data",
-        "company": "Kentik",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-platform-engineering-network-data-at-kentik-4096334253?position=1&pageNum=2&refId=ZHae%2FGV35iJKkrMTlamnjQ%3D%3D&trackingId=3U1fG98anmoriuTZvQMCxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer, Behavior Planning & Prediction",
-        "company": "Woven by Toyota",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-behavior-planning-prediction-at-woven-by-toyota-4210593121?position=2&pageNum=2&refId=ZHae%2FGV35iJKkrMTlamnjQ%3D%3D&trackingId=jHR7jkGK8tlaD4YsQDyktA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-wiraa-4299148859?position=5&pageNum=2&refId=ZHae%2FGV35iJKkrMTlamnjQ%3D%3D&trackingId=kCxCz3vgjOm5%2Brz4%2FbthSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Capital One",
-        "location": "McLean, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-capital-one-4299158525?position=7&pageNum=2&refId=ZHae%2FGV35iJKkrMTlamnjQ%3D%3D&trackingId=upHzaZ7Jt3%2BMrkb2X4exdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Vista, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875641?position=1&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=MT9grZC7h%2BMJmZlJcrnO5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Goodyear, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875683?position=2&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=LAe2sn6jrVVHvbq%2BPpQroQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298889585?position=3&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=5ar7FtVEHtoFA0%2BKjrTH4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Beaverton, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298875644?position=5&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=Y5QvAdWxHx3cGiCW2SqhdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Mission Viejo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298884607?position=6&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=4%2BtXWYpXHa5r9KOfHN5j7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Longmont, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298881559?position=8&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=XH5Z1O80%2FY7sLWIxB1MOBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Tracy, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298878719?position=9&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=QeECJzPxiaklrOo%2BxasyNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Bend, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298873588?position=10&pageNum=5&refId=oWq2v7MEn2vvUY0eyJwlkA%3D%3D&trackingId=Nw%2BiYpmuJrmJzsp6MpZgTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Business Analytics Insight Specialist Sr. - Finance",
-        "company": "BayCare Health System",
-        "location": "Clearwater, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-analytics-insight-specialist-sr-finance-at-baycare-health-system-4299154800?position=2&pageNum=7&refId=c5RiU7TRxUUgGaZI%2BQYsrQ%3D%3D&trackingId=CRvwd4ctFNOayVYa0S1MBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Data Scientist, Curation Ecosystem",
-        "company": "Pinterest",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-scientist-curation-ecosystem-at-pinterest-4264280591?position=5&pageNum=7&refId=c5RiU7TRxUUgGaZI%2BQYsrQ%3D%3D&trackingId=CgqkbDtCS50%2B1F%2F449t7kA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 12:44:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "Zoom",
         "location": "United States",
         "date_posted": "Recent",
@@ -1568,5 +1118,125 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-11 13:42:03",
         "email_sent": true
+    },
+    {
+        "title": "Associate Data Engineer (5892)",
+        "company": "MetroStar",
+        "location": "Quantico, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-5892-at-metrostar-4235230523?position=5&pageNum=0&refId=nZNtneWW2HtJ7K%2FF5%2FyKOQ%3D%3D&trackingId=g%2BTzVWFWpGRKMVG%2FPg672A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-starlink-at-spacex-4278326535?position=28&pageNum=0&refId=nZNtneWW2HtJ7K%2FF5%2FyKOQ%3D%3D&trackingId=b8LW5ywGQOvnsyBal73F5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - W2 Only",
+        "company": "Bridgetown Consulting Group",
+        "location": "Piscataway, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-w2-only-at-bridgetown-consulting-group-4298895551?position=40&pageNum=0&refId=nZNtneWW2HtJ7K%2FF5%2FyKOQ%3D%3D&trackingId=dk42u8a9pbpfL%2FQM6r7Kkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Support Engineer",
+        "company": "Mixpanel",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/support-engineer-at-mixpanel-4264710014?position=45&pageNum=0&refId=nZNtneWW2HtJ7K%2FF5%2FyKOQ%3D%3D&trackingId=%2BV2Ilkzgl6k%2FgeQqvsR5xA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4299163177?position=55&pageNum=0&refId=nZNtneWW2HtJ7K%2FF5%2FyKOQ%3D%3D&trackingId=NQtuethINOPMpq6LkXaacg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-starlink-at-spacex-4278326535?position=4&pageNum=2&refId=oBpdhakmQpibCeACQqh6wg%3D%3D&trackingId=8mODHhjwnQlyf4qYawQcFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4299163177?position=7&pageNum=5&refId=lXfDVyOuqYPmOeTaer0YaA%3D%3D&trackingId=91xznCwzok8Lzs%2FyisfwIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Orem, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4298896014?position=6&pageNum=7&refId=xPb1NvRMs%2FaBddUkz1qL5w%3D%3D&trackingId=hMSehoMuLu2EqY5ebnwulg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "New Britain, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4289571442?position=5&pageNum=10&refId=qbr2hLbN%2BbWE68zDbm0nbw%3D%3D&trackingId=UqWY363tG59Dv%2FW8kpNH6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Bristol, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4289576105?position=6&pageNum=10&refId=qbr2hLbN%2BbWE68zDbm0nbw%3D%3D&trackingId=FAsfdirDVew29uHisYUc1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Test Engineer \u2013 AN/SPY-1 Radar System",
+        "company": "Kratos Defense and Security Solutions",
+        "location": "Crane, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/test-engineer-%E2%80%93-an-spy-1-radar-system-at-kratos-defense-and-security-solutions-4277804746?position=2&pageNum=12&refId=QKZtsnawaO9FHAg94%2FR7rw%3D%3D&trackingId=yI%2BeVLkpxZ7IIUeQKl8x%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
+    },
+    {
+        "title": "Propulsion Development Engineer (Raptor Flight)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/propulsion-development-engineer-raptor-flight-at-spacex-4145129214?position=5&pageNum=12&refId=QKZtsnawaO9FHAg94%2FR7rw%3D%3D&trackingId=zF4ilPBqTWtb%2Fogn%2FFKXdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 13:46:30",
+        "email_sent": false
     }
 ]
