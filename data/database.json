@@ -1,115 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Spotify",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-spotify-4300083624?position=1&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=5Bi1OZrET2%2FNjP0DUFCT8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4300051914?position=5&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=z%2FNctQqQoBuJ3kgl4usJHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "Brigham and Women's Hospital",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-brigham-and-women-s-hospital-4300077995?position=6&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=7caNgPRSatdMvMQ1nEqqxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "AWS and Snowflake Data Engineer",
-        "company": "Infosys",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-and-snowflake-data-engineer-at-infosys-4297797587?position=7&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=PP%2BpS4D8dWaywXtlq%2BuEjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "Principal Financial Group",
-        "location": "Des Moines, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-principal-financial-group-4300090169?position=16&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=EzZghfrdrpIQ5lgcjJom2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Backend",
-        "company": "Motive",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-motive-4298003592?position=17&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=xJ%2BhR78301tmJ3jBT%2BUVPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4300052929?position=22&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=TH%2FD45b40Oay5Mv2DmFd3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "Akkodis",
-        "location": "Beachwood, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-akkodis-4297790934?position=24&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=7f8yCjvawW3GzSSC6ytYLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Biomedical Software Engineer",
-        "company": "Motion Recruitment",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/biomedical-software-engineer-at-motion-recruitment-4300082827?position=31&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=sMh%2BkPM8eplr289FCZNN6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Teradata Developer - BI and Data Analytics",
-        "company": "Tata Consultancy Services",
-        "location": "Hazelwood, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/teradata-developer-bi-and-data-analytics-at-tata-consultancy-services-4299638278?position=36&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=UhDR1F8IsEsz4ZNqTz8Mew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer Computer System Support",
-        "company": "Tata Consultancy Services",
-        "location": "Worcester, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-computer-system-support-at-tata-consultancy-services-4299638277?position=42&pageNum=0&refId=hwEOYeBmHvEXcwqiHQpudw%3D%3D&trackingId=izr25OsH6NTDMXTqPREoXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-12 21:40:18",
-        "email_sent": true
-    },
-    {
         "title": "Data Science Engineer",
         "company": "Aditi Consulting",
         "location": "Long Beach, CA",
@@ -507,6 +397,136 @@
         "url": "https://www.linkedin.com/jobs/view/survey-analyst-public-opinion-research-at-aclu-4300105325?position=27&pageNum=0&refId=L1APJ72idx1HBoY3lYsziQ%3D%3D&trackingId=Ce7KmLKXoWLhOcgyotiJ4w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-12 22:34:15",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-beaconfire-inc-4293634106?position=1&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=BX2b2eYIRxeVt%2FSG0yA1KQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-international-u-k-ltd-4300103399?position=4&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=tz2LbV3TcHEmHjEK9gVmgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-best-job-tool-4300094810?position=12&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=SMT%2BqZTARaqlySS0sbzVmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Remote)",
+        "company": "American Specialty Health",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-remote-at-american-specialty-health-4300103703?position=13&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=Fczrl3f0c2%2BCaM2yr5KREQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-booz-allen-hamilton-international-u-k-ltd-4300103400?position=15&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=uGaYAUbM93K9mp6Ijgl2TA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Catalog Data Analyst",
+        "company": "Hoodie Analytics",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/catalog-data-analyst-at-hoodie-analytics-4300096930?position=21&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=Yr59x3F7LlsbuYSM439hxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Starlink Sales)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-starlink-sales-at-spacex-4300101870?position=23&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=9HMAhJodesHUFvBaV9Qggg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (Onsite)",
+        "company": "Pratt & Whitney",
+        "location": "East Hartford, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-pratt-whitney-4300108519?position=25&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=ex%2ByOCJktaas390zC%2B5O7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Linux Software Engineer I (Onsite)",
+        "company": "Collins Aerospace",
+        "location": "Cedar Rapids, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-linux-software-engineer-i-onsite-at-collins-aerospace-4300118086?position=28&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=l68tzq3ERmDO6%2FHfWkxlNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Payroll Data Assurance Specialist",
+        "company": "Springdale Ice Cream and Beverage",
+        "location": "Hutchinson, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/payroll-data-assurance-specialist-at-springdale-ice-cream-and-beverage-4300115183?position=30&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=Xuy5KX%2FCXr%2FcBPz%2FOb%2FG2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "System Safety Engineer\u202f II",
+        "company": "Raytheon",
+        "location": "Tucson, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-safety-engineer%E2%80%AF-ii-at-raytheon-4300106590?position=31&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=89tfwPRt%2B%2FmhzwxeCptr6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Customer Operations Analyst",
+        "company": "Inlera, Inc.",
+        "location": "Las Vegas, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-customer-operations-analyst-at-inlera-inc-4300112264?position=32&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=yA6HEnK9%2F00WZDIb9Gj2wQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
+        "email_sent": false
+    },
+    {
+        "title": "Scheduler - Assoc. Business Performance Analyst or Business Performance Analyst",
+        "company": "Dominion Energy",
+        "location": "Glen Allen, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/scheduler-assoc-business-performance-analyst-or-business-performance-analyst-at-dominion-energy-4300119098?position=37&pageNum=0&refId=fkPf3zl8nRT%2FqG3J9hSWvg%3D%3D&trackingId=E%2BIhZCz9QEBPXJNB56pAZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-12 22:46:55",
         "email_sent": false
     }
 ]
