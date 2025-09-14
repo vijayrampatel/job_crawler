@@ -1,45 +1,5 @@
 [
     {
-        "title": "Data Analyst I",
-        "company": "Brigham and Women's Hospital",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-brigham-and-women-s-hospital-4300077995?position=3&pageNum=0&refId=oh779LfJp34gLN8eFQyEgw%3D%3D&trackingId=y8Pkcpo16vT8%2BZFmuvkpMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 21:39:24",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Deploy Staff LLC",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-deploy-staff-llc-4298567038?position=5&pageNum=0&refId=oh779LfJp34gLN8eFQyEgw%3D%3D&trackingId=ZBVJNePSXXzb2OK25K5%2F2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 21:39:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Frontend)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wiraa-4300567923?position=7&pageNum=0&refId=oh779LfJp34gLN8eFQyEgw%3D%3D&trackingId=4JWkRfnHtBIv1uxG%2FA%2BrxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 21:39:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "CBRE",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cbre-4300566852?position=10&pageNum=0&refId=oh779LfJp34gLN8eFQyEgw%3D%3D&trackingId=bj7MYXhJ8jgiQdfyTteUuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 21:39:24",
-        "email_sent": true
-    },
-    {
         "title": "Data Transformation Engineer",
         "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
         "location": "Horsham, PA",
@@ -98,5 +58,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-14 22:33:07",
         "email_sent": true
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4300582688?position=6&pageNum=0&refId=qy8ddhMPT1F%2F%2BRLfbupc3Q%3D%3D&trackingId=Q%2Fr5WR277enSMX0LtX5R%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 22:47:17",
+        "email_sent": false
+    },
+    {
+        "title": "Drone LiDAR Success Engineer",
+        "company": "ROCK Robotic",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/drone-lidar-success-engineer-at-rock-robotic-4300410740?position=8&pageNum=0&refId=qy8ddhMPT1F%2F%2BRLfbupc3Q%3D%3D&trackingId=A46xIM%2FrttErm1qh%2B83mjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 22:47:17",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer I: Flight Test Instrumentation (Onsite)",
+        "company": "Pratt & Whitney",
+        "location": "Palm Beach Gardens, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-i-flight-test-instrumentation-onsite-at-pratt-whitney-4300576991?position=9&pageNum=0&refId=qy8ddhMPT1F%2F%2BRLfbupc3Q%3D%3D&trackingId=PAAW2nfnpIu8HiyQ1kHKkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 22:47:17",
+        "email_sent": false
+    },
+    {
+        "title": "Product Engineering and Test Engineer Technician",
+        "company": "Alphawave Semi",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/product-engineering-and-test-engineer-technician-at-alphawave-semi-4300409809?position=10&pageNum=0&refId=qy8ddhMPT1F%2F%2BRLfbupc3Q%3D%3D&trackingId=dtgXtBpm4Lk7rCuF%2FLNEIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 22:47:17",
+        "email_sent": false
+    },
+    {
+        "title": "*SkillBridge - Active Duty Military ONLY*- Criminal Analyst",
+        "company": "City of Hampton",
+        "location": "Hampton, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/skillbridge-active-duty-military-only-criminal-analyst-at-city-of-hampton-4300578866?position=11&pageNum=0&refId=qy8ddhMPT1F%2F%2BRLfbupc3Q%3D%3D&trackingId=skAFOhs%2FMNn1%2FQ%2FHyhnY%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 22:47:17",
+        "email_sent": false
     }
 ]
