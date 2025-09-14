@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jack-4300407126?position=2&pageNum=0&refId=CRFmpk4geszSc8qdrC7%2B7Q%3D%3D&trackingId=BXtCoORYdHFE4HBG5%2B4gAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:41:58",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Android",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-walmart-4253284135?position=17&pageNum=0&refId=CRFmpk4geszSc8qdrC7%2B7Q%3D%3D&trackingId=sR8rL7CMWIAjVu0q%2FH%2FfrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:41:58",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer, Sr.",
-        "company": "CrowdStrike",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-sr-at-crowdstrike-4300555635?position=19&pageNum=0&refId=CRFmpk4geszSc8qdrC7%2B7Q%3D%3D&trackingId=6ASYRq6cbGIKu8Iv35yYSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:41:58",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
         "company": "CareFirst BlueCross BlueShield",
         "location": "United States",
         "date_posted": "Recent",
@@ -218,5 +188,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-14 15:37:25",
         "email_sent": true
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Humana",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-humana-4300563374?position=15&pageNum=0&refId=fdUN5ld9l9MlR3sTs%2BZ1YA%3D%3D&trackingId=u8GcUnBrnWGLOZkpekr22A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Researcher, Systematic Macro",
+        "company": "Millennium",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-systematic-macro-at-millennium-4238499303?position=39&pageNum=0&refId=fdUN5ld9l9MlR3sTs%2BZ1YA%3D%3D&trackingId=dL1qrCcUik%2FdWiHgjVGpbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:46:00",
+        "email_sent": false
     }
 ]
