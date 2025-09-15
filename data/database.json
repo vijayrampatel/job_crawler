@@ -1,45 +1,5 @@
 [
     {
-        "title": "Power BI Administrator",
-        "company": "Kforce Inc",
-        "location": "Dania, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-administrator-at-kforce-inc-4226309862?position=7&pageNum=0&refId=YaC22IYjGDvzNixMTlTqpw%3D%3D&trackingId=4rGjGLoQDcuGJ5gtccSKzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 09:56:02",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist (USA-Remote)",
-        "company": "The Voleon Group",
-        "location": "Oregon, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-usa-remote-at-the-voleon-group-4241069075?position=8&pageNum=0&refId=YaC22IYjGDvzNixMTlTqpw%3D%3D&trackingId=dMMJ8nV0zzEJrXKxTlu7CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 09:56:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (OOD/OOP, Linux, HPC)",
-        "company": "KLA",
-        "location": "Milpitas, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ood-oop-linux-hpc-at-kla-4276247683?position=9&pageNum=0&refId=YaC22IYjGDvzNixMTlTqpw%3D%3D&trackingId=O3mQXjG%2BMqRF2UAxFKpCzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 09:56:02",
-        "email_sent": true
-    },
-    {
-        "title": "Pump Applications Engineer",
-        "company": "DXP Enterprises, Inc.",
-        "location": "Lenexa, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/pump-applications-engineer-at-dxp-enterprises-inc-4225022325?position=12&pageNum=0&refId=YaC22IYjGDvzNixMTlTqpw%3D%3D&trackingId=3i29I%2BCIAIjwMLoQVL22IA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 09:56:02",
-        "email_sent": true
-    },
-    {
         "title": "Data Transformation Engineer",
         "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
         "location": "Horsham, PA",
@@ -228,5 +188,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-15 10:51:01",
         "email_sent": true
+    },
+    {
+        "title": "Data Scientist Controls Engineer (LAP)",
+        "company": "Ford Motor Company",
+        "location": "Louisville, KY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-controls-engineer-lap-at-ford-motor-company-4265274918?position=5&pageNum=0&refId=hQkejXXmldEFJjxpgJEiFw%3D%3D&trackingId=fVESLwFbxP6%2F5M%2FKKFF1OQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 10:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Code Sandbox (Palo Alto)",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-code-sandbox-palo-alto-at-xai-4300854653?position=10&pageNum=0&refId=hQkejXXmldEFJjxpgJEiFw%3D%3D&trackingId=ub2Vw4VIGXeeT06vtlJwVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 10:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Teradata Developer - BI and Data Analytics",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/teradata-developer-bi-and-data-analytics-at-tata-consultancy-services-4278466592?position=16&pageNum=0&refId=hQkejXXmldEFJjxpgJEiFw%3D%3D&trackingId=TKuYwtuiJcSQ53veQGucag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 10:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "HR Data Analytics Analyst",
+        "company": "Gila River Resorts & Casinos",
+        "location": "Chandler, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hr-data-analytics-analyst-at-gila-river-resorts-casinos-4289595335?position=21&pageNum=0&refId=hQkejXXmldEFJjxpgJEiFw%3D%3D&trackingId=e3RyiIJD4lzI4VI4RhaiMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 10:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Structural Engineer",
+        "company": "DiLandro Andrews Engineering (DAE)",
+        "location": "Southampton, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/structural-engineer-at-dilandro-andrews-engineering-dae-4056841023?position=27&pageNum=0&refId=hQkejXXmldEFJjxpgJEiFw%3D%3D&trackingId=u9sQKShkvChVhpcbEg5lVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 10:59:43",
+        "email_sent": false
     }
 ]
