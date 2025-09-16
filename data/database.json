@@ -1,195 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Nomura",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nomura-4300973921?position=2&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=wWqzFw%2Bp%2FCXqTUCh8YBbMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Tailscale",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-tailscale-4224768432?position=5&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=qunySWoHRxs0LqCHkmgd6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "DigiTech Squad",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-digitech-squad-4301199210?position=6&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=PKUEzHs7Uym2GldUYgxCwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4301277928?position=11&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=o%2FogdNniSuk%2BjpV9fb1W5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4297769002?position=12&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=IxcuyaZpCADC2B22oopB6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "iConsultera",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-iconsultera-4301197654?position=24&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=S5d7Bulcjvjp%2FDz%2FSh61Hw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": false
-    },
-    {
-        "title": "BI Engineer",
-        "company": "GreenState Credit Union",
-        "location": "North Liberty, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bi-engineer-at-greenstate-credit-union-4301504481?position=27&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=mqZpEaRM0aCseuhQSjYIeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "GreenState Credit Union",
-        "location": "North Liberty, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-greenstate-credit-union-4301508165?position=28&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=CX%2Fi5JIyupWAoq5KZFsPlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Banner Engineering",
-        "location": "Plymouth, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-banner-engineering-4290965910?position=34&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=BU%2B0VmYAprdQ2fmWQMKaUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer (Intrusion Prevention System Development)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-intrusion-prevention-system-development-at-palo-alto-networks-4279685278?position=35&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=pJami%2BOlKol5Zq6gek9Qbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer (Security Research - Intrusion Prevention System Development)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-security-research-intrusion-prevention-system-development-at-palo-alto-networks-4279682868?position=38&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=dN%2FQ5sXUxlF1KQgsNjicfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Symbotic",
-        "location": "Lathrop, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4288812520?position=44&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=zx7jezzeZum7Pz%2BPfZmiXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "CommScope",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-commscope-4252617701?position=54&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=kHCVnXyHxxbcl%2F7%2BQPN4aA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Cordia",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cordia-4301503397?position=58&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=52EaVU5EN%2B1WMlIL6mKV9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Arcadia, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4299564016?position=60&pageNum=0&refId=yONdyWcusQWjJ7VyvyzNZw%3D%3D&trackingId=kYf7S7wYgPBerSd60IWcBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "BI Engineer",
-        "company": "GreenState Credit Union",
-        "location": "North Liberty, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bi-engineer-at-greenstate-credit-union-4301504481?position=2&pageNum=2&refId=PWFXcIwLbHBX9o99nGocNQ%3D%3D&trackingId=5oPxwNyWtAOMjKnC2KsYOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "GreenState Credit Union",
-        "location": "North Liberty, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-greenstate-credit-union-4301508165?position=3&pageNum=2&refId=PWFXcIwLbHBX9o99nGocNQ%3D%3D&trackingId=FC0X5FgR24daU3QUMEkWAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Banner Engineering",
-        "location": "Plymouth, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-banner-engineering-4290965910?position=9&pageNum=2&refId=PWFXcIwLbHBX9o99nGocNQ%3D%3D&trackingId=Zp5rvskW24cxWJgwvr%2Fv%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer (Intrusion Prevention System Development)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-intrusion-prevention-system-development-at-palo-alto-networks-4279685278?position=10&pageNum=2&refId=PWFXcIwLbHBX9o99nGocNQ%3D%3D&trackingId=W2Ix2Bsoa89PMZtHch2wfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 13:42:43",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer, Commercial lending products, data manipulation/tranformation",
         "company": "Global Technical Talent, an Inc. 5000 Company",
         "location": "Wilmington, DE",
@@ -808,5 +618,145 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-16 14:39:15",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4297434647?position=3&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=Fzv9N4iKf0LTqRaGdC1NXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "CGI",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4290918688?position=4&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=6tqUW18kk1Vw7Lqm9QRspA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Bowling Green, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4301504243?position=10&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=JiC%2Bu75yLuUBIPS3Z3e9QQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "AlphaSense",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-alphasense-4301289377?position=19&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=bF04EgCgExbWSy2AiAByKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Infrastructure - Platform (Compute)",
+        "company": "Coinbase",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-platform-compute-at-coinbase-4253695648?position=24&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=%2FyLkoNBi1bxLasU%2FkKDaqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Remote",
+        "company": "The Flex",
+        "location": "San Marino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-the-flex-4301507744?position=27&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=MFKJSM5eQnEHHLtl61KtWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Federal Data Engineer (Secret Clearance Eligible)",
+        "company": "LaunchCode",
+        "location": "Scott AFB, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/federal-data-engineer-secret-clearance-eligible-at-launchcode-4285895347?position=36&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=KukYRrX6t%2BnHKiuGDDMGSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software engineer - California",
+        "company": "Corgea",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-california-at-corgea-4301317174?position=41&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=r9WRQ6huRZMc2klts1ug9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software engineer - California",
+        "company": "Corgea",
+        "location": "San Mateo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-california-at-corgea-4301316227?position=44&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=PfvewJlVhguuINCg35dpuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Casco (YC X25)",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-casco-yc-x25-4301306641?position=47&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=rBpjbITwNgGtL2aKCsZSrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "Associa",
+        "location": "Richardson, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-associa-4290838920?position=48&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=hszWbXNKjBw8icm7CkUSAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Robert Half",
+        "location": "Clearwater, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-robert-half-4301286879?position=51&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=cuo0Ze%2Br8MHdQdu9y1PGCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Insight Global",
+        "location": "Euclid, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-insight-global-4301305945?position=52&pageNum=0&refId=4Rnu8f0F3MCzONRGpN2DoA%3D%3D&trackingId=gBIao93u%2FRoLIfdvKVD5oA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Remote",
+        "company": "The Flex",
+        "location": "San Marino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-the-flex-4301507744?position=2&pageNum=2&refId=bbAQ0d9NVMcLTL%2BD5bHwXA%3D%3D&trackingId=cRMws2BT5Ao3%2FwEm3uCIcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 14:51:52",
+        "email_sent": false
     }
 ]
