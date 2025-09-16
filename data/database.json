@@ -1,55 +1,5 @@
 [
     {
-        "title": "Software Engineer - SWE0",
-        "company": "Lockheed Martin",
-        "location": "Hanover, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-swe0-at-lockheed-martin-4301238167?position=3&pageNum=0&refId=s6XO%2BBWt%2FLs1MFOJAVMbJA%3D%3D&trackingId=7flay4Mtk3rbjaTFwY8K%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 04:22:08",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer Staff",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-staff-at-lockheed-martin-4301242020?position=5&pageNum=0&refId=s6XO%2BBWt%2FLs1MFOJAVMbJA%3D%3D&trackingId=GnR%2Bjw8cl8nESyY8ZDveYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 04:22:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Flight Test)",
-        "company": "Lockheed Martin",
-        "location": "Marietta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-flight-test-at-lockheed-martin-4301226728?position=6&pageNum=0&refId=s6XO%2BBWt%2FLs1MFOJAVMbJA%3D%3D&trackingId=7bXiuY5Ql0lNV6ckeG%2F8bA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 04:22:08",
-        "email_sent": false
-    },
-    {
-        "title": "Energy Engineer",
-        "company": "Inside Higher Ed",
-        "location": "Chapel Hill, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/energy-engineer-at-inside-higher-ed-4301232524?position=9&pageNum=0&refId=s6XO%2BBWt%2FLs1MFOJAVMbJA%3D%3D&trackingId=gZJ7y4ZNMwoIC1fNGNeJzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 04:22:08",
-        "email_sent": false
-    },
-    {
-        "title": "ORION Mechanism System Integration/Manufacturing Engineer Staff",
-        "company": "Lockheed Martin",
-        "location": "Cape Canaveral, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/orion-mechanism-system-integration-manufacturing-engineer-staff-at-lockheed-martin-4301232539?position=11&pageNum=0&refId=s6XO%2BBWt%2FLs1MFOJAVMbJA%3D%3D&trackingId=34wS9ehirwnfGykDsrd4XQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 04:22:08",
-        "email_sent": false
-    },
-    {
         "title": "Associate Data Analyst",
         "company": "Philadelphia Museum of Art",
         "location": "Philadelphia, PA",
@@ -318,5 +268,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-16 05:00:03",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Achieve",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-achieve-4301243439?position=3&pageNum=0&refId=Xpk%2BZEWkYcYnNd%2FRkk0yLg%3D%3D&trackingId=Bgbnq5cGi4hvAioxa2ZBlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 05:22:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Hypercare Support",
+        "company": "Experis",
+        "location": "Loveland, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-hypercare-support-at-experis-4301111479?position=18&pageNum=0&refId=Xpk%2BZEWkYcYnNd%2FRkk0yLg%3D%3D&trackingId=7qBoBJiMbv3VeJXHUo4eZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 05:22:57",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Researcher",
+        "company": "Blockhouse",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-blockhouse-4301234786?position=22&pageNum=0&refId=Xpk%2BZEWkYcYnNd%2FRkk0yLg%3D%3D&trackingId=Dol5lL2rdvFcxG%2F46wQ%2FXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 05:22:57",
+        "email_sent": false
+    },
+    {
+        "title": "Tactical Radio Embedded Software Engineer (Junior) with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/tactical-radio-embedded-software-engineer-junior-with-security-clearance-at-clearancejobs-4299296878?position=25&pageNum=0&refId=Xpk%2BZEWkYcYnNd%2FRkk0yLg%3D%3D&trackingId=qmTLolJKN8NhJ1Oo%2FiQZsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 05:22:57",
+        "email_sent": false
     }
 ]
