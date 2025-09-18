@@ -1,346 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Genentech",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-genentech-4292070475?position=1&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=uvwSspAy73QGz9egqqG%2Fjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4300301751?position=3&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=WnVwg4jlan5%2FnA7vSUniDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "iHeartMedia",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-iheartmedia-4255319158?position=4&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=wZng21PpCX63yPMbcCCkPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Etsy",
-        "location": "Brooklyn, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-etsy-4264264162?position=10&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=YjV%2BCApJuUDVOau5gfudcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Constangy",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-constangy-4302193333?position=12&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=BgkYI%2B678B3ueMWWvANTQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4297769002?position=13&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=X745YNef7RMygiTEU1cVew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Aequor",
-        "location": "Holly Springs, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aequor-4302193479?position=19&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=vSMn7L8l%2BmjUtYuvN%2F%2B0qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Baanyan Software Services, Inc.",
-        "location": "McLean, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-baanyan-software-services-inc-4302194404?position=20&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=JgPPpcP2XityCx8jDytrSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302184943?position=25&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=CAFyjs6zvS3x5qNavu%2FYoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302186903?position=26&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=j6vrfFhFNnLVODbR0HlBBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302193468?position=27&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=xE%2FcFqp5jkkMem7MOPjzsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302403069?position=28&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=bnowJE477zjJXsEY7ISyvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Massachusetts, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302195326?position=29&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=s0HH36C%2F4fMbhf6G0XXKMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302189678?position=30&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=Z7Z4vza634IzfEXlSsEssg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst- School of Medicine, Hematology",
-        "company": "Emory University",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-school-of-medicine-hematology-at-emory-university-4300674457?position=32&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=vgoRKpJM0H5bUF7wdI4GTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, Media Strategy",
-        "company": "Princess Cruises",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-media-strategy-at-princess-cruises-4292030246?position=37&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=gII8pFpGpA4GxYJzFPIJUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Back End (Python AWS)",
-        "company": "Capital One",
-        "location": "McLean, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-python-aws-at-capital-one-4302522616?position=40&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=z0cUv%2FCMhaPDjhBb25wbYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "UTEP CAREER EXPO - Junior Data Analyst",
-        "company": "Steampunk, Inc.",
-        "location": "El Paso, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/utep-career-expo-junior-data-analyst-at-steampunk-inc-4300679343?position=43&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=gemU8XeN7cX7xgrYzsdzrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Software Engineer I",
-        "company": "Maxar Technologies",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-i-at-maxar-technologies-4281458177?position=45&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=tyWd18lhX99h5cGFszXBgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-wiraa-4302514900?position=46&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=oNbvURopw2581u%2B7xRV4RA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Princ Software Apps Engineer",
-        "company": "Mitchell Martin Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/princ-software-apps-engineer-at-mitchell-martin-inc-4290323361?position=48&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=ywqy9ZC5Q4RBdN93%2F6Ab8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data and Reporting Specialist",
-        "company": "University of South Alabama",
-        "location": "Mobile, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-and-reporting-specialist-at-university-of-south-alabama-4302525442?position=51&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=V3PSenVPep7ibxfM0v1wJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Blue Signal Search",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-blue-signal-search-4288551970?position=52&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=dj9BCa7pfp1hHx3u6ykMpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Software Engineer",
-        "company": "Michael Page",
-        "location": "Greenwich, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-software-engineer-at-michael-page-4302522614?position=53&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=v2Axxd%2BqkhppshhTQa7HDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "\ud83d\ude80 HIRING NOW | \ud83d\udcca Actuarial Data Scientist | \ud83d\udcbb Digital Transformation | \ud83e\udd16 Advanced ML Projects | \ud83d\udca1 Innovate in the Insurance Space | \ud83d\udcb5 Up to $175k Package | \ud83c\udfe2 Onsite \u2013 Multiple US Locations",
-        "company": "Data Revolution",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-now-%F0%9F%93%8A-actuarial-data-scientist-%F0%9F%92%BB-digital-transformation-%F0%9F%A4%96-advanced-ml-projects-%F0%9F%92%A1-innovate-in-the-insurance-space-%F0%9F%92%B5-up-to-%24175k-package-%F0%9F%8F%A2-onsite-%E2%80%93-multiple-us-locations-at-data-revolution-4300349250?position=55&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=Fuoi0WFUnKmB9qmB12u39Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4302517693?position=57&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=d1pWm4rB7pWwIa8ExjbYLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "McNally - Entry-Level Field Engineer - Cleveland, OH (2025)",
-        "company": "McNally Companies",
-        "location": "Cleveland, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mcnally-entry-level-field-engineer-cleveland-oh-2025-at-mcnally-companies-4150854562?position=58&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=%2FHVzGKyXQUsS0%2B3%2B3SLKAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "AI Labeling Analyst - Entry Level",
-        "company": "Digitive",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-labeling-analyst-entry-level-at-digitive-4302277233?position=59&pageNum=0&refId=3dOv%2FkKPPgChEQGlzsWmOA%3D%3D&trackingId=5aR6SxpSvmf4O599b7Wirw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302186903?position=1&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=9Ko7VumYTQEMfnwv%2FKmWvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302193468?position=2&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=y%2BwRoGGCwmm5QLtLW%2BxBkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302403069?position=3&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=sEb5Xwn9mmQYYqP9zsZwbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Massachusetts, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302195326?position=4&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=fvzUTgxu%2B9CJ%2FIZPw6I2Mg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4302189678?position=5&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=RNu7yr01KOZ3WRErupIeXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst- School of Medicine, Hematology",
-        "company": "Emory University",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-school-of-medicine-hematology-at-emory-university-4300674457?position=7&pageNum=2&refId=rnWUm9cT2qofeSczXDfUBw%3D%3D&trackingId=mE5b4dkSk84wtaRKD%2FotEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 14:25:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "Recent",
@@ -808,5 +468,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-18 15:19:59",
         "email_sent": true
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Aptive Resources",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-aptive-resources-4302548379?position=9&pageNum=0&refId=MKfr6XYu8pmiKh3bw3fQtg%3D%3D&trackingId=f%2FRtQYdOApZIMDZLKIHSvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 15:36:14",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "KPIT",
+        "location": "Michigan, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-kpit-4302402433?position=15&pageNum=0&refId=MKfr6XYu8pmiKh3bw3fQtg%3D%3D&trackingId=7d7ZrVgYg703048Pp6OtKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 15:36:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "TalentAlly",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-talentally-4302551249?position=50&pageNum=0&refId=MKfr6XYu8pmiKh3bw3fQtg%3D%3D&trackingId=ZHRnLvmuaSx%2FdptkW%2BJ9%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 15:36:14",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Dedham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-general-dynamics-mission-systems-4301998299?position=56&pageNum=0&refId=MKfr6XYu8pmiKh3bw3fQtg%3D%3D&trackingId=OCuoHKwmakoxbJyqn%2B7jiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 15:36:14",
+        "email_sent": false
     }
 ]
