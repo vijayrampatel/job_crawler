@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Harvey Nash",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-harvey-nash-4303116085?position=30&pageNum=0&refId=Nf1ivDm3paWR%2BZCK1%2B3KJw%3D%3D&trackingId=Hh%2FI1HKvD2WYCNwrTnExrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 19:49:03",
-        "email_sent": true
-    },
-    {
-        "title": "Business Systems Analyst",
-        "company": "Koch",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-systems-analyst-at-koch-4301414299?position=43&pageNum=0&refId=Nf1ivDm3paWR%2BZCK1%2B3KJw%3D%3D&trackingId=9VFfTKjMdmAXwUmvAShbqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 19:49:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Harvey Nash",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-harvey-nash-4303116085?position=5&pageNum=2&refId=gXYcQb6sHkJKBH9e%2Ba7Sdg%3D%3D&trackingId=APowt%2Bj1%2B81XmeRFrrh52g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 19:49:03",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "TalentAlly",
         "location": "New York City Metropolitan Area",
@@ -787,6 +757,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-seo-at-wiraa-4303041198?position=4&pageNum=2&refId=J1bLuNhe3kwptFJ%2BrHaUpQ%3D%3D&trackingId=dqkTBhp4Bvgd0gARVpBHrA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-19 20:46:39",
+        "email_sent": false
+    },
+    {
+        "title": "Logistics Data Analyst",
+        "company": "CS Recruiting",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/logistics-data-analyst-at-cs-recruiting-4302072564?position=14&pageNum=0&refId=dTJX55qw4CEJUZkolIhDNg%3D%3D&trackingId=y6VZTptYdCvRY%2Bn8XNsPMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ML Software Engineer",
+        "company": "NPAworldwide",
+        "location": "Sarasota, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-npaworldwide-4302145350?position=27&pageNum=0&refId=dTJX55qw4CEJUZkolIhDNg%3D%3D&trackingId=oTIdY%2FRUF57nmIBHwuJllg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "IT Operations Engineer I",
+        "company": "Everfox",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-operations-engineer-i-at-everfox-4303104621?position=30&pageNum=0&refId=dTJX55qw4CEJUZkolIhDNg%3D%3D&trackingId=jLPAQCpf%2BwVCuoW8x%2Fur6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "Business Systems Analyst",
+        "company": "Koch",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-systems-analyst-at-koch-4301427016?position=44&pageNum=0&refId=dTJX55qw4CEJUZkolIhDNg%3D%3D&trackingId=UU0x9EggDLygkCFQqMERUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Personalization",
+        "company": "Spotify",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-personalization-at-spotify-4303065037?position=52&pageNum=0&refId=dTJX55qw4CEJUZkolIhDNg%3D%3D&trackingId=%2BkifctfC6QsBYdC1YS6J6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ML Software Engineer",
+        "company": "NPAworldwide",
+        "location": "Sarasota, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-npaworldwide-4302145350?position=3&pageNum=2&refId=VxrQjs3nyKRR6gqAEo%2B8Hg%3D%3D&trackingId=WzaNH1dd7MNmMT68CAreMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
+        "email_sent": false
+    },
+    {
+        "title": "IT Operations Engineer I",
+        "company": "Everfox",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-operations-engineer-i-at-everfox-4303104621?position=6&pageNum=2&refId=VxrQjs3nyKRR6gqAEo%2B8Hg%3D%3D&trackingId=EktSlnx858fP15NvJs2lww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 20:57:10",
         "email_sent": false
     }
 ]
