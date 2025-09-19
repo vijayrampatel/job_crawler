@@ -1,415 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4300670661?position=1&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=7TjptE1HktKr0NV092%2FYBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4303047098?position=2&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=YM94F1ai2IQZ8p9EkZZc4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Cardinal Health",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cardinal-health-4303043200?position=4&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=LegvkxFTC5kYTUTDlriA7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "SAGE IT",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-sage-it-4302773503?position=6&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=E%2BGMABksNCn4WUVivxXBdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Big Data Developer",
-        "company": "Tech Genius inc",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/big-data-developer-at-tech-genius-inc-4302776443?position=7&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=y1cPTMr71%2Byj86j5u1JVcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data QA Engineer",
-        "company": "ECLARO",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-qa-engineer-at-eclaro-4303065740?position=10&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=8w9fsPDi1Y6Va27KMsnloQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Snowflake Data Engineer (with Terraform)  12+ Years of Experience",
-        "company": "Visionary Innovative Technology Solutions LLC",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/snowflake-data-engineer-with-terraform-12%2B-years-of-experience-at-visionary-innovative-technology-solutions-llc-4301097475?position=11&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=6fVwJWekTtnFQiodNyE3uQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4303027364?position=12&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=O6Avsb62ccTnCn8IoCl8VA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "ShatSys",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-shatsys-4302773553?position=14&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=BWT2Ei4sI4jq0xx6pue8sw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Firmware Software Engineer",
-        "company": "INSPYR Solutions",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/firmware-software-engineer-at-inspyr-solutions-4303071691?position=15&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=zu6TPhjb4bogm5oicyafiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Backend)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-wiraa-4303035256?position=16&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=jaU4zc3Tms5PPGR5%2F4dV3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr. (SEO)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-seo-at-wiraa-4303041198?position=17&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=tJSNDWyTWohHVHA4LHTmyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer,Sr.",
-        "company": "NVIDIA",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-nvidia-4303029299?position=18&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=LtDKUuEuOe%2BSuMzBB88L7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Solutions Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-solutions-analyst-at-wiraa-4303048084?position=20&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=%2BtXbdlfvgZ9kR4aUa5Q%2Beg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "TEKsystems",
-        "location": "Niceville, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-teksystems-4296945862?position=21&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=xVgdNwdgqQErTQ1EW5CTnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Jobs via Dice",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4301955468?position=24&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=dBQbTH%2FVDYuoGVL83fXxfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II - Vendor Success",
-        "company": "Corpay",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-vendor-success-at-corpay-4303058766?position=25&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=PpmBEA6DyeM7tnoHZThdlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Manager)",
-        "company": "Ford Motor Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-at-ford-motor-company-4303029298?position=26&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=%2FUCU%2Fwzq4iG44EHaHpDLlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Cloud Database Engineer",
-        "company": "Jobs via Dice",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cloud-database-engineer-at-jobs-via-dice-4301961278?position=27&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=Xp%2BSb0zUUH%2FGFCm%2BSBd4Ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Infosys",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-infosys-4303034265?position=29&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=PFoyJcxDHvel7coOgVNFKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Business Software Engineer",
-        "company": "Zentech Consulting Inc",
-        "location": "Little Elm, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-software-engineer-at-zentech-consulting-inc-4303057854?position=30&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=%2BRp1PIMqN29OIwmGLOFjfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Harnham",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-harnham-4303049902?position=35&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=w03IvJQOPhVGQPFEl5yrfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Online Data Analyst - Fully Remote Position",
-        "company": "TELUS Digital AI Data Solutions",
-        "location": "Miles City, MT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-fully-remote-position-at-telus-digital-ai-data-solutions-4303066586?position=36&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=Bhalx0z1BhZH%2BVGxr44o6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (.Net)",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-at-best-job-tool-4303053744?position=37&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=E396suhU0browWeZLW2ZCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst - Fully Remote Position",
-        "company": "TELUS Digital AI Data Solutions",
-        "location": "Sidney, MT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-fully-remote-position-at-telus-digital-ai-data-solutions-4303055654?position=38&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=eBMvvvw8h1br2bzo5reX7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Scientist",
-        "company": "CAMP Systems International, Inc.",
-        "location": "Memphis, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-camp-systems-international-inc-4303058677?position=39&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=klDOoG7muaOjh7Dq%2BKpdGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Cumberland, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302759994?position=40&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=3rX38Op4Z0frMqbpUHX%2Bxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Woonsocket, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302782068?position=41&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=rV%2Bs0NBDFfbDlGqks87a2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "East Providence, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302773533?position=42&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=gcYqgusjbCAma4c0n9pzKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Pawtucket, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302770560?position=43&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=ogbsV0hOhZmE5NCUP2kvtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Cranston, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302773513?position=44&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=UhTDKl7Wf3bt3YIm1DqwOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Providence, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302765617?position=45&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=y5%2BWICHpLa3K5intmpHK%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Coventry, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302772555?position=46&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=vRrstWOtINYQVwN37Jar8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Warwick, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302782063?position=47&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=heODcDa0WAPb%2BcUHfpY65A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, Sr.",
-        "company": "Molina Healthcare",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-molina-healthcare-4303046154?position=48&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=Y1HXG%2BnvrlTZBhLIlWyIug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Product",
-        "company": "Jobs via Dice",
-        "location": "Menlo Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4301965192?position=50&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=itly6XgxSm%2BVf9QMXk3mLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Product",
-        "company": "Jobs via Dice",
-        "location": "Menlo Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4301950486?position=51&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=mL8THYt5YB9HoCE65pUd3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": false
-    },
-    {
-        "title": "Program Analyst",
-        "company": "University of Washington",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-university-of-washington-4303049824?position=52&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=lRm9V2Om9iOs%2BRkuBTCtuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Technical Recruiter (Tech or FinTech Sector)",
-        "company": "Solve IT Strategies, Inc.",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-recruiter-tech-or-fintech-sector-at-solve-it-strategies-inc-4303054852?position=53&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=GVWr8Yvc4Q7PsteAw4hcCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer - Water/Wastewater Engineering",
-        "company": "Jones Edmunds",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-water-wastewater-engineering-at-jones-edmunds-4303057739?position=55&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=LUsRj%2FpF%2BEnw9z6IESvwZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. Research Analyst",
-        "company": "WebMD",
-        "location": "Hillside, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-research-analyst-at-webmd-4302759874?position=56&pageNum=0&refId=pgidRPVKnzGxpndsEFEq6Q%3D%3D&trackingId=iFkTl1ZItH9byLbj4EVnFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-19 16:22:48",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer - ABS Data Analytics & Finance Reporting",
         "company": "GM Financial",
         "location": "Fort Worth, TX",
@@ -937,6 +527,106 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4303034265?position=9&pageNum=2&refId=00HNELucwdDqW14WKCfYvw%3D%3D&trackingId=3Lo3PZ%2FH1X4YhafWLZUAPw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-19 17:16:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Support Engineer",
+        "company": "The Planet Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-the-planet-group-4302774947?position=20&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=BNUg5Sv2QhPSM2cbhk2faw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Assurance Engineer",
+        "company": "JCW Group",
+        "location": "Greater Boston",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-jcw-group-4301401682?position=21&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=WGx2DwGDuCjNZ3hE2spCig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Partner \u2013 Computer Science - Remote - North America",
+        "company": "TELUS Digital",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-partner-%E2%80%93-computer-science-remote-north-america-at-telus-digital-4303080340?position=22&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=ELOLL0Kebz4osn9NN1p3tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Partner \u2013 Computer Science - Remote - North America",
+        "company": "TELUS Digital",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-partner-%E2%80%93-computer-science-remote-north-america-at-telus-digital-4303082277?position=26&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=%2FLl0L9%2FeUc%2Bfx4zj7vp%2B2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Addison Group",
+        "location": "Menlo Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-addison-group-4302784294?position=34&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=NMTIZVrhWPbyQbSek9OhRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "BI Platform Support Specialist",
+        "company": "Custom Business Solutions, Inc.",
+        "location": "Lansing, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bi-platform-support-specialist-at-custom-business-solutions-inc-4303093092?position=41&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=cr7C98UEOvS0WTUpI86h0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Privacy Analyst",
+        "company": "Compunnel Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-privacy-analyst-at-compunnel-inc-4303085262?position=50&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=Ghrmiuk8dUu3VjeZ7LpEHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Engineer, Aircraft Performance",
+        "company": "Otto Aerospace",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-aircraft-performance-at-otto-aerospace-4301094821?position=59&pageNum=0&refId=uBeRpwTSj4sAQqGEOhWqCA%3D%3D&trackingId=XJ8EDF79AXetTvO6LCT%2BmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Partner \u2013 Computer Science - Remote - North America",
+        "company": "TELUS Digital",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-partner-%E2%80%93-computer-science-remote-north-america-at-telus-digital-4303082277?position=1&pageNum=2&refId=iMfGHXOxH3ypSl3NktVd7g%3D%3D&trackingId=oPJDedeN9u1fA0IjzJrCtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Addison Group",
+        "location": "Menlo Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-addison-group-4302784294?position=9&pageNum=2&refId=iMfGHXOxH3ypSl3NktVd7g%3D%3D&trackingId=om9iXun%2BGoTGbZtiy3L84w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-19 17:31:20",
         "email_sent": false
     }
 ]
