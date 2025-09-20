@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4303259691?position=2&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=kfPSAZhpLdJ35VrT%2BURgeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Media",
-        "company": "The New York Times",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-media-at-the-new-york-times-4303259632?position=3&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=Jd7Yr%2BQGXbc3o1E2C2NHtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "AcuityMD",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-acuitymd-4303256659?position=4&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=M36T5kJkf5l%2BZ9I%2BDxeqHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Live",
-        "company": "The New York Times",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-live-at-the-new-york-times-4303264553?position=5&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=Dk9qxYljxdDboROcPMguMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4303260679?position=6&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=Urg2Fo%2BSkBC1zqRgLNUJdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst Entry Level Role",
-        "company": "bEdge Tech Services",
-        "location": "Sheridan, WY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-role-at-bedge-tech-services-4301428256?position=11&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=BCi42nbPQc7WXbOWGHH9jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "TEKsystems",
-        "location": "Niceville, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-teksystems-4296945862?position=14&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=IMKVC4IM%2B9qmCd82qhSRPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4303257770?position=28&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=cKxw9FbcqqVmxEYQY4kW3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Software Test Support Engineer",
-        "company": "Leidos",
-        "location": "Lynnwood, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-test-support-engineer-at-leidos-4303268385?position=30&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=aFvaGfU%2FZW35YAhjznW8rQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Human Resources Data Analyst",
-        "company": "Uline",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/human-resources-data-analyst-at-uline-4303142455?position=34&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=0Rv7lYFWNZq70yhEAzdM8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Human Resources Data Analyst",
-        "company": "Uline",
-        "location": "Pleasant Prairie, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/human-resources-data-analyst-at-uline-4303146341?position=36&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=Zf0IYkmwEWje5LFj2T5Zsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "Southern Veterinary Partners",
-        "location": "Birmingham, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-southern-veterinary-partners-4303252957?position=37&pageNum=0&refId=NfLkxdLtQuYrytcbQB3pQQ%3D%3D&trackingId=cR2Lke4WrRR5b3MhxAQFTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 02:46:01",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst",
         "company": "Mimecast",
         "location": "New York, United States",
@@ -277,6 +157,16 @@
         "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-best-job-tool-4303288243?position=17&pageNum=0&refId=AUVWZzaVHQR0FSwFJMmVqA%3D%3D&trackingId=zT4bBmZ19mD12VkUA0HB0Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-20 03:41:23",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Go Fig",
+        "location": "Greenville, SC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-go-fig-4303281361?position=7&pageNum=0&refId=2yEVdGWOnxR6SHVwt87DsA%3D%3D&trackingId=re42t1yu3pUibEsfqBV24w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 03:55:31",
         "email_sent": false
     }
 ]
