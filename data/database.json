@@ -1,35 +1,5 @@
 [
     {
-        "title": "Production Engineer",
-        "company": "Snowflake",
-        "location": "Menlo Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/production-engineer-at-snowflake-4213025784?position=8&pageNum=0&refId=eTJvo8l0K%2F%2BumrEBW2c4Og%3D%3D&trackingId=XXN%2F2g5lrdz%2FT19t4Mu%2Fqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 09:56:39",
-        "email_sent": true
-    },
-    {
-        "title": "Notion Expert (Contract)",
-        "company": "Mainflow",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/notion-expert-contract-at-mainflow-4303581368?position=14&pageNum=0&refId=eTJvo8l0K%2F%2BumrEBW2c4Og%3D%3D&trackingId=1%2BwgeFa788TECzn4%2Bewdvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 09:56:39",
-        "email_sent": true
-    },
-    {
-        "title": "Control Room Operator",
-        "company": "Reworld Waste",
-        "location": "Haverhill, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/control-room-operator-at-reworld-waste-4216709956?position=17&pageNum=0&refId=eTJvo8l0K%2F%2BumrEBW2c4Og%3D%3D&trackingId=7HRxONbETl5PqNXPHYqYTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 09:56:39",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Computer Vision",
         "company": "Verkada",
         "location": "San Mateo, CA",
@@ -318,5 +288,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-21 10:56:24",
         "email_sent": true
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "BioSpace",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-biospace-4303580467?position=6&pageNum=0&refId=Z%2Fi0Kp0tCFLCTZIc7wqcWw%3D%3D&trackingId=MXB1G57raCLybUqWBZKnWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 11:14:06",
+        "email_sent": false
+    },
+    {
+        "title": "Health Data Scientist",
+        "company": "Voloridge Investment Management, LLC",
+        "location": "Jupiter, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/health-data-scientist-at-voloridge-investment-management-llc-4132917033?position=12&pageNum=0&refId=Z%2Fi0Kp0tCFLCTZIc7wqcWw%3D%3D&trackingId=bRBpJeSWm44d627%2Bwua0Dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 11:14:06",
+        "email_sent": false
+    },
+    {
+        "title": "Civil Engineer, Land Development",
+        "company": "Atwell, LLC",
+        "location": "Orlando, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/civil-engineer-land-development-at-atwell-llc-4117661421?position=13&pageNum=0&refId=Z%2Fi0Kp0tCFLCTZIc7wqcWw%3D%3D&trackingId=1lFVvfwhduNcyp3071abXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 11:14:06",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Integration Engineer (Avionics)",
+        "company": "Astranis Space Technologies",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-integration-engineer-avionics-at-astranis-space-technologies-4268495386?position=19&pageNum=0&refId=Z%2Fi0Kp0tCFLCTZIc7wqcWw%3D%3D&trackingId=n21hUbOgerNNbv54n%2F4eCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 11:14:06",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative",
+        "company": "Builders FirstSource",
+        "location": "Johnstown, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4092311840?position=20&pageNum=0&refId=Z%2Fi0Kp0tCFLCTZIc7wqcWw%3D%3D&trackingId=COenEaeDlPW%2F5x4JdNM5bQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 11:14:06",
+        "email_sent": false
     }
 ]
