@@ -1,85 +1,5 @@
 [
     {
-        "title": "Software Engineer/Developer",
-        "company": "Northstrat Incorporated",
-        "location": "Dulles, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-at-northstrat-incorporated-4302308000?position=1&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=8y3XJlkSRtSUanafCSEvCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Productivity Engineer",
-        "company": "Sigma",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/productivity-engineer-at-sigma-4299484764?position=2&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=8T8Za06HOpKIEHhwitwxkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Productivity Engineer",
-        "company": "Sigma",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/productivity-engineer-at-sigma-4299486563?position=3&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=%2BknTfTcbJ40egxrpt8wTpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-hirenza-4303933908?position=4&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=JbAQNdIY3PbRphGkktmfSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer (System)",
-        "company": "TP-Link",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-system-at-tp-link-4302307028?position=5&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=uK6kIGnnwXVCqc%2BJJ98lIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4303938122?position=6&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=dpVkwNkAO%2BDTospEMGCfaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Network",
-        "company": "Alaska Pacific University",
-        "location": "Anchorage, AK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/network-at-alaska-pacific-university-4303364497?position=7&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=zklKcSDSdGz73K97iBZhTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Analyst - Suitability",
-        "company": "Spectrum Comm Inc",
-        "location": "Edwards, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-suitability-at-spectrum-comm-inc-4302303124?position=8&pageNum=0&refId=YpKdyG4FhN4KbSXomh9mLw%3D%3D&trackingId=kG5e2HE39fOvqoNuBhf6Zg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-22 03:13:28",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer",
         "company": "EVONA",
         "location": "Hawthorne, CA",
@@ -108,5 +28,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-22 03:48:33",
         "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4302309038?position=3&pageNum=0&refId=XgwEqQz2vB6TP7OtrAfMUw%3D%3D&trackingId=DxKdA1toXXSKXnE7gXw9zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-22 04:28:04",
+        "email_sent": false
     }
 ]
