@@ -1,325 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Beacon Hill",
-        "location": "Carmel, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beacon-hill-4304039275?position=1&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=29t8oMXx29B%2BlVwn%2Bydbiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4304659968?position=5&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=2eJImyBgR4CBwEEPaed%2FRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Research and Strategy",
-        "company": "Lantern",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-research-and-strategy-at-lantern-4283456434?position=8&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=7kCbD3WsjePLvOxFLWR9hA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Developer Experience",
-        "company": "Crusoe",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-crusoe-4271043759?position=16&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=oN0OtQ%2FKQ6fYqvcNeYFhng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Back End Developer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4302375878?position=17&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=FpcO4TnM38tJZDz7fZ%2BqdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Business Analyst / Data Analyst",
-        "company": "Mitchell Martin Inc.",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-analyst-data-analyst-at-mitchell-martin-inc-4302656639?position=21&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=PBQPbPAwBVyibh610wmN%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Software Engineer (Starlink)",
-        "company": "SpaceX",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-starlink-at-spacex-4283403989?position=26&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=07ghx40SPF9Sd1wcc9HfHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Kratos Defense and Security Solutions",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-kratos-defense-and-security-solutions-4243660426?position=28&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=u%2BsICjKztZSJnFKhHUHX9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "IT Data Scientist II",
-        "company": "City of San Antonio",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-data-scientist-ii-at-city-of-san-antonio-4302656705?position=30&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=BhqVC6KaovpkGp9%2BFNKqlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Fullstack Software Engineer",
-        "company": "Elvis Eckardt Recruitment",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-elvis-eckardt-recruitment-4278563126?position=32&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=fOsRTsrlW3KCy%2BpML3PSPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-wiraa-4304670606?position=33&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=pr3Y9JkOMiSsFFfnzCX2kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Associate",
-        "company": "Coda Search\u2502Staffing",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-associate-at-coda-search%E2%94%82staffing-4304699106?position=34&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=9F2PbXhMm8pA73L5TGQdlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Solutions Engineer (Manufacturing), Data Center",
-        "company": "Tate",
-        "location": "Columbia, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/solutions-engineer-manufacturing-data-center-at-tate-4255850273?position=35&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=tNVlNcNd4s9MV%2BJyXE1%2FUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Hampton Roads Transit",
-        "location": "Norfolk, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-hampton-roads-transit-4302656843?position=37&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=yZY4VAPV7xgcwTK44f3qvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist(In Person Interview)",
-        "company": "Tror - AI for everyone",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-in-person-interview-at-tror-ai-for-everyone-4304902057?position=41&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=vUJNM%2FeygLNhzWitD08IeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "New Brunswick, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302658173?position=44&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=Clwm3gcB73N2%2FHygOqmAvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Perth Amboy, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302648982?position=45&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=izYzOUB7mhiwSRSiJpa33Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "BI Consultant",
-        "company": "AMEND Consulting",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bi-consultant-at-amend-consulting-4302648957?position=46&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=o1uoiubgG6iNb3B2eNRuuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Research Associate",
-        "company": "Hearst Health",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-associate-at-hearst-health-4294047480?position=54&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=ufDMs7dQpJ0XoAkhkekQ6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Hybrid Infrastructure and Advanced Computing Cybersecurity Engineer",
-        "company": "Jobs via Dice",
-        "location": "Hampton, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/hybrid-infrastructure-and-advanced-computing-cybersecurity-engineer-at-jobs-via-dice-4304041073?position=55&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=ueVBaMU9I5RPwADWgYfd8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "Somerville, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4292257049?position=56&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=ttuQGbPh9LUb%2FNr0x%2F57Ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "ERP Epicor Analyst",
-        "company": "nVent",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/erp-epicor-analyst-at-nvent-4231596445?position=57&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=JCEB36L2rBwzKrmTmblQAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "Hialeah, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4292294103?position=58&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=TVMJVVdcxf1L22hM%2Bt9NQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "Georgetown, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4292240692?position=59&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=YGTChSMj1tu1s%2FhXahlJnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "Peabody, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4292248300?position=60&pageNum=0&refId=afBdIHZ%2FAeFItsjiiL0VwQ%3D%3D&trackingId=V%2BvTbz5u1To3cNOYr3Pg4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer (Starlink)",
-        "company": "SpaceX",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-starlink-at-spacex-4283403989?position=1&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=F3eqkEUrwi2KITeWku%2FoVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Kratos Defense and Security Solutions",
-        "location": "Herndon, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-kratos-defense-and-security-solutions-4243660426?position=3&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=8XkpAPdCkGGiMZ0GAGsdXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "IT Data Scientist II",
-        "company": "City of San Antonio",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-data-scientist-ii-at-city-of-san-antonio-4302656705?position=5&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=1eCKB6qbizDNvNBxp%2FgamQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
-        "title": "Fullstack Software Engineer",
-        "company": "Elvis Eckardt Recruitment",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-elvis-eckardt-recruitment-4278563126?position=7&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=BbC8FbbV50MJD7XQuCE20w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-wiraa-4304670606?position=8&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=zqB2O94F5A9KlFI2ppKsFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Associate",
-        "company": "Coda Search\u2502Staffing",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-associate-at-coda-search%E2%94%82staffing-4304699106?position=9&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=OjC0VA1n3egRly%2FrntmSCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": false
-    },
-    {
-        "title": "Solutions Engineer (Manufacturing), Data Center",
-        "company": "Tate",
-        "location": "Columbia, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/solutions-engineer-manufacturing-data-center-at-tate-4255850273?position=10&pageNum=2&refId=Ldx7sMly04yLvHiQau%2F8DQ%3D%3D&trackingId=aGplmibBKWKVv6IR3P6BwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-23 13:28:57",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer- Data",
         "company": "Statsig",
         "location": "Bellevue, WA",
@@ -688,5 +368,315 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-23 14:18:13",
         "email_sent": true
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Auctane",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-auctane-4291915792?position=1&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=BRMNe%2Fd0Y18sfSiw5H1FkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4304027943?position=2&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=A2EUBFd424%2B2wfw7Hn1tNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4304045653?position=3&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=NfxR83AVwuUQ8HSjyZPd9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4304030883?position=4&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=qK%2FLOhWLCt9cHvE6EkQ0vQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4304932034?position=11&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=95DhO%2B9Z5WIUcpKm4nbtvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "American Unit, Inc",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-american-unit-inc-4304927204?position=14&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=60dEtOzOs89R54PAOTFaoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - LLJP00001837",
+        "company": "Softworld, a Kelly Company",
+        "location": "Lexington, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-lljp00001837-at-softworld-a-kelly-company-4304037693?position=17&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=9Zf9lzyYVVKqggXCnSC5vQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4304923212?position=18&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=kFZR5gw%2BYbDDWwBtfH5nWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "SDET (Software Development Engineer in Test) | Seattle, WA (Onsite - Local candidates only) | W2 Only",
+        "company": "360 Technology",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sdet-software-development-engineer-in-test-seattle-wa-onsite-local-candidates-only-w2-only-at-360-technology-4302602382?position=26&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=4ghgd3HHeRoqg8RFRU8FUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "System Integration Engineer",
+        "company": "Zobility",
+        "location": "Burnsville, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-integration-engineer-at-zobility-4304036790?position=28&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=i4OaLx17d78b862txocIQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304917444?position=29&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=az0c%2BscRRJWuMAJTn1vnmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304936065?position=30&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=xOUtDhXVkfyMwg2a0vSYYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "\ud83d\ude80 Blast Off Your Career, OPT/STEM Grads! \ud83d\ude80",
+        "company": "Emonics LLC",
+        "location": "Piscataway, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-blast-off-your-career-opt-stem-grads%21-%F0%9F%9A%80-at-emonics-llc-4302660452?position=31&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=3WmRcAU1e%2Bl8KgiBwQOAlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304936071?position=33&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=feODdO2THcMnTFqfyEZ9qA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304925235?position=34&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=PY%2BFNU9mgY79R5qSdrl3cg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Nebraska, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304928152?position=35&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=39DExL4XN9idbpXVFd026A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Whittier, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304935077?position=36&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=qAZwjpTKleL1bw%2FTXoZ6Rg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer (Onsite) - Automotive Parts Manufacturer (33088)",
+        "company": "Activ8 Recruitment & Solutions",
+        "location": "Dayton, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-onsite-automotive-parts-manufacturer-33088-at-activ8-recruitment-solutions-4304932014?position=39&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=L5%2BP%2Fthr6aD9BGVtcv2WFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Physical Verification",
+        "company": "Cadence",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-physical-verification-at-cadence-4198877077?position=40&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=g3aNtzlE2FPMkA4ZbBhNNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Bloomington, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304904484?position=41&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=E7OjiXUtj%2FGDoT9kVshuXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Perry, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304936005?position=42&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=XceCkv6sFneoSZna1lgcjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Swoon",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-swoon-4304029845?position=43&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=PGeGX9bxvMfeiEXC46lxBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "WFH English Speakers (Online Data Analyst)",
+        "company": "TELUS Digital AI Data Solutions",
+        "location": "Wyoming, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/wfh-english-speakers-online-data-analyst-at-telus-digital-ai-data-solutions-4302662326?position=59&pageNum=0&refId=DVP0yxfpJGkBA6VbW33KOA%3D%3D&trackingId=Mnvh%2F6HftPxMe5BeY7LHiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "SDET (Software Development Engineer in Test) | Seattle, WA (Onsite - Local candidates only) | W2 Only",
+        "company": "360 Technology",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sdet-software-development-engineer-in-test-seattle-wa-onsite-local-candidates-only-w2-only-at-360-technology-4302602382?position=1&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=on1FAKllv6W5IncmHaXnFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "System Integration Engineer",
+        "company": "Zobility",
+        "location": "Burnsville, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-integration-engineer-at-zobility-4304036790?position=3&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=prNCGQcdnVD0DSg6UO1rfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304917444?position=4&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=F5xdD9mVEo3wWb5ccT0f1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304936065?position=5&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=RHZ%2BHXpgqkWSdcJ1Tkaa%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "\ud83d\ude80 Blast Off Your Career, OPT/STEM Grads! \ud83d\ude80",
+        "company": "Emonics LLC",
+        "location": "Piscataway, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-blast-off-your-career-opt-stem-grads%21-%F0%9F%9A%80-at-emonics-llc-4302660452?position=6&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=SDhwrWxIXS48iF8aHktalw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304936071?position=8&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=JS1BG7tvwSy9KfCk1H%2FjFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304925235?position=9&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=IeWqaElYmqbM9GNBZ9Olog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Nebraska, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4304928152?position=10&pageNum=2&refId=4iCvX5Cy%2FzIIugF5xwHBNw%3D%3D&trackingId=ZwrpoI1p1333xDy0ftg41w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-23 14:40:52",
+        "email_sent": false
     }
 ]
