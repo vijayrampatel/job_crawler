@@ -1,225 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4305567561?position=1&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=N0e7nwqqSZfqVDOIUbpsDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Azure)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-azure-at-wiraa-4305574372?position=2&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=KvahR7AOR%2B9yxKKrrayRdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4305575375?position=12&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=qHh40AePA3Ft%2BHQY3fNynw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "SiTime",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sitime-4305688041?position=17&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=e0VuhxQioNegmM%2BjUq8pHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Proconex",
-        "location": "Royersford, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-proconex-4305666842?position=18&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=EcVpv279SVt36mFHUwF7ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Delta Air Lines",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-delta-air-lines-4304595361?position=22&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=akj9PLchAkvsaBiStX7B8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Implementation Engineer",
-        "company": "TurnKey Lender",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-implementation-engineer-at-turnkey-lender-4305681194?position=23&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=7lUc0DRCiNfbxEE1ccKG%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Cloud Security",
-        "company": "Illumio",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-security-at-illumio-4292104399?position=24&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=KT2qp4NPzJxPd4YL%2FCTH5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4305619762?position=25&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=qHXBZ6AWqIUhILJ7pImTJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-hirenza-4305672726?position=28&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=bJ5zXK5lIGkzLX0aDA4Wfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Applied Machine Learning - USDS",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-machine-learning-usds-at-tiktok-4304598334?position=29&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=0ecITmlT39AzxomISOXgRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4305565704?position=31&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=iDKryXJrtYQ71zkMNPoSmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Growth Platform)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-platform-at-wiraa-4305560881?position=33&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=57CzXxOjalj4eO9%2B0Ck5ew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4305682164?position=44&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=b2qfAENWNHohxZ4soCiKUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst II \u2013 Institutional Research (Contract Data Analyst, SQL/BI)",
-        "company": "Employment & Training Centers, Inc.",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-%E2%80%93-institutional-research-contract-data-analyst-sql-bi-at-employment-training-centers-inc-4305658986?position=45&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=BtgyVZ08SkhUfsu0%2BJmCSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - C++/Networking",
-        "company": "Illumio",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-networking-at-illumio-4296345301?position=47&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=PGFSKaBzLar94HN9dV6xdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Control System Engineer",
-        "company": "Innovative Design and Engineering Solutions",
-        "location": "Georgetown, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/control-system-engineer-at-innovative-design-and-engineering-solutions-4297673295?position=48&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=whRp2m%2Fc%2FRFCx5AmMPwpJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist (AI)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ai-at-wiraa-4305559894?position=49&pageNum=0&refId=On0T2vTmDSJEW76UuTaqnw%3D%3D&trackingId=wJUgIdOadS9CIGlybeDjgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-hirenza-4305672726?position=3&pageNum=2&refId=J8X0rH1eOKuruvpp91KXlw%3D%3D&trackingId=SW21aOvxqeL5Nqy4wJ8Esw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Applied Machine Learning - USDS",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-machine-learning-usds-at-tiktok-4304598334?position=4&pageNum=2&refId=J8X0rH1eOKuruvpp91KXlw%3D%3D&trackingId=8gk%2BbmFviAnk4G5LTJ6x1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4305565704?position=6&pageNum=2&refId=J8X0rH1eOKuruvpp91KXlw%3D%3D&trackingId=YA5amJDM8I9gfCrS%2Fl0iXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Growth Platform)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-platform-at-wiraa-4305560881?position=8&pageNum=2&refId=J8X0rH1eOKuruvpp91KXlw%3D%3D&trackingId=AKrKYJHEqYxJ6i4DedPELQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-24 21:41:11",
-        "email_sent": false
-    },
-    {
         "title": "Azure Data Engineer  (Need Local)",
         "company": "Visionary Innovative Technology Solutions LLC",
         "location": "New Jersey, United States",
@@ -578,5 +358,125 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-24 22:37:17",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Chewy",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-chewy-4305683616?position=8&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=sGtceu%2B1Fqb9wBcfIdOuzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Insight Global",
+        "location": "Oklahoma City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-4304812069?position=9&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=fYfP9S5gV7ZmjHOIsac7hA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Quantitative Systems",
+        "company": "Selby Jennings",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-quantitative-systems-at-selby-jennings-4305684277?position=12&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=56kxueaW5TCOx%2Bxxve5sVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Supply Chain/Data Analyst",
+        "company": "LanceSoft, Inc.",
+        "location": "Rochester, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-lancesoft-inc-4304590680?position=14&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=Yn6WvMXKQY1rasqIj5UfIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Firmware Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/firmware-software-engineer-at-aditi-consulting-4305680325?position=17&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=FUN%2FUWvSBqsY1yMD8A%2B%2FEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Impel",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-impel-4305689322?position=19&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=IJMmGGihiqnNJPY8rF7TMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "System Application Engineer I - Software",
+        "company": "Schneider Electric",
+        "location": "Lyndhurst, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-application-engineer-i-software-at-schneider-electric-4304804474?position=26&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=JuI%2B5EHqmjc3KGWn76ce9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Fulltime - Raytheon Software Engineer I (On-site)",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-fulltime-raytheon-software-engineer-i-on-site-at-raytheon-4305697023?position=29&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=B0wS3z3PcnMBgN1aneGTTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Verification Engineer II - CRM",
+        "company": "Medtronic",
+        "location": "Mounds View, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-engineer-ii-crm-at-medtronic-4305689268?position=32&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=vvGG0WXAtp0Q95xqGw8P2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Flight Termination System (FTS) Engineer",
+        "company": "IERUS Technologies Inc",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/flight-termination-system-fts-engineer-at-ierus-technologies-inc-4305680354?position=33&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=R5S45oDCx2d07%2BeUwarT1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Testing Engineer",
+        "company": "Element Electronics",
+        "location": "Winnsboro, SC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/testing-engineer-at-element-electronics-4299603688?position=37&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=fjPTD38Ck0zloBuvu8%2Fj4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
+    },
+    {
+        "title": "Privacy Analyst",
+        "company": "Veeva Systems",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/privacy-analyst-at-veeva-systems-4304596676?position=41&pageNum=0&refId=qgJH4UlSIhOVze1nIghUTg%3D%3D&trackingId=PB%2Fuax8F2PUH4XXjQ8stcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-24 22:47:50",
+        "email_sent": false
     }
 ]
