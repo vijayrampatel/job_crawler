@@ -1,105 +1,5 @@
 [
     {
-        "title": "AWS Data Engineer",
-        "company": "Biogensys",
-        "location": "Fort Mill, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-at-biogensys-4307132219?position=2&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=6uGo%2FwgcFrgf%2FGdFVe4zQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": true
-    },
-    {
-        "title": "Azure Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-hirenza-4307129077?position=4&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=vINIOJJyJx5mfd%2BKAeZkjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Atlantic Medical Management, LLC",
-        "location": "Jacksonville, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atlantic-medical-management-llc-4307131289?position=7&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=eSXq8wWpPohCIsIOVBc2%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": true
-    },
-    {
-        "title": "IT Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-at-hirenza-4307121390?position=16&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=AcwVoUh9fv5f%2FZxQqoRqIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Java Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-java-software-engineer-at-hirenza-4307117495?position=21&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=OfTFntgzU0hKli2qAj5bBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": true
-    },
-    {
-        "title": "EDI Software Engineer II (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/edi-software-engineer-ii-remote-at-talentify-io-4306062622?position=25&pageNum=0&refId=lpGRAspuITnZhXt6ibEQmg%3D%3D&trackingId=r2nsIvoRoMxYuIISOqqyZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 19:57:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, AWS)",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-aws-at-gusto-4307113380?position=7&pageNum=0&refId=Ai0fu83BzCOrzCGSTyItiQ%3D%3D&trackingId=Z7B5DcSW06qfr0zLSv%2FMCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 20:20:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, (Manager UI)",
-        "company": "Red Hat",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-ui-at-red-hat-4307111517?position=19&pageNum=0&refId=Ai0fu83BzCOrzCGSTyItiQ%3D%3D&trackingId=TNnhi8ASZe1ivEUavLM%2BCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 20:20:36",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - USDS Payment Treasury",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-usds-payment-treasury-at-tiktok-4306064545?position=26&pageNum=0&refId=Ai0fu83BzCOrzCGSTyItiQ%3D%3D&trackingId=PF2fhUNP43xjYB%2B7%2BCtmwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 20:20:36",
-        "email_sent": true
-    },
-    {
-        "title": "Sales Support Specialist",
-        "company": "Galvion",
-        "location": "Portsmouth, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sales-support-specialist-at-galvion-4297963504?position=55&pageNum=0&refId=Ai0fu83BzCOrzCGSTyItiQ%3D%3D&trackingId=cKazwHZwW6Q8YJH%2FGZGmzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 20:20:36",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer, Backend",
         "company": "Robinhood",
         "location": "Menlo Park, CA",
@@ -538,5 +438,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 20:57:09",
         "email_sent": true
+    },
+    {
+        "title": "AI Solutions Software Engineer",
+        "company": "Firefly Aerospace",
+        "location": "Cedar Park, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-software-engineer-at-firefly-aerospace-4305020916?position=6&pageNum=0&refId=b5xHezxJNDPQ8RIliagrFA%3D%3D&trackingId=ds3BBM7GEoZTvCRNBNRjcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 21:21:22",
+        "email_sent": false
     }
 ]
