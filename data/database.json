@@ -1,235 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "10a Labs",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-10a-labs-4304272849?position=1&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=5hjAKNZ6nOzvNctLeJ1O%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Orlando, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4306023241?position=2&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=BiYfKw1XCnyHxZK0NuDA7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Supply Chain",
-        "company": "Lensa",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supply-chain-at-lensa-4306013948?position=3&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=u%2FSVMx9AAtfxW2uStNEwtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Healthcare Data Analyst",
-        "company": "Zelis",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-zelis-4306846411?position=4&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=5wLDkvaB3FNb8Sz8%2F2VGNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Healthcare Data Analyst",
-        "company": "Zelis",
-        "location": "St Louis, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-zelis-4306832988?position=5&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=W50mENyPOf9efA6a9K%2F72g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Engineer",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-engineer-at-lensa-4306028137?position=8&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=9mzyCyOIUX3qg%2B7FXRkrdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Data Entry (2nd shift)",
-        "company": "Lensa",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-entry-2nd-shift-at-lensa-4306022291?position=11&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=XK4Dd8kwjIpsPuyEbC2HHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Supply Chain",
-        "company": "Lensa",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supply-chain-at-lensa-4306021307?position=14&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=htvGE3f2TGMRnPlrde%2FTig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I-II",
-        "company": "Kratos Defense and Security Solutions",
-        "location": "Roseville, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-at-kratos-defense-and-security-solutions-4306855647?position=15&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=FtF1yrr6j0q8fwNmOEuhGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Watchlist Analyst, JR",
-        "company": "Lensa",
-        "location": "Reston, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/watchlist-analyst-jr-at-lensa-4306029161?position=20&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=N%2FPyOS51NmYQCaQc7SxeoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "O-RAN DU L1 Software Engineer",
-        "company": "DeepSig, Inc.",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/o-ran-du-l1-software-engineer-at-deepsig-inc-4306835881?position=22&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=aoWzQhTGZYPitaiLKDyZvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Junior IT Infrastructure Associate",
-        "company": "Lensa",
-        "location": "Mahwah, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-it-infrastructure-associate-at-lensa-4306024217?position=23&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=3cY%2BemI0Kd2oWFd076WuGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Cloud Engineer",
-        "company": "Jobs via Dice",
-        "location": "Montpelier, VT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-cloud-engineer-at-jobs-via-dice-4306020267?position=24&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=z4JR1%2BFvQcuOJeZc2YgffA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Actalent",
-        "location": "Sterling, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-actalent-4300975841?position=25&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=Z9gXS644CvuhWCG5zJIHJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Actalent",
-        "location": "Sterling, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-actalent-4301545948?position=27&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=ncpOpfsgQ4INbcvJGP1%2FDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Jobs via Dice",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4306019280?position=30&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=K18jlHhe7m1MWgr710AG7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "It Systems Support Specialist",
-        "company": "Actalent",
-        "location": "Jacksonville, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-systems-support-specialist-at-actalent-4301551834?position=34&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=n5S1WRKNejZFxcK5T6I0EQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist I - Data Science & Machine Learnin",
-        "company": "Jobs via Dice",
-        "location": "Waterloo, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-data-science-machine-learnin-at-jobs-via-dice-4306032038?position=35&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=IvfuLeOxoOmXaMgS8Nbs7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Catalog Analyst",
-        "company": "WAI Global",
-        "location": "Hollywood, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/catalog-analyst-at-wai-global-4306029239?position=38&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=llx83tMVtA6LRVq39aC0Kw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
-        "title": "Quality Engineer",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-lensa-4306032089?position=42&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=yr9If%2B6ZQ576AA9%2Fjg%2F2vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Jobs via Dice",
-        "location": "Torrance, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-jobs-via-dice-4306013925?position=43&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=IRaeDVs78gBadnL4b0Dnsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Telecom Voice & Data Billing Analyst",
-        "company": "Lensa",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-telecom-voice-data-billing-analyst-at-lensa-4306025240?position=45&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=vElm5Dlivp4wv1IFuvv1qQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Assurance Specialist",
-        "company": "Actalent",
-        "location": "Gurnee, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-assurance-specialist-at-actalent-4306855095?position=49&pageNum=0&refId=S4mtBuVjg7iatRYfv3nN5A%3D%3D&trackingId=RG0HU7wW%2BiwNGbSbaafT0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 08:49:21",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer - DGX Cloud API Services",
         "company": "NVIDIA",
         "location": "Santa Clara, CA",
@@ -818,5 +588,135 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 09:40:08",
         "email_sent": true
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "T-Mobile",
+        "location": "Bellevue, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-t-mobile-4306030337?position=9&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=sPSsi1SCBksaZugLBWfz%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "T-Mobile",
+        "location": "Frisco, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-t-mobile-4306030338?position=13&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=mTP4P7wwyefsX3qrGjiQPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "T-Mobile",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-t-mobile-4306036191?position=14&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=XkY%2FwOtJ7ZIIB2qusmSddQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer-3",
+        "company": "nCino",
+        "location": "Johannesburg, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-3-at-ncino-4294462221?position=15&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=pCVMRWnJrI9o9L7XjYzeBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Database Engineer",
+        "company": "CoStar Group",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-database-engineer-at-costar-group-4306814366?position=17&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=SczA6nva8c9Up10NS3CaTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Engineer Analyst - Market Behavior Analytics Group",
+        "company": "Bank of America",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-engineer-analyst-market-behavior-analytics-group-at-bank-of-america-4306849577?position=25&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=3KqQ1fO2fQcTLUPdntWYJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Engineer Analyst - Market Behavior Analytics Group",
+        "company": "Bank of America",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-engineer-analyst-market-behavior-analytics-group-at-bank-of-america-4306847671?position=27&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=lK00iisntJ32%2FYYs%2FYb5yQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Developer",
+        "company": "TP ICAP",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/developer-at-tp-icap-4296382023?position=28&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=VVQWKObXDmw8Vhe5LaMaKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer \u2013 Hardware Research",
+        "company": "Optiver",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-hardware-research-at-optiver-4203034567?position=38&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=geuaIxToR9PVfxnLIKyA9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "ACAS/Data Security Engineer",
+        "company": "General Dynamics Information Technology",
+        "location": "Sierra Vista, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/acas-data-security-engineer-at-general-dynamics-information-technology-4306876712?position=43&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=J75iZ2Mde6WInydZhD9TjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Critical Facilities Engineer",
+        "company": "Equinix",
+        "location": "El Segundo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-critical-facilities-engineer-at-equinix-4235236433?position=58&pageNum=0&refId=8KDCkgOkQzVzAzRol6a0Eg%3D%3D&trackingId=au8ryh%2FdwMV0Hjva5OSwDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Engineer Analyst - Market Behavior Analytics Group",
+        "company": "Bank of America",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-engineer-analyst-market-behavior-analytics-group-at-bank-of-america-4306847671?position=2&pageNum=2&refId=9qetLZssB%2FlOgieFqZfQIg%3D%3D&trackingId=50KniWKb6YFEK3JlxPATnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
+    },
+    {
+        "title": "Developer",
+        "company": "TP ICAP",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/developer-at-tp-icap-4296382023?position=3&pageNum=2&refId=9qetLZssB%2FlOgieFqZfQIg%3D%3D&trackingId=RXmh4xtbfjkM%2BiJrqJinNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 09:51:07",
+        "email_sent": false
     }
 ]
