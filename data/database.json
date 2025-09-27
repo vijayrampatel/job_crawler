@@ -1,206 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4306042628?position=1&pageNum=0&refId=5ki%2BovB5g3QJsuufAZX1fA%3D%3D&trackingId=sPVLWmncGBIGWCUDNzY%2BOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:30:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4306046602?position=5&pageNum=0&refId=5ki%2BovB5g3QJsuufAZX1fA%3D%3D&trackingId=4KifirUEmEBamsqAcQM1Jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:30:08",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "WEX",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-wex-4292854144?position=7&pageNum=0&refId=5ki%2BovB5g3QJsuufAZX1fA%3D%3D&trackingId=72p%2BP0ZXCHukggrppdiiOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:30:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4306062176?position=8&pageNum=0&refId=5ki%2BovB5g3QJsuufAZX1fA%3D%3D&trackingId=lX14AInIDDFFvYSnvdu8PQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:30:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4306043623?position=25&pageNum=0&refId=5ki%2BovB5g3QJsuufAZX1fA%3D%3D&trackingId=CboeZWyNDR8PFuVmbr%2BOxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:30:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Wells Fargo",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4306875956?position=9&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=Z1Fmu%2FJK2iT8S446Lx%2Fmag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer, Sr.",
-        "company": "Waymo",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-sr-at-waymo-4306061291?position=10&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=%2FGuX0uyLD9OuZSyDux%2Bqew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Glenview, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296392081?position=11&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=EK1ucXAW4qiFTqr1Q%2Byzew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer, Level 3",
-        "company": "Snap Inc.",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-level-3-at-snap-inc-4286239322?position=12&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=qqMoVNXWVQzG0ezGv8mj6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Waukegan, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296395073?position=13&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=HDMawzHS4SW7KJE7nvmtxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296396054?position=14&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=eVT9szFxFrdVGYF%2B4rWgKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Privacy",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-privacy-at-wiraa-4307113380?position=15&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=3Q4VKvVlIHyC9v7Va4UjEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": false
-    },
-    {
-        "title": "Automation Infrastructure Engineer - IAC",
-        "company": "Wells Fargo",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-infrastructure-engineer-iac-at-wells-fargo-4306896002?position=16&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=cbRYlPy7rhPNgseGwNgzkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Full-Stack Software Engineer - .NET/React",
-        "company": "Cboe Global Markets",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-net-react-at-cboe-global-markets-4296637565?position=17&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=X88iiUhWmVbRnnJvIQloQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Manager (UI)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-ui-at-wiraa-4307111517?position=19&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=dyQAOzgQFPc2GHYOTCwYTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": false
-    },
-    {
-        "title": "Automation Infrastructure Engineer - IAC",
-        "company": "Wells Fargo",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-infrastructure-engineer-iac-at-wells-fargo-4306894055?position=20&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=NZSBIs6Nq4loLquuEUMmRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Automation Infrastructure Engineer - IAC",
-        "company": "Wells Fargo",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-infrastructure-engineer-iac-at-wells-fargo-4306883610?position=22&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=DMtOqfH3xYYVmyRRnVSFNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Automation Infrastructure Engineer - IAC",
-        "company": "Wells Fargo",
-        "location": "Iselin, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-infrastructure-engineer-iac-at-wells-fargo-4306890145?position=23&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=ojkCvOU5aBqM3rueCT0WTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Legal Data Analyst - Transactional & Tax Legal Data Analysis Team",
-        "company": "Bloomberg",
-        "location": "Skillman, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/legal-data-analyst-transactional-tax-legal-data-analysis-team-at-bloomberg-4296634907?position=29&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=NWEPZXBGRpRddp7g11z3Mg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Concrete Engineer, Kiewit Infrastructure Engineer",
-        "company": "Kiewit",
-        "location": "Bellevue, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/concrete-engineer-kiewit-infrastructure-engineer-at-kiewit-4296342852?position=30&pageNum=0&refId=K1hdrJMZHUITbkIt9JmeBg%3D%3D&trackingId=N6e%2BPWbnAiht1XKS2WDd6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:40:58",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "TetraScience",
         "location": "United States",
         "date_posted": "Recent",
@@ -338,5 +138,75 @@
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 16:27:02",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "Omaha, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4306044611?position=2&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=j73BTQxKsRED3tam8dpBcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "SNP Impact",
+        "location": "Jacksonville, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-snp-impact-4306893918?position=4&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=1%2BUHzLOiMMtWDrpojQ%2BNXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "Boeing, Systems Safety & Software Safety Engineer (Entry Level, Associate, or Mid-Level) - Application via WayUp",
+        "company": "WayUp",
+        "location": "Hazelwood, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/boeing-systems-safety-software-safety-engineer-entry-level-associate-or-mid-level-application-via-wayup-at-wayup-4296600149?position=11&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=2sFquxzUVcLyA%2BeJiG%2FdNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Annotation Specialist \u2013 Global Freelance Role, Flexible Hours",
+        "company": "TELUS Digital",
+        "location": "Ohio, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-annotation-specialist-%E2%80%93-global-freelance-role-flexible-hours-at-telus-digital-4307105913?position=12&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=w7%2BVJcvA11X0Wovdj%2BhHoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "Boeing, Systems Safety & Software Safety Engineer (Entry Level, Associate, or Mid-Level) - Application via WayUp",
+        "company": "WayUp",
+        "location": "Berkeley, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/boeing-systems-safety-software-safety-engineer-entry-level-associate-or-mid-level-application-via-wayup-at-wayup-4296498384?position=13&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=hTt8aOEOkedLkXhaC3Ps9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Annotation Specialist \u2013 Global Freelance Role, Flexible Hours",
+        "company": "TELUS Digital",
+        "location": "Pennsylvania, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-annotation-specialist-%E2%80%93-global-freelance-role-flexible-hours-at-telus-digital-4307110677?position=15&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=dFumsU1kzeghdfzwQV2l4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "BECU",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-becu-4307115261?position=16&pageNum=0&refId=xSF%2FTJxQLNYqyGpCwFS4VQ%3D%3D&trackingId=s%2B0qQxSuqlXi0JMw7iPsdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:43:11",
+        "email_sent": false
     }
 ]
