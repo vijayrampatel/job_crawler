@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Alfa Wave Agency",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-alfa-wave-agency-4308096257?position=10&pageNum=0&refId=%2BjopytW3Fdym6xeXeByr0g%3D%3D&trackingId=PdWiFU4OAgvYeDAfAAw%2FjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 19:51:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "OpenAI",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-openai-4308081439?position=12&pageNum=0&refId=%2BjopytW3Fdym6xeXeByr0g%3D%3D&trackingId=snXXoOnNPOcUlNVNw7BHlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 19:51:36",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst- remote",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-talentify-io-4306658108?position=39&pageNum=0&refId=%2BjopytW3Fdym6xeXeByr0g%3D%3D&trackingId=3Z0F8pJjOhm1E37yl8hkCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 19:51:36",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Software Engineer, Backend - Enterprise",
-        "company": "TP-Link",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-backend-enterprise-at-tp-link-4308087402?position=45&pageNum=0&refId=%2BjopytW3Fdym6xeXeByr0g%3D%3D&trackingId=qjZ9vAi4NCx3gB7tsZRR%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 19:51:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Beam Planning (Starshield)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-beam-planning-starshield-at-spacex-4308090330?position=57&pageNum=0&refId=%2BjopytW3Fdym6xeXeByr0g%3D%3D&trackingId=4HXKzAKrB6dImN2CubR9tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 19:51:36",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
@@ -737,6 +687,66 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4306638679?position=8&pageNum=2&refId=DMFyv1gDBFbsXismQJddiQ%3D%3D&trackingId=yQoLQPXXpGddLUFRbTEvuw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-29 20:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Direct To Cell)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-spacex-4308086326?position=4&pageNum=0&refId=qkaGxYk2jQVy0X7CovdXUQ%3D%3D&trackingId=uFtS9rFH%2FwN49G9O5fE%2Bjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Datavant",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-datavant-4305812207?position=17&pageNum=0&refId=qkaGxYk2jQVy0X7CovdXUQ%3D%3D&trackingId=iL4kbY%2BImdEAblnjzAR04A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Mount Indie",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-mount-indie-4305805447?position=30&pageNum=0&refId=qkaGxYk2jQVy0X7CovdXUQ%3D%3D&trackingId=Z%2Fp6yAEzo6tgwNk%2FmADkqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, High Performance Computing",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-high-performance-computing-at-spacex-4308085320?position=54&pageNum=0&refId=qkaGxYk2jQVy0X7CovdXUQ%3D%3D&trackingId=6iXtBomJy8BoWzNKm1ZbCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Engineer",
+        "company": "Jobs via Dice",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-at-jobs-via-dice-4306636766?position=58&pageNum=0&refId=qkaGxYk2jQVy0X7CovdXUQ%3D%3D&trackingId=fqgUDw9VFY%2F3S7hyf%2FfyBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Mount Indie",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-mount-indie-4305805447?position=6&pageNum=2&refId=SFJLCBKiTmR%2BOSgKpZyn3g%3D%3D&trackingId=S2DHm4tc8up9hqx0%2BNnRGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 20:59:09",
         "email_sent": false
     }
 ]
