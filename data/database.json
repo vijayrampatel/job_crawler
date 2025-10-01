@@ -1,275 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Albert Einstein College of Medicine",
-        "location": "Bronx, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-albert-einstein-college-of-medicine-4297647236?position=1&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=Jt8PUDpwVeUXlpsV9qKOzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Kforce Inc",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kforce-inc-4288604157?position=2&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=ZvDZO%2BgY1n6a2y0zAnTTMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "HavocAI",
-        "location": "Providence, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-havocai-4296273258?position=3&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=m2ugWjr18iRWAvRrtYxnUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4308937107?position=6&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=gJb5Hy17TwTgItDbE1mOWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (Python, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-java-at-wiraa-4308930357?position=15&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=bSpFHs6s0DNrQvfqd0Zsmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "Q2",
-        "location": "Cary, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-q2-4296245311?position=19&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=3REIgTaNIEG6DRqBM7DlJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "2026 Associate DevOps Software Engineer / 2026 DevOps Software Engineer - Huntsville AL - R10208673",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-devops-software-engineer-2026-devops-software-engineer-huntsville-al-r10208673-at-northrop-grumman-4304639354?position=21&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=woyX5pm5ORrIohxqALWNrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "2026 Associate DevOps Software Engineer / 2026 DevOps Software Engineer - Huntsville AL - R10208678",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-devops-software-engineer-2026-devops-software-engineer-huntsville-al-r10208678-at-northrop-grumman-4304647117?position=22&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=8pzRloFRH%2BxczTkob4wMMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I - Integon",
-        "company": "Integon Service Co.",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-integon-at-integon-service-co-4307606549?position=23&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=I2qUeXFHSMsv7%2BWE4z4efA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "HavocAI",
-        "location": "Providence, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-havocai-4296268311?position=28&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=MACQlffBbVcocvnqhuWUzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer (Software) - R10208550",
-        "company": "Northrop Grumman",
-        "location": "Aurora, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-software-r10208550-at-northrop-grumman-4304632465?position=29&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=XOQmUcvh%2B9AX5Qu8MiehUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "2026 Associate Cyber Software Engineer / 2026 Cyber Software Engineer - Huntsville AL - R10208681",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-cyber-software-engineer-2026-cyber-software-engineer-huntsville-al-r10208681-at-northrop-grumman-4304629562?position=33&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=0g8XuCJohBoxgxnGwaP%2FhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Network Protocols",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-network-protocols-at-cloudflare-4296245502?position=34&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=w9GWGebeRiabiUdzJzq5AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "2026 Associate Software Engineer / 2026 Software Engineer - Huntsville AL or Roy UT - R10208667-2",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-software-engineer-2026-software-engineer-huntsville-al-or-roy-ut-r10208667-2-at-northrop-grumman-4304630527?position=35&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=b7XARopMpxg68VM%2FdFAnpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "2026 Associate Software Engineer / 2026 Software Engineer - Huntsville AL or Roy UT - R10208667",
-        "company": "Northrop Grumman",
-        "location": "Roy, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-software-engineer-2026-software-engineer-huntsville-al-or-roy-ut-r10208667-at-northrop-grumman-4304644191?position=36&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=88EiQM2H7nHF3bmORqU22A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Consultant I - National General",
-        "company": "National General",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-consultant-i-national-general-at-national-general-4307603853?position=37&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=exDnJ9RPwN%2FTZlXqWu1wwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Java Engineer (Data Integration)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-engineer-data-integration-at-wiraa-4308931289?position=38&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=fXw7s4oR5se8KKVFqXkjXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer  - Software Safety - R10208675",
-        "company": "Northrop Grumman",
-        "location": "Melbourne, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-software-safety-r10208675-at-northrop-grumman-4304642336?position=44&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=fSt5YP6pw1ZrnYpkMGsv5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "AI-First Data Scientist",
-        "company": "CSC Generation",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-first-data-scientist-at-csc-generation-4288068405?position=48&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=vxoWxObKGvAuawF1wUtBtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Power Congestion Analyst II",
-        "company": "ENGIE - International Supply & Energy Management",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-congestion-analyst-ii-at-engie-international-supply-energy-management-4288605773?position=52&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=%2FUcIdmv3pFIOkoQYN6d5CQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Power Congestion Analyst II",
-        "company": "ENGIE - International Supply & Energy Management",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-congestion-analyst-ii-at-engie-international-supply-energy-management-4288604942?position=53&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=Z3gGU1tFKvGLzsKytqguew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Forecasting Consultant",
-        "company": "Trinity Life Sciences",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forecasting-consultant-at-trinity-life-sciences-4271744015?position=54&pageNum=0&refId=ExRv6rFWhR%2Ffu3ExbnYnkA%3D%3D&trackingId=87Sqb5UPaYwCCsGqRRVzBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "HavocAI",
-        "location": "Providence, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-havocai-4296268311?position=3&pageNum=2&refId=72SP1d3AAWMoz9ey5tMUoA%3D%3D&trackingId=GljtJfvWRPpxwqIW27NvzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer (Software) - R10208550",
-        "company": "Northrop Grumman",
-        "location": "Aurora, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-software-r10208550-at-northrop-grumman-4304632465?position=4&pageNum=2&refId=72SP1d3AAWMoz9ey5tMUoA%3D%3D&trackingId=EQCFhLfkraCHCCMFWrgpZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "2026 Associate Cyber Software Engineer / 2026 Cyber Software Engineer - Huntsville AL - R10208681",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-cyber-software-engineer-2026-cyber-software-engineer-huntsville-al-r10208681-at-northrop-grumman-4304629562?position=8&pageNum=2&refId=72SP1d3AAWMoz9ey5tMUoA%3D%3D&trackingId=rmzHxQSWmbvolhnNPheFlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Network Protocols",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-network-protocols-at-cloudflare-4296245502?position=9&pageNum=2&refId=72SP1d3AAWMoz9ey5tMUoA%3D%3D&trackingId=f4BjuTOOOrQXK4SGIlbvUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": true
-    },
-    {
-        "title": "2026 Associate Software Engineer / 2026 Software Engineer - Huntsville AL or Roy UT - R10208667-2",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-software-engineer-2026-software-engineer-huntsville-al-or-roy-ut-r10208667-2-at-northrop-grumman-4304630527?position=10&pageNum=2&refId=72SP1d3AAWMoz9ey5tMUoA%3D%3D&trackingId=TC63rq33xCg88%2BeAR28CDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 10:21:19",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Ford Pro Tech",
         "company": "Ford Motor Company",
         "location": "United States",
@@ -818,5 +548,135 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-01 11:15:30",
         "email_sent": true
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "Wing",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wing-4236129752?position=6&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=DamWF%2FnkZbYVIEqVGYdzLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Front End Software Engineer",
+        "company": "SS&C Technologies",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-ss-c-technologies-4277425076?position=8&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=w%2FHMGjtFqBJduR4%2Fyc5Crg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "FCC Technology Software Engineer",
+        "company": "Valley Bank",
+        "location": "Morristown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fcc-technology-software-engineer-at-valley-bank-4295403659?position=9&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=hViFLuKVpxYoQcma8sYLig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Horizontal Talent",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-horizontal-talent-4296250213?position=17&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=Aon%2FK%2Fxq7iG9gYptwx4zvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Firmware Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/firmware-software-engineer-at-aditi-consulting-4308944191?position=24&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=Q09YYJIgDblwE8%2FE23D6NA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Data Governance",
+        "company": "United Talent Agency",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-data-governance-at-united-talent-agency-4288080204?position=26&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=36uFkm1%2Bz1oTob8nkx2Bxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Battlespace",
+        "company": "Anduril Industries",
+        "location": "Broomfield, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-battlespace-at-anduril-industries-4298299417?position=32&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=oYfRCIKv8rSwGB9RG98NLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Controls Engineer-Data Center",
+        "company": "BW Design Group",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4287581118?position=47&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=3snB%2FtNCDiLqvWx%2BhQKkFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Project Engineer",
+        "company": "Stanley Black & Decker, Inc.",
+        "location": "Towson, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-project-engineer-at-stanley-black-decker-inc-4288497982?position=50&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=NU0M7148QWpeTDTJURkrKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Research Scientist",
+        "company": "Precision Medicine Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-research-scientist-at-precision-medicine-group-4298271418?position=57&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=nYJPY5pZHrDQ9Wdlf43OAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Operations Engineer - Space Systems",
+        "company": "Anduril Industries",
+        "location": "Costa Mesa, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/technical-operations-engineer-space-systems-at-anduril-industries-4298269037?position=59&pageNum=0&refId=WHNNl0ZfOeHII1ber9PZZg%3D%3D&trackingId=OZf3%2BZlOhjLIn2H5wIO9vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Data Governance",
+        "company": "United Talent Agency",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-data-governance-at-united-talent-agency-4288080204?position=1&pageNum=2&refId=HmEToFjbano2HOdHc2hxXQ%3D%3D&trackingId=wtL1AG2K4PtiJkgWULSFbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Battlespace",
+        "company": "Anduril Industries",
+        "location": "Broomfield, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-battlespace-at-anduril-industries-4298299417?position=7&pageNum=2&refId=HmEToFjbano2HOdHc2hxXQ%3D%3D&trackingId=YMm4bjE%2FFNEe%2FfZ86raFyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 11:31:37",
+        "email_sent": false
     }
 ]
