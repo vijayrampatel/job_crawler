@@ -1,215 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tucson Police Department",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tucson-police-department-4307658629?position=4&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=CYZYkG3jR8eh4HCrYtFFLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist/AIML Engineer",
-        "company": "Softcom Systems Inc",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-aiml-engineer-at-softcom-systems-inc-4307674353?position=7&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=P4pFGFVKQqbUC4srx%2BR50Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Piper Maddox",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-piper-maddox-4287531038?position=10&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=dWFiOcRFeJx550%2BEFbcRxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307665466?position=15&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=cpxpsw6rqdbGEFf8j6gYCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307656835?position=16&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=jfGits%2BmN%2Bhfap8DiF9ylw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Massachusetts, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307655938?position=18&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=wg1aAAsGrq%2FiBU1dT7p87A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307675317?position=19&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=qZyWEtB9kVGYZMQSP4dffw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4307648677?position=22&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=TcbLG8qK7yVbt92sZ%2Bs4oA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307663533?position=23&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=zH6GWPRjiL3RLqnlZEL%2FHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4307664498?position=24&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=DYlHiTtl2mrkkxsVxtKLkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Vertex Education",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-vertex-education-4295713106?position=31&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=mk9nwOlyOfcdyOcgV5M%2FIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": true
-    },
-    {
-        "title": "Mid Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Alexandria, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mid-data-engineer-at-jobs-via-dice-4307642731?position=35&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=D6PxFTeO%2FKhQm1P043zEJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Global Associate IT Operations Engineer",
-        "company": "Goodway Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/global-associate-it-operations-engineer-at-goodway-group-4309006266?position=37&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=n%2BZ1l9wKp%2F%2FKqNIWoRZz1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Electrical Engineer",
-        "company": "Aroha Technologies, Inc",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-electrical-engineer-at-aroha-technologies-inc-4308987777?position=40&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=zj%2BIuMWAKqV%2BR9rWRoqaSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Webologix Ltd/ INC",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-webologix-ltd-inc-4309009164?position=49&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=D%2BhRXX87jHjuU3ETK3WphA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer - Junior (Cleared) (STE-DBE)",
-        "company": "Jobs via Dice",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-junior-cleared-ste-dbe-at-jobs-via-dice-4307637828?position=52&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=O0%2BVcvXeaPk6Ap80bVuc3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Technical Operations Engineer I",
-        "company": "Jobs via Dice",
-        "location": "Canton, MS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technical-operations-engineer-i-at-jobs-via-dice-4307651569?position=58&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=3laIonQK41hauFY9128yLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Technical Operations Engineer I",
-        "company": "Jobs via Dice",
-        "location": "Canton, MS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technical-operations-engineer-i-at-jobs-via-dice-4307655292?position=59&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=yajwqyZaB4xLDpRmubONzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Technical Operations Engineer I",
-        "company": "Jobs via Dice",
-        "location": "Canton, MS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technical-operations-engineer-i-at-jobs-via-dice-4307649657?position=60&pageNum=0&refId=hiYaUO1rUOzWPbZmMuY2uQ%3D%3D&trackingId=tTEF6JqEsObpevEc3qJLxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Vertex Education",
-        "location": "Chandler, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-vertex-education-4295713106?position=6&pageNum=2&refId=rwm4Rfo86OtghR4mV7FtAw%3D%3D&trackingId=ZTIUaKqTacM5MEjAJuw26w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": true
-    },
-    {
-        "title": "Mid Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Alexandria, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mid-data-engineer-at-jobs-via-dice-4307642731?position=10&pageNum=2&refId=rwm4Rfo86OtghR4mV7FtAw%3D%3D&trackingId=7273bM1pmmopJTuI4pHYfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-01 15:36:10",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst - Remote",
         "company": "Zywave",
         "location": "United States",
@@ -948,5 +738,165 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-01 16:22:00",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "LBMC",
+        "location": "Nashville Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lbmc-4306539197?position=1&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=vSKlbha9kELIh4xagBtS7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer",
+        "company": "Raas Infotek",
+        "location": "Bellevue, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-raas-infotek-4309013492?position=4&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=j2vXGmJ9X3Uk%2FustWPJUjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer 2",
+        "company": "Intuit",
+        "location": "Mountain View, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-2-at-intuit-4288626618?position=12&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=gf9r8LqSrfFn9B5hDy1L1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Financial Recovery Group (FRG)",
+        "location": "Sunrise, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-financial-recovery-group-frg-4309010504?position=16&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=dZD8diNAjyARZ2S%2FuPUmgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Schweitzer Engineering Laboratories (SEL)",
+        "location": "Chattanooga, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-schweitzer-engineering-laboratories-sel-4309011476?position=27&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=myseBMqCCI2sgQ4xxeJ%2B7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Back End Developer",
+        "company": "AppCard, Inc.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4305894812?position=28&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=i6H7smBxjcmRTFufE9C%2B9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer-Entry Level",
+        "company": "Collabera",
+        "location": "Elgin, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-entry-level-at-collabera-4306129732?position=31&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=6TLztWespzO%2BD07BgDN%2Bzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "US_West | Data Engineer_L3",
+        "company": "Expedite Technology Solutions LLC",
+        "location": "Bloomfield, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/us-west-data-engineer-l3-at-expedite-technology-solutions-llc-4309029022?position=33&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=LEjAbmYBhGn%2B4oyNa4LMPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "Innovee Consulting LLC",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-innovee-consulting-llc-4309011490?position=35&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=P2iElsPoCa9czZswG6u13g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer Must have skills Cribl and Vector",
+        "company": "Raas Infotek",
+        "location": "Bellevue, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-must-have-skills-cribl-and-vector-at-raas-infotek-4309009651?position=41&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=2x4OZfpJu4SpvqouIK0y8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst, application via RippleMatch",
+        "company": "RippleMatch",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-application-via-ripplematch-at-ripplematch-4309024243?position=58&pageNum=0&refId=WMg2U7UkiFBiXpAyecp2%2Bw%3D%3D&trackingId=FkActJ1l0nHt5ceUfKepiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Schweitzer Engineering Laboratories (SEL)",
+        "location": "Chattanooga, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-schweitzer-engineering-laboratories-sel-4309011476?position=2&pageNum=2&refId=0XVizqFNDBVTY7HYKFI0Zw%3D%3D&trackingId=sDQht2%2B9DKeX3UBfbb19Xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Back End Developer",
+        "company": "AppCard, Inc.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4305894812?position=3&pageNum=2&refId=0XVizqFNDBVTY7HYKFI0Zw%3D%3D&trackingId=r8VtMgWYWoNfkcxly83a8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer-Entry Level",
+        "company": "Collabera",
+        "location": "Elgin, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-entry-level-at-collabera-4306129732?position=6&pageNum=2&refId=0XVizqFNDBVTY7HYKFI0Zw%3D%3D&trackingId=Y8iDobfIBXW2u7FT%2B8zQsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "US_West | Data Engineer_L3",
+        "company": "Expedite Technology Solutions LLC",
+        "location": "Bloomfield, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/us-west-data-engineer-l3-at-expedite-technology-solutions-llc-4309029022?position=8&pageNum=2&refId=0XVizqFNDBVTY7HYKFI0Zw%3D%3D&trackingId=VuwdcCJbcRFGskqOq1py4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "Innovee Consulting LLC",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-innovee-consulting-llc-4309011490?position=10&pageNum=2&refId=0XVizqFNDBVTY7HYKFI0Zw%3D%3D&trackingId=gSleyc%2BSxWRag23tFZkwvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-01 16:45:49",
+        "email_sent": false
     }
 ]
