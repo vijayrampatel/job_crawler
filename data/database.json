@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer (Javascript, Ruby)",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-javascript-ruby-at-gusto-4310672264?position=9&pageNum=0&refId=SIh0nXbu32HYBLfqzikRGg%3D%3D&trackingId=gN7QYmnvBMG9hxoKX1svDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-05 18:23:45",
-        "email_sent": true
-    },
-    {
-        "title": "Software Defined Radio (SDR) Engineer",
-        "company": "Caliola Engineering, LLC",
-        "location": "Colorado Springs, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-defined-radio-sdr-engineer-at-caliola-engineering-llc-4310687946?position=13&pageNum=0&refId=SIh0nXbu32HYBLfqzikRGg%3D%3D&trackingId=Vekf61eNmgF6c3EOaFKJNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-05 18:23:45",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer",
         "company": "Hirenza",
         "location": "United States",
@@ -67,6 +47,86 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4310804109?position=3&pageNum=0&refId=qpUzZWJNnp2vaofz7O5Vaw%3D%3D&trackingId=e4F5xfXhrehhRnd49b1PRQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-05 19:12:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Engineer",
+        "company": "Jobs via Dice",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-jobs-via-dice-4305766429?position=3&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=EZJR12l3kHUpSAI927aDxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Skyntry",
+        "location": "Woodbridge, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-skyntry-4309471544?position=4&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=NZoxzOa7OhEcejUlMu1GJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Gen AI)",
+        "company": "Jobs via Dice",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-gen-ai-at-jobs-via-dice-4309465600?position=5&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=zOK8g%2FVNZ875y1muDRfwZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "Business / Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Quincy, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-jobs-via-dice-4305797232?position=8&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=TN5JQc4O7dk6EPG6fMhdYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Jobs via Dice",
+        "location": "Lehi, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-jobs-via-dice-4309465597?position=10&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=jFzpCUJSX0mA71dFDYaXLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant",
+        "company": "Inside Higher Ed",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-inside-higher-ed-4310802174?position=11&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=r85%2BmnGboSE3ETzl6ExR3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "EPC Substation Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/epc-substation-engineer-at-jobs-via-dice-4306056104?position=12&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=LZDKqOilXFiUwkXGsi3efQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
+        "email_sent": false
+    },
+    {
+        "title": "FD Readiness Analyst",
+        "company": "Jobs via Dice",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fd-readiness-analyst-at-jobs-via-dice-4306021243?position=13&pageNum=0&refId=MEgNaU1h1kRcf04SoKrKPA%3D%3D&trackingId=fZakJBvc%2BjTy9SMZVHAhFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-05 19:27:05",
         "email_sent": false
     }
 ]
