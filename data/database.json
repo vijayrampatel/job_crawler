@@ -1,15 +1,5 @@
 [
     {
-        "title": "SQL Annotation",
-        "company": "Sepal AI",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-annotation-at-sepal-ai-4308880722?position=2&pageNum=0&refId=dEJK5e1XYvEtEo9SbmjNXg%3D%3D&trackingId=A1t%2B0WW7BybR5vnt3ZN4zA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-06 04:00:03",
-        "email_sent": false
-    },
-    {
         "title": "Software Development Engineer",
         "company": "Adobe",
         "location": "Lehi, UT",
@@ -58,5 +48,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-06 04:57:04",
         "email_sent": true
+    },
+    {
+        "title": "Biostatistician",
+        "company": "Brigham and Women's Hospital",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-brigham-and-women-s-hospital-4309068959?position=5&pageNum=0&refId=epN8gfC4aYYYNF7A0z5ajg%3D%3D&trackingId=nwHr%2F9kcSJqLjAqxz%2FkKdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-06 05:18:23",
+        "email_sent": false
     }
 ]
