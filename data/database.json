@@ -1,445 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jack-4310341769?position=2&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=xFAH8ohDFa4hch2bsqOM0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4311388364?position=6&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=I1pQX3cZBv8DlClArjDiNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Data/MLOps)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-mlops-at-wiraa-4311397267?position=8&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=zsHgRwPaCpbbgwyl82qiEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-jobs-via-dice-4310353338?position=11&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=n%2ByVv4T1WHpohXFsFZqYYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-pinterest-4311379776?position=12&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=FqRsKCxXcAV9jknZ%2BKolFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
-        "company": "Coinbase",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-coinbase-4241035729?position=13&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=3mp9SIK%2BmRmD4JRZT3JyAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, Consultant",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-consultant-at-wiraa-4311389383?position=15&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=UXYnK5v7X9DpAv1eT8xV1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Developer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4309263525?position=16&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=QWiYPvtNU4K2dVOUzNbRBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Operations)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-operations-at-wiraa-4311399222?position=17&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=lLu%2FDeQuPc5EdsnMsIO5ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Typescript)",
-        "company": "Ansys",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-typescript-at-ansys-4311388362?position=18&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=r5pFQH%2FRzAZU7S1AZu85nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-pinterest-4311387382?position=19&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=igvv9ByfVCBObs6U7U6y%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4310341441?position=20&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=ULMWCThZWqL%2FHY2dkr5%2F5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4310350368?position=22&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=ezx0jn9w9DKuNRxOhalYxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "McKinley Marketing Partners",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-mckinley-marketing-partners-4310356311?position=23&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=e5X9BMkT7HWZX%2F51iTFrkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, C/C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c-c%2B%2B-at-wiraa-4311380741?position=25&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=WiY%2BcC8HFQZveh2ZfoOFzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Cyber AI/ML Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cyber-ai-ml-software-engineer-at-lockheed-martin-4311521785?position=26&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=T2Yu4YKDQOfF5WyM%2BT%2FGbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2",
-        "company": "Lockheed Martin",
-        "location": "Marietta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-lockheed-martin-4311319338?position=28&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=lTB7u0Lu6oV1K6nlXrUKNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer IV",
-        "company": "Primary Talent Partners",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iv-at-primary-talent-partners-4311505740?position=30&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=C%2FCsozPT1m1Knqlo3DXPFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer--------------Wilmington DL, Houston TX",
-        "company": "Jobs via Dice",
-        "location": "Wilmington, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-wilmington-dl-houston-tx-at-jobs-via-dice-4310357252?position=31&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=mtlkbiEnNpC1KgifjMFJbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Streaming",
-        "company": "Warner Bros. Discovery",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-streaming-at-warner-bros-discovery-4300945335?position=32&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=HupBgOnEArN8OWogI%2BpmfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Portfolio Implementation Analytics",
-        "company": "AQR Capital Management",
-        "location": "Greenwich, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-portfolio-implementation-analytics-at-aqr-capital-management-4311511876?position=33&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=liYh6g18EZDGY27negMb%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Camden, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4311518791?position=34&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=9e4sCqrv%2BZ117lGd6X8a1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Security Software Engineer (Starshield)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-starshield-at-spacex-4300980123?position=35&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=1XAjZz6sPhHfKi2XZN1Q5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Systems Engineer,",
-        "company": "Baxter International Inc.",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-baxter-international-inc-4311531117?position=36&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=BZs828gkA4346ZG0A9LDGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer,",
-        "company": "Baxter International Inc.",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-baxter-international-inc-4311526666?position=38&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=kNUzZTbixgRsAuI8ICRn9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analytics Specialist",
-        "company": "Arxada",
-        "location": "Alpharetta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-specialist-at-arxada-4301779048?position=41&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=IJ5w3MClwSdknmAAgSqALA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Ground Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Greater Colorado Springs Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ground-software-engineer-at-lockheed-martin-4311322296?position=42&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=fpmVWe370VosJXc7zu7G%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "GPU Software Engineer",
-        "company": "Roche",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gpu-software-engineer-at-roche-4278052241?position=43&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=51afhW1Fv4IooWqSZlOqtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Cyber Software Security Engineer Entry Level",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cyber-software-security-engineer-entry-level-at-lockheed-martin-4311315415?position=44&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=KigLXcxhrsojv%2Bxuv8v7uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "UnitedHealth Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-unitedhealth-group-4311380737?position=45&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=rN%2BuxBXZwFZ%2FqG0AGEnEHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr. (iOS)",
-        "company": "eBay",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-ios-at-ebay-4311382577?position=46&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=KNQkgpwFYJpSCDwyFwZxsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Performance Engineer - NASCAR Cup Series",
-        "company": "LEGACY MOTOR CLUB",
-        "location": "Statesville, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/performance-engineer-nascar-cup-series-at-legacy-motor-club-4310342496?position=52&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=eqTJqYVMVljUKWLzmjTgYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Reviewer 1",
-        "company": "Pace\u00ae Labs",
-        "location": "Mount Juliet, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-reviewer-1-at-pace%C2%AE-labs-4300885673?position=53&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=grK%2B6Q9W%2BtlLgSEhj38n1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Firmware Engineer",
-        "company": "Molex",
-        "location": "Bridgewater, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/firmware-engineer-at-molex-4277379071?position=54&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=7nCbxv%2Bnbvd3%2FqbdOHVcjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Quality Control Data Analyst",
-        "company": "Clearspeed",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-control-data-analyst-at-clearspeed-4311520852?position=58&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=wpFAQ6jDzrxmRjij7wluqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (Curation Ecosystem)",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-curation-ecosystem-at-pinterest-4311399224?position=59&pageNum=0&refId=xtemXXIxn5BrXtguPKEt%2Bg%3D%3D&trackingId=tHFUnMv7rH7njR6egriA8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Cyber AI/ML Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cyber-ai-ml-software-engineer-at-lockheed-martin-4311521785?position=1&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=y8MDOT%2BZL%2B%2Fk8vrrDkQZug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Level 2",
-        "company": "Lockheed Martin",
-        "location": "Marietta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-lockheed-martin-4311319338?position=3&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=KEF%2BPvUYIT%2FQqrz9GGKWuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer IV",
-        "company": "Primary Talent Partners",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iv-at-primary-talent-partners-4311505740?position=5&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=MKIYsg1V9w9%2FAl737Cdqog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer--------------Wilmington DL, Houston TX",
-        "company": "Jobs via Dice",
-        "location": "Wilmington, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-wilmington-dl-houston-tx-at-jobs-via-dice-4310357252?position=6&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=3o3R66x%2FsJbN7v64i3njlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Streaming",
-        "company": "Warner Bros. Discovery",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-streaming-at-warner-bros-discovery-4300945335?position=7&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=QQPXUbh13B4AQJ7s%2BtUZYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Portfolio Implementation Analytics",
-        "company": "AQR Capital Management",
-        "location": "Greenwich, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-portfolio-implementation-analytics-at-aqr-capital-management-4311511876?position=8&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=tlNj7cBOdad2zZSuLOaldQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Camden, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4311518791?position=9&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=v6z6Ge4nLJed4dSpvEtX0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
-        "title": "Security Software Engineer (Starshield)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-starshield-at-spacex-4300980123?position=10&pageNum=2&refId=C7MVJytA8EB7QwRasgc%2BXg%3D%3D&trackingId=6DaXV21LK5cKcLLtC5z2LA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:42:55",
-        "email_sent": false
-    },
-    {
         "title": "Software Dev Engineer I",
         "company": "Optimum",
         "location": "Bethpage, NY",
@@ -817,6 +377,46 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4311513380?position=7&pageNum=2&refId=%2FgE%2BcOxl3oVaYHvMgu8IVw%3D%3D&trackingId=UtgksMNq0KrF0SUWrqu%2Fvw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-07 14:42:35",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Data Analyst",
+        "company": "Meritore Technologies",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-meritore-technologies-4310933605?position=21&pageNum=0&refId=KNUGRlkIQJB7WhfiW82xlg%3D%3D&trackingId=iuLCxN7VgjEhNR4i1Fd0lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:53:02",
+        "email_sent": false
+    },
+    {
+        "title": "RCI-CRG-6950-1 Data Analyst (Level One)",
+        "company": "Rangam",
+        "location": "Wichita, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rci-crg-6950-1-data-analyst-level-one-at-rangam-4311546463?position=32&pageNum=0&refId=KNUGRlkIQJB7WhfiW82xlg%3D%3D&trackingId=mLiCNbtyx2BSJVbv9iRkPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:53:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Greater Milwaukee",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4311530652?position=49&pageNum=0&refId=KNUGRlkIQJB7WhfiW82xlg%3D%3D&trackingId=qQZkqT3BcCShqsDOPkZZ5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:53:02",
+        "email_sent": false
+    },
+    {
+        "title": "RCI-CRG-6950-1 Data Analyst (Level One)",
+        "company": "Rangam",
+        "location": "Wichita, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rci-crg-6950-1-data-analyst-level-one-at-rangam-4311546463?position=7&pageNum=2&refId=QI2DswFD%2Fkc4MWljrMNO0A%3D%3D&trackingId=BZj6YY41yGbt%2FLKBjtk7hg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:53:02",
         "email_sent": false
     }
 ]
