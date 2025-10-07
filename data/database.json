@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4311391343?position=6&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=nID2iN67CEY45ZNY10AF8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4310345023?position=22&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=83ds3pCZMvP0K%2FWa%2FWhpoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Docusign",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-docusign-4310335871?position=31&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=0hp182vPVC0uUxRFuqUjSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "OpenText",
-        "location": "Lexington, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-opentext-4286726808?position=34&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=Rom2B91eJ3H6IM0VTbNETA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Mission Software Engineer, Public Sector",
-        "company": "Scale AI",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mission-software-engineer-public-sector-at-scale-ai-4288804698?position=42&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=p4HursUAvsRwOZi62OxkgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Tax Consultant / Data Engineer",
-        "company": "TEKsystems",
-        "location": "Myrtle Point, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/tax-consultant-data-engineer-at-teksystems-4311500637?position=46&pageNum=0&refId=43%2BqjcWPrpvEf18t49KgxQ%3D%3D&trackingId=akhzQLlhEsQRx7T4Akko4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Docusign",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-docusign-4310335871?position=6&pageNum=2&refId=MH6UZ1%2FGaNPIxm0o7QY%2Fbg%3D%3D&trackingId=9p8wkNrpS9tKDEcnW5YwAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "OpenText",
-        "location": "Lexington, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-opentext-4286726808?position=9&pageNum=2&refId=MH6UZ1%2FGaNPIxm0o7QY%2Fbg%3D%3D&trackingId=borBV0ETLd6elkI5WtHLfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:47:20",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Data Analyst",
-        "company": "United States Olympic & Paralympic Committee",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-united-states-olympic-paralympic-committee-4310321807?position=4&pageNum=0&refId=Njv5kKn1%2Fdy1mItae90jVQ%3D%3D&trackingId=yZrtxN%2B02VSj0ZmXRZMH2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:58:03",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer I/II Pipeline",
-        "company": "Rocket Lab",
-        "location": "Long Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-i-ii-pipeline-at-rocket-lab-4301122462?position=32&pageNum=0&refId=Njv5kKn1%2Fdy1mItae90jVQ%3D%3D&trackingId=2w4XKKAzYjGXMB%2BcLl%2BKJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:58:03",
-        "email_sent": true
-    },
-    {
-        "title": "Mission Software Engineer, Public Sector",
-        "company": "Scale AI",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mission-software-engineer-public-sector-at-scale-ai-4288807291?position=43&pageNum=0&refId=Njv5kKn1%2Fdy1mItae90jVQ%3D%3D&trackingId=giwDyupuQhUs3bDMjr0dAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:58:03",
-        "email_sent": true
-    },
-    {
-        "title": "Systems Engineer I/II Pipeline",
-        "company": "Rocket Lab",
-        "location": "Long Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-i-ii-pipeline-at-rocket-lab-4301122462?position=7&pageNum=2&refId=dN%2BWsurpHufW1IliYQ9hjA%3D%3D&trackingId=WfqXPfymnxLP2z5ILoMlvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 11:58:03",
-        "email_sent": true
-    },
-    {
         "title": "Software Dev Engineer I",
         "company": "Optimum",
         "location": "Bethpage, NY",
@@ -308,5 +188,265 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-07 12:40:25",
         "email_sent": true
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "Associa",
+        "location": "Richardson, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-associa-4290838920?position=1&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=4Qkz%2Bcm8p3NmISdnuAo3yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4311506622?position=3&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=xdhBSCRR1gIYINjQ20pw4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jack-4305703879?position=4&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=52DSfU0kEvyx%2FcUwFCfbFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Skyflow",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-skyflow-4300941751?position=6&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=Wip7lw2qjZ2uKGU4FsOgmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jack-4306044347?position=7&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=%2BI7wXKK4NU5%2Be4%2BbNJGJ2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II - G&A",
+        "company": "Ironclad",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-g-a-at-ironclad-4301250389?position=8&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=qZN62p65jxwS6O0hx3c9Qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Kratos Defense and Security Solutions",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kratos-defense-and-security-solutions-4300914601?position=9&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=svZa6es6wZZ12Ux8I%2BaGTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4311513380?position=12&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=6HXJqUpZ%2FEPKHUKaKbMdAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "CNH",
+        "location": "Sioux Falls, SD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-cnh-4304605240?position=13&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=%2BeqUW6pfQx1lAK85uaNJZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Software Development Engineer - Tempe, AZ, Jr. Developer Program",
+        "company": "Amazon",
+        "location": "Tempe, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/jr-software-development-engineer-tempe-az-jr-developer-program-at-amazon-4300983114?position=14&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=HHb6RzFjzAIovQ0cuJ5IHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Baxter International Inc.",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-baxter-international-inc-4309262340?position=15&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=Q9cMJT2qUBkUMQLlxDehwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Temp) (multiple positions)",
+        "company": "Inside Higher Ed",
+        "location": "Lowell, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-temp-multiple-positions-at-inside-higher-ed-4311511874?position=22&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=KRgVh%2FLpk%2BFnvFMI%2FN0Uug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr JavaScript Engineer for Test Automation (Locals - USC & GC only)",
+        "company": "Lenmar Consulting Inc",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-javascript-engineer-for-test-automation-locals-usc-gc-only-at-lenmar-consulting-inc-4311511530?position=23&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=2qg0oMeJMILuFjDBNZK5Pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "C, C++, C#, Java Software Engineer II (ONSITE)",
+        "company": "Raytheon",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-c%23-java-software-engineer-ii-onsite-at-raytheon-4300970460?position=24&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=iqcRxL8P7BnrVLAQy6LaFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "C, C++, C#, Java Software Engineer II (ONSITE)",
+        "company": "Raytheon",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-c%23-java-software-engineer-ii-onsite-at-raytheon-4300973410?position=25&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=z4T3A8l9OCok7KaopM5mdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II with Test Equipment",
+        "company": "Raytheon",
+        "location": "Tucson, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-with-test-equipment-at-raytheon-4290868735?position=26&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=X6E3rbUbDrTzJ%2FWEDtdcmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Java/C++ Software Engineer II (Onsite)",
+        "company": "Raytheon",
+        "location": "State College, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-c%2B%2B-software-engineer-ii-onsite-at-raytheon-4301229820?position=27&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=z%2BzcImqxnu486vM4fA21EA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "C, C++, C#, Java Software Engineer II (ONSITE)",
+        "company": "Raytheon",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-c%23-java-software-engineer-ii-onsite-at-raytheon-4300978139?position=28&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=dJsX45MP7tcRsr%2Fp702f7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Airborne Platform Automation Test Engineer",
+        "company": "Gogo",
+        "location": "Denver Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/airborne-platform-automation-test-engineer-at-gogo-4288571731?position=29&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=ZKs%2BoiQabxVQMQjJrHCd8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "P/T Data Analyst (temporary)-Institutional Research and Assessment",
+        "company": "Inside Higher Ed",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/p-t-data-analyst-temporary-institutional-research-and-assessment-at-inside-higher-ed-4311513865?position=30&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=ByERCiwoz8aL9VBHsI8baA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Trainer - Freelance Data Annotator",
+        "company": "Toloka Annotators",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4311514850?position=31&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=7BOHlTz7j%2F%2Fi1FI6QiuuUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Trainer - Freelance Data Annotator",
+        "company": "Toloka Annotators",
+        "location": "Virginia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4311523695?position=32&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=eB8AOcFiBfn8rEJC%2Bhsb6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Research Coordinator, SAS",
+        "company": "Inside Higher Ed",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-research-coordinator-sas-at-inside-higher-ed-4311518750?position=33&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=JacSa%2FzTJcmVvV02Pdguww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Biostatistician",
+        "company": "Artivion, Inc.",
+        "location": "Kennesaw, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-artivion-inc-4290873725?position=35&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=uge6s9WZfjTojM8ebZQupA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineer",
+        "company": "Santee Cooper",
+        "location": "Myrtle Beach, SC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-santee-cooper-4300947164?position=36&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=VDXN6HEQcMHuPEeGtYmDwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
+    },
+    {
+        "title": "Java/Python AI/ML Data Science Software Engineer (Onsite)",
+        "company": "Raytheon",
+        "location": "State College, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-python-ai-ml-data-science-software-engineer-onsite-at-raytheon-4290868732?position=39&pageNum=0&refId=kTGIi7YAmjy%2BIEaRPOOvgw%3D%3D&trackingId=eCNlzVPvgf1w0376BOSjZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 13:17:26",
+        "email_sent": false
     }
 ]
