@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "GM Financial",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-gm-financial-4290951959?position=1&pageNum=0&refId=RB362KJDAmTAj6%2FvJLjPkQ%3D%3D&trackingId=M1tIP5k9PyyqJTa%2BMeQzqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 15:58:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Compunnel Inc.",
-        "location": "Wichita, Kansas Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-compunnel-inc-4311538488?position=5&pageNum=0&refId=RB362KJDAmTAj6%2FvJLjPkQ%3D%3D&trackingId=U6vdb1sF8tImILluAQC0%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 15:58:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Integration Engineer",
-        "company": "Phaxis",
-        "location": "Woodbridge, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-at-phaxis-4311549200?position=10&pageNum=0&refId=RB362KJDAmTAj6%2FvJLjPkQ%3D%3D&trackingId=H2tdRPLsyAwvFRfGeqj7cA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 15:58:57",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "OneMagnify",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-onemagnify-4299273021?position=11&pageNum=0&refId=RB362KJDAmTAj6%2FvJLjPkQ%3D%3D&trackingId=HcbackZw2b15Kj%2FHuwM41A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 15:58:57",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4308775778?position=25&pageNum=0&refId=RB362KJDAmTAj6%2FvJLjPkQ%3D%3D&trackingId=USHCFqFyRGBxBpkXDRU%2B0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 15:58:57",
-        "email_sent": true
-    },
-    {
         "title": "Azure databricks engineer",
         "company": "Appzlogic",
         "location": "Palo Alto, CA",
@@ -887,6 +837,256 @@
         "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4311387382?position=2&pageNum=2&refId=bxBJm7bNy1Y9aktHpz5lMw%3D%3D&trackingId=w16Yp6EowEy2fSe46WCYzg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-07 16:58:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4311388364?position=2&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=TKzXDcGtRbA2ViDQGw1azw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Data/MLOps)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-mlops-at-wiraa-4311397267?position=7&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=9%2FB6Z6uz%2FZc03OT1btX0YQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "RevOptimal",
+        "location": "New Orleans, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revoptimal-4310955618?position=11&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=%2FUTckZ7fL2eLItJ9k7FMEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Selby Jennings",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-selby-jennings-4311575443?position=17&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=0uNINVuNHsYMZYyKJdWfLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - React",
+        "company": "Dexian",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-at-dexian-4309283454?position=18&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=w7ZyMu50Muy3i%2FpPzdX3zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4311379776?position=21&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=pj1Vt6rV6V6bGmPaXJyXEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - Bellevue, USA",
+        "company": "Speechify",
+        "location": "Bellevue, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-bellevue-usa-at-speechify-4311552947?position=22&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=8qKG%2B5qr%2BkZxa26QpBfbhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - Los Angeles, USA",
+        "company": "Speechify",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-los-angeles-usa-at-speechify-4311560772?position=23&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=sWDHo2YdtLuvtsNz2xtuEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - San Diego, USA",
+        "company": "Speechify",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-san-diego-usa-at-speechify-4311572547?position=25&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=P6qRwmK7haV7o3j6YtYDWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - Cambridge, USA",
+        "company": "Speechify",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-cambridge-usa-at-speechify-4311581323?position=31&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=HK6BeUItU2mugJVxHU54iQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4311380737?position=36&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=uNgk%2FebQSxiekNlkT3W%2FTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator",
+        "company": "ALTEN Technology USA",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-alten-technology-usa-4311569608?position=40&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=BdXDH2rGifAotWBgqiwZsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "DTCC, Systems Engineer - Application via WayUp",
+        "company": "WayUp",
+        "location": "Coppell, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dtcc-systems-engineer-application-via-wayup-at-wayup-4310483228?position=42&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=e2zKEKxy8ZulW70y%2Bv%2BQrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Portland, Maine Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310944534?position=46&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=g9o59ysyH2LiKdvVnPNZdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst General/Engineering",
+        "company": "Altair",
+        "location": "Dearborn, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-general-engineering-at-altair-4310939634?position=49&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=ktsA64cinVeZ5fM5C9Qkzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Falmouth, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310955646?position=52&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=7SqNAp20BDOYvtGcAnK9PA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Gorham, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310956601?position=53&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=69%2BTDj54d%2FzfXGvc%2Fb5pVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Windham, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310943785?position=54&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=3CACNuPYKjTB63qpLyxixg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Westbrook, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310934940?position=55&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=HzM7ouaNckN4cAeemBIXhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Brunswick, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310942761?position=56&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=E7n0H6flDmTujjN%2FgofdSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "South Portland, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310944634?position=57&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=%2F%2FFUW7iGZrUTGAXOYow7gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Technical Support Engineer, Focused Services, XSIAM",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-technical-support-engineer-focused-services-xsiam-at-palo-alto-networks-4311560675?position=58&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=CuLMJKKMIuotAy33Ko1R5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Standish, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4310942853?position=59&pageNum=0&refId=CraHalBxSV7%2BJBilRqJXbQ%3D%3D&trackingId=1DOCcnob0UE3CH8OdaQCew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - San Diego, USA",
+        "company": "Speechify",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-san-diego-usa-at-speechify-4311572547?position=1&pageNum=2&refId=yRMcMcTNGF%2F%2B0wHtLaAepQ%3D%3D&trackingId=nfF1BwH%2BibglNMTju7Qb2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS Core Product - Cambridge, USA",
+        "company": "Speechify",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-core-product-cambridge-usa-at-speechify-4311581323?position=7&pageNum=2&refId=yRMcMcTNGF%2F%2B0wHtLaAepQ%3D%3D&trackingId=2ga2MFj5UKgfU%2B2RhjcbFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 17:22:08",
         "email_sent": false
     }
 ]
