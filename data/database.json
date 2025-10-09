@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer I",
-        "company": "Blue Yonder",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-blue-yonder-4311839975?position=6&pageNum=0&refId=N7QpLxxsSoF2KcU9OEDfgw%3D%3D&trackingId=ZQqfN%2BOowLM19bT6GUJwZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-09 04:43:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist - Digital",
-        "company": "Abercrombie & Fitch Co.",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-digital-at-abercrombie-fitch-co-4312368653?position=16&pageNum=0&refId=N7QpLxxsSoF2KcU9OEDfgw%3D%3D&trackingId=UNtCfXedkIFk%2Bd4TLe4FyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-09 04:43:51",
-        "email_sent": true
-    },
-    {
         "title": "Performance Improvement Analyst",
         "company": "bp",
         "location": "Chicago, IL",
@@ -128,5 +108,75 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-09 05:35:31",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer (Direct To Cell)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-jobs-via-dice-4308578983?position=4&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=IfTVbKI0SqK5vbavQxrV2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Dev/Ops Data Pipeline Developer Job in Rochester, NY:",
+        "company": "Modis",
+        "location": "Rochester, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dev-ops-data-pipeline-developer-job-in-rochester-ny-at-modis-4311846642?position=5&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=Q%2BLxr0zKNzomZZaHrXjc3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Back End (Python AWS)",
+        "company": "Capital One",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-python-aws-at-capital-one-4312541266?position=6&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=bYhQb8lrveCEZnkhpwvZ8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Software Design Engineer 2",
+        "company": "Apex Systems",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-design-engineer-2-at-apex-systems-4312518968?position=8&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=noJ7%2F2Egm8VBfBJv0uzKTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, High Performance Computing",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-high-performance-computing-at-jobs-via-dice-4308596049?position=9&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=ow53KP%2BNJrjBM%2BPdmotP3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise Statistical Reporting Analyst I or II or III (Hybrid)",
+        "company": "Utica National Insurance Group",
+        "location": "Utica-Rome Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-statistical-reporting-analyst-i-or-ii-or-iii-hybrid-at-utica-national-insurance-group-4305264242?position=19&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=mzC4O9RoZt5PTkQ3vJcbcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
+    },
+    {
+        "title": "Data Visualization & UX Designer",
+        "company": "Data Visualization Society",
+        "location": "Only, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-visualization-ux-designer-at-data-visualization-society-4309919714?position=20&pageNum=0&refId=KYsuTSf4HVpevjvOyVI%2Fsw%3D%3D&trackingId=YCFbfJ7XxgN4%2FhO0XMF1uQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-09 05:46:23",
+        "email_sent": false
     }
 ]
