@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Brady Corporation",
-        "location": "Plymouth, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-brady-corporation-4301862655?position=1&pageNum=0&refId=0QFugfogqjlrvFTFl7Pbqw%3D%3D&trackingId=VJ0qN4utg9GCHFgYpDy07w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-12 14:00:28",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Remodel Health",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-remodel-health-4282187705?position=2&pageNum=0&refId=0QFugfogqjlrvFTFl7Pbqw%3D%3D&trackingId=%2BfAd4saRkR52tt5FWzoKRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-12 14:00:28",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Program Analyst (Remote - Puerto Rico)",
-        "company": "Lensa",
-        "location": "Reston, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-program-analyst-remote-puerto-rico-at-lensa-4313911755?position=21&pageNum=0&refId=0QFugfogqjlrvFTFl7Pbqw%3D%3D&trackingId=ODqMnjHwVEfCKrVYk%2BnQDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-12 14:00:28",
-        "email_sent": false
-    },
-    {
         "title": "Entry-Level Data Engineer",
         "company": "Lensa",
         "location": "Austin, TX",
@@ -418,5 +388,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-12 14:56:57",
         "email_sent": true
+    },
+    {
+        "title": "Engineer I",
+        "company": "BioSpace",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-i-at-biospace-4313625845?position=16&pageNum=0&refId=csMiYfBRGJbt5N0KuwNRkA%3D%3D&trackingId=5uqVAxr90CXucDVk5UvrcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-12 15:15:12",
+        "email_sent": false
     }
 ]
