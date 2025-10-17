@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TEKsystems",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-teksystems-4316053731?position=1&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=avDUubaTXaAS8MznBoXK1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 05:45:33",
-        "email_sent": true
-    },
-    {
-        "title": "Software Support Engineer",
-        "company": "Actabl",
-        "location": "Denver Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-actabl-4315535904?position=3&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=%2B8m4r4xRrQhyo8MJeMaCMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 05:45:33",
-        "email_sent": false
-    },
-    {
-        "title": "FCC Technology Software Engineer",
-        "company": "Valley Bank",
-        "location": "Morristown, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fcc-technology-software-engineer-at-valley-bank-4315899237?position=8&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=rOP8WlUwsVEmm2h%2FEUvuhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 05:45:33",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst",
         "company": "American Express",
         "location": "Phoenix, AZ",
@@ -138,5 +108,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-17 06:26:16",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Ruby on Rails",
+        "company": "Mudflap",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ruby-on-rails-at-mudflap-4316054703?position=7&pageNum=0&refId=cGv6vX3xROLCp3ECyA10rQ%3D%3D&trackingId=UIT5aUzxCoyUCxLEpFuc8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:48:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Rollins School of Public Health",
+        "company": "Emory University",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-rollins-school-of-public-health-at-emory-university-4313304871?position=9&pageNum=0&refId=cGv6vX3xROLCp3ECyA10rQ%3D%3D&trackingId=mNrxvqJFg5OAeg4KH4QmDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:48:37",
+        "email_sent": false
     }
 ]
