@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "American Express",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-american-express-4316053599?position=5&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=IeHASGoYErON4gCbt%2FNjlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": true
-    },
-    {
-        "title": "Oncology Data Analyst",
-        "company": "DCH Health System",
-        "location": "Tuscaloosa, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/oncology-data-analyst-at-dch-health-system-4315539920?position=11&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=WTwqoBEwv%2BQ7Cu0hSQoNrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": true
-    },
-    {
-        "title": "Engineer I - Software (FPGA Place and Route)",
-        "company": "Microchip Technology Inc.",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-i-software-fpga-place-and-route-at-microchip-technology-inc-4316012070?position=13&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=YOeC1Rr99Hkh%2FH8FMNoQbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst / Administrative Supporting the DEA",
-        "company": "FSA",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-administrative-supporting-the-dea-at-fsa-4313421163?position=21&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=ieOa4PvwDfvz36CPhBseBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": false
-    },
-    {
-        "title": "Administrative Assistant / Data Analyst Supporting the USPIS",
-        "company": "FSA",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/administrative-assistant-data-analyst-supporting-the-uspis-at-fsa-4316010102?position=28&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=peLNGowYAcOSmpr6t46w0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": false
-    },
-    {
-        "title": "CAD Designer",
-        "company": "NPAworldwide",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cad-designer-at-npaworldwide-4315548516?position=29&pageNum=0&refId=j3X4%2F3ExxyUtpsht7ByeIw%3D%3D&trackingId=ebZ3MOpApbd7%2FdmCsePWGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 04:43:14",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Rokt",
         "location": "New York, NY",
@@ -178,5 +118,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-17 05:17:23",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TEKsystems",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-teksystems-4316053731?position=1&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=avDUubaTXaAS8MznBoXK1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 05:45:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Support Engineer",
+        "company": "Actabl",
+        "location": "Denver Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-actabl-4315535904?position=3&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=%2B8m4r4xRrQhyo8MJeMaCMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 05:45:33",
+        "email_sent": false
+    },
+    {
+        "title": "FCC Technology Software Engineer",
+        "company": "Valley Bank",
+        "location": "Morristown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fcc-technology-software-engineer-at-valley-bank-4315899237?position=8&pageNum=0&refId=iUQ61vt4UTpMPKzHm2AO%2Fg%3D%3D&trackingId=rOP8WlUwsVEmm2h%2FEUvuhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 05:45:33",
+        "email_sent": false
     }
 ]
