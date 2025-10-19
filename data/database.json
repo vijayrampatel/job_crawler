@@ -1,15 +1,5 @@
 [
     {
-        "title": "Engineer",
-        "company": "Brigham and Women's Hospital",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-at-brigham-and-women-s-hospital-4316863205?position=9&pageNum=0&refId=aKv%2Bacgwft72e8ZgybBogw%3D%3D&trackingId=Ya0zCSqNpFWhPruAtcVT%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 17:14:01",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst \u2013 Business Intelligence",
         "company": "Cardinal Health",
         "location": "United States",
@@ -107,6 +97,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-reinventing-how-the-world-rents-at-the-flex-4317012232?position=6&pageNum=0&refId=TyHIQQbN8O7mB0jQ%2FCk64g%3D%3D&trackingId=%2BWqEiE1MuUVkgqkjgxunKA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-19 17:55:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4316895234?position=1&pageNum=0&refId=IW1eZ1FHxog%2FV7bL3%2Fb6MA%3D%3D&trackingId=vJA7sPAucguhb3qiC6kaKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:22:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (NodeJs, TypeScript)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-nodejs-typescript-at-wiraa-4316893254?position=6&pageNum=0&refId=IW1eZ1FHxog%2FV7bL3%2Fb6MA%3D%3D&trackingId=kND1T2t9aQX8nx3TE1Hvuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:22:31",
         "email_sent": false
     }
 ]
