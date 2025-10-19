@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "IonQ",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ionq-4316890303?position=1&pageNum=0&refId=TyHIQQbN8O7mB0jQ%2FCk64g%3D%3D&trackingId=I5i2%2Fw1VIryp27nnv7XK%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 17:55:17",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer \u2013 Reinventing How the World Rents",
-        "company": "The Flex",
-        "location": "San Marino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-reinventing-how-the-world-rents-at-the-flex-4317012232?position=6&pageNum=0&refId=TyHIQQbN8O7mB0jQ%2FCk64g%3D%3D&trackingId=%2BWqEiE1MuUVkgqkjgxunKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 17:55:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Wiraa",
         "location": "United States",
@@ -68,5 +48,65 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-19 18:44:49",
         "email_sent": true
+    },
+    {
+        "title": "Data Integration Engineer",
+        "company": "KellyMitchell Group",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-at-kellymitchell-group-4298682723?position=1&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=i6qIwF9MgrR4w7y6v%2FOwYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst \u2013 Business Intelligence",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-business-intelligence-at-wiraa-4317000222?position=3&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=vcAZoOZbi00%2FnRWPXVkGIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4316879382?position=5&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=sHTgIfCDmkahIUqcOdjUaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Full-Stack)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4316897232?position=6&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=LxHxNv42XStQfEEOd5DU1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "Gifthub",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-gifthub-4317007378?position=9&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=vNX4dKMZvDovvfgS4vi0nA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Ads",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ads-at-wiraa-4316896248?position=11&pageNum=0&refId=vf%2BJRrXz%2FrBA5yWcMsTYHA%3D%3D&trackingId=PJdtErJPrF%2FgeeFYxM76DQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 18:55:33",
+        "email_sent": false
     }
 ]
