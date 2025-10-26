@@ -1,15 +1,5 @@
 [
     {
-        "title": "Big Data Developer",
-        "company": "Enhance IT",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/big-data-developer-at-enhance-it-4317675572?position=2&pageNum=0&refId=qFzArGuh3ibP%2FCiyNIU3MA%3D%3D&trackingId=KkiIZb6bsR%2FsWHw5DK%2BZ9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 21:21:30",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer, Sr.",
         "company": "Wiraa",
         "location": "United States",
@@ -88,5 +78,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-26 22:18:23",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer (GCP)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-gcp-at-wiraa-4331837255?position=1&pageNum=0&refId=oRk3PYs%2FGJ1ahYHHAZSr%2BA%3D%3D&trackingId=J4fx5Y1cGnnxyr3qAxcGqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 22:34:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4331842191?position=6&pageNum=0&refId=oRk3PYs%2FGJ1ahYHHAZSr%2BA%3D%3D&trackingId=0rvTfRmFv5rzWRH4ufgj3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 22:34:19",
+        "email_sent": false
     }
 ]
