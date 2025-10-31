@@ -1,105 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "Garmin",
-        "location": "Olathe, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-garmin-4333299153?position=1&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=LXGs1Sof8gdvMrm8V%2FoM%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Beacon Hill",
-        "location": "Los Angeles Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-beacon-hill-4320163005?position=6&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=e9qTfQubNGmrx4r%2BF7qIqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Python, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-wiraa-4333354324?position=12&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=UmgHrsOfgV8UExKiiBLNfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst (Data Analyst III)",
-        "company": "WorkGenius Group",
-        "location": "Cupertino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-data-analyst-iii-at-workgenius-group-4320172812?position=16&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=jPbJ88GkoLq1W1Aou8iBDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer II",
-        "company": "Abbott",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-at-abbott-4333398524?position=29&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=czck4VoZpKOekrIOEFuJ6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Performance Analytics Analyst",
-        "company": "Holland America Line",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/performance-analytics-analyst-at-holland-america-line-4333408305?position=31&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=CCPA2RCMN2%2FB5RnuAKRZMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer in Test - Engineering Development Group",
-        "company": "MathWorks",
-        "location": "Natick, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-engineering-development-group-at-mathworks-4331763067?position=33&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=ynIRSdptqsw%2BW7lQqr60YQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Mobile Software Engineer - Android",
-        "company": "Garmin",
-        "location": "Yarmouth, ME",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-android-at-garmin-4118049343?position=36&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=LYOf22AudOaRajq%2BTpdBbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4333324712?position=38&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=ZBJiZOyhChg5vAvIZECOiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Earthlink Wireless Corp",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-earthlink-wireless-corp-4320282627?position=40&pageNum=0&refId=iuz0drR381IEI6QGwt1PjQ%3D%3D&trackingId=rUoj9g4k8jH6Vy071BiENA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 22:46:00",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Training",
         "company": "Samsara",
         "location": "San Francisco Bay Area",
@@ -318,5 +218,145 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-31 23:39:49",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4333384175?position=2&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=pV3YrIZ7QSwG9xPlLW8Vgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Sutter Health",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-sutter-health-4333339082?position=9&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=z%2FPypUgAT3JeELpQlUepJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (React, Python)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-python-at-wiraa-4333403929?position=11&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=EVyr2TfdJCqdd%2B4UFHQd1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-wiraa-4333403927?position=13&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=s14UsWhcOju2ILeO9uOY1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "PEOPLE DATA ANALYST",
+        "company": "State of Arizona",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/people-data-analyst-at-state-of-arizona-4331752467?position=16&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=KZ6xRIPkq1S4%2FEweqxc7Lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - ML",
+        "company": "Saks Global",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-saks-global-4320113268?position=17&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=gy5YMKb%2F710IHH%2BV5gYYqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II-Xbox",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-xbox-at-wiraa-4333413700?position=22&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=JAvr%2BewwVkkQghFFWEOxpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Collector/Data Entry Specialist",
+        "company": "Synergis",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-collector-data-entry-specialist-at-synergis-4333229750?position=24&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=94%2F0r7FzE6Qp84F8EdvNRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer (Construction Operations) in TEMPE, ARIZONA",
+        "company": "ICON Builders",
+        "location": "Tempe, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-construction-operations-in-tempe-arizona-at-icon-builders-4320074047?position=26&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=ETiStz0n8iY9TNDP%2FKP7cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Marketing)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-marketing-at-wiraa-4333294731?position=31&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=gV7f41AR7GDSc0qK07bwVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist- AI",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ai-at-wiraa-4333197461?position=32&pageNum=0&refId=AyK0%2BlGXtsmW0bRw3qqYOw%3D%3D&trackingId=q7KEKYhJHq%2Bu7dwpe5Ta4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer (Construction Operations) in TEMPE, ARIZONA",
+        "company": "ICON Builders",
+        "location": "Tempe, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-construction-operations-in-tempe-arizona-at-icon-builders-4320074047?position=1&pageNum=2&refId=hapG27PSSZaEaks2UERniw%3D%3D&trackingId=sp2RwnlXiyVFEC0145XzZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Marketing)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-marketing-at-wiraa-4333294731?position=6&pageNum=2&refId=hapG27PSSZaEaks2UERniw%3D%3D&trackingId=B3rHY2NodRG3q%2FTmm4Z4Sg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist- AI",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ai-at-wiraa-4333197461?position=7&pageNum=2&refId=hapG27PSSZaEaks2UERniw%3D%3D&trackingId=UMM6L1exosYRrc8aY6AHkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 23:49:37",
+        "email_sent": false
     }
 ]
