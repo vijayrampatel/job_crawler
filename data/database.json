@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Atomus",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-atomus-4320016805?position=1&pageNum=0&refId=Qvv2RmvZAKUel0EK56ty8g%3D%3D&trackingId=XCi8mAIzdxkDSvQRK%2Bfe5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 04:36:40",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst (Healthcare) - 158607",
         "company": "Atrium",
         "location": "New York, NY",
@@ -38,5 +28,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-31 05:28:21",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Steel Dynamics, Inc",
+        "location": "Columbia City, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-steel-dynamics-inc-4333372651?position=3&pageNum=0&refId=lcU6yUFskWIrcVenclg7Qg%3D%3D&trackingId=AVCZauKE4W%2FlBiI4a0KGYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 05:45:06",
+        "email_sent": false
     }
 ]
