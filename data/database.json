@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer, Full Stack",
-        "company": "Capital One",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-capital-one-4334974887?position=23&pageNum=0&refId=3hVNrUxmDHZXLNIGvp1KOA%3D%3D&trackingId=rjc1Yvh0AGINOBXw6JyUNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 17:48:22",
-        "email_sent": true
-    },
-    {
-        "title": "Network Administrator",
-        "company": "Logan Regional Medical Center",
-        "location": "Logan, WV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/network-administrator-at-logan-regional-medical-center-4334964953?position=26&pageNum=0&refId=3hVNrUxmDHZXLNIGvp1KOA%3D%3D&trackingId=3nHd5hcZNYbE9t2wa%2BOarw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 17:48:22",
-        "email_sent": true
-    },
-    {
         "title": "EMD Data Engineer",
         "company": "Pinnaql",
         "location": "Rockville, MD",
@@ -168,5 +148,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-08 18:46:47",
         "email_sent": true
+    },
+    {
+        "title": "Embedded Software Engineer I",
+        "company": "IOSiX",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-i-at-iosix-4338038816?position=15&pageNum=0&refId=KGtZWx4g6LZajdvMlF46aw%3D%3D&trackingId=FZc7ult9RFrhNb58pJz%2FIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 18:56:56",
+        "email_sent": false
     }
 ]
