@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "East West Bank",
-        "location": "Pasadena, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-east-west-bank-4338028377?position=1&pageNum=0&refId=ld3L2Q0H%2FMoaVQx4zrSAkQ%3D%3D&trackingId=%2Bmq9oSwa6VMbq7YQvAsEnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 09:39:34",
-        "email_sent": true
-    },
-    {
         "title": "Data Analyst (Multiple Locations)",
         "company": "Texas Workforce Commission",
         "location": "Austin, TX",
@@ -238,5 +228,65 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-08 10:37:00",
         "email_sent": true
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-adobe-4315757969?position=5&pageNum=0&refId=aq7fq5kemvdQo45dsiw9aw%3D%3D&trackingId=gJtbQSu0kI8jtqn0bQ1hMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "Lehi, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4296005425?position=12&pageNum=0&refId=aq7fq5kemvdQo45dsiw9aw%3D%3D&trackingId=W2jNf0VmfC%2FgURnGN36OTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Analyst",
+        "company": "Kforce Inc",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-analyst-at-kforce-inc-4315187661?position=13&pageNum=0&refId=aq7fq5kemvdQo45dsiw9aw%3D%3D&trackingId=ZSDJLpFyjkw%2FTm%2BHIlRcZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
+    },
+    {
+        "title": "Distributed Systems Engineer - Data Platform - Analytics and Alerts",
+        "company": "Cloudflare",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/distributed-systems-engineer-data-platform-analytics-and-alerts-at-cloudflare-4313392293?position=16&pageNum=0&refId=aq7fq5kemvdQo45dsiw9aw%3D%3D&trackingId=w9eC4xQ0tTCeyN4p2%2Bi8Ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
+    },
+    {
+        "title": "CPG Data Analyst",
+        "company": "Consumer Edge",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cpg-data-analyst-at-consumer-edge-4334903698?position=19&pageNum=0&refId=aq7fq5kemvdQo45dsiw9aw%3D%3D&trackingId=RXkA7jIpMgsIW2VPNxyLXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
+    },
+    {
+        "title": "Distributed Systems Engineer - Data Platform - Analytics and Alerts",
+        "company": "Cloudflare",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/distributed-systems-engineer-data-platform-analytics-and-alerts-at-cloudflare-4313392293?position=3&pageNum=2&refId=UocVBSqd%2FHaWtJZqGWFf3w%3D%3D&trackingId=q%2BRLkmY1bCm24uCfq741Tw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 10:46:32",
+        "email_sent": false
     }
 ]
