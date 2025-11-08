@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4316386217?position=2&pageNum=0&refId=5wwSDh1BMr42EMqwEWWXuw%3D%3D&trackingId=A1r1Iiq1V9d9R2wYVGsPcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 16:52:14",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst - Data Governance",
-        "company": "Wesco",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-governance-at-wesco-4316394032?position=18&pageNum=0&refId=5wwSDh1BMr42EMqwEWWXuw%3D%3D&trackingId=9lLt3p85tfUcmJxSBl8XMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 16:52:14",
-        "email_sent": true
-    },
-    {
         "title": "Software Development Engineer II (Remote - US)",
         "company": "Jobgether",
         "location": "United States",
@@ -198,5 +178,65 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-08 17:48:22",
         "email_sent": true
+    },
+    {
+        "title": "EMD Data Engineer",
+        "company": "Pinnaql",
+        "location": "Rockville, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/emd-data-engineer-at-pinnaql-4335074133?position=1&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=T7wPPANAbSrlqnSfuYrYHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4334994660?position=7&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=WkHpnF5wEgmSi7kiDSlgUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4334944764?position=17&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=iVFl9iuKy%2B0wUBUGy%2BpRRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4334885455?position=21&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=0dBTOKkt2LzQe8YbgG4bWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
+    },
+    {
+        "title": "System Performance Engineer-South Florida",
+        "company": "Communication Technology Services (CTS)",
+        "location": "Pompano Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-performance-engineer-south-florida-at-communication-technology-services-cts-4321773074?position=26&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=vanslzIs4sT%2FKngjrNEc2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
+    },
+    {
+        "title": "System Performance Engineer -Nor Cal",
+        "company": "Communication Technology Services (CTS)",
+        "location": "Livermore, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-performance-engineer-nor-cal-at-communication-technology-services-cts-4321583379?position=27&pageNum=0&refId=OSRzB5yW3vJYqaZDs519vA%3D%3D&trackingId=ypBRUObttSjTaXtqswS0Tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:58:42",
+        "email_sent": false
     }
 ]
