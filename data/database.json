@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Visa",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4321606453?position=1&pageNum=0&refId=7Yj94QMyzoMSu1HFL7DEeQ%3D%3D&trackingId=QEG4noZCLL9uEl8zlel0hA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 05:55:45",
-        "email_sent": true
-    },
-    {
-        "title": "Research Analyst",
-        "company": ".am Brand Protection",
-        "location": "Greater Sacramento",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-at-am-brand-protection-4321776268?position=3&pageNum=0&refId=7Yj94QMyzoMSu1HFL7DEeQ%3D%3D&trackingId=uyS%2FQH7diaHjrevh7pwVTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 05:55:45",
-        "email_sent": false
-    },
-    {
         "title": "Entry level Data Engineers",
         "company": "Revature",
         "location": "Dallas, TX",
@@ -38,5 +18,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-10 06:30:34",
         "email_sent": true
+    },
+    {
+        "title": "Quality Assurance Specialist (DDD)",
+        "company": "Beacon Specialized Living",
+        "location": "Franklin, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-specialist-ddd-at-beacon-specialized-living-4321696663?position=1&pageNum=0&refId=V8jBhNvGqpm%2FIV10ascocQ%3D%3D&trackingId=aBIYt1VSHuXKmUM3DRostg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 07:18:38",
+        "email_sent": false
     }
 ]
