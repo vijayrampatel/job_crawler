@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TEKsystems",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-teksystems-4335521846?position=1&pageNum=0&refId=Z4ggRwuDd5ExwkSZPF6MbA%3D%3D&trackingId=oohckj348toHTvem97xWYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 05:48:51",
-        "email_sent": true
-    },
-    {
-        "title": "Founding Robotics Software Engineer",
-        "company": "Boost Robotics",
-        "location": "Cambridge, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/founding-robotics-software-engineer-at-boost-robotics-4321933086?position=3&pageNum=0&refId=Z4ggRwuDd5ExwkSZPF6MbA%3D%3D&trackingId=5etvNtFNx5NPy0pbdOjsIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 05:48:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist 3",
-        "company": "AAA Auto Club Enterprises",
-        "location": "Coppell, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-3-at-aaa-auto-club-enterprises-4339781997?position=4&pageNum=0&refId=Z4ggRwuDd5ExwkSZPF6MbA%3D%3D&trackingId=ntltDYEroan8Udj02go%2B%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 05:48:51",
-        "email_sent": true
-    },
-    {
         "title": "Biostatistician - Research Specialist",
         "company": "County of Riverside",
         "location": "Riverside County, CA",
@@ -38,5 +8,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-11 05:58:49",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer- AI and Energy Trading (Houston, TX)",
+        "company": "Love's Travel Stops",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-and-energy-trading-houston-tx-at-love-s-travel-stops-4338165491?position=2&pageNum=0&refId=GEn8a%2Bh6hxkmIfviu7o26Q%3D%3D&trackingId=oDSMal9G8d3xhtYLRdEzZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 06:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Entry level Data Engineers",
+        "company": "Revature",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineers-at-revature-4321794194?position=3&pageNum=0&refId=GEn8a%2Bh6hxkmIfviu7o26Q%3D%3D&trackingId=QFpUxU8rOcPmlwyhGBH0Nw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 06:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Computational Associate II- Translational Diabetes Genomics In Diverse Populations",
+        "company": "Broad Institute of MIT and Harvard",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/computational-associate-ii-translational-diabetes-genomics-in-diverse-populations-at-broad-institute-of-mit-and-harvard-4321933506?position=6&pageNum=0&refId=GEn8a%2Bh6hxkmIfviu7o26Q%3D%3D&trackingId=%2FC8r5dYF3PYsZkPYOSRbmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 06:57:02",
+        "email_sent": false
     }
 ]
