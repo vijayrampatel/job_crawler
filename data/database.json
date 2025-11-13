@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Scientist",
-        "company": "First Quality",
-        "location": "Harrisburg, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-first-quality-4335769290?position=11&pageNum=0&refId=al35C3W5HQpmlyAXP4kDHQ%3D%3D&trackingId=aVkWfFbnvWyEzGqpHgdHfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 05:51:07",
-        "email_sent": true
-    },
-    {
-        "title": "Data Exploitation Analyst II",
-        "company": "Oceaneering",
-        "location": "Suitland, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-exploitation-analyst-ii-at-oceaneering-4335829272?position=18&pageNum=0&refId=al35C3W5HQpmlyAXP4kDHQ%3D%3D&trackingId=7qPatswZsr8Nw6TvPefLKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 05:51:07",
-        "email_sent": true
-    },
-    {
         "title": "RF System Test Engineer",
         "company": "Johns Hopkins Applied Physics Laboratory",
         "location": "Laurel, MD",
@@ -68,5 +48,55 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-13 06:41:16",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer / Developer",
+        "company": "Simplicity Group",
+        "location": "Summit, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-developer-at-simplicity-group-4335659601?position=1&pageNum=0&refId=CVpDgSLK%2BWWAPD5u9%2F4c9g%3D%3D&trackingId=1JVzBoQlNSzx8UomJVUyJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 06:59:52",
+        "email_sent": false
+    },
+    {
+        "title": "AI Agentic Engineer",
+        "company": "Docusign",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-agentic-engineer-at-docusign-4322135435?position=2&pageNum=0&refId=CVpDgSLK%2BWWAPD5u9%2F4c9g%3D%3D&trackingId=pqZsTDbwgHqIDoblwPOI%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 06:59:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4335629921?position=4&pageNum=0&refId=CVpDgSLK%2BWWAPD5u9%2F4c9g%3D%3D&trackingId=cq7kQthWWvvVMgSAvRu0yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 06:59:52",
+        "email_sent": false
+    },
+    {
+        "title": "SCADA Systems Engineer I",
+        "company": "University of South Florida Libraries",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/scada-systems-engineer-i-at-university-of-south-florida-libraries-4322035586?position=5&pageNum=0&refId=CVpDgSLK%2BWWAPD5u9%2F4c9g%3D%3D&trackingId=HyXdnopYn7IGSb2G8NkTSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 06:59:52",
+        "email_sent": false
+    },
+    {
+        "title": "AI Voice Data Collector",
+        "company": "Ff Investimentos",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-voice-data-collector-at-ff-investimentos-4335619685?position=8&pageNum=0&refId=CVpDgSLK%2BWWAPD5u9%2F4c9g%3D%3D&trackingId=nuFW6LyAhJ6%2BdgnUR8grzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 06:59:52",
+        "email_sent": false
     }
 ]
