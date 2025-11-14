@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst I",
-        "company": "Stewart Title",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-stewart-title-4335997637?position=2&pageNum=0&refId=MfDea03%2FtEnJY4uL9MuKeQ%3D%3D&trackingId=6QRD8E7zPkbV34Hvi8oyug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-14 06:52:56",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Remote)",
         "company": "AI Jobs",
         "location": "United States",
@@ -258,5 +248,15 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-14 07:45:57",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Pariveda",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4322702030?position=7&pageNum=0&refId=LsMCL7FsNdWkOBtlzU9okQ%3D%3D&trackingId=i7a4nj1yK%2FC4d5Or8w0NLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-14 07:55:55",
+        "email_sent": false
     }
 ]
