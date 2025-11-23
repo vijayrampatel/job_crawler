@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4338625423?position=3&pageNum=0&refId=koeiR5CjhI1IJM%2BswsT%2B6g%3D%3D&trackingId=Q13bu7XGfyPewpFIE9MTuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-23 17:55:25",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4338605612?position=4&pageNum=0&refId=koeiR5CjhI1IJM%2BswsT%2B6g%3D%3D&trackingId=uyqU%2Fd1vB9QtWWHur4f0UA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-23 17:55:25",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist",
         "company": "Kavaliro",
         "location": "Reston, VA",
@@ -68,5 +48,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-23 18:47:11",
         "email_sent": true
+    },
+    {
+        "title": "Salesforce Developer",
+        "company": "Panasonic",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-developer-at-panasonic-4324125541?position=2&pageNum=0&refId=3dNSlPQdX8EZAXsUOieAag%3D%3D&trackingId=zbsMar8LbDleMWQqpddDGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-23 18:56:40",
+        "email_sent": false
+    },
+    {
+        "title": "System Test Software Engineer",
+        "company": "Etched",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-test-software-engineer-at-etched-4176477636?position=3&pageNum=0&refId=3dNSlPQdX8EZAXsUOieAag%3D%3D&trackingId=5YhGJyS8jEn3T5B7Rz1OKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-23 18:56:40",
+        "email_sent": false
+    },
+    {
+        "title": "Program Analyst, Junior  Combat Identification team (CID) (PMA 213) - 240",
+        "company": "Davis Defense Group, Inc.",
+        "location": "California, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-junior-combat-identification-team-cid-pma-213-240-at-davis-defense-group-inc-4338546013?position=7&pageNum=0&refId=3dNSlPQdX8EZAXsUOieAag%3D%3D&trackingId=H5Su5sCiYfIT16qsOlfb8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-23 18:56:40",
+        "email_sent": false
     }
 ]
