@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer - Python and K8s",
-        "company": "Canonical",
-        "location": "Tulsa, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-and-k8s-at-canonical-4339283055?position=4&pageNum=0&refId=m4QllfqoKfUY%2Br2PK4ARcQ%3D%3D&trackingId=Llu57o%2FYe9kKbG7kbh95iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 04:51:20",
-        "email_sent": true
-    },
-    {
-        "title": "Data Science Analyst",
-        "company": "VisionSys AI Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-visionsys-ai-inc-4324811575?position=16&pageNum=0&refId=m4QllfqoKfUY%2Br2PK4ARcQ%3D%3D&trackingId=oluvgH6ZDA2mkSY2Sme5Ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 04:51:20",
-        "email_sent": false
-    },
-    {
         "title": "Administrative Analyst",
         "company": "San Mateo County Community College District",
         "location": "San Mateo, CA",
@@ -38,5 +18,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-27 05:40:47",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "MANSCAPED",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-manscaped-4339183256?position=1&pageNum=0&refId=oIEFKmbiLr3Qy4V9VDc23Q%3D%3D&trackingId=NEqfUPXgefTvPBQ2dL17YA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-27 05:51:26",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Data Engineer",
+        "company": "Dupaco Community Credit Union",
+        "location": "Dubuque, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-engineer-at-dupaco-community-credit-union-4324873733?position=2&pageNum=0&refId=oIEFKmbiLr3Qy4V9VDc23Q%3D%3D&trackingId=f8P292zNOHZW8w%2B2v9Fr0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-27 05:51:26",
+        "email_sent": false
+    },
+    {
+        "title": "Stationary Engineer",
+        "company": "Graton Resort & Casino",
+        "location": "Rohnert Park, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/stationary-engineer-at-graton-resort-casino-4339332994?position=6&pageNum=0&refId=oIEFKmbiLr3Qy4V9VDc23Q%3D%3D&trackingId=tU%2BOdPLBgeEAT1DrfdspqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-27 05:51:26",
+        "email_sent": false
     }
 ]
