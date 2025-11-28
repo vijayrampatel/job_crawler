@@ -1,365 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4347942801?position=1&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=x9Y1wfLPrwHliHl%2BtSh29g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4340140767?position=3&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=O3PCiDyBtTzWVeBa0Bq7Sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Blue Star Investments",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-star-investments-4340140978?position=8&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=uGndGardtyhmxeqMKgEYew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Data Platform",
-        "company": "Grammarly",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-grammarly-4312471796?position=10&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=Jtw8JkopKoDyxFTuY9W%2FDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Risk",
-        "company": "Mercury",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-risk-at-mercury-4338010654?position=11&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=aizOr3yIJcm3WLTe68HOXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Risk",
-        "company": "Mercury",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-risk-at-mercury-4337979465?position=12&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=1sIMWegZJLmuXO1xyPNedg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Risk",
-        "company": "Mercury",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-risk-at-mercury-4338120087?position=16&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=rgTCz6ppud0hI%2FA3Xy3Lng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "10802 - Software Engineer III, KMNA Development",
-        "company": "Hyundai AutoEver America",
-        "location": "Costa Mesa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/10802-software-engineer-iii-kmna-development-at-hyundai-autoever-america-4321066424?position=18&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=BlQvaL3cTu5lSBmDhbua1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Honeywell",
-        "location": "Salem, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-honeywell-4315605616?position=19&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=QK76FXMQjD%2Bt96UqNNQTCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334579999?position=21&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=55MAw%2FwWUhKc%2BTfg5FJ8TA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RedBalloon",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-redballoon-4338060052?position=22&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=iYrLwGLvZOuNl6cyJ2vPnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4339851092?position=25&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=2L6sIzSoj%2BOcvQKFNHYk0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer-Other - Basic",
-        "company": "PTR Global",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-other-basic-at-ptr-global-4284485437?position=26&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=hwYZ2pSn%2FQaHh185ZEscXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334750072?position=32&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=c9ycASQPCt0NHdTa54nPqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Minnesota, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334529937?position=33&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=pPBwa%2BDVGMg76wqk0%2Bu%2B5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Arizona, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700263?position=34&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=RHomNbt5Wx7ElTjdeL0YrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Georgia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334628342?position=36&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=GZgafH5LVDGi2ZgQEbTa3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Security (Starship)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-starship-at-spacex-4271078435?position=38&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=0EpsPipS%2BVX7pW6E4FYHOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700264?position=39&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=E2ykU24figJo7QuzZw66%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Massachusetts, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334690279?position=40&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=aYEWISB2NPwJ0p1skdKa1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Rhode Island, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334599641?position=41&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=ywv3PzvuUQK3%2BITc5UtgEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Utah, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700259?position=44&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=hABpioga4NcSYpuoJg6mZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Oregon, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334720171?position=45&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=yDrM%2F%2FezaiwJx%2F2CO2A9Wg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334628341?position=46&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=%2Bn7jYQXpPJ9H7%2Fl8bENpEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Tennessee, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334710197?position=47&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=aZc5mGrYeDSz9bPdfWiTrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Arkansas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334730117?position=49&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=%2Fs7b%2FKREXmA3Ad%2FaMp%2Fy5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Vermont, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334609327?position=51&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=Ka9TE3nmzRJuDXBSZS7E2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Mobile Software Engineer",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-dataannotation-4334599630?position=53&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=v779FzaHcxgA6g7Ff9H3Tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Louisiana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334619208?position=56&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=H9oATNghm3gkolsksGb9tw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Missouri, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334609326?position=57&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=5TzCckkKAezdGFq0oJX9wQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Maine, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334631056?position=59&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=igXNvU%2B3mMFRZrPojjxXxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "South Dakota, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334680346?position=60&pageNum=0&refId=c5zAitDEW9f3ONZR3xt61g%3D%3D&trackingId=BBWJLCSmTREoEsbd8x%2Bx1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer-Other - Basic",
-        "company": "PTR Global",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-other-basic-at-ptr-global-4284485437?position=1&pageNum=2&refId=m9OpsQ52v8bTvgXArzDEVg%3D%3D&trackingId=XPvrNgR576zr3AKZY6S4ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334750072?position=7&pageNum=2&refId=m9OpsQ52v8bTvgXArzDEVg%3D%3D&trackingId=m7CE8JbRtZGblU4hDK7h%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Minnesota, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334529937?position=8&pageNum=2&refId=m9OpsQ52v8bTvgXArzDEVg%3D%3D&trackingId=0%2FYikc73NwNDWsMkWUvTwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "Arizona, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700263?position=9&pageNum=2&refId=m9OpsQ52v8bTvgXArzDEVg%3D%3D&trackingId=30xBchDqPftoNsHs7R2Peg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-28 14:51:12",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Flint Hills Resources",
         "location": "Wichita, KS",
@@ -567,6 +207,166 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-iii-carrollton-tx-at-glory-4340111864?position=23&pageNum=0&refId=85U%2FUhjeK66PZeJDwi5vmQ%3D%3D&trackingId=9M%2FRwy%2BMTneyTXp296B0%2BA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-28 15:46:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4339460512?position=3&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=XGnrWNT5iB44W8RRv0lsuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "ML Engineer II",
+        "company": "Kohl's",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ml-engineer-ii-at-kohl-s-4339480491?position=4&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=qq4%2F8FCP8frQxphmDbjWkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Data Engineering, Otter - Seattle",
+        "company": "Otter",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-engineering-otter-seattle-at-otter-4321263506?position=5&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=phVmWyC0yO85mZzCxHG%2BiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Haystack",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4324869088?position=9&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=rIV6fZbwc8%2BM3rLBVPyxOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "Jack Henry",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-jack-henry-4339810434?position=11&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=F9wuPahhiJeFaqrjldtyPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Application Software Engineer",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/application-software-engineer-at-spacex-4315885059?position=12&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=L5toUPS%2BtT%2BwVMFsltBikA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI)",
+        "company": "Cengage Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-cengage-group-4339820395?position=13&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=uDRVG5ZxepkWDIJwGCj9wQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Gen AI Software Engineer - NYC/CLT - Contract",
+        "company": "Randstad Digital Americas",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/gen-ai-software-engineer-nyc-clt-contract-at-randstad-digital-americas-4321215788?position=19&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=eMHlH%2BRUVtEtVOPWMMtnPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334730124?position=23&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=MFD%2BXojD6W40awwbsJZKvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334780004?position=28&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=fS%2BcmunxGZqgqWllNX8QtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700258?position=33&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=UUTrLvPokyJUbjGGl5PNSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334730123?position=44&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=6b5bRwUzzQmAV7i7KFNR6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Montana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334529941?position=50&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=gl6LWwrETNDpkHHuolf3ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334529939?position=59&pageNum=0&refId=KIrTSM2bVgzB8mm9xO2f1Q%3D%3D&trackingId=M2dJNwmkNV8ElLcKPP%2BIyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334780004?position=3&pageNum=2&refId=FOFIyKW4bBeXy0%2FC2hUgTA%3D%3D&trackingId=zdZomwcsORC1c5HmDsNEDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Mobile Focus)",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334700258?position=8&pageNum=2&refId=FOFIyKW4bBeXy0%2FC2hUgTA%3D%3D&trackingId=CyhN91HFA2XRPfHfQ57mBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-28 15:56:14",
         "email_sent": false
     }
 ]
