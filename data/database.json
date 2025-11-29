@@ -1,315 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Spring Health",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-spring-health-4338106048?position=2&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=Klf%2B47IZ6Dkuyju%2BtrumTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "IonQ",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ionq-4339425948?position=4&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=TTEVKxJEmOfGGykApmtrhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "PURE Insurance",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-pure-insurance-4340135216?position=6&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=btGCPZ%2F1tig%2BtA6%2Fmq3bnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-best-job-tool-4339476260?position=9&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=k5gWh2hwYTWr8jY5bMSsOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-api-sql-at-wiraa-4339445911?position=11&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=WtDzWm9db7vAnK4k50dZAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Data",
-        "company": "Credit Acceptance",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-credit-acceptance-4340115317?position=17&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=%2FZGFelg50DNuYpuQO8J33A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Developer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-developer-at-best-job-tool-4339486160?position=23&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=%2F1KTRnFai4wKodhikpgLaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, React)",
-        "company": "SEPHORA",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-react-at-sephora-4339815831?position=26&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=7F1oid%2Fb8eIIc1J9wqb8ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (GenAI, MLOps)",
-        "company": "Cengage Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-genai-mlops-at-cengage-group-4340135215?position=28&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=sYPmu2Hi3tbCzSKgMStlqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Mobile Software Engineer II",
-        "company": "AppFolio",
-        "location": "Santa Barbara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-ii-at-appfolio-4219199106?position=29&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=QjTRSg286axVyfCKHO1jlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "System Design Integration Engineer",
-        "company": "Rolls-Royce",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-design-integration-engineer-at-rolls-royce-4332762566?position=31&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=HnPDC59tLBiDTPo8AUHTrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Engineer, AI",
-        "company": "Wolters Kluwer",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-ai-at-wolters-kluwer-4339855511?position=36&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=7CVoGKemEpCgcCBq9yl2Dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II - Investment Manager",
-        "company": "AppFolio",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-investment-manager-at-appfolio-4306767576?position=38&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=yLer2XVnL2MoC2wWkSLfjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "CS Software Quality Assurance Engineer",
-        "company": "KNAPP North America",
-        "location": "Kennesaw, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cs-software-quality-assurance-engineer-at-knapp-north-america-4295989297?position=40&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=ytJJB3TPI03BMKgcqdHRfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Factory Software Engineer, Consumer Products (Starlink)",
-        "company": "SpaceX",
-        "location": "Bastrop, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/factory-software-engineer-consumer-products-starlink-at-spacex-4261003603?position=41&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=fkVjbknBNZiRYTFcMEzEeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer I/II/III/Sr",
-        "company": "Boardwalk Pipelines",
-        "location": "Longview, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-i-ii-iii-sr-at-boardwalk-pipelines-4315861551?position=43&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=2vZ4uHQTBCABGnYcfoAxTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Partner - Computer Science - Hindi - Remote - Global",
-        "company": "TELUS Digital",
-        "location": "Colorado, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-partner-computer-science-hindi-remote-global-at-telus-digital-4340106267?position=44&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=LroxdBE1jDCnBeEP4RN2Ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Partner - Computer Science - Hindi - Remote - Global",
-        "company": "TELUS Digital",
-        "location": "Alaska, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-partner-computer-science-hindi-remote-global-at-telus-digital-4339886307?position=45&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=xwzdhuBrU9LxtXPXQLXO0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist I - Forecasting",
-        "company": "Warner Bros. Discovery",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-forecasting-at-warner-bros-discovery-4334689544?position=46&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=kSxk%2BAI3%2F2YDpWi%2BFb2lVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4340145234?position=47&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=z%2FDcS1MIf3Qy0tTp7HR7Zw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Quality Analyst",
-        "company": "Veeva Systems",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-quality-analyst-at-veeva-systems-4305282919?position=48&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=0viWUyT4CHVWZ1EqXWW2EA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "AbbVie",
-        "location": "North Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-abbvie-4293966968?position=49&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=ocGXR7rgvdQ%2BcyQTyssnNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4339426377?position=50&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=NVpKBoOu0zbxGe9h9EJxmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Engineer, Palantir Foundry - Honolulu, HI",
-        "company": "Accenture Federal Services",
-        "location": "Honolulu, HI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-palantir-foundry-honolulu-hi-at-accenture-federal-services-4334799009?position=52&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=ZxEU83pUGczSM1PAZg969Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatician/Research Data Analyst 1",
-        "company": "Inside Higher Ed",
-        "location": "Stanford, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatician-research-data-analyst-1-at-inside-higher-ed-4339866139?position=53&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=I39pyus44Es755JRBHHwjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "NLP Data Scientist",
-        "company": "Workhuman",
-        "location": "Framingham, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/nlp-data-scientist-at-workhuman-4287533967?position=55&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=Dlul7seCyOS%2FzLqOt4vPjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Ada Software Engineer II, Onsite",
-        "company": "Raytheon",
-        "location": "Fort Wayne, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ada-software-engineer-ii-onsite-at-raytheon-4316038112?position=58&pageNum=0&refId=S28lCKHXIaCRxsfSBMuDCA%3D%3D&trackingId=ny2dNiz660cXwnKg7fnRFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, React)",
-        "company": "SEPHORA",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-react-at-sephora-4339815831?position=1&pageNum=2&refId=dfSZkBf%2Brm%2B4iq6iLiTlKg%3D%3D&trackingId=Gt0IoMhlzbG6Q6Zt87RUJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (GenAI, MLOps)",
-        "company": "Cengage Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-genai-mlops-at-cengage-group-4340135215?position=3&pageNum=2&refId=dfSZkBf%2Brm%2B4iq6iLiTlKg%3D%3D&trackingId=4P9FdxtJ%2BL%2BVvIKb%2FdhVsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
-        "title": "Mobile Software Engineer II",
-        "company": "AppFolio",
-        "location": "Santa Barbara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-ii-at-appfolio-4219199106?position=4&pageNum=2&refId=dfSZkBf%2Brm%2B4iq6iLiTlKg%3D%3D&trackingId=8QW6ta80sWuzuMJmHTQ5mA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": true
-    },
-    {
-        "title": "System Design Integration Engineer",
-        "company": "Rolls-Royce",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-design-integration-engineer-at-rolls-royce-4332762566?position=6&pageNum=2&refId=dfSZkBf%2Brm%2B4iq6iLiTlKg%3D%3D&trackingId=G%2ByIYfxvmCo9BnvQJ8XdlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 14:40:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Teza Technologies",
         "location": "Chicago, IL",
@@ -818,5 +508,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-11-29 15:38:37",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "OpenEye",
+        "location": "Spokane-Coeur d'Alene Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-openeye-4286231709?position=27&pageNum=0&refId=IXJHRaw9%2Bwr1dmyBat9mog%3D%3D&trackingId=iAcvx%2BOcnMQJVRR8JcVRbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 15:48:00",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Fisk Electric Co.",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-fisk-electric-co-4313393735?position=53&pageNum=0&refId=IXJHRaw9%2Bwr1dmyBat9mog%3D%3D&trackingId=UzkA1BvgaR5AzucG8zfyRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 15:48:00",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative",
+        "company": "Builders FirstSource",
+        "location": "Middletown, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4092315085?position=60&pageNum=0&refId=IXJHRaw9%2Bwr1dmyBat9mog%3D%3D&trackingId=23QrhQd3%2FFXdj9LPKh2N5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 15:48:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "OpenEye",
+        "location": "Spokane-Coeur d'Alene Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-openeye-4286231709?position=2&pageNum=2&refId=nMqRu3n7gkhn%2Fzpre8XdqA%3D%3D&trackingId=sYNoURRZWbUF3c6BiudGMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 15:48:00",
+        "email_sent": false
     }
 ]
