@@ -1,166 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Capital One",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-capital-one-4341552687?position=5&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=1oyV8PWFCmO%2B80vwQ5oESg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4342042182?position=8&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=bLFLekG%2FzJBwe0iLGDgyQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python/Typescript)",
-        "company": "Twilio",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-typescript-at-twilio-4342052094?position=10&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=GIVQAS627NMbZhQ8Fok4MQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "AI/DevOps Engineer",
-        "company": "Mastercard",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-devops-engineer-at-mastercard-4341592559?position=11&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=Udd9D2uaIiXEcgfqWANtxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "LiveRamp",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-liveramp-4341774271?position=12&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=SMGsKyYX6vlz1cSU4pK%2FHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - AI",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-gusto-4342032200?position=13&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=Wpa5T1niL3sHYgwMYvw1jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Cloud Data Engineer",
-        "company": "CVS Health",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-cloud-data-engineer-at-cvs-health-4341564986?position=14&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=nhQ7PqYBVBFya8iRSe0uSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, SQL)",
-        "company": "Cloudera",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-sql-at-cloudera-4342042181?position=17&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=l743eSiZA1ebAwwdbJBTeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "DevOps Engineer - Data Integration Platform",
-        "company": "Kforce Inc",
-        "location": "Roanoke, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-data-integration-platform-at-kforce-inc-4341564371?position=18&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=0UYbRO1DmMwaOCdGGzV3qQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Frontend Software Engineer",
-        "company": "Weave",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-weave-4342002329?position=20&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=Rhm3xCxccU5OY4aIEDA%2BTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Informatica",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-informatica-4341592561?position=22&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=HWD7HT3uQbHEge6svSsy3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "Qualcomm",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-qualcomm-4341722516?position=23&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=9ii7Qq4y5UlGHRluy49Vzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Anduril Industries",
-        "location": "Fort Collins, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-anduril-industries-4341584515?position=33&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=r0X8fExJ9MHxOuxgMiJ%2BWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Java, Typescript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-typescript-at-wiraa-4342062054?position=47&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=NA2ReGmySGCGyAlppWP7aA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Collection Moderator",
-        "company": "Qualitest acq",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-collection-moderator-at-qualitest-acq-4341724831?position=54&pageNum=0&refId=hvzcIK5zFVGtmOr4VzcQIg%3D%3D&trackingId=rhk2RR19p2j30OAjlVQ0Rg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Anduril Industries",
-        "location": "Fort Collins, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-anduril-industries-4341584515?position=8&pageNum=2&refId=Olyy%2BZSkpGISrFKS46XcbA%3D%3D&trackingId=phvCA3%2Bc8wXNe2NDzEp%2BVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-03 21:55:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "McGraw Hill",
         "location": "United States",
         "date_posted": "Recent",
@@ -748,5 +588,105 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-03 22:51:42",
         "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Velte Technology Solutions",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-velte-technology-solutions-4341772921?position=15&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=4oVdqmxKPNK87lpUaLPUDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "AI Software Engineer",
+        "company": "sam",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-sam-4341784962?position=16&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=qod2ZxoBodDXiKWFJfeS4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++ & Python)",
+        "company": "Simbe",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-at-simbe-4335907891?position=19&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=j1VSsLmFam%2FXC4amTER9yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "DoorDash",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-doordash-4341552686?position=30&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=TJJGY3WVM2ctVjmc6rtrnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Waymo",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-waymo-4341542727?position=34&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=Drq85YGFRoStXbHb%2B%2FV80w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Labeling Analyst II",
+        "company": "PTR Global",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-labeling-analyst-ii-at-ptr-global-4342064599?position=37&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=QWRyhTkkSksWKYJtgp2gHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Business Process Engineer II/III",
+        "company": "EQT Corporation",
+        "location": "Canonsburg, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-process-engineer-ii-iii-at-eqt-corporation-4317354617?position=38&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=tvZm7%2FjrqrCTwxwk8k3xqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Structural Engineer",
+        "company": "The Axel Group, LLC",
+        "location": "Cincinnati Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/structural-engineer-at-the-axel-group-llc-4342004674?position=39&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=hHAL8lJ9ESVbMQ6mlt8xUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Analyst, Revenue Operations",
+        "company": "NBCUniversal",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-analyst-revenue-operations-at-nbcuniversal-4341585122?position=40&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=EUVXIz7oaY53bvuMYQrkSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
+    },
+    {
+        "title": "Business Analyst, Global Product Monitoring (Hybrid - Acton, MA)",
+        "company": "Insulet Corporation",
+        "location": "Acton, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-global-product-monitoring-hybrid-acton-ma-at-insulet-corporation-4325565646?position=41&pageNum=0&refId=P42VZ1dKCNM%2BwSlxadYp1w%3D%3D&trackingId=ky4wHfGvd7b04jEKEgF%2BlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-03 23:16:43",
+        "email_sent": false
     }
 ]
