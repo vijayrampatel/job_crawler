@@ -1,175 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Switch",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-switch-4325946562?position=5&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=ZV7fSt32ClA8Dvt8E6%2F%2BKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4325858843?position=7&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=FBeDeKw%2FcYbGKWW5pkJTuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": false
-    },
-    {
-        "title": "SQL Developer",
-        "company": "Kforce Inc",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-developer-at-kforce-inc-4342312259?position=10&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=bYVZAZCPRbalath28Yb6xg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer Back-End",
-        "company": "Switch",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-at-switch-4325956592?position=13&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=xx4OjdSXvFkSh1yvKjHInw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Downs & St. Germain Research",
-        "location": "Florida, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-downs-st-germain-research-4342362353?position=18&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=PLtDz4FWyqvBo8MpdIXZig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Mapping",
-        "company": "Cognizant",
-        "location": "Bothell, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-mapping-at-cognizant-4326010466?position=20&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=VvR76FheuDy1jK3UB37G3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Light & Wonder",
-        "location": "Nevada, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-light-wonder-4342411615?position=25&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=4vGuy89cqEWLxhXOh7uHyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Akkodis",
-        "location": "Plymouth, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-akkodis-4325967040?position=28&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=jaOQymhNV6DF4TTWDJDKDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Light & Wonder",
-        "location": "Reno, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-light-wonder-4342401692?position=29&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=zJp%2BBYUs4RTTWN6Ca7QPfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "Dreyer's Grand Ice Cream",
-        "location": "Bakersfield, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-dreyer-s-grand-ice-cream-4348613579?position=32&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=AeCc5bFnDky6NCcen0K%2FiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Empower Behavioral Health",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-empower-behavioral-health-4326004646?position=33&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=DkHCfpLm7fynah7kdlKJzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Applications Software Engineer",
-        "company": "Odyssey Systems",
-        "location": "Oklahoma County, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-applications-software-engineer-at-odyssey-systems-4325868973?position=45&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=sPPFT5ty%2FZIde1ntvAgjDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Data Operations Analyst",
-        "company": "Social Capital Resources",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-operations-analyst-at-social-capital-resources-4326004636?position=59&pageNum=0&refId=ywIdfgnZ2O9sfxpL1F8SVA%3D%3D&trackingId=QsTfFpt7ch8sPH6ZWi1rbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Akkodis",
-        "location": "Plymouth, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-akkodis-4325967040?position=3&pageNum=2&refId=%2FejnJBGP1p1zZFAT1k5Tfw%3D%3D&trackingId=Pes2odqA8M4d8pZ9z3se3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Light & Wonder",
-        "location": "Reno, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-light-wonder-4342401692?position=4&pageNum=2&refId=%2FejnJBGP1p1zZFAT1k5Tfw%3D%3D&trackingId=EF%2BdTfVuOP%2BEC3iRBcWL9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "Dreyer's Grand Ice Cream",
-        "location": "Bakersfield, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-analyst-at-dreyer-s-grand-ice-cream-4348613579?position=7&pageNum=2&refId=%2FejnJBGP1p1zZFAT1k5Tfw%3D%3D&trackingId=5sKMMFm7nE96sE33pdVzTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Empower Behavioral Health",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-empower-behavioral-health-4326004646?position=8&pageNum=2&refId=%2FejnJBGP1p1zZFAT1k5Tfw%3D%3D&trackingId=uujv3o1kIWdPC37pxUqhVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 21:46:35",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "Digital Infuzion",
         "location": "Rockville, MD",
@@ -687,6 +517,176 @@
         "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-electrical-at-praetorian-power-protection-llc-4325919397?position=47&pageNum=0&refId=Fa72%2BdqGp6oLM%2BLuhrilbg%3D%3D&trackingId=frtlML2bkhB79pmc%2F4%2FVAw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-05 22:38:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "HunaTek",
+        "location": "Fort Belvoir, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hunatek-4342481995?position=1&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=x7mGJpgEIKhVofKG6ohwZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Web Scraping technologies)",
+        "company": "Gotham Technology Group",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-web-scraping-technologies-at-gotham-technology-group-4342312665?position=3&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=fiViXYhvqDyB1JcrafcYWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hidani Tech",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hidani-tech-4325939169?position=4&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=9ohh8lvcYWgU8cmcpfoweQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Sonata Software",
+        "location": "Westlake Village, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-sonata-software-4325839367?position=9&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=pt2Y8DzoD9Qw6FdN5iIGXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Infrastructure Engineer",
+        "company": "XPENG",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-infrastructure-engineer-at-xpeng-4342332882?position=13&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=9A8lYwIc5DPs4zHMD6blJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Performance and Observability",
+        "company": "Nutanix",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-performance-and-observability-at-nutanix-4342382412?position=15&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=BonWOb5Vaanhsvi2pR0DXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Digital Asset",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-digital-asset-4342392343?position=17&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=irUm52OBQd%2BXonE0nrfiuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "AI Security Context Engineer",
+        "company": "Radiant Security",
+        "location": "Pleasanton, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-security-context-engineer-at-radiant-security-4342332908?position=30&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=w2BAFKw%2FX5m%2B33mxMZzHrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Business Systems Analyst",
+        "company": "SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED",
+        "location": "Fremont, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-systems-analyst-at-sanmina-sci-technology-india-private-limited-4348613750?position=33&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=HOXrGCa5tvHH0ISkvPYV%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "XPENG",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-xpeng-4342482411?position=34&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=qVTf6lR9GsYanmzILNbQLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "XPENG",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-xpeng-4342342907?position=38&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=fekie%2F438jmDHGTpT%2FRvlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "XPENG",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-xpeng-4342362648?position=40&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=khiO0mRcmGuPiVvJ1%2FHFAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Data Strategy and Reporting (ODSR) Data Analyst",
+        "company": "Endeavor Air",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/operations-data-strategy-and-reporting-odsr-data-analyst-at-endeavor-air-4325986333?position=45&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=SHhGkoPRG9dovlsA72dNsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "IT Systems Administrator II - Data Protection Backup - Digital and Technology Partners - Hybrid",
+        "company": "Mount Sinai Health System",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-systems-administrator-ii-data-protection-backup-digital-and-technology-partners-hybrid-at-mount-sinai-health-system-4342412235?position=46&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=43%2Ff5SgLz%2Bt77zhvTVDHxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "E-Discovery Analyst (Forensic)",
+        "company": "PTR Global",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/e-discovery-analyst-forensic-at-ptr-global-4342491815?position=47&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=99GTE%2BXgM5UAGSGonuZhCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Product Analyst",
+        "company": "Dynatron Software, Inc.",
+        "location": "Richardson, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/product-analyst-at-dynatron-software-inc-4342472203?position=48&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=Tc3zUEChQjLpX15xh%2FuYgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
+        "email_sent": false
+    },
+    {
+        "title": "Electronics Technician II",
+        "company": "Element Materials Technology",
+        "location": "Rockford, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electronics-technician-ii-at-element-materials-technology-4342342897?position=57&pageNum=0&refId=BelA1sPl7NGUJh0yeVCDYQ%3D%3D&trackingId=KFkaTQQPdp%2BKlLCpgoNAvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 22:48:25",
         "email_sent": false
     }
 ]
