@@ -1,205 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Carrot",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carrot-4317203984?position=1&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=AlDdW80SkCL8rfIRtAxMYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Frontend, All Levels",
-        "company": "Ramp",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-all-levels-at-ramp-4276814807?position=6&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=rI%2FYeewGYGfXwac%2FPMYO6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer 2",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-2-at-intuit-4331353289?position=7&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=jDHpYJrfoaqYMgH2vX6OFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Cloud Platform",
-        "company": "Motive",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-platform-at-motive-4287158154?position=13&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=m4FvZvshV4gdZ3lDN1k2og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Core Data Services",
-        "company": "Qumulo",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-data-services-at-qumulo-4300131751?position=15&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=vP8k7EhUN8%2FYZ%2Fdc9G3ulQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "AI Engineer/Data Scientist II",
-        "company": "Honeywell",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-data-scientist-ii-at-honeywell-4299475629?position=18&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=LQL6tPyQkytKlX6G9i2otQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Arm",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-arm-4289485387?position=30&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=tVbIZoKQuTW3HNUDh97voQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Embedded Software Engineer",
-        "company": "Coherent Corp.",
-        "location": "Horsham, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-embedded-software-engineer-at-coherent-corp-4308311144?position=38&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=%2BeK2TA5U56hhIRo%2F9ibIlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Edifecs Analyst",
-        "company": "i4DM",
-        "location": "Millersville, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/edifecs-analyst-at-i4dm-4290029473?position=45&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=Rp0mthLnfwyw1a%2FtM2K%2FUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": false
-    },
-    {
-        "title": "Sales Engineer, Boston (Enterprise)",
-        "company": "Cribl",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sales-engineer-boston-enterprise-at-cribl-4287184315?position=47&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=gQQEgk2YBmkWD86Dqms3BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Engineer",
-        "company": "CPS, Inc.",
-        "location": "Toledo, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-engineer-at-cps-inc-4308848767?position=49&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=dgxv8cz1b%2F9WEJ5B1tT8MA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Biostatistician",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-dataannotation-4309806196?position=53&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=RdLhNgNNb%2FRVP1fSghd7GA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": false
-    },
-    {
-        "title": "Biostatistician",
-        "company": "DataAnnotation",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-dataannotation-4309807158?position=54&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=VlQ26JjkpxI6c4MKgVE2Og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": false
-    },
-    {
-        "title": "Biostatistician",
-        "company": "DataAnnotation",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-dataannotation-4309691966?position=55&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=SF4XAqCULF8hPCc7KGuX5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": false
-    },
-    {
-        "title": "Biostatistician",
-        "company": "DataAnnotation",
-        "location": "Louisiana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-dataannotation-4309802300?position=57&pageNum=0&refId=TzYXn4Rpn1hVnAlzcf57JQ%3D%3D&trackingId=by9hdQ7MNJbCpOQTw%2BqqMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Arm",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-arm-4289485387?position=5&pageNum=2&refId=tJbbl4LDuhSQQmr8%2FJeH0Q%3D%3D&trackingId=CjnaN5R4DEjM59%2Fo2GfRvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 14:55:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Automation and Emerging Technologies",
-        "company": "Crown Equipment Corporation",
-        "location": "New Bremen, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-automation-and-emerging-technologies-at-crown-equipment-corporation-4269691164?position=10&pageNum=0&refId=VHRqgkVZfSSQur5vXkl5%2Bg%3D%3D&trackingId=tNJaZqLbnmGMs8TQRHaL3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 15:16:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (MES)",
-        "company": "L3Harris Technologies",
-        "location": "Camden, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mes-at-l3harris-technologies-4331192393?position=14&pageNum=0&refId=VHRqgkVZfSSQur5vXkl5%2Bg%3D%3D&trackingId=5RdeJKOps8qxzW62uCy4DQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 15:16:39",
-        "email_sent": true
-    },
-    {
-        "title": "Engineering Associate",
-        "company": "Veolia | North America",
-        "location": "Hackensack, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineering-associate-at-veolia-north-america-4336288589?position=21&pageNum=0&refId=VHRqgkVZfSSQur5vXkl5%2Bg%3D%3D&trackingId=moPL34NJPlSF4ynftZAiNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 15:16:39",
-        "email_sent": true
-    },
-    {
-        "title": "Development Project Engineer (Electrical SME for Data Center Design)",
-        "company": "QTS Data Centers",
-        "location": "Ashburn, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/development-project-engineer-electrical-sme-for-data-center-design-at-qts-data-centers-4224533965?position=30&pageNum=0&refId=VHRqgkVZfSSQur5vXkl5%2Bg%3D%3D&trackingId=ISXr5xwfZFf6TOuwZylB0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-07 15:16:39",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Epic",
         "location": "Oakland, CA",
@@ -1027,6 +827,356 @@
         "url": "https://www.linkedin.com/jobs/view/jr-mid-level-database-administrator-engineer-at-liberty-personnel-services-inc-4322801364?position=2&pageNum=0&refId=XMVe9fKeqPmSV2EkDzOvzA%3D%3D&trackingId=S10tiWJEX8mDhx5EwJ79%2BA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-07 15:55:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4342339581?position=1&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=gxZWNy97PTejJFyCjmBhbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4342419383?position=2&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=9ObwQBnuqqBWO4DygjX4dA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4342319882?position=4&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=qmcT6AZ9dgUbRHJaci900g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4342469178?position=5&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=FduQq7uBEJj4CFntWlXijA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111804?position=6&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=JQDWJC0wYCmJPmEndjYzrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Govini",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-govini-4068436664?position=8&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=rw4SMjRDC3VNxU3zqvt6UQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Hayward, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113599?position=9&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=he6%2F%2FSyOe9G5LJDJ7A44vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Pasadena, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118098?position=13&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=7KKkvZT8LsgMFzilAyrw2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114503?position=14&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=5PQJtVoNqN7yHIMzxb%2BGmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112668?position=16&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=L44f146%2BYEO2N9xZvfq1IQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Rockville, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112658?position=17&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=nPH2FCGtYUUXJVfU83DuOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Santa Clarita, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112671?position=18&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=e7g8y10UVcyLrt2EwaBIDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Gresham, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116453?position=19&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=kZ%2FlAkkO3mtanJpPwjAKWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Grand Prairie, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115537?position=20&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=NBMPQ%2BE3TIeMBNczcyS%2BmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Portland, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115566?position=21&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=RKIApk0cexln2GI0ybRMqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3945918243?position=22&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=5hC5jWKXWotxHOZKwTKf1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111784?position=23&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=vzEjl4L8qBqVrUs%2B%2BfR2Nw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Govini",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-govini-4247015063?position=24&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=wOuxYredEXzSEZHV27JB7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112633?position=28&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=7kF%2BZke7n%2By%2Ff99k67NlJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Durham, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111778?position=33&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=qq6t2voLDfpVPrGThw8k1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Peoria, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117169?position=36&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=cWRPz%2BgfCfOhTwRRVAMuGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117165?position=38&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=1lXsBUZMsrVGhkbpOly1QA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Java)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-wiraa-4342449285?position=39&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=5H%2BXEB2Hd2rdTmHax0%2FmrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "West Chester, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115555?position=41&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=XMkgOLfpSskjsYzDQoLRVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Middletown, DE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117186?position=43&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=BBeDX8nSnS76YHtGyJQuSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Roseville, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114507?position=44&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=CR%2B2p5fwIuvGLqC8rQxfCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Santa Rosa, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111792?position=45&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=WWfQUW%2FTDNjk%2F3iQgTGGqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114517?position=48&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=siYizrsdsIopy9X3dLiT6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111812?position=50&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=ZjpQkc1xCHbVy3GGbbZQ6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Newark, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116436?position=52&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=wq%2BecUmCNt4BaoE%2B9xS%2BIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Albany, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113590?position=56&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=yzZwWWU2mXg9RQ%2BlSuCgJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Carmel, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114516?position=57&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=Df%2FIY%2BqzyUjy8XHmFyac8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Pawtucket, RI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116445?position=58&pageNum=0&refId=oCl3gUvbuWfLh3hr7G3v7A%3D%3D&trackingId=80Jam6ZAhKkTrMRy%2FbqxJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112633?position=3&pageNum=2&refId=SUx7ekgYdBoF%2Bw7aj%2FxwcQ%3D%3D&trackingId=K1I9PFt8SMsYBOpQQsAnmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Epic",
+        "location": "Durham, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111778?position=8&pageNum=2&refId=SUx7ekgYdBoF%2Bw7aj%2FxwcQ%3D%3D&trackingId=eGGXWzRAD1vRFJm89Lebew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-07 16:21:20",
         "email_sent": false
     }
 ]
