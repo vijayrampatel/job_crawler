@@ -1,236 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "JSR Tech Consulting",
-        "location": "New Jersey, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jsr-tech-consulting-4319500906?position=5&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=hceRx5w%2FJo3GvRRGOyAOAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Vantaca",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-vantaca-4342797892?position=6&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=FXexyYECcgqa8bPnoV77YA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4343034192?position=7&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=lMULO7toLvTQpWRltXUYgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Capital One",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-capital-one-4342957175?position=9&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=hTzqPEXbNerCy3M4ZWXpjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4342887550?position=12&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=b3uAf8DyoZNRi0%2FtQkow%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Waymo",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-waymo-4343034193?position=17&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=yhmvhq1mh4ZINQ5rv2A1vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Registry- Weights & Biases",
-        "company": "Weights & Biases",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-registry-weights-biases-at-weights-biases-4341692681?position=18&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=PFWtj442AA94NRzZv6QAVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics & Data Engineer",
-        "company": "Weidenhammer Systems Corp",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-data-engineer-at-weidenhammer-systems-corp-4342818897?position=19&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=V6YeENRDPVyPDSTvYVwgSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Product",
-        "company": "First Advantage",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-first-advantage-4342808100?position=22&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=A8E0bu1bGAc6dLUXIOS7uQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst - LB Builds",
-        "company": "STAND 8 Technology Consulting",
-        "location": "Long Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-lb-builds-at-stand-8-technology-consulting-4336980700?position=23&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=E5nMGjiAWwQvN7uwKMZ9aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Stealth AI Startup",
-        "location": "San Mateo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stealth-ai-startup-4349620109?position=27&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=g1ADhp5HIkfeBugI%2Fgy2lw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Montana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4326564024?position=29&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=35zvxi1nXCYFI0c3TLbUlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Haystack",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4326671123?position=33&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=Rbmzh6dLy5gE%2FyppBV8qNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Engineer (JavaScript)",
-        "company": "Foxglove",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-javascript-at-foxglove-4343026443?position=35&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=1OQlu%2Fk6eeg%2F4z7keCPu2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Featurespace",
-        "company": "Visa",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-featurespace-at-visa-4326651239?position=37&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=BIcpbKfmIJEdp2D90d%2FGDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Mid-Level .NET Software Engineer",
-        "company": "STAND 8 Technology Consulting",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mid-level-net-software-engineer-at-stand-8-technology-consulting-4337050667?position=44&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=tipp60M07maIjibiEgetmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "QA Engineer, Sr.",
-        "company": "A5 Labs",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/qa-engineer-sr-at-a5-labs-4342947262?position=50&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=6HKek0ZXQqGUdAarfX2LsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Molina Healthcare",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-molina-healthcare-4342927146?position=58&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=kR8H9FMwBuqCV4zMgggp9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Brady Relaunch",
-        "company": "Brady Corporation",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-brady-relaunch-at-brady-corporation-4349544300?position=60&pageNum=0&refId=hBpMwvOvrxBUHn476lpymg%3D%3D&trackingId=MG1T83xVbgnB2EfBiFFE1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Stealth AI Startup",
-        "location": "San Mateo, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stealth-ai-startup-4349620109?position=2&pageNum=2&refId=2ISvcG5hDCeOroWnuAfb6A%3D%3D&trackingId=cmyl9uisvXZG79N7o4Jakg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Montana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4326564024?position=4&pageNum=2&refId=2ISvcG5hDCeOroWnuAfb6A%3D%3D&trackingId=IbOBiIuLWQnreZixa%2BlzNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Haystack",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4326671123?position=8&pageNum=2&refId=2ISvcG5hDCeOroWnuAfb6A%3D%3D&trackingId=th1KTB9z5%2FDUitzqaVQGbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Engineer (JavaScript)",
-        "company": "Foxglove",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-javascript-at-foxglove-4343026443?position=10&pageNum=2&refId=2ISvcG5hDCeOroWnuAfb6A%3D%3D&trackingId=UOzSlJsp5thZV3i0EX5dbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-10 13:56:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "iConsultera",
         "location": "United States",
         "date_posted": "Recent",
@@ -878,5 +648,105 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-10 14:49:18",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4326573754?position=7&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=CqRd12JdZbxrdoRpXTi1AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Database Tycoon LLC",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-database-tycoon-llc-4342804419?position=15&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=eD0gD2ZECbx%2B60xppqmBjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "ConsultNet Technology Services and Solutions",
+        "location": "Sandy, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-consultnet-technology-services-and-solutions-4336914156?position=16&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=Om8aw5Wd84GCfo4o3xkvGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer (All Levels)",
+        "company": "Noblis",
+        "location": "Aurora, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-all-levels-at-noblis-4342193833?position=48&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=mgcjSxel5VI8lC%2BejfEh8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Security Software Engineer",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-at-spacex-4301532383?position=49&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=S3e%2BXezyIl8Wmum2kPeT1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Greater Phoenix Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4342889090?position=50&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=4j%2Fihyvm%2BH42jAc2qRSVQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Frontend - Risk Platform: EVENT",
+        "company": "Coinbase",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-risk-platform-event-at-coinbase-4336861461?position=51&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=vZboaj3TnT0JrSdh2ykwtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Fleet Data Management Engineer",
+        "company": "Belcan",
+        "location": "West Palm Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fleet-data-management-engineer-at-belcan-4342809712?position=52&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=yhcw8lCzgDB7GdEs1L3g%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Software Engineer",
+        "company": "PhysicsX",
+        "location": "Manhattan, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-physicsx-4289844005?position=54&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=Rovj6EAtJ4qdbS4kCGz7ZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Charlotte Metro",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4343018542?position=56&pageNum=0&refId=AEYPPrYzznjMXbQM0AYhYw%3D%3D&trackingId=hIxYHPNc8QKagRbU4SGATw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-10 15:01:41",
+        "email_sent": false
     }
 ]
