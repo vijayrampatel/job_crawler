@@ -1,12 +1,572 @@
 [
     {
-        "title": "******** ******** *",
-        "company": "*****",
-        "location": "*******, **",
+        "title": "REMOTE- Junior Data Engineer",
+        "company": "Lensa",
+        "location": "Fort Worth, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4343721078?position=6&pageNum=0&refId=0J6xHroLF%2BY0Usxc%2BbnfWg%3D%3D&trackingId=NNnZN9mayCgXAD94Z5jT9Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/remote-junior-data-engineer-at-lensa-4343691219?position=1&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=H1fvgyaFYfQmEgeElNWNgA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-12-14 07:55:18",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst- Remote",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-lensa-4343681228?position=2&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=oPvbGU20xeFVQS%2Fd9VV3Vw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Engineer 2 - Remote",
+        "company": "Lensa",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-2-remote-at-lensa-4343681318?position=3&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=UusWGb8KBy4M58BomwrWVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Engineer 2 - Remote",
+        "company": "Lensa",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-2-remote-at-lensa-4343711109?position=4&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=7KiAsvz3WkiwsEQriSvB9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Analyst",
+        "company": "Lensa",
+        "location": "Silver Spring, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-analyst-at-lensa-4343621474?position=5&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=c3Wy2bzvzIUoxoFa%2Fen9Vg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4343721078?position=6&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=aQviN4L0uC9CwGhPst6tPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Lensa",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4343661354?position=7&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=lApTjduueDey%2F0NaM5fT1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level AI Software Engineer",
+        "company": "Lensa",
+        "location": "Durham, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-ai-software-engineer-at-lensa-4343740988?position=8&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=rLMuYc%2FwbWQ4BMstJP3FBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-lensa-4343631467?position=9&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=END9%2Bnw%2Bq8dxFSfpHhwDAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "Lensa",
+        "location": "Albany, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-lensa-4343651315?position=10&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=qMEiKgZakUZmR2hlLlQxOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Frontend",
+        "company": "Lensa",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-frontend-at-lensa-4343770436?position=11&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=hP79jvLpE7v9CBMiT5iB3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Entry Level Software Engineer",
+        "company": "Lensa",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-entry-level-software-engineer-at-lensa-4343581681?position=12&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=ekU8MCir969Z23gANqIaAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Mapping Coordinator (Remote)",
+        "company": "Outlier AI",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-mapping-coordinator-remote-at-outlier-ai-4343552070?position=13&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=o7rQURHFpfharustpQftpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Mapping Coordinator (Remote)",
+        "company": "Outlier AI",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-mapping-coordinator-remote-at-outlier-ai-4343542417?position=14&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=nZEiMT0%2BpUjQLzFzGmSRDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I - Genetics / Genomics (Peter Lab)",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-genetics-genomics-peter-lab-at-lensa-4343611562?position=15&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=K6vpRQ%2FGUBUGKVdpmUkwmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Power BI Specialist, Data Analytics - US Based Remote",
+        "company": "Lensa",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-specialist-data-analytics-us-based-remote-at-lensa-4343529409?position=16&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=jLXBnUFvfwgIjDu5mQJVng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Power BI Specialist, Data Analytics - US Based Remote",
+        "company": "Lensa",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-specialist-data-analytics-us-based-remote-at-lensa-4343561800?position=17&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=OJWH4E9jitZOu%2Ftlnd8P0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Mapping Coordinator (Remote)",
+        "company": "Outlier AI",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-mapping-coordinator-remote-at-outlier-ai-4343561957?position=18&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=2C3lEH0VvAvHnWv9YsYffA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Engineer",
+        "company": "Lensa",
+        "location": "Naperville, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-engineer-at-lensa-4343529411?position=19&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=UcF5RoIlrKfElx20GJtpaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Production Operations Engineer",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-production-operations-engineer-at-lensa-4343721065?position=20&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=Nee%2FGY0fAhbUe7Ez5Z%2FTkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Cybersecurity Data Analyst",
+        "company": "Prism Data Consulting",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cybersecurity-data-analyst-at-prism-data-consulting-4327640751?position=21&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=qlKF%2BH9%2FfU3YV4txSjZFQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Contributor (Remote)",
+        "company": "Outlier AI",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-contributor-remote-at-outlier-ai-4343681516?position=22&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=jCiQ0Q%2FWABeaPy1BnW82Xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Contributor (Remote)",
+        "company": "Outlier AI",
+        "location": "Albuquerque, NM",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-contributor-remote-at-outlier-ai-4343601780?position=23&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=wtNwGOYGVNo0M7ZFops%2Fjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Data Associate (Remote)",
+        "company": "Outlier AI",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-associate-remote-at-outlier-ai-4327770621?position=24&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=LU4%2FkQkw%2FE1eCzsw%2BPdQqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4343621500?position=25&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=bdQFQZ%2BtiqaC%2B2wrsg6H0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Data Associate (Remote)",
+        "company": "Outlier AI",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-associate-remote-at-outlier-ai-4327621339?position=26&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=eAzEewjku82Ivz5So6aB%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4343581728?position=27&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=BQxC154uKGTR%2BcE4%2FlgBcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Dataset Curator (Remote)",
+        "company": "Outlier AI",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dataset-curator-remote-at-outlier-ai-4343701325?position=28&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=w%2F2JktgNyXiIxSGbqAX3sQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Clarksville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4327621325?position=29&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=0pxOqx52SbjuX1IlBCk8Gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Data Associate (Remote)",
+        "company": "Outlier AI",
+        "location": "Fort Worth, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-associate-remote-at-outlier-ai-4327790581?position=30&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=iRkdlwO%2F5Fv75V80k0qKEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Insights Support Officer (Remote)",
+        "company": "Outlier AI",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-insights-support-officer-remote-at-outlier-ai-4343681514?position=31&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=2SQrlqJlzvbQuHNEROPKcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Dataset Curator AI (Remote)",
+        "company": "Outlier AI",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dataset-curator-ai-remote-at-outlier-ai-4343538719?position=32&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=UgfYbkXuqVl2fnJS4R92cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Dataset Curator AI (Remote)",
+        "company": "Outlier AI",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dataset-curator-ai-remote-at-outlier-ai-4343591876?position=33&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=rEN2Ljn7VchWNh6H2PflZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Dataset Curator (Remote)",
+        "company": "Outlier AI",
+        "location": "Milwaukee, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dataset-curator-remote-at-outlier-ai-4343681512?position=34&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=2C2NJeYet%2Bt03ElAhIhAmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Quality Evaluator",
+        "company": "Outlier AI",
+        "location": "Portland, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-quality-evaluator-at-outlier-ai-4327740610?position=35&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=p8ulhEogVUOgVFE%2FzXMeoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant (Remote)",
+        "company": "Orchestrate Consulting Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-remote-at-orchestrate-consulting-group-4327740689?position=36&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=0R9t38N5Wk%2BXyK876Vbprw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "People Analytics Technician (Remote)",
+        "company": "Outlier AI",
+        "location": "Albuquerque, NM",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/people-analytics-technician-remote-at-outlier-ai-4343651522?position=37&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=5Dlt9UIn99Nb5yQ7RpaKTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Engineer",
+        "company": "ORION",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-engineer-at-orion-4343651533?position=38&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=3OoVCYfTauGYyqLVyNhmUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Quality Evaluator",
+        "company": "Outlier AI",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-quality-evaluator-at-outlier-ai-4327820646?position=39&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=PbM727cbdty9L1RhqNqjMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Quality Evaluator (Remote)",
+        "company": "Outlier AI",
+        "location": "Mesa, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-quality-evaluator-remote-at-outlier-ai-4327760604?position=40&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=kgkwXz09OuVEX29Gj8045A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Specialist",
+        "company": "Inside Higher Ed",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-science-specialist-at-inside-higher-ed-4343770380?position=41&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=22Q6da8MIpg9%2BoTJ1hNMVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Quality Evaluator (Remote)",
+        "company": "Outlier AI",
+        "location": "Milwaukee, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-quality-evaluator-remote-at-outlier-ai-4327810639?position=42&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=sCq4N%2FDAowAL5vCarbOYAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "QC Analytical Data Reviewer, Pharma - Remote",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/qc-analytical-data-reviewer-pharma-remote-at-lensa-4343721057?position=43&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=i3PTyQmPyG8LHOw%2BeZqaiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "QC Analytical Data Reviewer, Biopharma - Remote",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/qc-analytical-data-reviewer-biopharma-remote-at-lensa-4343542249?position=44&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=aNjc%2Fj5y5x%2FeI%2BTfxt5oeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Insights Operations Associate",
+        "company": "Outlier AI",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/insights-operations-associate-at-outlier-ai-4343711302?position=45&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=tWjcNFkw4X9gkXf2gHO5gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Insights Operations Associate",
+        "company": "Outlier AI",
+        "location": "Memphis, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/insights-operations-associate-at-outlier-ai-4343561963?position=46&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=y9LnLRGJKMl4d6wtW5jHIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Associate - Electro- Optical Subsystem I&T Engineer I - II - GPI Program",
+        "company": "Lensa",
+        "location": "Chandler, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-electro-optical-subsystem-i-t-engineer-i-ii-gpi-program-at-lensa-4343538488?position=47&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=3MLiPEn8AB348VJstSI1DQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant for a Chart Understanding Project",
+        "company": "Orchestrate Consulting Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-for-a-chart-understanding-project-at-orchestrate-consulting-group-4327780671?position=48&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=NmhWsHwU9OiO0Fn8P45xjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Jobot",
+        "location": "Magna, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobot-4349923957?position=49&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=3kD8WFv9FoytH7RHudXrDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Governance Associate",
+        "company": "Outlier AI",
+        "location": "Tucson, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/governance-associate-at-outlier-ai-4343741189?position=50&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=NUm%2FBRFnds81pHT9TIywWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Research Associate - Columbus",
+        "company": "Inside Higher Ed",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-columbus-at-inside-higher-ed-4343581664?position=51&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=XGerAvKoz95SlC94HjdmiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Logistics Coordinator (Remote)",
+        "company": "Outlier AI",
+        "location": "Fort Worth, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/logistics-coordinator-remote-at-outlier-ai-4343581937?position=52&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=%2B7W5IlylNY1ItWxbIi21zA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Sustainability Analyst",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-at-lensa-4343538530?position=53&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=NLkrJtQ%2FG086Uh84jXyz4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Revenue Operations Assistant (Remote)",
+        "company": "Outlier AI",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-assistant-remote-at-outlier-ai-4327780618?position=54&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=QLiuCX57ET1nXPMkv3c4RQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Governance Associate",
+        "company": "Outlier AI",
+        "location": "Fort Worth, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/governance-associate-at-outlier-ai-4343721232?position=55&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=hYZxp00%2F4mYjmZPpkTx87w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Revenue Operations Assistant (Remote)",
+        "company": "Outlier AI",
+        "location": "El Paso, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-assistant-remote-at-outlier-ai-4327720618?position=56&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=wvM%2Fkcg86vFIkMhnsuTSyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Revenue Operations Assistant (Remote)",
+        "company": "Outlier AI",
+        "location": "Oklahoma City, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-assistant-remote-at-outlier-ai-4327610627?position=57&pageNum=0&refId=m3IuwBHUf91qkbpTvLPe7Q%3D%3D&trackingId=AVTlfI4zHOeDfLtu7fSJOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 08:57:36",
         "email_sent": false
     }
 ]
