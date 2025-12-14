@@ -1,45 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333582517?position=2&pageNum=0&refId=avuz1W9xqpvfFcCnJGc7nw%3D%3D&trackingId=LOXCm1HnZm83U%2Fnj%2FlLpFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:36:25",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333572792?position=3&pageNum=0&refId=avuz1W9xqpvfFcCnJGc7nw%3D%3D&trackingId=ojzd0Zi1xzJPVyFNeyar5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:36:25",
-        "email_sent": true
-    },
-    {
-        "title": "******* ******** ******** - *** ******",
-        "company": "****** *****",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-all-levels-at-credit-karma-4281655988?position=6&pageNum=0&refId=avuz1W9xqpvfFcCnJGc7nw%3D%3D&trackingId=Bev7vGfsIf5tKvoQdr7Gpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:36:25",
-        "email_sent": false
-    },
-    {
-        "title": "**** **** ********",
-        "company": "*********",
-        "location": "**********, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/test-data-engineer-at-qualitest-4349017451?position=7&pageNum=0&refId=avuz1W9xqpvfFcCnJGc7nw%3D%3D&trackingId=d4exkpxd25eGDq5G8nX8Sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:36:25",
-        "email_sent": false
-    },
-    {
         "title": "Backend Software Engineer - All Levels",
         "company": "Credit Karma",
         "location": "Charlotte, NC",
@@ -718,5 +678,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-14 13:08:25",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Middleton, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=3&pageNum=0&refId=z7F5nvESsj51ZJF4J%2BG%2BmQ%3D%3D&trackingId=pqL4wz5S%2Bu5ow9fI6Zqa9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 13:36:41",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "**** *** ****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4343552637?position=4&pageNum=0&refId=z7F5nvESsj51ZJF4J%2BG%2BmQ%3D%3D&trackingId=%2BRZeyEcuUWsAxynKm4KOYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 13:36:41",
+        "email_sent": false
+    },
+    {
+        "title": "** **** ********",
+        "company": "*******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-hirenza-4343539242?position=7&pageNum=0&refId=z7F5nvESsj51ZJF4J%2BG%2BmQ%3D%3D&trackingId=FU8CQt2cLNQ3jP4pGyIgBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 13:36:41",
+        "email_sent": false
     }
 ]
