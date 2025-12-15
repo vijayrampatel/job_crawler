@@ -1,15 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "****** ** *********** (***)",
-        "location": "*** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beauty-by-imagination-bbi-4343746064?position=4&pageNum=0&refId=K2KcDEtuARgzLpt5H7h7Ew%3D%3D&trackingId=v0ExDSkXZZd51cLJnvQGIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-15 14:57:56",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Beauty by Imagination (BBI)",
         "location": "New York, NY",
@@ -58,5 +48,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-15 15:50:29",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349500750?position=1&pageNum=0&refId=AEAwrvPVBIUauQxp6k3wSA%3D%3D&trackingId=QNpd3g6bhfsXVFeaM1%2F%2FPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 16:02:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4347539564?position=3&pageNum=0&refId=AEAwrvPVBIUauQxp6k3wSA%3D%3D&trackingId=pbhiywRrmxZ1BY0Uw7Tenw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 16:02:13",
+        "email_sent": false
+    },
+    {
+        "title": "****** ******** ********",
+        "company": "********** ***.",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4348701708?position=6&pageNum=0&refId=AEAwrvPVBIUauQxp6k3wSA%3D%3D&trackingId=MTFMFf7plqEgQkOlb2MlIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 16:02:13",
+        "email_sent": false
+    },
+    {
+        "title": "****** ******** ********",
+        "company": "********** ***.",
+        "location": "*****, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4349429259?position=7&pageNum=0&refId=AEAwrvPVBIUauQxp6k3wSA%3D%3D&trackingId=mftrQoOAzz1n3Tq3nSm%2BNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 16:02:13",
+        "email_sent": false
     }
 ]
