@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4343734348?position=2&pageNum=0&refId=SZwaFdIAYpTq4%2BoCrjXvsw%3D%3D&trackingId=iamdy7%2FjJ9yuBquVSYKtsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-15 11:57:55",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Data Engineer",
-        "company": "Harris | Oakmark",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-data-engineer-at-harris-oakmark-4279842821?position=3&pageNum=0&refId=SZwaFdIAYpTq4%2BoCrjXvsw%3D%3D&trackingId=bCY3N2KuHXnYt8%2FPDBb%2FnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-15 11:57:55",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (******, ****)",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-data-at-wiraa-4343624897?position=5&pageNum=0&refId=SZwaFdIAYpTq4%2BoCrjXvsw%3D%3D&trackingId=lgO%2FZpxY2Gxmqltc7kXdzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-15 11:57:55",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Hirenza",
         "location": "United States",
@@ -67,6 +37,386 @@
         "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-mdp-global-4343585452?position=6&pageNum=0&refId=1lR%2B1zbfXuxIzVzjyn%2Fcdw%3D%3D&trackingId=ha73%2FNyN75cxF%2BTwLSaKcg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-15 12:55:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Data)",
+        "company": "Patreon",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-data-at-patreon-4343624897?position=2&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=BGk6eWnxbIOlbwLbppiOQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4350101746?position=3&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=9rEqW5x%2FPGItH5VazJOHGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Zip Co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-zip-co-4343734348?position=5&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=MXOy49XLyCDSagVMn2XZcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Engineer",
+        "company": "MDP Global",
+        "location": "Elkridge, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-mdp-global-4343585452?position=6&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=V%2FxI1O04nnUBi73L1Ov0cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Luxe Consult Solutions, LLC",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-luxe-consult-solutions-llc-4343783299?position=7&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=CCeDR%2FigM3EbpsM3qXn2fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Product Marketing)",
+        "company": "Coalesce.io",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-product-marketing-at-coalesce-io-4343674766?position=8&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=4oNGZr9PSFFnL2%2FEUhuC1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Eudia",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-eudia-4350141824?position=9&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=JuFEA1pvWBMMgmYktC2AMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4343764561?position=10&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=Hm70YEb9Ami%2B%2BaK3i01aSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer - Data",
+        "company": "LaunchDarkly",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-data-at-launchdarkly-4343773741?position=11&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=ffykhSX3GNicamZ6UzGk%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4350131536?position=12&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=ymI4EBrp1GuGPdcJtZsS1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer, Platform Engineering",
+        "company": "PitchBook",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-platform-engineering-at-pitchbook-4343685551?position=13&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=0XBxk6NArofhLbPZW6dwAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Public Health",
+        "company": "Denver Health",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-public-health-at-denver-health-4342115744?position=14&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=fyEKEXrJc3WSwmIAMTy4Kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4350281573?position=15&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=3BbwxWXUvCd29cGjaXSpIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics & Data Engineer",
+        "company": "Weidenhammer Systems Corp",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-data-engineer-at-weidenhammer-systems-corp-4350242071?position=16&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=vepzXXUChMG72FjFKGea4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - 245997",
+        "company": "Medix\u2122",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-245997-at-medix%E2%84%A2-4301428048?position=17&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=ZQhAvc9XKjZVSHWPx78%2FfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "HR Data Analyst",
+        "company": "Lawrence Harvey",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-lawrence-harvey-4327862030?position=18&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=4cJ%2BcdNtbnzFKAPw7YVREQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Confluent",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-confluent-4343704438?position=19&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=ykn%2FNlh8Rl8tqDVpfKbxFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III, Data Platform",
+        "company": "Reddit, Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-data-platform-at-reddit-inc-4350182025?position=20&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=lWeVwfJobDz%2FXsJsYAhs2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Research Platform",
+        "company": "Tower Research Capital",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-research-platform-at-tower-research-capital-4333657006?position=21&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=gJdy3CVrccLajElLPw8srw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "Coinbase",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-coinbase-4343565012?position=22&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=LdTDOBCHe4Om%2FR7Fma40YQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4350271735?position=23&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=POIGw6vQAEREILfL2eLYaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-hirenza-4343565662?position=24&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=8Fs%2B3xz6Dbq%2Bt9GtRi9Bfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer (Cortex Vulnerability Experience Platform)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-cortex-vulnerability-experience-platform-at-palo-alto-networks-4338625944?position=25&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=XyzuuxsEBctamFOOP14hOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "System Test Software Engineer",
+        "company": "Etched",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-test-software-engineer-at-etched-4176477636?position=26&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=6xcDvtsz7xd6%2FnHwU%2FtQiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Fullstack Software Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-wiraa-4343595084?position=27&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=TFMfuzk9kI9v9iIGyZR1mA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (2026)",
+        "company": "Tower Research Capital",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2026-at-tower-research-capital-4268632192?position=28&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=8lTL7UicIzbiFA%2Fgz9tMqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer, Legends (Remote) - $60,000/year USD",
+        "company": "Crossover",
+        "location": "Piedmont, SD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-legends-remote-%2460-000-year-usd-at-crossover-4326327420?position=29&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=jv%2F%2BGLYGqwik4jBJBnVOOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Maintenance Engineer (Hutchins, TX)",
+        "company": "Swisslog",
+        "location": "Newport News, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-maintenance-engineer-hutchins-tx-at-swisslog-4292957898?position=30&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=TdsMKWgBTpj3xRFbTz2Rkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4343685217?position=31&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=3R%2FlHUb6S6DkTW6iwnMOVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-best-job-tool-4350281752?position=34&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=zzxWE9%2BSuGL7oCNJBryEew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4343665262?position=36&pageNum=0&refId=mLttBR5vyyWIgGEeUDDF7A%3D%3D&trackingId=dW7HRk8ccRyEjGGpuaAGCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "System Test Software Engineer",
+        "company": "Etched",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-test-software-engineer-at-etched-4176477636?position=1&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=a9bZn381sFM5xCWq2LUAeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Fullstack Software Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-wiraa-4343595084?position=2&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=CSX7F3kKLFIIvWZ0fxMihA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (2026)",
+        "company": "Tower Research Capital",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2026-at-tower-research-capital-4268632192?position=3&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=%2BUcqVuAXuEvpiNHObjsXKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer, Legends (Remote) - $60,000/year USD",
+        "company": "Crossover",
+        "location": "Piedmont, SD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-legends-remote-%2460-000-year-usd-at-crossover-4326327420?position=4&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=3DFX5Ikh54v9OuJTh%2FNniA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Maintenance Engineer (Hutchins, TX)",
+        "company": "Swisslog",
+        "location": "Newport News, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-maintenance-engineer-hutchins-tx-at-swisslog-4292957898?position=5&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=Hei82B3pwamaASaxKqTkeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4343685217?position=6&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=1W2TES%2FM6gk3U5aQ1YwUaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-best-job-tool-4350281752?position=9&pageNum=2&refId=52OrtRmMTChv1pPQW%2BQryw%3D%3D&trackingId=2db3sFAw%2BV1U0vwEsQaBwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 13:39:47",
         "email_sent": false
     }
 ]
