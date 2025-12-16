@@ -1,25 +1,5 @@
 [
     {
-        "title": "**** *******",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4343977365?position=6&pageNum=0&refId=iLrJjXZIiUX9UNvGdhnSPg%3D%3D&trackingId=E9dJ5%2FH96aJ3yrAwLxsmTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-16 21:22:33",
-        "email_sent": false
-    },
-    {
-        "title": "****** ********* ********",
-        "company": "*** ****** *******",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/people-analytics-engineer-at-the-clorox-company-4323288857?position=7&pageNum=0&refId=iLrJjXZIiUX9UNvGdhnSPg%3D%3D&trackingId=5jjNJdRneY2eKOwxsIVEpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-16 21:22:33",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, Java)",
         "company": "Airbnb",
         "location": "United States",
@@ -727,6 +707,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-efficiency-at-waymo-4344133247?position=7&pageNum=0&refId=3LxVCmp2vG07ylKj2bapIg%3D%3D&trackingId=o55ME3sEWwwKB0tGznzHgw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-16 22:18:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349611620?position=2&pageNum=0&refId=Z52sPeo9dBPHM5fa7LVZeA%3D%3D&trackingId=qzd6q39tJIeWiaIjTXraEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-16 22:38:45",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "***** ******** ****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-first-citizens-bank-4343878041?position=4&pageNum=0&refId=Z52sPeo9dBPHM5fa7LVZeA%3D%3D&trackingId=DVgE72O3UehTXL8PnS7vnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-16 22:38:45",
         "email_sent": false
     }
 ]
