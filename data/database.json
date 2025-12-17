@@ -1,45 +1,5 @@
 [
     {
-        "title": "***** **** ********",
-        "company": "****** ***",
-        "location": "**** **** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-kforce-inc-4344464717?position=4&pageNum=0&refId=g5JxGpBDdidyw94FOuBeVw%3D%3D&trackingId=v6YR8bv6XECXv0m8%2FKHezg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 16:27:02",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "**** ******* *********, ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-luxe-consult-solutions-llc-4344414726?position=5&pageNum=0&refId=g5JxGpBDdidyw94FOuBeVw%3D%3D&trackingId=jSPbX0boeHnn5VOEHJnFug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 16:27:02",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "**** ******* *********, ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-luxe-consult-solutions-llc-4344514043?position=6&pageNum=0&refId=g5JxGpBDdidyw94FOuBeVw%3D%3D&trackingId=nFSgjXqwFgAONUgRqDmfgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 16:27:02",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "**** ******* *********, ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-luxe-consult-solutions-llc-4344464499?position=7&pageNum=0&refId=g5JxGpBDdidyw94FOuBeVw%3D%3D&trackingId=B%2Fh4wHs3AgePsHWZFFdn2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 16:27:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -558,5 +518,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-17 17:22:51",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4343569773?position=1&pageNum=0&refId=ZLhjunW4z1Yo%2FZ7DDSky3A%3D%3D&trackingId=rzDD9%2BiOnHaRuCMzR5nvPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 17:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "********** ***.",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349553739?position=4&pageNum=0&refId=ZLhjunW4z1Yo%2FZ7DDSky3A%3D%3D&trackingId=HfVwPaUbOZT2m6DItvCBrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 17:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "********** ***.",
+        "location": "**********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349504576?position=5&pageNum=0&refId=ZLhjunW4z1Yo%2FZ7DDSky3A%3D%3D&trackingId=9etzdpQLQyAy6%2FqQMNK2Iw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 17:46:36",
+        "email_sent": false
     }
 ]
