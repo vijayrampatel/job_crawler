@@ -1,45 +1,5 @@
 [
     {
-        "title": "**** ******** **: **-*****",
-        "company": "******, ***.",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-25-07283-at-akraya-inc-4344543854?position=4&pageNum=0&refId=t0cAcj9xrre2JxA68o5P1w%3D%3D&trackingId=lcODS%2FWZvypxvXdVrM9Pjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 19:24:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4344406826?position=5&pageNum=0&refId=t0cAcj9xrre2JxA68o5P1w%3D%3D&trackingId=xxEo5HA%2BEUpKfnkC8s47uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 19:24:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "**** *** ****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4344357347?position=6&pageNum=0&refId=t0cAcj9xrre2JxA68o5P1w%3D%3D&trackingId=nAjHvADSfTkJseXkPVvDnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 19:24:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "****** ****",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=7&pageNum=0&refId=t0cAcj9xrre2JxA68o5P1w%3D%3D&trackingId=YTzIxNs2jlwHQFDZ92IiPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 19:24:27",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "IonQ",
         "location": "United States",
@@ -77,6 +37,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-launchcode-4343425456?position=7&pageNum=0&refId=Q2yPsUjHRshXr41qt10lNg%3D%3D&trackingId=iyY6YqsSEsOrYjEDS3lF2Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-17 19:59:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "LaunchCode",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-launchcode-4343425456?position=1&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=eqZMEqbD58Bl%2FqmUlH70zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4344357347?position=2&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=gg7OxcksNQtqCgywYOquyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Middleton, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=3&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=MjS7iMQbBNbBRxl7SKtrXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** - ********",
+        "company": "********",
+        "location": "******** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-linkedin-4344456572?position=4&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=Ff4eZmvOixdyhwd4ksRVyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********, ***** ******",
+        "company": "**** *** ****",
+        "location": "********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-early-career-at-jobs-via-dice-4327490492?position=5&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=gRjbCArd5t1bt1S803j6zA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "****** *** *********",
+        "company": "******* ** *********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/senior-sql-developer-at-stellar-it-solutions-4344367719?position=6&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=skFpYGjFJGEGEdWQnyQtQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
+        "email_sent": false
+    },
+    {
+        "title": "**** ****** ********",
+        "company": "***** ********** *****",
+        "location": "***** ********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-judge-consulting-group-4344367230?position=7&pageNum=0&refId=6khhmyTLabDVasEhraLzHg%3D%3D&trackingId=d%2FIK0WnY%2FHj7G2F1nwCDZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 20:32:46",
         "email_sent": false
     }
 ]
