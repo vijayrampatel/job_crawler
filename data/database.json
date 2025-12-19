@@ -1,25 +1,5 @@
 [
     {
-        "title": "******** ********",
-        "company": "**********.**",
-        "location": "************, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-clearentry-ai-4344918796?position=4&pageNum=0&refId=S6xSsBvJ6xnIl%2B5hSBelsw%3D%3D&trackingId=JJIUw17rT84O5nDWGVlh5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 05:50:25",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4344987948?position=1&pageNum=0&refId=oygMRZZP1zuyckPHk88RRw%3D%3D&trackingId=3VDc5k65dzkOgNfAXAXifw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 05:59:54",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer, Automation",
         "company": "Hilton",
         "location": "Memphis, TN",
@@ -77,6 +57,76 @@
         "url": "https://www.linkedin.com/jobs/view/dtcc-software-engineer-application-via-wayup-at-wayup-4326781919?position=7&pageNum=0&refId=pagG87KfmC9srNaWcdxSWw%3D%3D&trackingId=H1subikwzd4uNqBUn3Tumg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-19 06:43:21",
+        "email_sent": false
+    },
+    {
+        "title": "Systems and Data Analyst",
+        "company": "Stanford University",
+        "location": "Redwood City, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/systems-and-data-analyst-at-stanford-university-4344961258?position=1&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=gn9V%2FWFnYAORImXwaW9hBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Labcorp",
+        "location": "Durham, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-labcorp-4344938820?position=2&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=HP5ITF21kfSHMNHLxKIl8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Traffic Management",
+        "company": "Cloudflare",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-traffic-management-at-cloudflare-4350331711?position=3&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=FfS1XtAwqGDTz4lXFL7MdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "**** ****** ******* ********",
+        "company": "******* ******",
+        "location": "********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-center-project-engineer-at-network-connex-4345018038?position=4&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=LyyTK%2FuEQsYjOHDm60qNiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "****** **** ******* ******* (**)",
+        "company": "***** *******",
+        "location": "*****, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-bengali-us-at-telus-digital-4344829330?position=5&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=8gAsAtPXfHFsmZqWeaKSRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "****** **** ******* ******* (**)",
+        "company": "***** *******",
+        "location": "*******, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-bengali-us-at-telus-digital-4344948791?position=6&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=P14Dzj0UVNE%2F7gm7HxKa1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "****** **** ******* ******* (**)",
+        "company": "***** *******",
+        "location": "**** ********, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-bengali-us-at-telus-digital-4345008157?position=7&pageNum=0&refId=xlfdFrn44On05i87w4nQSw%3D%3D&trackingId=25t680vwu%2BGHgngjjY0IFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 07:01:12",
         "email_sent": false
     }
 ]
