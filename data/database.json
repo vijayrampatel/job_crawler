@@ -1,25 +1,5 @@
 [
     {
-        "title": "**** *******",
-        "company": "************",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4328451723?position=4&pageNum=0&refId=FNgivXyLk3rsVJ87SucEZA%3D%3D&trackingId=bzq%2FB2XgaDf%2BKZHHdr4Mbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 21:56:37",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist - Trust & Safety",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-trust-safety-at-tiktok-4345546625?position=1&pageNum=0&refId=N8v8PVLIQKDRKfJNwRNPoQ%3D%3D&trackingId=T%2BrIr8dDZ3e44KDsC73JKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 22:18:35",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "Starburst",
         "location": "United States",
@@ -87,6 +67,66 @@
         "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-fit-match-ai-4328650464?position=7&pageNum=0&refId=pa%2Bcc%2B8PztcJzjC9s3QBag%3D%3D&trackingId=sOFJ6t78tVvuGWBHuummBw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 22:36:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Davis Wright Tremaine LLP",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-davis-wright-tremaine-llp-4328560529?position=4&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=DcripDpF%2B7kLHvqOVQOwSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer",
+        "company": "Dagster Labs",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-dagster-labs-4328610510?position=5&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=wU4g2QVhnzyPyfCrzM0bjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
+        "email_sent": false
+    },
+    {
+        "title": "ML Engineer",
+        "company": "FIT:MATCH.ai",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-fit-match-ai-4328650464?position=6&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=iX1T0V%2Fg%2FD7LmeSnDsAjEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, (Cloud, Go)",
+        "company": "Okta",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-go-at-okta-4328600507?position=7&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=8Qj8mL0eT4QAIe4aoeyGSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++ Systems) \u2014 GPU Virtualization",
+        "company": "Gritliy",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-systems-%E2%80%94-gpu-virtualization-at-gritliy-4328481331?position=8&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=bYn3Aeh7q%2B4oUO9GLiw56w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Inspira Financial",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-inspira-financial-4328630503?position=9&pageNum=0&refId=b2h0gAWwHX2jHSYpQbFk1g%3D%3D&trackingId=c%2Besfry7Ld2RN8mUnsld1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 23:18:55",
         "email_sent": false
     }
 ]
