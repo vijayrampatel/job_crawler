@@ -1,15 +1,5 @@
 [
     {
-        "title": "**** *******",
-        "company": "***** ****** ******** ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-davis-wright-tremaine-llp-4328560529?position=7&pageNum=0&refId=MMfI%2FCYFIvu%2Fyf4uxz7OLA%3D%3D&trackingId=3nKUrXkpjT%2BSDNBAgLECOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 17:58:01",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Starburst",
         "location": "United States",
@@ -78,5 +68,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 18:51:26",
         "email_sent": true
+    },
+    {
+        "title": "******** ******** (******, ****)",
+        "company": "*** ***",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-rust-at-red-hat-4328550530?position=4&pageNum=0&refId=4n8g8lNHefiLykWvjRAHvw%3D%3D&trackingId=OgiJycHySUcnkWl8gyo4Kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 19:14:21",
+        "email_sent": false
+    },
+    {
+        "title": "******* ******** ********",
+        "company": "*********",
+        "location": "*** ********* *** ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sailplane-4328521064?position=6&pageNum=0&refId=4n8g8lNHefiLykWvjRAHvw%3D%3D&trackingId=KrLekAeLDgT6JE7lXkrq9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 19:14:21",
+        "email_sent": false
     }
 ]
