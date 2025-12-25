@@ -1,45 +1,5 @@
 [
     {
-        "title": "Analyst",
-        "company": "TalentAlly",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-talentally-4329149656?position=1&pageNum=0&refId=2mP7FqJsKFom%2FdueX9YwuA%3D%3D&trackingId=2INn7eCQNDYazgGgBFyrlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 15:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst",
-        "company": "TalentAlly",
-        "location": "Sacramento, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-talentally-4329169427?position=2&pageNum=0&refId=2mP7FqJsKFom%2FdueX9YwuA%3D%3D&trackingId=Vjd2sqBtf3leYZBqf7gxsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 15:19:24",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Stealth Mode Startup Company",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-stealth-mode-startup-company-4346245838?position=3&pageNum=0&refId=2mP7FqJsKFom%2FdueX9YwuA%3D%3D&trackingId=Q%2B%2FNV2mXtrd27ksxUPEw2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 15:19:24",
-        "email_sent": false
-    },
-    {
-        "title": "**** *********",
-        "company": "********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4346216048?position=5&pageNum=0&refId=2mP7FqJsKFom%2FdueX9YwuA%3D%3D&trackingId=JRWVBceNikI39IKO9NO45g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 15:19:24",
-        "email_sent": false
-    },
-    {
         "title": "******** *********",
         "company": "******** ********* ********* *******",
         "location": "*******, **",
@@ -57,6 +17,76 @@
         "url": "https://www.linkedin.com/jobs/view/automation-support-engineer-i-or-ii-san-francisco-bay-area-at-highres-biosolutions-4329237761?position=4&pageNum=0&refId=Jq1ySG%2BQYIWf5kXc0L3%2Fqw%3D%3D&trackingId=2GZkfZJuDNWQBnZEjORFmQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-25 15:59:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "NerdWallet",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-nerdwallet-4346148587?position=1&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=bDbpNxOyr4IOQUObsEsz0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Golang)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-golang-at-wiraa-4346138871?position=2&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=jxa9ypPdDsjUgQ%2BC3pg1fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Crunchbase",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-crunchbase-4346333240?position=3&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=szB%2BqxUV9df2dFyo0zzVvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***, ***)",
+        "company": "**********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-api-at-mastercard-4346255734?position=4&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=HKN1qu9wObyqSrt2yBQHiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "******* ******** ********",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4346304903?position=5&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=VA36fftmkyS%2FBp0Ll2jmww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (******, *++)",
+        "company": "******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-nvidia-4346245899?position=6&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=wA8b3vjk2aqjEvK97WhYrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
+        "email_sent": false
+    },
+    {
+        "title": "******* ******** ********",
+        "company": "******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-puzzle-4346206879?position=7&pageNum=0&refId=kPmUjwGeho0hCmR2kRaXSw%3D%3D&trackingId=AP%2FrCiocjAX90KMIt%2FTi7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 16:34:26",
         "email_sent": false
     }
 ]
