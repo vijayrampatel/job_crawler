@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Dune Security",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dune-security-4346372057?position=1&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=0YaT0PrCf3oAOZxW3WgdWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4346410896?position=2&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=uSw9g6iY7dLZ14pdrWDACg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
-        "title": "Pyspark Data Engineer | Only USC and Green Card",
-        "company": "Ampstek",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/pyspark-data-engineer-only-usc-and-green-card-at-ampstek-4327908022?position=3&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=ukRppgBJh9fKosqslrr%2F9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4346307339?position=4&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=%2BDkH1l1IWsmuE%2Bwl3AT%2BBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4346372020?position=5&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=bYYpmQOr1%2FULcA%2BSIx60lQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "**** ********",
-        "location": "*** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dune-security-4346381261?position=6&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=xs7dGtjKQD3h5j7llXwBNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "*** **********",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sgs-consulting-4329441722?position=7&pageNum=0&refId=GE76io2a3T7TXzoaLksx3Q%3D%3D&trackingId=n1I%2BOesaO6PLeZHeA79Lgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:22:41",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "CareFirst BlueCross BlueShield",
         "location": "United States",
@@ -147,6 +77,26 @@
         "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-replicant-4346353399?position=7&pageNum=0&refId=VJvsb%2BIVssO4XfV4R2qJlA%3D%3D&trackingId=Cyid%2BkGj7EmU2NJLeTwq%2BQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-26 17:20:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst  & Cloud Engineer",
+        "company": "SetupBoxs",
+        "location": "St Louis, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-cloud-engineer-at-setupboxs-4329441893?position=2&pageNum=0&refId=tdVvCz8jYjpG%2BtlvzxmXDQ%3D%3D&trackingId=3%2FaSK37kwggCbpBxDyf90g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 17:37:18",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "********* ********* **********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-carefirst-bluecross-blueshield-4346307339?position=4&pageNum=0&refId=tdVvCz8jYjpG%2BtlvzxmXDQ%3D%3D&trackingId=iRF6bMJlTGP2396mkbR7lA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 17:37:18",
         "email_sent": false
     }
 ]
