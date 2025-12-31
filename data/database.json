@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Upbound",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-upbound-4346776249?position=1&pageNum=0&refId=xDgL6sLq%2FZZfp%2B6qbetQ3A%3D%3D&trackingId=est6gB4Cib9QsGLXsGe4gw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:46:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Genworth",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-genworth-4346678394?position=2&pageNum=0&refId=xDgL6sLq%2FZZfp%2B6qbetQ3A%3D%3D&trackingId=3HWujBPx6KAt2VmLxpqEVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:46:40",
-        "email_sent": true
-    },
-    {
-        "title": "******** ******** (***, ***)",
-        "company": "**********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-mastercard-4346658790?position=4&pageNum=0&refId=xDgL6sLq%2FZZfp%2B6qbetQ3A%3D%3D&trackingId=k%2Bxy2RvM6zGjorXXyDuHNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:46:40",
-        "email_sent": false
-    },
-    {
-        "title": "********* ********",
-        "company": "******** *******",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-constant-contact-4329810915?position=6&pageNum=0&refId=xDgL6sLq%2FZZfp%2B6qbetQ3A%3D%3D&trackingId=sHiUPRlh7BEjhmPPFGq4VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:46:40",
-        "email_sent": false
-    },
-    {
-        "title": "***** *** ******** ********",
-        "company": "********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-amperity-4346870201?position=7&pageNum=0&refId=xDgL6sLq%2FZZfp%2B6qbetQ3A%3D%3D&trackingId=0hRJizXYQfTklfDX06U8gQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:46:40",
-        "email_sent": false
-    },
-    {
         "title": "**** *******",
         "company": "**** *********",
         "location": "*******, **",
@@ -87,6 +37,26 @@
         "url": "https://www.linkedin.com/jobs/view/entry-level-ai-software-engineer-fintech-at-uptime-crew-4346843963?position=7&pageNum=0&refId=FL0qYH%2Fb6Zoh%2BojYv4%2B64A%3D%3D&trackingId=xU9C77dCG2NVaPtmLQoqrg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 22:41:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "NerdWallet",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-nerdwallet-4346842927?position=3&pageNum=0&refId=LtNFohoMaKBrRei3fcxCIQ%3D%3D&trackingId=rUEBpHOWYH9Q8XGqKxPSGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 22:55:26",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "********** ****** ******* ****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-centerwell-senior-primary-care-4350829884?position=5&pageNum=0&refId=LtNFohoMaKBrRei3fcxCIQ%3D%3D&trackingId=gW3IJT4hmAYte3kD6UnCcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 22:55:26",
         "email_sent": false
     }
 ]
