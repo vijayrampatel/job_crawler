@@ -1,15 +1,5 @@
 [
     {
-        "title": "Product Data Analyst",
-        "company": "Turo",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/product-data-analyst-at-turo-4346793508?position=1&pageNum=0&refId=7PHqwNUwB8xdI9qV1YxbFQ%3D%3D&trackingId=D%2F1X%2F4qA37BhjB31rOtVMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 04:10:07",
-        "email_sent": true
-    },
-    {
         "title": "Healthcare Data Analyst I",
         "company": "Boston Children's Hospital",
         "location": "Boston, MA",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/sr-staff-software-engineer-ui-cloud-platform-management-at-palo-alto-networks-4346647319?position=4&pageNum=0&refId=tj7hkt6xLjl6tvr4fGk2jw%3D%3D&trackingId=RlafkEjnFx%2Bb8hFRg2nX2w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 04:51:01",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Staff Software Engineer (UI Cloud Platform Management)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-software-engineer-ui-cloud-platform-management-at-palo-alto-networks-4346647319?position=3&pageNum=0&refId=A3DB%2BUYaG32quOyfn%2Bc%2BrQ%3D%3D&trackingId=JDXdV6ifd9NkAwOzdQ4TiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 05:24:14",
         "email_sent": false
     }
 ]
