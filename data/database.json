@@ -1,45 +1,5 @@
 [
     {
-        "title": "Analytics Engineer",
-        "company": "Lovable",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-lovable-4342931188?position=3&pageNum=0&refId=BJKMjBUf1EJBhh%2FiEbCqTA%3D%3D&trackingId=Q4l3VkpPGksLef%2BG%2Fz4v9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 10:45:49",
-        "email_sent": true
-    },
-    {
-        "title": "**** ********",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4346686617?position=4&pageNum=0&refId=BJKMjBUf1EJBhh%2FiEbCqTA%3D%3D&trackingId=8lphoII6qXOj9f1WY7BTxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 10:45:49",
-        "email_sent": false
-    },
-    {
-        "title": "********* ******** ********",
-        "company": "**** ******",
-        "location": "*** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-amae-health-4336762013?position=6&pageNum=0&refId=BJKMjBUf1EJBhh%2FiEbCqTA%3D%3D&trackingId=ek2iJOFvNB2qfNpZ%2Fp1%2F7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 10:45:49",
-        "email_sent": false
-    },
-    {
-        "title": "********* ******** ********",
-        "company": "**** ******",
-        "location": "*** *********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-amae-health-4336552709?position=7&pageNum=0&refId=BJKMjBUf1EJBhh%2FiEbCqTA%3D%3D&trackingId=RvqXKS%2BnVnmKdhRe2PcoSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 10:45:49",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Tata Consultancy Services",
         "location": "San Antonio, TX",
@@ -68,5 +28,35 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 11:18:46",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Protingent",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-protingent-4323130696?position=1&pageNum=0&refId=mYvlmZZ%2FqJBD86lYM0MVfg%3D%3D&trackingId=ffiGQVOVX5z%2FTRfA6jSTiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 11:46:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** (**)",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-at-wiraa-4346823057?position=6&pageNum=0&refId=mYvlmZZ%2FqJBD86lYM0MVfg%3D%3D&trackingId=VOTPv8ggmpHoimnA0L3vBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 11:46:14",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4346804471?position=7&pageNum=0&refId=mYvlmZZ%2FqJBD86lYM0MVfg%3D%3D&trackingId=I%2BVBqo9QvPAiHFT%2F3Jp7vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 11:46:14",
+        "email_sent": false
     }
 ]
