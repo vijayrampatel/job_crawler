@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Edmentum",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-edmentum-4346837945?position=2&pageNum=0&refId=JieDjO6LWKhZZJ2OFQr23w%3D%3D&trackingId=n7aUwkX6pWXCeWwCF5MGFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 16:50:14",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4346819304?position=3&pageNum=0&refId=JieDjO6LWKhZZJ2OFQr23w%3D%3D&trackingId=5JEX6EITcpXc3dPyVTaPLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 16:50:14",
-        "email_sent": false
-    },
-    {
-        "title": "******* ******** (******, ***)",
-        "company": "*********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4346990974?position=4&pageNum=0&refId=JieDjO6LWKhZZJ2OFQr23w%3D%3D&trackingId=AAKIFpS6iwpzkKvS1qByvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 16:50:14",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4329852494?position=5&pageNum=0&refId=JieDjO6LWKhZZJ2OFQr23w%3D%3D&trackingId=5E5VPQIvJFyVx4aQsnrlEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 16:50:14",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (******)",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-at-whatnot-4346990977?position=6&pageNum=0&refId=JieDjO6LWKhZZJ2OFQr23w%3D%3D&trackingId=Qej6ija5aAX62K5BV%2Bht9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 16:50:14",
-        "email_sent": false
-    },
-    {
         "title": "Backend Engineer (Python, SQL)",
         "company": "Databento",
         "location": "United States",
@@ -118,5 +68,45 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-01 17:49:20",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Platform Science",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-platform-science-4329902537?position=3&pageNum=0&refId=8eCn4C2U1KkRUZRkUu0cSQ%3D%3D&trackingId=SouFQzAe8QVE0UtdkN3B3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 17:58:33",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** **",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jerry-4349320705?position=5&pageNum=0&refId=8eCn4C2U1KkRUZRkUu0cSQ%3D%3D&trackingId=SlvZxWomKyjSJe3h%2FVbsXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 17:58:33",
+        "email_sent": false
+    },
+    {
+        "title": "**** *********",
+        "company": "******* *** *** ******** *******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pacific-gas-and-electric-company-4346922856?position=6&pageNum=0&refId=8eCn4C2U1KkRUZRkUu0cSQ%3D%3D&trackingId=uSZp4%2FAXQTQapvW0abgCew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 17:58:33",
+        "email_sent": false
+    },
+    {
+        "title": "****** ******* ******** ********, ***** *********",
+        "company": "***********",
+        "location": "*** *********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-fraud-detection-at-crunchyroll-4314088323?position=7&pageNum=0&refId=8eCn4C2U1KkRUZRkUu0cSQ%3D%3D&trackingId=Z5U0wj0DzqnSIqHQjByi3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 17:58:33",
+        "email_sent": false
     }
 ]
