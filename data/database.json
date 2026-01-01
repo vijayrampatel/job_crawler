@@ -1,35 +1,5 @@
 [
     {
-        "title": "** **** ********",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-hirenza-4346865330?position=4&pageNum=0&refId=iKL%2BuTkIBxYRuZ0Ka4TSUw%3D%3D&trackingId=uZ9q2rX%2BXrul8UXjG8aVSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 19:31:58",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "********",
-        "location": "********** **-********* ****",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4329832985?position=6&pageNum=0&refId=iKL%2BuTkIBxYRuZ0Ka4TSUw%3D%3D&trackingId=en1BmwYflQzEVsU8eZozCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 19:31:58",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "********",
-        "location": "********** **-********* ****",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4329823001?position=7&pageNum=0&refId=iKL%2BuTkIBxYRuZ0Ka4TSUw%3D%3D&trackingId=zEG9y8hMUI7IS3YTFPeq%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 19:31:58",
-        "email_sent": false
-    },
-    {
         "title": "********* ********* ********",
         "company": "************",
         "location": "****** ******",
@@ -67,6 +37,46 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sgi-global-llc-4346981398?position=7&pageNum=0&refId=UkSO4t41kDS7MDxRX2leCw%3D%3D&trackingId=WqSPm1%2Fad6c%2FtHV8k4jfPg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-01 20:22:15",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tectonic Software",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tectonic-software-4349320956?position=1&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=hJlCBowcp3wJylnSCWxnjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 20:44:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "RevSpring",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-revspring-4346847836?position=2&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=0z%2FY39tTXTW%2BEtLiNeoktA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 20:44:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4329832985?position=3&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=FyXjFGPIFlbPIpt7lttw9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 20:44:52",
+        "email_sent": false
+    },
+    {
+        "title": "*** ****** *********- **** ****",
+        "company": "****** ******",
+        "location": "***** **** *****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/etl-report-developer-full-time-at-barton-health-4351012091?position=5&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=AcxCtRsMF8LAaQ04Ca4jVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 20:44:52",
         "email_sent": false
     }
 ]
