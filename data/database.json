@@ -1,45 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tectonic Software",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tectonic-software-4349320956?position=1&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=hJlCBowcp3wJylnSCWxnjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 20:44:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RevSpring",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-revspring-4346847836?position=2&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=0z%2FY39tTXTW%2BEtLiNeoktA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 20:44:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4329832985?position=3&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=FyXjFGPIFlbPIpt7lttw9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 20:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "*** ****** *********- **** ****",
-        "company": "****** ******",
-        "location": "***** **** *****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/etl-report-developer-full-time-at-barton-health-4351012091?position=5&pageNum=0&refId=q3GTI5WkzsKSLg0%2B3RvQ4Q%3D%3D&trackingId=AcxCtRsMF8LAaQ04Ca4jVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 20:44:52",
-        "email_sent": false
-    },
-    {
         "title": "**** *******",
         "company": "********",
         "location": "********** **-********* ****",
@@ -107,6 +67,116 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4346971484?position=7&pageNum=0&refId=agVSTSZdBWVb82kIjZ5yqw%3D%3D&trackingId=atCFSGKDmgiY%2ByxMGtTwFg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-01 21:20:19",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Analytics Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-analytics-engineer-at-remotehunter-4329902777?position=4&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=HnL4LuDL6D%2FfeioDyDpr7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, TypeScript)",
+        "company": "Weights & Biases",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-typescript-at-weights-biases-4346884063?position=5&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=TzlqO7HDR%2FPjbUz8rCzJ9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Frontend)",
+        "company": "Skydio",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-skydio-4346913265?position=6&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=tY9CWQrCUnSlHzaJYGOMbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4346971484?position=7&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=wkgvp2iCegiaxXdPyOg9VA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "NVIDIA",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-nvidia-4346990975?position=8&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=6BNinBsUMYeUKWXgzAs1Mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Jerry",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jerry-4349320705?position=9&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=uDEP65zfuFavWFeZayvSPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "BetterHelp",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-betterhelp-4346961341?position=10&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=GX7k9l1UJPn4bRbliGiTiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Pacific Gas and Electric Company",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pacific-gas-and-electric-company-4346922856?position=11&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=SL8Gzb8yN8X4iPzVo0ImIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Columbia University Irving Medical Center",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-columbia-university-irving-medical-center-4350902311?position=12&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=IjXZc1q2WG1lvrUkBNqyfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Kavaliro",
+        "location": "Reston, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kavaliro-4334950840?position=13&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=ThyzQ0hr2ixw1caqQF4QaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Engineer, Business Analytics and Industrial Engineering",
+        "company": "Universal Studios Hollywood",
+        "location": "Universal City, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-business-analytics-and-industrial-engineering-at-universal-studios-hollywood-4342569180?position=14&pageNum=0&refId=2RQhnZlWjIEGnZAaCZr8Rg%3D%3D&trackingId=EXZpE9b3mUYpoiURIjJgXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 21:47:40",
         "email_sent": false
     }
 ]
