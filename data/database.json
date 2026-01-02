@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer, Cloud",
-        "company": "AlphaPoint",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-cloud-at-alphapoint-4346994274?position=3&pageNum=0&refId=xhOWvkyMFOvnbXC6L8K8rA%3D%3D&trackingId=PPz5cp%2FwejH%2BNownbh7tbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 17:01:18",
-        "email_sent": true
-    },
-    {
-        "title": "**** ********",
-        "company": "**********",
-        "location": "******-**** ***** *********",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4349333673?position=6&pageNum=0&refId=xhOWvkyMFOvnbXC6L8K8rA%3D%3D&trackingId=27cFSTUxSoqJx46Gs8Al8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 17:01:18",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "**********",
-        "location": "*******-********* ****",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346984479?position=7&pageNum=0&refId=xhOWvkyMFOvnbXC6L8K8rA%3D%3D&trackingId=Xmd%2Bg3xYPBzJchH6ATQdkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 17:01:18",
-        "email_sent": false
-    },
-    {
         "title": "**** ********",
         "company": "**********",
         "location": "********, **** ************ ****",
@@ -57,6 +27,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346887546?position=7&pageNum=0&refId=OfWkJy%2BTSk3ttV2CrO0%2BIg%3D%3D&trackingId=okFvp4jzCwDJnaszWzUeSw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-02 17:55:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "FactSet",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-factset-4350985669?position=1&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=8JAs5j64SEhH84W8JmuKOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "Greater Philadelphia",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346887557?position=2&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=2CUMrbtIVbrl2pTxPmf59A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "San Antonio, Texas Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346887546?position=3&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=6F9ulkwRLy2EaSFzyr8rkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "**********",
+        "location": "*** **** **** ************ ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346964821?position=4&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=KG%2B03bjrvDaHBDmpqf5xfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** *",
+        "company": "*******",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-factset-4351095439?position=5&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=fZcj4ulMdspX0qWmpNraHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "****** **** ********, **",
+        "company": "**********",
+        "location": "*** **** **** ************ ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-bi-at-talentally-4346916872?position=6&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=FXRY3qPZPjsq7JyStPG9Yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "***** **** ********",
+        "location": "*************, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-beach-tree-holdings-4346868654?position=7&pageNum=0&refId=pnVi180onENMXK3ImA2I7A%3D%3D&trackingId=NVR7yWHNey8vfe%2FWKNJdkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 18:28:29",
         "email_sent": false
     }
 ]
