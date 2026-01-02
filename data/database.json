@@ -1,45 +1,5 @@
 [
     {
-        "title": "Jr. Data Engineer",
-        "company": "Habit Burger & Grill",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-habit-burger-grill-4350896034?position=1&pageNum=0&refId=GTiBDOetzRDMP2QsuX1iKw%3D%3D&trackingId=XHhYoj%2B%2B%2FVFwWExN1hkWnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 20:30:04",
-        "email_sent": false
-    },
-    {
-        "title": "Mid-level Data Engineer / Python / Chicago /Hybrid",
-        "company": "Motion Recruitment",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mid-level-data-engineer-python-chicago-hybrid-at-motion-recruitment-4349372549?position=3&pageNum=0&refId=GTiBDOetzRDMP2QsuX1iKw%3D%3D&trackingId=Fpn8TUL9gYHTN8hnnhiB2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 20:30:04",
-        "email_sent": true
-    },
-    {
-        "title": "**** *******",
-        "company": "****** ********* **********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-moodys-northwest-consulting-4330023313?position=6&pageNum=0&refId=GTiBDOetzRDMP2QsuX1iKw%3D%3D&trackingId=vJpVDzIQE7sh8BNNw8jZ7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 20:30:04",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (*****)",
-        "company": "*****",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-at-jerry-4350895829?position=7&pageNum=0&refId=GTiBDOetzRDMP2QsuX1iKw%3D%3D&trackingId=wvvz3lguwu%2BprqwnLrX3Ug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-02 20:30:04",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Acrisure Innovation",
         "location": "Austin, TX",
@@ -127,6 +87,66 @@
         "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-at-conagra-brands-4329867416?position=7&pageNum=0&refId=Kw47QPTA18g5kiKaLjwzQw%3D%3D&trackingId=kotw8Z0%2BgwKFSVsx6NFvmQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-02 21:16:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "SailPoint",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sailpoint-4349390761?position=2&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=vv%2B8FfTp%2B%2Bk%2BZqqhunuwxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Cloud",
+        "company": "AlphaPoint",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-cloud-at-alphapoint-4346994274?position=3&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=%2FA0nIYDFoDcDZD9cDRForg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (******, ***)",
+        "company": "***** ******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-omada-health-4346984448?position=4&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=b%2BGIvtK0TZDKattMVlJTRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "************, ***",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4329947139?position=5&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=4q8HVtILVZ3yan7BBgqHpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******** */* - ****** ********* - *********",
+        "company": "******** *******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-3-people-analytics-r10217513-at-northrop-grumman-4349382613?position=6&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=v4fXw0CiyCch7RA87yypJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
+        "email_sent": false
+    },
+    {
+        "title": "********* ********",
+        "company": "******* *********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-forward-financing-4346869639?position=7&pageNum=0&refId=mK6ABzp8dm9y350JN28hMw%3D%3D&trackingId=Dk74%2FWLYLeYbJGQzbkUAtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-02 21:30:55",
         "email_sent": false
     }
 ]
