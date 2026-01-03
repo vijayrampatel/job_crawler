@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "NBCUniversal",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbcuniversal-4349318361?position=1&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=Q9Bhuu5cA1FvXbNqlE012w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, HR",
-        "company": "Lawrence Livermore National Laboratory",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hr-at-lawrence-livermore-national-laboratory-4346959591?position=2&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=UXfCqsPdhv%2FuEHw3Ehne%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (API, Roku)",
-        "company": "The Walt Disney Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-roku-at-the-walt-disney-company-4349318360?position=3&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=IVzHRk4eqY%2FDjsdWdQ86Yw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": true
-    },
-    {
-        "title": "******** ******** (***, ***)",
-        "company": "**********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-mastercard-4349337894?position=4&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=XjToOh8TEoDYcOy3Sl%2B5Ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": false
-    },
-    {
-        "title": "******* ******** ********",
-        "company": "**** *******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-cook-medical-4346949502?position=5&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=kPgTZmAD21Op0pLNr4A0ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "****** ************** ********",
-        "location": "****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascent-administration-services-4351130331?position=6&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=avx8xFrrflra%2FmHGLXHhDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": false
-    },
-    {
-        "title": "**** *********",
-        "company": "******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-zillow-4346939859?position=7&pageNum=0&refId=aXNP77WZ9SBl0b7AacRYxg%3D%3D&trackingId=wSW0mcoVj60Hchd8TC%2F35Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 16:47:42",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (API, SQL)",
         "company": "Mastercard",
         "location": "United States",
@@ -198,5 +128,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 17:40:57",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer - Ag & Trading",
+        "company": "Cargill",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ag-trading-at-cargill-4351160395?position=3&pageNum=0&refId=yIwSE8%2BXivs%2FnFfB9sHn%2BA%3D%3D&trackingId=VQYxaxCBIx8IebPOOOOsiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 17:50:26",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***, ****)",
+        "company": "*** **** ****** *******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-roku-at-the-walt-disney-company-4349318360?position=4&pageNum=0&refId=yIwSE8%2BXivs%2FnFfB9sHn%2BA%3D%3D&trackingId=GJ8JdlGyjWEXxWpVqXs4%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 17:50:26",
+        "email_sent": false
     }
 ]
