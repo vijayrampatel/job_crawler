@@ -1,15 +1,5 @@
 [
     {
-        "title": "*******",
-        "company": "******** ********** ********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-appleone-employment-services-4349366135?position=4&pageNum=0&refId=CISmzSZxjlpwa9awHid3YA%3D%3D&trackingId=eO4xrL7QASUtcZlhmRuCSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 09:48:35",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Kforce Inc",
         "location": "Altamonte Springs, FL",
@@ -727,6 +717,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4346968215?position=10&pageNum=2&refId=1VGGrWQDjIJwxH9dtInF2g%3D%3D&trackingId=a%2BGuvaj4MudsBrVHecUnIA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 10:44:22",
+        "email_sent": false
+    },
+    {
+        "title": "**** ******* **, *************",
+        "company": "*****",
+        "location": "*** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-subscriptions-at-clear-4338330047?position=4&pageNum=0&refId=6y1u6FufI1D%2B7lPbYvGM9Q%3D%3D&trackingId=LiWsruaOxJBcWBNklNMZmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 10:55:26",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4354340672?position=5&pageNum=0&refId=6y1u6FufI1D%2B7lPbYvGM9Q%3D%3D&trackingId=pOYO1l3466FgXo2QB18h%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 10:55:26",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*** ****** *****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-voleon-group-4338311139?position=6&pageNum=0&refId=6y1u6FufI1D%2B7lPbYvGM9Q%3D%3D&trackingId=9WiDxn41A9lIAdenCp3AzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 10:55:26",
         "email_sent": false
     }
 ]
