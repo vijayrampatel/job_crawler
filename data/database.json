@@ -1,65 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Bridge Investment Group",
-        "location": "Sandy, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-bridge-investment-group-4301951349?position=1&pageNum=0&refId=plJr6D%2BQQQBYHFeGWXpFhg%3D%3D&trackingId=%2F4cRM0uYxtSOJ7bBPbd8bQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:16:15",
-        "email_sent": true
-    },
-    {
-        "title": "**** *******",
-        "company": "*****",
-        "location": "*** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tennr-4337176900?position=4&pageNum=0&refId=plJr6D%2BQQQBYHFeGWXpFhg%3D%3D&trackingId=iWv8TqWRYpaHGGjp4rzhcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:16:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Public Sector",
-        "company": "Scale AI",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196125615?position=3&pageNum=0&refId=Uy7SO5%2B0FGfx88MMpAhwyg%3D%3D&trackingId=RALLqBu50HCjc%2B2yEVnvSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:30:51",
-        "email_sent": true
-    },
-    {
-        "title": "******** ********, ****** ******",
-        "company": "***** **",
-        "location": "** *****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196125612?position=4&pageNum=0&refId=Uy7SO5%2B0FGfx88MMpAhwyg%3D%3D&trackingId=u9SvRcZ0vybsrTsJCGL38A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:30:51",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********, * ****",
-        "company": "***",
-        "location": "**** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-x-chat-at-xai-4280475218?position=5&pageNum=0&refId=Uy7SO5%2B0FGfx88MMpAhwyg%3D%3D&trackingId=ChLcWlCkBgxgpAQOsoxMeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:30:51",
-        "email_sent": false
-    },
-    {
-        "title": "********** **** *******",
-        "company": "********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-claritev-4302238150?position=6&pageNum=0&refId=Uy7SO5%2B0FGfx88MMpAhwyg%3D%3D&trackingId=YDwip4edn6hZwSIJlkfhJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:30:51",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Kforce Inc",
         "location": "Altamonte Springs, FL",
@@ -87,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196125615?position=4&pageNum=0&refId=zgAbbmhjysp%2FRq3XmTsTRQ%3D%3D&trackingId=5103oXbXD5YYSPqLimnk0w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 11:55:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Pariveda",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4326484566?position=1&pageNum=0&refId=YkQFggyMOl0RmNsv62NWeQ%3D%3D&trackingId=muP%2FR7C19ty6NbOAnfMfLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 12:37:18",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Pariveda",
+        "location": "Arlington, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4325759145?position=2&pageNum=0&refId=YkQFggyMOl0RmNsv62NWeQ%3D%3D&trackingId=dTeMJAGrkJd6mH147r%2F2dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 12:37:18",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********, ****** ******",
+        "company": "***** **",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196125611?position=7&pageNum=0&refId=YkQFggyMOl0RmNsv62NWeQ%3D%3D&trackingId=4RmBDTt2aY6CfbzJir0k2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 12:37:18",
         "email_sent": false
     }
 ]
