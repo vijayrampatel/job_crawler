@@ -1,25 +1,5 @@
 [
     {
-        "title": "**** ******** **",
-        "company": "*** ********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-the-standard-4330400650?position=7&pageNum=0&refId=iUWwtyUGkC%2FF3z2dQHtbjQ%3D%3D&trackingId=VYqVotMVWOB3JvGtqKPAYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 21:43:16",
-        "email_sent": false
-    },
-    {
-        "title": "Graduate 2026 Software Engineer I, US",
-        "company": "Uber",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/graduate-2026-software-engineer-i-us-at-uber-4354681409?position=1&pageNum=0&refId=mxleKjcEY9fBZC7EgyJSTw%3D%3D&trackingId=w2ORIPoHVSwKBEXnDw31cQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 21:55:35",
-        "email_sent": true
-    },
-    {
         "title": "Graduate 2026 Software Engineer I, US",
         "company": "Uber",
         "location": "New York, NY",
@@ -738,5 +718,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 22:43:04",
         "email_sent": true
+    },
+    {
+        "title": "**** ********",
+        "company": "*********",
+        "location": "*******, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-maximatek-4354518402?position=5&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=3096Jm7TGeITeLd0MNPj%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 22:56:34",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "***********",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jellyvision-4354680773?position=6&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=10tUylbiNK1DY1T4rey%2BdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 22:56:34",
+        "email_sent": false
+    },
+    {
+        "title": "****** **** *******",
+        "company": "********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4330371392?position=7&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=JdSoJWC4FztFFcL20UMzbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 22:56:34",
+        "email_sent": false
     }
 ]
