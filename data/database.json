@@ -1,35 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "*********",
-        "location": "*******, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-maximatek-4354518402?position=5&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=3096Jm7TGeITeLd0MNPj%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 22:56:34",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "***********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jellyvision-4354680773?position=6&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=10tUylbiNK1DY1T4rey%2BdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 22:56:34",
-        "email_sent": false
-    },
-    {
-        "title": "****** **** *******",
-        "company": "********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4330371392?position=7&pageNum=0&refId=npgrAsrTbVRnjltj5Y3C6Q%3D%3D&trackingId=JdSoJWC4FztFFcL20UMzbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 22:56:34",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Dash Technologies Inc.",
         "location": "Downey, CA",
@@ -497,6 +467,286 @@
         "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-askpromptai-at-askpromptai-4330421840?position=9&pageNum=2&refId=9YwzBeYiSp21qW%2FkAQWXnQ%3D%3D&trackingId=0M9j%2BzsYZ%2FP3FPfVt9Q7pQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 23:49:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "MaximaTek",
+        "location": "Wyoming, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-maximatek-4354518402?position=1&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=fvZHAP1H9puU5aMsOOcskA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Mid)",
+        "company": "SMX Services & Consulting, Inc.",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-mid-at-smx-services-consulting-inc-4354597256?position=3&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=vv%2FlJmWZcyMT%2BNmS%2FFUaVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4330371392?position=4&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=ub%2FicMQEHb8T53MskUNfhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Visionist, Inc.",
+        "location": "Fort George G. Meade, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-visionist-inc-4354558166?position=5&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=WXjS1Vbzjj7%2BUdYqdHCymA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ARK Solutions, Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ark-solutions-inc-4354528574?position=9&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=q08TaZog5XW5kCvf%2BZP7fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Haystack",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4330581317?position=12&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=FPuJeIXQWbf335rAECPGxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Adobe",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-adobe-4330471206?position=16&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=O7fkAW7WOM%2FcMbUZcM0Acg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4330361169?position=17&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=As80GlnKT7io7ETtN8bchg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "InVision Human Services",
+        "location": "Wexford, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-invision-human-services-4354635343?position=19&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=5g1ROWQCLkA9cAjQgKYGpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "ARK Solutions, Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ark-solutions-inc-4354691170?position=23&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=xhOk9oWOMOJYQS2Vkg0dEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4358180215?position=26&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=gTpwGjYyZdPpgqYBnkc8Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Global Banking & Markets, Goldman Sachs Electronic Trading (GSET)",
+        "company": "Goldman Sachs",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-global-banking-markets-goldman-sachs-electronic-trading-gset-at-goldman-sachs-4330471242?position=27&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=b%2FIslpmw9egzQ0LWk0faQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Davines",
+        "company": "Davines Group | B Corp since 2016",
+        "location": "Brooklyn, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-davines-at-davines-group-b-corp-since-2016-4351137533?position=29&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=RhZh0SFZCWP%2BQR60iH4BpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Applied AI Engineer, Enterprise GenAI",
+        "company": "PreSales Collective",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-enterprise-genai-at-presales-collective-4351287350?position=30&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=dSMTJH00EbOH5QjWVmNjBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer - Software Developer in Test I",
+        "company": "Spectra Logic",
+        "location": "Boulder, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-developer-in-test-i-at-spectra-logic-4349527650?position=36&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=iih9Yoo39Q9YUP2hJYhu5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "OCLC",
+        "location": "Dublin, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-oclc-4358110537?position=37&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=Q9EFp2R7oVmB%2F%2BebUBLvig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Belcan",
+        "location": "Warren, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-belcan-4351127603?position=39&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=TesqKt1Wif%2B6fetvYzym2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4351044910?position=40&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=9ZeGljPAmpmRlzI%2BqE9IcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "2026 University Graduate - Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-university-graduate-software-development-engineer-at-adobe-4330461660?position=43&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=IxMkfsEZJxxlWD9Tzmvzdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Textron",
+        "location": "Waterboro, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-textron-4351186863?position=44&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=R12CXdbQ7lOc9%2FgKlbvaTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Digital Data Analyst",
+        "company": "AAA Auto Club Enterprises",
+        "location": "Costa Mesa, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/digital-data-analyst-at-aaa-auto-club-enterprises-4351327453?position=47&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=tpJjkB11cT6uta4bE5FLgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Solution Engineer (FHIR & CQL)",
+        "company": "Astrata, Inc",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solution-engineer-fhir-cql-at-astrata-inc-4354528379?position=49&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=Dyc84Xmyd4qZL4mUewUXaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Simulator Systems) - TRU Simulation",
+        "company": "Textron",
+        "location": "Lutz, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-simulator-systems-tru-simulation-at-textron-4330491237?position=50&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=4T4KjBDwUDDE%2B%2FZSm2kNXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Vail Resorts",
+        "location": "Broomfield, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-vail-resorts-4354691629?position=55&pageNum=0&refId=G0X75HZTtQaPzKhq3J383A%3D%3D&trackingId=aVWgUL1r%2F7eJUFhYlYbtRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4358180215?position=1&pageNum=2&refId=br3A70u5KXaG4XL5J39WuQ%3D%3D&trackingId=G9R22PGoQji%2BpdOqC7MhvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Global Banking & Markets, Goldman Sachs Electronic Trading (GSET)",
+        "company": "Goldman Sachs",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-global-banking-markets-goldman-sachs-electronic-trading-gset-at-goldman-sachs-4330471242?position=2&pageNum=2&refId=br3A70u5KXaG4XL5J39WuQ%3D%3D&trackingId=xeL1eihG1DDW6znpib4zDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Davines",
+        "company": "Davines Group | B Corp since 2016",
+        "location": "Brooklyn, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-davines-at-davines-group-b-corp-since-2016-4351137533?position=4&pageNum=2&refId=br3A70u5KXaG4XL5J39WuQ%3D%3D&trackingId=kSqf3YscHwYfXV9xcV0crw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
+        "email_sent": false
+    },
+    {
+        "title": "Applied AI Engineer, Enterprise GenAI",
+        "company": "PreSales Collective",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-enterprise-genai-at-presales-collective-4351287350?position=5&pageNum=2&refId=br3A70u5KXaG4XL5J39WuQ%3D%3D&trackingId=Ha5Up5mT917XhFcx%2F9tQHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:58:45",
         "email_sent": false
     }
 ]
