@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "MasterClass",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-masterclass-4343829997?position=1&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=H55hGAEbo1YzP9U1mpE3hQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Manulife",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-manulife-4320525717?position=2&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=NDJVJtbp6NIIPnnztjqhDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Lenexa, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4302579279?position=3&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=nZOHLqVMKWIj3y4hnBkoTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": true
-    },
-    {
-        "title": "**** *******",
-        "company": "****** ***",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kforce-inc-4342786418?position=4&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=YEdZXnmfRAWirAeBVA9%2Fsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": false
-    },
-    {
-        "title": "****** **** ********",
-        "company": "****** ***",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-kforce-inc-4305697695?position=5&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=oQpEg7GN2glKYnlXazPstw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "***** ******* & ***********",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randa-apparel-accessories-4324328615?position=7&pageNum=0&refId=yXhOIYL89ZYKEvNIALC5Eg%3D%3D&trackingId=yrYsAEf9EYcniCi70OEisA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 11:49:03",
-        "email_sent": false
-    },
-    {
         "title": "**** ********",
         "company": "******* ***************",
         "location": "*******, **",
@@ -67,6 +7,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-azurity-pharmaceuticals-4292535743?position=5&pageNum=0&refId=pAPGeR1jvzNzYZu34LmqwQ%3D%3D&trackingId=Xh41aSYL2sV9aLjfcc7G0Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 11:58:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Azurity Pharmaceuticals",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-azurity-pharmaceuticals-4292535743?position=1&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=Yn%2FhQ7exqgJ1XVwB0mctJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Datana",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-datana-4358395417?position=2&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=EiQhapgHFDUjLsDYi%2BTf%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Randa Apparel & Accessories",
+        "location": "Rosemont, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randa-apparel-accessories-4324328615?position=3&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=dOtQCxjVjMNyIRPD5pf9aQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********, ****** ******",
+        "company": "***** **",
+        "location": "*** **** **** ************ ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196122732?position=4&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=5d7azw0Foe16yexENWW5Zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** *******/******** ******* ** (**** ****) \u2013 ****** ******",
+        "company": "*****",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-platform-systems-ii-full-time-%E2%80%93-united-states-at-cisco-4337042192?position=5&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=kz6DI5zz8Kcqou37vBpK8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "*** **** **********",
+        "location": "*** ******, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jsr-tech-consulting-4320554420?position=6&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=BxLDCzT2D55R54sPufVZSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "******",
+        "location": "*** *********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-openai-4344067505?position=7&pageNum=0&refId=Wk%2BKj3uvjJo59qtauheglw%3D%3D&trackingId=LBcRHScbGhr3dAkuxPG9HQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 12:57:36",
         "email_sent": false
     }
 ]
