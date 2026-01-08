@@ -1,35 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "***********",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brooksource-4331510667?position=5&pageNum=0&refId=x%2BtFkSQusFLEDCHevMq9eg%3D%3D&trackingId=uAxu6aUAZ1MT5cZl%2FSEztg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 22:20:15",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (*** ********) - ***** ******* ******** ******",
-        "company": "****",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-graduate-north-america-software-center-at-tsmc-4331980107?position=6&pageNum=0&refId=x%2BtFkSQusFLEDCHevMq9eg%3D%3D&trackingId=Kr%2FQsHzz3ZW5wOdyJLXmMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 22:20:15",
-        "email_sent": false
-    },
-    {
-        "title": "*** **** *******",
-        "company": "****** ***",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-data-analyst-at-kforce-inc-4358925651?position=7&pageNum=0&refId=x%2BtFkSQusFLEDCHevMq9eg%3D%3D&trackingId=LbXMP%2BKUTAez3HXnjV%2FH8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 22:20:15",
-        "email_sent": false
-    },
-    {
         "title": "******** ******** *",
         "company": "************",
         "location": "******, **",
@@ -77,6 +47,66 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-creed-staffing-4331290559?position=5&pageNum=0&refId=h9r7smb4uamlloZcZo3veA%3D%3D&trackingId=%2BfTAaxedirM%2F6ABeOWoY2g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-08 22:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - New College Graduate",
+        "company": "Vectra AI",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-college-graduate-at-vectra-ai-4359650119?position=1&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=jV7dILI%2F%2FYDWtwSsHc17%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Ticketmaster",
+        "location": "Reston, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-ticketmaster-4352082986?position=2&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=HbD%2B%2B3cD2sAYS4BNfzwYEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Brooksource",
+        "location": "Cleveland, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brooksource-4331510667?position=3&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=VSY6h4%2BWd7S1vs96NmUKFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********* ********",
+        "company": "*.**********",
+        "location": "********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-j-mclaughlin-4331910049?position=4&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=ITzpK3N9AZ%2FMuuQrvDCWAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "************",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-innoventrics-4331930452?position=6&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=0Sv4iuQuMaXm2bevtpqLNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
+        "email_sent": false
+    },
+    {
+        "title": "****** ***** ** ********* / **** ********",
+        "company": "*******",
+        "location": "*** ****, ****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/senior-power-bi-developer-data-engineer-at-akkodis-4352132857?position=7&pageNum=0&refId=xiyY54seO%2FpKoX3rmW704w%3D%3D&trackingId=ve0RPmViRjPmmKRvo%2FEhew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 23:20:21",
         "email_sent": false
     }
 ]
