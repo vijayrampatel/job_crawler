@@ -1,35 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "******** **",
-        "location": "*** ****, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-keystone-ai-4331934651?position=4&pageNum=0&refId=ADYeIJZ7fs%2F6jjT0w10QZA%3D%3D&trackingId=GnizXO7TY%2F1w0%2B0ddHMlQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 13:56:15",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "******** **",
-        "location": "*** *********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-keystone-ai-4331594571?position=5&pageNum=0&refId=ADYeIJZ7fs%2F6jjT0w10QZA%3D%3D&trackingId=tIb6Wq4h%2B9p8S4YI%2FsSNwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 13:56:15",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******* (******)",
-        "company": "*** ***** ****** *****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-the-chair-centre-group-4359484791?position=7&pageNum=0&refId=ADYeIJZ7fs%2F6jjT0w10QZA%3D%3D&trackingId=ARnqLzyyAzPD2yqZwqxDHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 13:56:15",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Keystone AI",
         "location": "New York, United States",
@@ -648,5 +618,45 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 14:49:35",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Apexsync Technologies",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-apexsync-technologies-4332204727?position=2&pageNum=0&refId=p0rhEybjvX9rkvUpoPw8%2BQ%3D%3D&trackingId=ea8DxzToHS3gQmoGejHI8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 15:01:01",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********, **",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-waymo-4359653708?position=5&pageNum=0&refId=p0rhEybjvX9rkvUpoPw8%2BQ%3D%3D&trackingId=ygZ1FVnkZRZAO%2FIgLXeB6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 15:01:01",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***, **)",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-db-at-gusto-4359493790?position=6&pageNum=0&refId=p0rhEybjvX9rkvUpoPw8%2BQ%3D%3D&trackingId=nGJAQAC9a02rY6n3KHeeAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 15:01:01",
+        "email_sent": false
+    },
+    {
+        "title": "****** ********",
+        "company": "***** ******* ******* *******",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-swits-digital-private-limited-4359733914?position=7&pageNum=0&refId=p0rhEybjvX9rkvUpoPw8%2BQ%3D%3D&trackingId=trDY19%2Bdh8zLQpc574%2BAyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 15:01:01",
+        "email_sent": false
     }
 ]
