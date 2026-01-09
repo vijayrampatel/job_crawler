@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Inspira Financial",
-        "location": "Oak Brook, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-inspira-financial-4335245236?position=2&pageNum=0&refId=QonRGEAtz%2BfJWYjrst0nnQ%3D%3D&trackingId=HSr6jSlBZ0v73PFwjJ5B%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:22:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (SQL, Python)",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4359734431?position=3&pageNum=0&refId=QonRGEAtz%2BfJWYjrst0nnQ%3D%3D&trackingId=CQj1S%2FQs7Sz0mZ9MxPCNGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:22:00",
-        "email_sent": true
-    },
-    {
-        "title": "**** ********",
-        "company": "**********",
-        "location": "******-**** ***** *********",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4359456663?position=4&pageNum=0&refId=QonRGEAtz%2BfJWYjrst0nnQ%3D%3D&trackingId=SnbR3%2BPbPyYq723wwOVuRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:22:00",
-        "email_sent": false
-    },
-    {
-        "title": "*** **** ********",
-        "company": "*** ********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-at-nlb-services-4331285914?position=6&pageNum=0&refId=QonRGEAtz%2BfJWYjrst0nnQ%3D%3D&trackingId=tCB6tyk1cOR3GT0%2FkxenyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:22:00",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********, **",
-        "company": "*** **** *****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-the-home-depot-4359734430?position=7&pageNum=0&refId=QonRGEAtz%2BfJWYjrst0nnQ%3D%3D&trackingId=wjW6L5qJgIXJAc5TTYrHBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:22:00",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "CoSourcing Partners - Enterprise-AI and IT Services Company",
         "location": "United States",
@@ -68,5 +18,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 17:57:09",
         "email_sent": true
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "Horsham, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4331525939?position=2&pageNum=0&refId=h63bH5ueuwB3VEH0SchDFg%3D%3D&trackingId=I6nOWsO5dwA8GqTEKd5uwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 18:35:27",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***, ******)",
+        "company": "******* ******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4359734431?position=4&pageNum=0&refId=h63bH5ueuwB3VEH0SchDFg%3D%3D&trackingId=5NF4mIIChHWtxBd2edgFYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 18:35:27",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "***** *******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-veeva-systems-4359606353?position=5&pageNum=0&refId=h63bH5ueuwB3VEH0SchDFg%3D%3D&trackingId=jWsfcxf6HtZQLA%2BDddEMVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 18:35:27",
+        "email_sent": false
     }
 ]
