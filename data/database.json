@@ -1,45 +1,5 @@
 [
     {
-        "title": "******** ******** (******, ****)",
-        "company": "*** ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-red-hat-4359933321?position=4&pageNum=0&refId=zDXvfD3gMrW9Xvsevm3WjA%3D%3D&trackingId=ntZdkORSvU5nOIi1tlS07w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 16:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "**/** ********",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-replica-4359983216?position=5&pageNum=0&refId=zDXvfD3gMrW9Xvsevm3WjA%3D%3D&trackingId=OKrJo%2FlTqcT49ADOvphrWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 16:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** ********",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-weave-4359933324?position=6&pageNum=0&refId=zDXvfD3gMrW9Xvsevm3WjA%3D%3D&trackingId=eXi0O6ei%2BKPVM34ffXh6yQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 16:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "*********, ******** ********, ************",
-        "company": "*********",
-        "location": "*** *********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-applications-at-blackrock-4359963282?position=7&pageNum=0&refId=zDXvfD3gMrW9Xvsevm3WjA%3D%3D&trackingId=2WVyID8z7mQQycLFNob5mA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 16:48:22",
-        "email_sent": false
-    },
-    {
         "title": "AI/ML Engineer",
         "company": "Replica",
         "location": "United States",
@@ -268,5 +228,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 17:40:57",
         "email_sent": true
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-haystack-4351852047?position=1&pageNum=0&refId=F4HotWt1Etp8LFnAN4UIlQ%3D%3D&trackingId=6g%2FNeXHw%2B%2FXcjRjwS18zdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 17:51:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4345352050?position=3&pageNum=0&refId=F4HotWt1Etp8LFnAN4UIlQ%3D%3D&trackingId=WRSD%2BEqGenwP3P6EUNHKPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 17:51:01",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "**** ** ******* *************",
+        "location": "***********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ywca-of-western-massachusetts-4360651741?position=7&pageNum=0&refId=F4HotWt1Etp8LFnAN4UIlQ%3D%3D&trackingId=NDUmNiPKeI3NyB6pBZuR5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 17:51:01",
+        "email_sent": false
     }
 ]
