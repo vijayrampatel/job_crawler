@@ -1,46 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Perchwell",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-perchwell-4359926124?position=1&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=%2Bo67rXSWjyHIC%2BQpaUZ2aQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 15:57:44",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Cloud)",
-        "company": "Confluent",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-cloud-at-confluent-4360683678?position=2&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=VHD9LaGzdDhACPgQZXVvig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 15:57:44",
-        "email_sent": true
-    },
-    {
-        "title": "******** ********, **",
-        "company": "******, ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-docker-inc-4360615781?position=5&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=%2BsnZJhvFEHGn7o1XZ15YJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 15:57:44",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (*++, ******)",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-at-waymo-4359777734?position=7&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=sGLu5jYDi9nueGo%2BiNCr4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 15:57:44",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "Recent",
@@ -87,6 +47,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-wiraa-4360616422?position=7&pageNum=0&refId=fDmW%2FLcdW%2Bv9ZspQMxuBKw%3D%3D&trackingId=Att02QwmVdPsgelh%2FAVSnA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 16:29:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "The University of Texas at Austin",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-university-of-texas-at-austin-4359946641?position=1&pageNum=0&refId=O5e8gHKk%2Ftk4EwdlEjppBA%3D%3D&trackingId=QQM74GVtm1ENZ7nWFAkPkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 16:59:32",
+        "email_sent": false
+    },
+    {
+        "title": "Artificial Intelligence Engineer",
+        "company": "Hadron Energy, Inc.",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-hadron-energy-inc-4345384599?position=2&pageNum=0&refId=O5e8gHKk%2Ftk4EwdlEjppBA%3D%3D&trackingId=DGK9tX1hiOWAk2COnfyqlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 16:59:32",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******, **** (******* **** ****)",
+        "company": "*******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-east-eastern-time-zone-at-swooped-4359787018?position=6&pageNum=0&refId=O5e8gHKk%2Ftk4EwdlEjppBA%3D%3D&trackingId=%2BPA2110RGpj47Ma%2FbJ0Shw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 16:59:32",
         "email_sent": false
     }
 ]
