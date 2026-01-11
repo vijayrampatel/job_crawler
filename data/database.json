@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Life360",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-life360-4360605713?position=1&pageNum=0&refId=U2lef3s3s%2BW2Cef7%2FO%2BaWA%3D%3D&trackingId=osbBHpbIO%2F%2Fu01iUQoM0Zw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 14:51:17",
-        "email_sent": true
-    },
-    {
-        "title": "**** ******* (*******)",
-        "company": "******** ***",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-quality-at-clinical-ink-4359796042?position=4&pageNum=0&refId=U2lef3s3s%2BW2Cef7%2FO%2BaWA%3D%3D&trackingId=R2j4MWZwdTE5QsTMfTn37A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 14:51:17",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (**, ***)",
-        "company": "**********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-sql-at-givebutter-4360664285?position=6&pageNum=0&refId=U2lef3s3s%2BW2Cef7%2FO%2BaWA%3D%3D&trackingId=mJ3Ggm1cnlIwWRdqW1dPfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 14:51:17",
-        "email_sent": false
-    },
-    {
         "title": "********** ************ ********",
         "company": "****** ******, ***.",
         "location": "*** ********* *** ****",
@@ -57,6 +27,46 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-east-eastern-time-zone-at-swooped-4359787018?position=6&pageNum=0&refId=aUzj6jj3YKKtaGtYvp0qgA%3D%3D&trackingId=uLmuzbbOjKEOtyq%2ByjQWYg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 15:36:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Perchwell",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-perchwell-4359926124?position=1&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=%2Bo67rXSWjyHIC%2BQpaUZ2aQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 15:57:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (SQL, Cloud)",
+        "company": "Confluent",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-cloud-at-confluent-4360683678?position=2&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=VHD9LaGzdDhACPgQZXVvig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 15:57:44",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********, **",
+        "company": "******, ***",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-docker-inc-4360615781?position=5&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=%2BsnZJhvFEHGn7o1XZ15YJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 15:57:44",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (*++, ******)",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-at-waymo-4359777734?position=7&pageNum=0&refId=xQBzQHKhtUO8rNLD7NOimA%3D%3D&trackingId=sGLu5jYDi9nueGo%2BiNCr4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 15:57:44",
         "email_sent": false
     }
 ]
