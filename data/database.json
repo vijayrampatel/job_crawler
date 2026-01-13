@@ -1,536 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Brooksource",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brooksource-4354786441?position=1&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=N6FpvomrxUoGYoyU6d944g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Enginner",
-        "company": "PADNOS",
-        "location": "Grandville, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-enginner-at-padnos-4354406445?position=2&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=iZAgbvLeUXX5%2BXQdq6hdqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": false
-    },
-    {
-        "title": "Full-Stack Software Engineer (New graduates: United States)",
-        "company": "Wanderlog",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-new-graduates-united-states-at-wanderlog-4361523024?position=3&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=0PKZ3AduL29HNa4N3LC7Yw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "BradyPLUS",
-        "location": "Glenview, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-bradyplus-4352850379?position=4&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=mp6gRi4y6rZ9FPl9D49OMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "BeaconFire Inc.",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4352237829?position=6&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=14T9vX4cZM5gwbLSCJ8jmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "LanceSoft, Inc.",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lancesoft-inc-4354852585?position=7&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=3yE%2BTCwtwSbIp0f%2BBlHfBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Brooksource",
-        "location": "Greater Indianapolis",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-brooksource-4354842639?position=8&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=87kfwqOasNSjfiMh3Pe%2BBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361562640?position=10&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=EPK%2FZbb%2BdoendnyowS1QuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361285932?position=11&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=jXNRYmitxztCTiaTh9301Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361363119?position=13&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=iaebJw9k2IkED%2FT5qjoxXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361601644?position=14&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=AVIRl1KjeHGHu6%2FCvcKsSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572740?position=15&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=CCnrw6zCYR0TIg0b3FQAVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361294301?position=16&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=G0HJ4fIhJwWCwOiTIeIfpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361552760?position=17&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=jQ4NrYhCLtW5FZFl%2B1AEbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361352891?position=18&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=zrIojUUJmRXaVtCDsa9o5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361363118?position=19&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=Edm4QxSQ14Obsn0SKYj3yg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572719?position=20&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=QqfN%2F5S7i3AiBAWhw3mRfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361294041?position=21&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=HSX24wlOccJlv36f%2FVCGHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361591795?position=22&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=n1v2qwwh%2FgGdf44h0dvPLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572953?position=23&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=OwUKvHARTUJjnGJEY5qRfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361294043?position=24&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=jPFFK8FLVjumfzA%2B2BETCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361552763?position=25&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=H42HZ0khXQvU2wGz9xoMNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361353141?position=26&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=ZHTQSfwp9joHF5SVFrOkng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572950?position=27&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=A%2FB3GU1NN0YRcCoN%2BKABXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361503023?position=28&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=FhD7lBWjTfAOiPyjcVeAQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361512706?position=29&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=ihO57k8wljMAoUu0Y%2Bv9Eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361522856?position=30&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=U%2BqKTROjXrV80iadG8JQ3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572700?position=31&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=nWT4Hv6tYkPHsDu1JjXW4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361313133?position=32&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=uPIymLWDo05iAFyeZq%2FBkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361333077?position=33&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=J5KUOHLX6zs9WQno%2FDyojw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361363060?position=34&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=IYTrj%2BXIXJBupgupPLrnHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361552967?position=35&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=MneliJrspbhJbF8Ueq9mKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer- Controls Engineering",
-        "company": "Akkodis",
-        "location": "Round Lake, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-controls-engineering-at-akkodis-4361503037?position=36&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=JxScZSXvjkaBopMg8C4VgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361542857?position=37&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=lSPz303iFVCijlvgPpizkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361372848?position=38&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=iauI7XcLOg6vOMPUfzjHSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361353142?position=39&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=Mck4IGrtZ1L0Xw8ptA4f%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361532775?position=40&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=%2FFG%2BaGhfK9KLSHW%2Flw7I9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361502826?position=41&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=TWCtlgqKryvi1sC0tLEn4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361552733?position=42&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=YMi3u%2FyGLmaIMlAph0HSpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361512672?position=43&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=qnx3a%2BUcw2t8Ds6FSEP77g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361313142?position=44&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=bfdsfZ5LMUOSDjaxfdSHIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361522906?position=46&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=LZvs0U4VHXf0T7oi6AyJAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361363063?position=60&pageNum=0&refId=ugYnBfNMArNjLs7c3HG4Og%3D%3D&trackingId=cLXc%2FL9F075WaoBKHetGUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361353141?position=1&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=yyW8vhxNxmoZ50uIz6Gieg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572950?position=2&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=v9lDfqR8YK6wR81lZUUspQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361503023?position=3&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=IBV3okoz74lFTzKDvUjQ%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361512706?position=4&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=uoAkSWgWUP7Wm36O3zX%2BTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361522856?position=5&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=%2F0tMLZvKyiEgu3HS1nKgqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361572700?position=6&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=AuwfO9fvB7BkQ7qtJrLPKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361313133?position=7&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=FfY%2FG7CVrY22lGlnRxrftg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361333077?position=8&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=8MdIWoYzjiQ2NG8pRiwlbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361294302?position=9&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=0EU62IaIIz4jIOA5RNpIvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4361363060?position=10&pageNum=2&refId=lmMRGC6YCqCbXhJYZesDbg%3D%3D&trackingId=EQRFvjvO6GNo6%2F7sqgy%2B4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-13 15:02:38",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "Dune",
         "location": "United States",
         "date_posted": "Recent",
@@ -1048,5 +518,75 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-13 15:57:09",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Cox Automotive Inc.",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4361294764?position=1&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=LbI656RYOHK3ghv%2BGtgjVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Kforce Inc",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4361523492?position=2&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=PAGs%2FidklHCWzrKCXUkhRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Kforce Inc",
+        "location": "Merrimack, NH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4361563285?position=3&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=DmHG7%2FiwcHzz0tyCknUiEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "****** ** ***-***** **** ********",
+        "company": "****** ***",
+        "location": "*** *****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-to-mid-level-data-engineer-at-kforce-inc-4361513347?position=4&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=yQ0asJeVYwxlvjCnXNkSXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "****** ***",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4361563286?position=5&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=KR6fQ92zKFICj50Zt%2Bfsng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "******* ******",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-insight-global-4354852879?position=6&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=4vfFQzf5IoEHIiy04J8%2Beg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
+    },
+    {
+        "title": "**** ********",
+        "company": "**** *******",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-raas-infotek-4361313711?position=7&pageNum=0&refId=hRKqghrq4W%2BtS6amGirscQ%3D%3D&trackingId=2vn27Af84G9oQBXpJjYOTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 16:34:09",
+        "email_sent": false
     }
 ]
