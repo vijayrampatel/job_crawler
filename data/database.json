@@ -1,35 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "***** **",
-        "location": "**** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-abaka-ai-4341202428?position=4&pageNum=0&refId=rYEMF2sB37JiY8%2BEdK0d8A%3D%3D&trackingId=370%2F5F4FKP4USci2%2FOyBbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 10:56:09",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** - *** ****",
-        "company": "*******",
-        "location": "**********, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-meshyai-4316475202?position=5&pageNum=0&refId=rYEMF2sB37JiY8%2BEdK0d8A%3D%3D&trackingId=sNVXQiUg1OidXsAxuEfoTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 10:56:09",
-        "email_sent": false
-    },
-    {
-        "title": "********* ***** **** ********",
-        "company": "*** ********",
-        "location": "**** **** *****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-azure-data-engineer-at-jet-aviation-4329042342?position=6&pageNum=0&refId=jhx%2BodT1Pbqu1kI%2BbowV7Q%3D%3D&trackingId=EJzaE3q63KJGIfXbPZmhxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 11:20:58",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer 1",
         "company": "ModMed",
         "location": "Boca Raton, FL",
@@ -67,6 +37,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4355061952?position=7&pageNum=0&refId=5OI%2FJV48nlWh1MjI43zADA%3D%3D&trackingId=jXrbOP3Z0RRwue9YF8mcSA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-14 11:52:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Direct To Cell)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-spacex-4308086326?position=1&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=M9MBeGNM4i40iSo1QQ8%2Faw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Reliability Engineer",
+        "company": "Zeta",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-reliability-engineer-at-zeta-4362371177?position=2&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=gb8nhYyuwZHlx%2F%2BzT0qNQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst",
+        "company": "SageSure",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-sagesure-4341067189?position=3&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=64dZjVW1kOKmPEzS95876w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "************",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4355022908?position=4&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=tyaw6x0ftL1%2F5NQ78KQy8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "******** *********** ******** *",
+        "company": "*****",
+        "location": "***** *******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-at-yardi-4340797608?position=5&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=P7x4abfJvqlB0kDPfBOD9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "****** **********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alkami-technology-4335265945?position=6&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=gCPcG6wnYd4wt4UbMdWy8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
+        "email_sent": false
+    },
+    {
+        "title": "**/** ********",
+        "company": "*****",
+        "location": "*** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-starr-4235568776?position=7&pageNum=0&refId=WltUKX1bgGWPvfLRddy72A%3D%3D&trackingId=UZ1D6fH5mYsYULzLgM%2FiHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 12:42:47",
         "email_sent": false
     }
 ]
