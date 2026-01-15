@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Centene Corporation",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4362772895?position=3&pageNum=0&refId=igVQsWK4LqwhLS5sWj5zHw%3D%3D&trackingId=SjQMDei2AaT%2FWlLguMK98g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 21:20:39",
-        "email_sent": true
-    },
-    {
-        "title": "**** ********",
-        "company": "*** ********",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-hartford-4359147001?position=7&pageNum=0&refId=igVQsWK4LqwhLS5sWj5zHw%3D%3D&trackingId=c%2FVuNef6OtbaJQYN11OvAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 21:20:39",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "The Hartford",
         "location": "Columbus, OH",
@@ -77,6 +57,56 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-airbnb-4362792752?position=7&pageNum=0&refId=iQGUZj%2Bfjw0JZeduV%2FkYZw%3D%3D&trackingId=2HjWE%2BNfC3xfZ4ule8Zdyw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 21:52:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Airbnb",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-airbnb-4362792752?position=3&pageNum=0&refId=Sc2LVWH1o%2Br3R%2BpBWi%2BrtA%3D%3D&trackingId=dVgPCixPLvLFPk9NSkRzdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 22:20:40",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4362717232?position=4&pageNum=0&refId=Sc2LVWH1o%2Br3R%2BpBWi%2BrtA%3D%3D&trackingId=5ZPXn01eCWWmKbBMkLi22g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 22:20:40",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "******** ***** *********",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cardinal-group-companies-4357660040?position=5&pageNum=0&refId=Sc2LVWH1o%2Br3R%2BpBWi%2BrtA%3D%3D&trackingId=HPLzL8Wlski%2BJ3NUA1vFxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 22:20:40",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********",
+        "company": "*** *********",
+        "location": "*********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pam-transport-4357699558?position=6&pageNum=0&refId=Sc2LVWH1o%2Br3R%2BpBWi%2BrtA%3D%3D&trackingId=%2BrvKcjon857rUJQOkAeAEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 22:20:40",
+        "email_sent": false
+    },
+    {
+        "title": "******** ********, *",
+        "company": "****** ***.",
+        "location": "*** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-at-people-inc-4354557139?position=7&pageNum=0&refId=Sc2LVWH1o%2Br3R%2BpBWi%2BrtA%3D%3D&trackingId=ji5SHfX9EnAVzq0FwXLi5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 22:20:40",
         "email_sent": false
     }
 ]
