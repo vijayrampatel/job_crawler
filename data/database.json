@@ -1,112 +1,72 @@
 [
     {
-        "title": "**** ********* ********",
-        "company": "******* **********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-barrios-technology-4357649954?position=7&pageNum=0&refId=Ae1vkkfJHrEdHliPoF%2FiKw%3D%3D&trackingId=P8k26h4OFlqg2Y%2B9aW0cRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 22:56:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Swish Analytics",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-swish-analytics-4363600674?position=1&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=LcObA%2BjFGz8w5knzA3Wdtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analytics Engineer",
-        "company": "Barrios Technology",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-barrios-technology-4357649954?position=2&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=VKJG%2FvzAxGvhiUU6wxPLCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer \u2013 AI/ML & MLOps (AWS) || Only USC and Green Card",
-        "company": "Ampstek",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-ai-ml-mlops-aws-only-usc-and-green-card-at-ampstek-4357659899?position=3&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=QvE2Q1jzB%2BL63ovpMeLOjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** ********",
-        "company": "******* ****** ****",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-liberty-dental-plan-4353601701?position=5&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=N8QlFRBXzZvRUpRYQRMnsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "****** ********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insync-staffing-4359172654?position=6&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=UsIerBbZtEPHnN%2B%2BJpi%2BbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "**** *******",
-        "company": "****",
-        "location": "**********, ****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4363500870?position=7&pageNum=0&refId=1JcLHx5B5%2B8MOHhXIByNsw%3D%3D&trackingId=hoCezX%2F45ZEe%2BSEwN4ThuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:22:27",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
-        "company": "Liberty Dental Plan",
-        "location": "Tustin, CA",
+        "company": "CubeSmart",
+        "location": "Malvern, PA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-liberty-dental-plan-4353601701?position=1&pageNum=0&refId=JiJCELWqCU80PpTP6cUGtQ%3D%3D&trackingId=praHcnP4Sa2eo4go4y066g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cubesmart-4363501850?position=1&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=Otr1wFqZM4knLO2MIDMx%2BA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:42:01",
-        "email_sent": true
-    },
-    {
-        "title": "**** ******** \u2013 **/** & ***** (***) || **** *** *** ***** ****",
-        "company": "*******",
-        "location": "******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-ai-ml-mlops-aws-only-usc-and-green-card-at-ampstek-4357659899?position=4&pageNum=0&refId=JiJCELWqCU80PpTP6cUGtQ%3D%3D&trackingId=oTXrQYAs3sfubcetv3a8fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:42:01",
+        "scraped_date": "2026-01-16 01:40:40",
         "email_sent": false
     },
     {
-        "title": "********* ******** ********",
-        "company": "********",
+        "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+        "company": "USAN, Inc.",
+        "location": "Norcross, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-hybrid-norcross-ga-at-usan-inc-4363601340?position=2&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=aWMq9VmAje7zIEJJCUuM0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 01:40:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Gen AI) - 648",
+        "company": "Braintrust",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-gen-ai-648-at-braintrust-4301998801?position=3&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=vKBoS%2FRu4Q3hMXX9foZpLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 01:40:40",
+        "email_sent": false
+    },
+    {
+        "title": "**** *******",
+        "company": "**** ** *** *******",
+        "location": "*** *******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-city-of-san-antonio-4362971392?position=4&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=RgVEMqd4DJMjZHMxof4ArQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 01:40:40",
+        "email_sent": false
+    },
+    {
+        "title": "**** ***** *******",
+        "company": "***** **** ********** ***",
+        "location": "*******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-entry-analyst-at-dream-home-inspection-llc-4360060760?position=5&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=pL2ca5wOAJg%2FfpiZCuvwTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 01:40:40",
+        "email_sent": false
+    },
+    {
+        "title": "***** ** & ********* **** *********",
+        "company": "****** ****** ***********",
         "location": "****** ******",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-cotiviti-4359156145?position=7&pageNum=0&refId=JiJCELWqCU80PpTP6cUGtQ%3D%3D&trackingId=EYOpzgll6zqEl4s%2FVA1ycA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-snowflake-data-developer-at-realty-income-corporation-4363631401?position=6&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=PdwqgOmGzYPTLhlIixcWMA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:42:01",
+        "scraped_date": "2026-01-16 01:40:40",
         "email_sent": false
     },
     {
-        "title": "Data Engineer II",
-        "company": "SimpliSafe",
-        "location": "Boston, MA",
+        "title": "******** ********",
+        "company": "********",
+        "location": "*** **** **** ************ ****",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-simplisafe-4323458468?position=1&pageNum=0&refId=oAgROeUSxRnOFmDNtLG7xw%3D%3D&trackingId=Sj8CUooiOE1FTDykrrqCLg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-luminate-4311183866?position=7&pageNum=0&refId=meCPUl4zCA20srMZ9MCT1Q%3D%3D&trackingId=QN5UNnsaGJrYDlsI0NvPwg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-15 23:55:41",
-        "email_sent": true
+        "scraped_date": "2026-01-16 01:40:40",
+        "email_sent": false
     }
 ]
