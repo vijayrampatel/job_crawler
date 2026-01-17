@@ -1,35 +1,5 @@
 [
     {
-        "title": "******** ********",
-        "company": "******",
-        "location": "*** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-netapp-4353760380?position=5&pageNum=0&refId=ZgLHUj7FJKJ3qMc%2BkkvNmQ%3D%3D&trackingId=XfJxugjy%2FinvCJYQdKwchw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 21:17:17",
-        "email_sent": false
-    },
-    {
-        "title": "******** ******** (**/**)",
-        "company": "*********",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-coreweave-4363777253?position=6&pageNum=0&refId=ZgLHUj7FJKJ3qMc%2BkkvNmQ%3D%3D&trackingId=V0SZijZCNEdW%2BTK5TBXSIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 21:17:17",
-        "email_sent": false
-    },
-    {
-        "title": "****** ******** ******** - ***** * - *********-*",
-        "company": "******** *******",
-        "location": "**** **** ****, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-level-3-r10219600-2-at-northrop-grumman-4363817766?position=7&pageNum=0&refId=ZgLHUj7FJKJ3qMc%2BkkvNmQ%3D%3D&trackingId=aB1hxFas3Y1wiWmCyGvWeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 21:17:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Upstart",
         "location": "United States",
@@ -68,5 +38,75 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 21:55:54",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer (AI/ML)",
+        "company": "CoreWeave",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-coreweave-4363777253?position=1&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=Nv0gMTqJQz191daVsAb6Ng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "Python Software Engineer - Level 3 - R10219600-2",
+        "company": "Northrop Grumman",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-level-3-r10219600-2-at-northrop-grumman-4363817766?position=2&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=SPt6vh1Jp5SUaqkFrPfH6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "Python Software Engineer - Level 3 - R10219600",
+        "company": "Northrop Grumman",
+        "location": "Fairfax, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-level-3-r10219600-at-northrop-grumman-4363857879?position=3&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=qTK5AvEgbPpQtytDjs7XoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (*****, **********)",
+        "company": "*****",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-typescript-at-gusto-4363747044?position=4&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=7qGBMmv6IIPrEbtBuyrrqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "******* ******** ********",
+        "company": "**** ****",
+        "location": "*** ****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-onyx-odds-4360270316?position=5&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=7cCxLJFIGaHunjSj0dOFqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***) - *********",
+        "company": "******** *******",
+        "location": "***********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-aht-r10219672-at-northrop-grumman-4363867826?position=6&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=DcWlY9Wp6nT6MpgHz8FcCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "************** ********",
+        "company": "***** *********** ********** ********",
+        "location": "********** **-********* ****",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/implementation-engineer-at-borel-educational-consulting-services-4363747585?position=7&pageNum=0&refId=RJvF8DrJ%2FXhFykMQf5hUPg%3D%3D&trackingId=ls4WYSsIIeF05PV1WPnJlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 22:18:46",
+        "email_sent": false
     }
 ]
