@@ -1,65 +1,5 @@
 [
     {
-        "title": "******** **** ********",
-        "company": "****** ********** ***.",
-        "location": "********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aviation-data-engineer-at-cignus-consulting-llc-4363756982?position=5&pageNum=0&refId=06vIERrqkw%2BZ0lM1fRJ5XQ%3D%3D&trackingId=97s98qUXVT1mEdRCaq%2BPxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:28:02",
-        "email_sent": false
-    },
-    {
-        "title": "******** ********",
-        "company": "******",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-netapp-4363817025?position=7&pageNum=0&refId=06vIERrqkw%2BZ0lM1fRJ5XQ%3D%3D&trackingId=PG%2BkRUjjMyDpCgzmvGzclg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:28:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, SQL)",
-        "company": "Docker, Inc",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-docker-inc-4363746310?position=1&pageNum=0&refId=oIzMCbJhyrzHAMDxK4Kqeg%3D%3D&trackingId=%2Bo9jZkz3E4S79lDOshdn%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:42:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Atlassian",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-atlassian-4363806219?position=2&pageNum=0&refId=oIzMCbJhyrzHAMDxK4Kqeg%3D%3D&trackingId=0VZD8vETGt6VMDLi8vAQ5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:42:35",
-        "email_sent": true
-    },
-    {
-        "title": "Backend Engineer (Python, SQL)",
-        "company": "Sift",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-sift-4363896159?position=3&pageNum=0&refId=oIzMCbJhyrzHAMDxK4Kqeg%3D%3D&trackingId=tcL5sUPD4z%2FTN%2BUGwAnZ4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:42:35",
-        "email_sent": true
-    },
-    {
-        "title": "******** ******** (******, **)",
-        "company": "*******",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-newtonx-4364036420?position=6&pageNum=0&refId=oIzMCbJhyrzHAMDxK4Kqeg%3D%3D&trackingId=tkdM3uWPn5JcoeOyedeYgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 15:42:35",
-        "email_sent": false
-    },
-    {
         "title": "******** ********",
         "company": "******",
         "location": "*** ****, **",
@@ -147,6 +87,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-wiraa-4363777253?position=7&pageNum=0&refId=azYTM%2BI75JDDF%2B1ZZVo2ng%3D%3D&trackingId=5ZEyQVulwqzDw1LAykg2ag%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 16:21:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Upstart",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-upstart-4363767043?position=3&pageNum=0&refId=NPUNaZGgvvdTvn0HNcuZOQ%3D%3D&trackingId=Ds25N%2BW5%2FWuhumeUVezunQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 16:45:42",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (***, ***)",
+        "company": "******* ******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-general-motors-4363847050?position=5&pageNum=0&refId=NPUNaZGgvvdTvn0HNcuZOQ%3D%3D&trackingId=xmTyR2Qogs1%2Fhwo9YzH11Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 16:45:42",
+        "email_sent": false
+    },
+    {
+        "title": "******** ******** (**/**)",
+        "company": "*********",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-coreweave-4363777253?position=7&pageNum=0&refId=NPUNaZGgvvdTvn0HNcuZOQ%3D%3D&trackingId=d6wOUFJhBBTbixln%2Fs94rg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 16:45:42",
         "email_sent": false
     }
 ]
