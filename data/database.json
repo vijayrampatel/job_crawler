@@ -1,25 +1,5 @@
 [
     {
-        "title": "**** *********",
-        "company": "*******",
-        "location": "*** *********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-prachub-4360241183?position=4&pageNum=0&refId=dX96vhvMQFAVEb%2F%2BPJl1oA%3D%3D&trackingId=hQqB9fRkQ2WupZf8zaCFCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:33:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer I",
-        "company": "Cox Automotive Inc.",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4361294764?position=1&pageNum=0&refId=ETLe9TBNLYgd3%2BLYMm708A%3D%3D&trackingId=za4EGqJQTp0GAq%2BXhXnf4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:51:01",
-        "email_sent": true
-    },
-    {
         "title": "Junior Software Engineer (Graduate)",
         "company": "Ant-Tech",
         "location": "New York, United States",
@@ -47,6 +27,46 @@
         "url": "https://www.linkedin.com/jobs/view/traffic-management-specialist-at-atkinsr%C3%A9alis-4363898426?position=7&pageNum=0&refId=udrTE4bRUtMvjxhZSTFoPw%3D%3D&trackingId=UnF%2Fh8EXQV9v2QaRFp%2BZYA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-18 06:29:53",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4360300857?position=1&pageNum=0&refId=3fnPloM5DOZRtHHLGUDzLA%3D%3D&trackingId=ATusAeGbIQ5s%2Bl2pnu%2F%2BYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:55:32",
+        "email_sent": false
+    },
+    {
+        "title": "Snowflake DBT SQL Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/snowflake-dbt-sql-data-engineer-at-tata-consultancy-services-4360114215?position=3&pageNum=0&refId=3fnPloM5DOZRtHHLGUDzLA%3D%3D&trackingId=f3v8igWCRH88%2FPgwegVqKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:55:32",
+        "email_sent": false
+    },
+    {
+        "title": "******** ****** **********",
+        "company": "**** *********** ********",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-system-management-at-tata-consultancy-services-4360310317?position=4&pageNum=0&refId=3fnPloM5DOZRtHHLGUDzLA%3D%3D&trackingId=mxahT095UEsP5gVgwTWi%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:55:32",
+        "email_sent": false
+    },
+    {
+        "title": "*******",
+        "company": "**** *********** ********",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4360201228?position=5&pageNum=0&refId=3fnPloM5DOZRtHHLGUDzLA%3D%3D&trackingId=kJalTwZ6s4Y2TaAw8TfOPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:55:32",
         "email_sent": false
     }
 ]
