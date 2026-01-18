@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4360300857?position=2&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=4nJ2dluhkfa7HghMCH%2FD8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": true
-    },
-    {
-        "title": "Snowflake DBT SQL Data Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/snowflake-dbt-sql-data-engineer-at-tata-consultancy-services-4360114215?position=3&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=i9OO9Gb4AxazE%2BIQpgiznw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": true
-    },
-    {
-        "title": "***** ******* ******** ********",
-        "company": "*********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/linux-devices-software-engineer-at-canonical-4363808503?position=4&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=afJn9sryc7ar9Cz12nV8CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": false
-    },
-    {
-        "title": "***** ******* ******** ********",
-        "company": "*********",
-        "location": "*********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/linux-devices-software-engineer-at-canonical-4363778659?position=5&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=wxnwG5pHgLTzQkoGx8mWMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": false
-    },
-    {
-        "title": "******** ****** **********",
-        "company": "**** *********** ********",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-system-management-at-tata-consultancy-services-4360310317?position=6&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=aEZxuZLyvtIKi2iG4KE7WA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": false
-    },
-    {
-        "title": "*******",
-        "company": "**** *********** ********",
-        "location": "**********, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4360201228?position=7&pageNum=0&refId=DI0qmz0G8moGJzxr7zXezQ%3D%3D&trackingId=Zsh4%2BiNAPwUarQwIu11nMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:00:50",
-        "email_sent": false
-    },
-    {
         "title": "**** *********",
         "company": "*******",
         "location": "*** *********, **",
@@ -78,5 +18,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-18 05:51:01",
         "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer (Graduate)",
+        "company": "Ant-Tech",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-graduate-at-ant-tech-4353732059?position=2&pageNum=0&refId=udrTE4bRUtMvjxhZSTFoPw%3D%3D&trackingId=VRxgeyyw6ueVRJeIetsxIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:29:53",
+        "email_sent": false
+    },
+    {
+        "title": "******* ********** **********",
+        "company": "*******\u00e9****",
+        "location": "**********, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/traffic-management-specialist-at-atkinsr%C3%A9alis-4364038686?position=6&pageNum=0&refId=udrTE4bRUtMvjxhZSTFoPw%3D%3D&trackingId=SaxaWAgmH8fSzELFdph80Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:29:53",
+        "email_sent": false
+    },
+    {
+        "title": "******* ********** **********",
+        "company": "*******\u00e9****",
+        "location": "*****, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/traffic-management-specialist-at-atkinsr%C3%A9alis-4363898426?position=7&pageNum=0&refId=udrTE4bRUtMvjxhZSTFoPw%3D%3D&trackingId=UnF%2Fh8EXQV9v2QaRFp%2BZYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:29:53",
+        "email_sent": false
     }
 ]
