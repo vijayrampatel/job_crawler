@@ -1,25 +1,5 @@
 [
     {
-        "title": "**** ********",
-        "company": "***** ********** ***********",
-        "location": "*******, **",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-altus-consulting-corporation-4364085246?position=6&pageNum=0&refId=xgNL2v1cv%2FSNg3pDkb0jQw%3D%3D&trackingId=M%2B9TsYmOYLc850g6fd88cA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-19 20:33:48",
-        "email_sent": false
-    },
-    {
-        "title": "**** ******* (**********)",
-        "company": "*****",
-        "location": "****** ******",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-at-wiraa-4364244221?position=7&pageNum=0&refId=xgNL2v1cv%2FSNg3pDkb0jQw%3D%3D&trackingId=FbEaviWwy%2F9sEYBMpVHWUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-19 20:33:48",
-        "email_sent": false
-    },
-    {
         "title": "Database Engineer",
         "company": "TherapyNotes, LLC",
         "location": "United States",
@@ -718,5 +698,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-19 21:19:32",
         "email_sent": true
+    },
+    {
+        "title": "**** *******",
+        "company": "*******",
+        "location": "****** ******",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-upstart-4364621174?position=6&pageNum=0&refId=O4UVWO8HcU2jnjlXRWWzUQ%3D%3D&trackingId=G%2F64aX8TKQ3cV%2BWbw71skA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-19 21:37:44",
+        "email_sent": false
+    },
+    {
+        "title": "** ******** - **** ******** *** *****, ****",
+        "company": "*****",
+        "location": "******, **",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sw-engineer-data-services-for-genai-aidp-at-apple-4360952088?position=7&pageNum=0&refId=O4UVWO8HcU2jnjlXRWWzUQ%3D%3D&trackingId=89lpqO0bhNoMIcjp%2B8mSAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-19 21:37:44",
+        "email_sent": false
     }
 ]
