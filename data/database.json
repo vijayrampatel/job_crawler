@@ -1,155 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Oliver James",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-oliver-james-4362617101?position=1&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=V7KN%2B1aJpraF%2BXySRywJZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Randstad Digital Americas",
-        "location": "Roanoke, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randstad-digital-americas-4362189192?position=6&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=5i0dRNvU5XlHqwgg91%2BxIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "BuildOps",
-        "location": "Raleigh-Durham-Chapel Hill Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-buildops-4331500214?position=9&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=%2Flju%2FK2W%2FghEupSSdTmzng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ascensus",
-        "location": "Newton, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascensus-4365380567?position=20&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=Jh%2Bk3Us1JsrkmyMnAngBmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ascensus",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascensus-4365379661?position=21&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=I0qkl%2F0Rh9rBCf14bIV%2FNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer AI/ML",
-        "company": "APi Group",
-        "location": "Greater Minneapolis-St. Paul Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-api-group-4362645562?position=29&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=wZh%2Bs18AIz77qUJWkVumJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ascensus",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascensus-4365379663?position=35&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=Vv0lNccOSmgvMh17I8ImhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Robotics",
-        "company": "Wonder",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-robotics-at-wonder-4365374779?position=36&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=QTQ3zW8c9wmQtjHMwK98JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst and Data Visualization Specialist OPS",
-        "company": "Florida State University",
-        "location": "Tallahassee, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-and-data-visualization-specialist-ops-at-florida-state-university-4365370872?position=41&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=HWBaVz9hEdFQTmIBo2V%2BrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Bioinformatics Analyst",
-        "company": "Cincinnati Children's",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatics-analyst-at-cincinnati-children-s-4365380119?position=42&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=OVUOJ4ACmWRIcFXtScHbFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist - Product Engineering",
-        "company": "Koah",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-product-engineering-at-koah-4365356928?position=43&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=40F8rEHkynQvIVjDs%2FC4%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Model Validation Analyst",
-        "company": "OptionMetrics",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/jr-model-validation-analyst-at-optionmetrics-4365365967?position=46&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=3VQatDv5QIgnLlfwl4Buhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Avidity Science - Americas",
-        "location": "Waterford, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-avidity-science-americas-4354167369?position=60&pageNum=0&refId=dKV70XK7fgnkCwcqEZ5Egg%3D%3D&trackingId=L2GvlPd8fgzKHpY%2FeJfCow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer AI/ML",
-        "company": "APi Group",
-        "location": "Greater Minneapolis-St. Paul Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-api-group-4362645562?position=4&pageNum=2&refId=qMJZGuA%2FNK72xrxUDOhHGQ%3D%3D&trackingId=5p6kfOjjMhN0xGUVBQ0gXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ascensus",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascensus-4365379663?position=10&pageNum=2&refId=qMJZGuA%2FNK72xrxUDOhHGQ%3D%3D&trackingId=PQFooNxYVHD8OCt3cqLSwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-22 21:59:27",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer",
         "company": "Halo Industries, Inc.",
         "location": "Santa Clara, CA",
@@ -858,5 +708,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-22 22:51:27",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "JeffreyM Consulting",
+        "location": "Greater Seattle Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jeffreym-consulting-4362528212?position=41&pageNum=0&refId=a%2Fvqo6jIsmxlvvxr6cRMSw%3D%3D&trackingId=NKKqLeof0TJMo8D%2B4G3RUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-22 23:20:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Energy Efficiency (Remote)",
+        "company": "CLEAResult",
+        "location": "Rhode Island, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-energy-efficiency-remote-at-clearesult-4355266882?position=54&pageNum=0&refId=a%2Fvqo6jIsmxlvvxr6cRMSw%3D%3D&trackingId=yDW6WHhtMneGdh70ZMGnMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-22 23:20:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Energy Efficiency (Remote)",
+        "company": "CLEAResult",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-energy-efficiency-remote-at-clearesult-4354226945?position=56&pageNum=0&refId=a%2Fvqo6jIsmxlvvxr6cRMSw%3D%3D&trackingId=4NV2otY4e%2ByJu1N2Ox00dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-22 23:20:20",
+        "email_sent": false
     }
 ]
