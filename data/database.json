@@ -1,25 +1,5 @@
 [
     {
-        "title": "GCP Data Scientist",
-        "company": "Capgemini",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gcp-data-scientist-at-capgemini-4321356883?position=15&pageNum=0&refId=z%2FcOuXMJ%2FUou0fN0m3RTEA%3D%3D&trackingId=S9XFDxJTDFaoBRleCnI7xg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 22:40:10",
-        "email_sent": true
-    },
-    {
-        "title": "Quality Assurance (QA) Specialist",
-        "company": "Mass Markets",
-        "location": "Los Angeles Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-assurance-qa-specialist-at-mass-markets-4355791166?position=19&pageNum=0&refId=z%2FcOuXMJ%2FUou0fN0m3RTEA%3D%3D&trackingId=9sTDbFPCyZhNxGdkGzXAFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 22:40:10",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "Fusemachines",
         "location": "United States",
@@ -48,5 +28,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-24 23:18:42",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Sonimus",
+        "location": "Arizona, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sonimus-4365693805?position=1&pageNum=0&refId=urFkWIri1tjuPb%2Bfn5mt%2Bw%3D%3D&trackingId=GKq5CcoYpzB2NheexkxluQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 23:47:41",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4355811261?position=2&pageNum=0&refId=urFkWIri1tjuPb%2Bfn5mt%2Bw%3D%3D&trackingId=8KZJzcRsBZbQeqBU32H8kQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 23:47:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Integration Manufacturing Engineer",
+        "company": "VanAire",
+        "location": "Gladstone, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-integration-manufacturing-engineer-at-vanaire-4321510674?position=5&pageNum=0&refId=urFkWIri1tjuPb%2Bfn5mt%2Bw%3D%3D&trackingId=wxYGim9fMJiv0DqUdzQZKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 23:47:41",
+        "email_sent": false
     }
 ]
