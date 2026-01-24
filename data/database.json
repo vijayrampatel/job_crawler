@@ -1,15 +1,5 @@
 [
     {
-        "title": "Telephone Operator",
-        "company": "Kaiser Permanente",
-        "location": "Honolulu, HI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/telephone-operator-at-kaiser-permanente-4363429981?position=22&pageNum=0&refId=DGMm86qX9zJuDHKnNwckhQ%3D%3D&trackingId=0ZEn9zuqBRgMk9yqxgZQag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 17:57:30",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Hirenza",
         "location": "United States",
@@ -78,5 +68,55 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-24 18:56:35",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4365679693?position=3&pageNum=0&refId=5FW%2FQafr187fidNq%2FHTPmQ%3D%3D&trackingId=MGYfRwECA2XfzmURq9M68g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 19:17:36",
+        "email_sent": false
+    },
+    {
+        "title": "IT Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analyst-at-best-job-tool-4365681531?position=4&pageNum=0&refId=5FW%2FQafr187fidNq%2FHTPmQ%3D%3D&trackingId=zp1fZSJYWWbsHZnw8QGyyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 19:17:36",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-best-job-tool-4365684485?position=5&pageNum=0&refId=5FW%2FQafr187fidNq%2FHTPmQ%3D%3D&trackingId=p3%2BpTvcyvl5l0ucWiwrIfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 19:17:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4365673857?position=10&pageNum=0&refId=5FW%2FQafr187fidNq%2FHTPmQ%3D%3D&trackingId=RwUP%2B15qB8ax4WcgguYsog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 19:17:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Analyst 1",
+        "company": "Inside Higher Ed",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-1-at-inside-higher-ed-4365677797?position=12&pageNum=0&refId=5FW%2FQafr187fidNq%2FHTPmQ%3D%3D&trackingId=%2Fqzffxw8FG5k3PIWjsOCxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 19:17:36",
+        "email_sent": false
     }
 ]
