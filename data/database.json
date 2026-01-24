@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Fusemachines",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fusemachines-4365685286?position=1&pageNum=0&refId=WViOCM7cDRYFuiJFkDUAZw%3D%3D&trackingId=d8LH%2BbSHdE%2BAEdyvkqlzHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 22:52:29",
-        "email_sent": true
-    },
-    {
-        "title": "Avionics Software Engineer",
-        "company": "Energy Job Search",
-        "location": "Grand Rapids, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/avionics-software-engineer-at-energy-job-search-4321311162?position=18&pageNum=0&refId=WViOCM7cDRYFuiJFkDUAZw%3D%3D&trackingId=PoTlof5tJPmRddpugL5bmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 22:52:29",
-        "email_sent": false
-    },
-    {
         "title": "IT Data Analyst",
         "company": "RIX Industries",
         "location": "Benicia, CA",
@@ -58,5 +38,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-24 23:47:41",
         "email_sent": true
+    },
+    {
+        "title": "GCP Data Scientist",
+        "company": "Capgemini",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/gcp-data-scientist-at-capgemini-4321356883?position=3&pageNum=0&refId=62m3za9xNgZ4Z8GHDbnNvQ%3D%3D&trackingId=KKJfYaB40kL3byDCgD2tOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 23:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Assurance (QA) Specialist",
+        "company": "Mass Markets",
+        "location": "Los Angeles Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-qa-specialist-at-mass-markets-4355791166?position=6&pageNum=0&refId=62m3za9xNgZ4Z8GHDbnNvQ%3D%3D&trackingId=P0683PiQS7ZTSZGcx6%2BzsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 23:57:07",
+        "email_sent": false
     }
 ]
