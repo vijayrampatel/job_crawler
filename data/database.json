@@ -1,106 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "DraftKings Inc.",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-draftkings-inc-4367005832?position=2&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=OVdQrvMjoZ%2FAtiCb%2FCVjjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ripple",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ripple-4311837319?position=6&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=F5U1E5%2FI9Wf%2BE76aHC8e6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Apple",
-        "location": "Cupertino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367022334?position=9&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=jw4ViCrz2aCmOOXVI3lcsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "SQL Developer",
-        "company": "Confidential Company",
-        "location": "Greater Cleveland",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-developer-at-confidential-company-4367023365?position=14&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=epu5MO7W7%2FA3R93oau5Sgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "MCA Connect",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-mca-connect-4358775130?position=20&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=N70yJ8xIndAOhAATmrJoBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "General Dynamics Mission Systems",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-general-dynamics-mission-systems-4367011592?position=32&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=JMllWGA5plFs1TGGK4QnwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "ETS",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ets-4343446338?position=37&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=EDfy45k7kjXGr2L%2Bv7xOPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Data Scientist",
-        "company": "MD Anderson Cancer Center",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-md-anderson-cancer-center-4367317514?position=38&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=CTz6O7vlqe5ct3%2FPcw645A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Developer",
-        "company": "Children's Healthcare of Atlanta",
-        "location": "Brookhaven, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-developer-at-children-s-healthcare-of-atlanta-4367330604?position=52&pageNum=0&refId=kE8ZkZbiXzdBFkKK21zMgQ%3D%3D&trackingId=EBUt9Tr1RsWC%2BeozkTuVqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "General Dynamics Mission Systems",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-general-dynamics-mission-systems-4367011592?position=7&pageNum=2&refId=zg9KtQWVIvXwaeg8FlK1Zw%3D%3D&trackingId=xsh9I97SdILpwPGH2Ak1%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 20:59:10",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "Amentum",
         "location": "Arlington, VA",
         "date_posted": "Recent",
@@ -678,5 +578,195 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-29 21:56:49",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356093761?position=10&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=ASGEjler1v3BLuz1UbUv6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "IBM Data Power Developer",
+        "company": "Softcom Systems Inc",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ibm-data-power-developer-at-softcom-systems-inc-4367019669?position=13&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=rFLKC2xTyij4zn2RuVRK8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Kforce Inc",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-kforce-inc-4367348111?position=16&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=TtvaLFg%2B1bki8s71VtLk3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Kforce Inc",
+        "location": "Tempe, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-kforce-inc-4367341952?position=19&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=aRNCK2e%2BcAfO%2F0n8OWiNtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356556718?position=26&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=0FLXO0%2BWZb1lZqkwnN8tSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4356460571?position=37&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=XcTtjv4TakX4EJegw9g0uA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-software-engineer-associate-dallas-at-goldman-sachs-4367015718?position=39&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=C3M8Ntk2cf%2BqHhw3qyHX7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "East Windsor, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4356655063?position=40&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=4V2stgQFRuPBdB9y1lB7XQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": ".Net Developer / Software Engineer",
+        "company": "Vernovis",
+        "location": "Cincinnati, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/net-developer-software-engineer-at-vernovis-4367358023?position=41&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=k%2FnPByrpz7TRob8jSY2x7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "Comcast",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-comcast-4367187217?position=42&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=Q3dU8TyKCi8u%2Bx9hEPQwTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I - LRX Core",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-lrx-core-at-crunchyroll-4367016798?position=45&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=9yCrmmjo887ILX%2FPqMDd2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Insight Global",
+        "location": "Spring, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-insight-global-4367015600?position=49&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=%2BdpNiDmddFIcTq7cPSLWIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "swipejobs",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-swipejobs-4367353104?position=52&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=NAW4BmHazEkb3zReP3pfvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - LRX Core",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-lrx-core-at-crunchyroll-4367012893?position=53&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=Uu2E7Z5wnEuxXmXqaHP1tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Automation Analyst (Remote)",
+        "company": "CrowdStrike",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-automation-analyst-remote-at-crowdstrike-4356577948?position=54&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=Q8mAZmosjmUY%2FZhb2fR%2BGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Frontend",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-frontend-at-crunchyroll-4367017783?position=58&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=THRNGLpvL1SoXPJYs4G5VQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Baseball Data Support Coordinator (Seasonal)",
+        "company": "Major League Baseball (MLB)",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/baseball-data-support-coordinator-seasonal-at-major-league-baseball-mlb-4344338067?position=59&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=7lbsx6BDgKG31bR5730RsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Safety Engineer: Multiple levels",
+        "company": "Torch Technologies, Inc.",
+        "location": "Redstone Arsenal, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-safety-engineer-multiple-levels-at-torch-technologies-inc-4367336990?position=60&pageNum=0&refId=hUqGovXdFj8tDYYqzWeR%2Fw%3D%3D&trackingId=WUb%2BWCc%2Fz839ui1lZeIt4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356556718?position=1&pageNum=2&refId=7iURltJzztposLIDHOzKnw%3D%3D&trackingId=sRAHeoh0BDuRQbUWCSTXWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:28:32",
+        "email_sent": false
     }
 ]
