@@ -1,15 +1,5 @@
 [
     {
-        "title": "Travel Data Analyst",
-        "company": "Tetra Tech",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/travel-data-analyst-at-tetra-tech-4367951466?position=25&pageNum=0&refId=Luv8TYMdYXObY2D%2FJMSrvg%3D%3D&trackingId=waQVKPJCgLmeySriNdL9gQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-31 20:24:17",
-        "email_sent": true
-    },
-    {
         "title": "AI Software Engineer",
         "company": "Johnson Controls",
         "location": "Milwaukee, WI",
@@ -38,5 +28,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-31 21:00:40",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "NavMD",
+        "location": "Overland Park, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-navmd-4367595322?position=1&pageNum=0&refId=mR8dgzJNHNqTYzI%2BbF1hrg%3D%3D&trackingId=JtDRruXqXiUJIEhSEFReng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 21:31:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst SQL Focused",
+        "company": "eNGINE",
+        "location": "Greater Pittsburgh Region",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sql-focused-at-engine-4367939754?position=2&pageNum=0&refId=mR8dgzJNHNqTYzI%2BbF1hrg%3D%3D&trackingId=R3pBkGncxZKfoXLJZg4rXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 21:31:14",
+        "email_sent": false
     }
 ]
