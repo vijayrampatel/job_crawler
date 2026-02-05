@@ -40,15 +40,15 @@ jobs:
       - name: Run LinkedIn crawler
         run: python linkedin_crawler.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git pull --rebase origin main
-          git add data/database.json
-          git add data/carwler.json
-          git commit -m "Update job database [skip ci]" || echo "No changes to commit"
-          git push origin main
+      # - name: Commit and push changes
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "GitHub Action"
+      #     git pull --rebase origin main
+      #     git add data/database.json
+      #     git add data/carwler.json
+      #     git commit -m "Update job database [skip ci]" || echo "No changes to commit"
+      #     git push origin main
         
       - name: Run TF-IDF matcher
         env:
