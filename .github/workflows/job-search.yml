@@ -48,7 +48,7 @@ jobs:
           git add data/carwler.json
           git commit -m "Update job database [skip ci]" || echo "No changes to commit"
           git pull --rebase origin main
-          git push
+          git push origin main
         
       - name: Run TF-IDF matcher
         env:
@@ -64,6 +64,6 @@ jobs:
           git add data/database.json
           git add data/carwler.json
           git commit -m "Update job database [skip ci]" || echo "No changes to commit"
-          git pull
-          git push
+          git pull --rebase origin main
+          git push origin main
 
