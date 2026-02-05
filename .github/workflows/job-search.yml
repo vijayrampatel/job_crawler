@@ -44,10 +44,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin main
           git add data/database.json
           git add data/carwler.json
           git commit -m "Update job database [skip ci]" || echo "No changes to commit"
+          git pull
           git push origin main
         
       - name: Run TF-IDF matcher
