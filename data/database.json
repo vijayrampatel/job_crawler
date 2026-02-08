@@ -1,165 +1,5 @@
 [
     {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4370331533?position=2&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=jpcuT6QzxCFPw2edps7KxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4370322742?position=3&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=tWYF%2Fg71fdN0sW%2FTwJYlog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4370327627?position=4&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=QXVijsgGrXZDuJZ9QZOn4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Machine Learning Feature Store",
-        "company": "Snowflake",
-        "location": "Bellevue, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-feature-store-at-snowflake-4311164535?position=5&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=RlhAAunCj3y%2BS0QfnLjLDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-wiraa-4370329621?position=6&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=YtPrGA0qcM3mLMMZnSHS4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer - Product Experiences",
-        "company": "Snowflake",
-        "location": "Bellevue, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-product-experiences-at-snowflake-4205346015?position=7&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=pUe4x%2FS4QmFn0zntu%2FaIJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (AI, Js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-js-at-wiraa-4370314999?position=9&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=llFtXeznxraKQDxjW7dwyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4370335151?position=11&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=2FfJNB2BT%2BPwQTfITgiiig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wiraa-4370329619?position=14&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=HAyzW%2Fr3xXghdkgo6y2zeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer \u2013 Distributed Systems (Unimog L4 Load Balancer)",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-distributed-systems-unimog-l4-load-balancer-at-cloudflare-4316239705?position=15&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=cwuTGHsunJYM%2BjGe5eCr8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Security",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-at-wiraa-4370331534?position=16&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=LU0wARyp5VRWX5m2oMsgEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Collins Aerospace",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-collins-aerospace-4310436940?position=17&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=fgNl19rUfrNKVzp3Y02Ekw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Java, Kotlin)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-kotlin-at-wiraa-4370333298?position=18&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=LfwlnQK0860m1rRvd0tSQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4370322740?position=19&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=VmrUnK9oS4f2vseK83iN2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Researcher \u2013 HFT Futures/Equities",
-        "company": "Optiver",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-%E2%80%93-hft-futures-equities-at-optiver-3655308590?position=20&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=wvuHz7lPn4FauZ%2B38DniOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
-        "title": "M/E Engineer 3",
-        "company": "JE Dunn Construction",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-3-at-je-dunn-construction-4307688683?position=21&pageNum=0&refId=NvM3BmZ%2BiU4NQs62GNglsA%3D%3D&trackingId=HlyWIuzgjP8JaLKacO1NiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 10:38:56",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer, Platform - Surprise, USA",
         "company": "Speechify",
         "location": "Surprise, AZ",
@@ -307,6 +147,106 @@
         "url": "https://www.linkedin.com/jobs/view/rf-hardware-engineer-at-northwood-4299037503?position=30&pageNum=0&refId=Ww3DY%2FJebotv9nylbSeqTg%3D%3D&trackingId=oyNcTn6hZQs%2F5oMexd%2Fh2A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-08 11:31:58",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Software Engineer - AI/ML",
+        "company": "KLA",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ai-ml-at-kla-4188606208?position=4&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=q9oDCbo1ScS4%2F3n5FCXtCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4361840045?position=6&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=wtQU0Jgr2b%2BxuAwGZ2zDGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-platform-systems-i-full-time-%E2%80%93-united-states-at-cisco-4336214873?position=12&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=poo5kwO0HULajdZUnfTLsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Fulton, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-platform-systems-i-full-time-%E2%80%93-united-states-at-cisco-4336294749?position=15&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=28JykUr7Snkvd2F4lSR8DA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (E)",
+        "company": "KLA",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-e-at-kla-3686577317?position=16&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=c8bHFH2bBIlBMwAXNBPkmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Ford Racing Full Stack Software Engineer",
+        "company": "Ford Motor Company",
+        "location": "Allen Park, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ford-racing-full-stack-software-engineer-at-ford-motor-company-4342313931?position=17&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=K7vFwo31OuFuXW7n9wWP7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
+        "company": "Cisco",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-embedded-network-systems-i-full-time-united-states-at-cisco-4336274795?position=21&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=g8b4gDOP2yy%2Fl%2Bko8uDDNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Future Opportunities - Join Our Talent Pipeline for R&D Device Engineer \u2013 Mechanical, Electrical, or Software Engineer",
+        "company": "AbbVie",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/future-opportunities-join-our-talent-pipeline-for-r-d-device-engineer-%E2%80%93-mechanical-electrical-or-software-engineer-at-abbvie-4261680663?position=26&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=mw0z%2BaAAzLXi01vv14Dc7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": true
+    },
+    {
+        "title": "Boeing, Spacecraft Software Engineer (Entry Level) - Millennium Space Systems - Application via WayUp",
+        "company": "WayUp",
+        "location": "El Segundo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/boeing-spacecraft-software-engineer-entry-level-millennium-space-systems-application-via-wayup-at-wayup-4361524001?position=29&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=%2BfJG0jJun0gB95la4x6XNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
+        "email_sent": false
+    },
+    {
+        "title": "System Design Engineer (Electron Beam Systems) (E)",
+        "company": "KLA",
+        "location": "Milpitas, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-design-engineer-electron-beam-systems-e-at-kla-4317228947?position=39&pageNum=0&refId=xqAH%2BV%2F5EJuJ1bLPu8wgLg%3D%3D&trackingId=f4cCIC6EaE9cIzoA5tiETw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 11:51:55",
         "email_sent": true
     }
 ]
