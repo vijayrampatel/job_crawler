@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Scientist",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-t-mobile-4370313927?position=7&pageNum=0&refId=fqx6hwvPxPXW9AxtR%2F4sjQ%3D%3D&trackingId=mr7a8kRrrwkIAv7jpiTP7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 08:31:53",
-        "email_sent": true
-    },
-    {
-        "title": "Project Analyst",
-        "company": "TransPerfect Connect",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-analyst-at-transperfect-connect-4370330414?position=11&pageNum=0&refId=fqx6hwvPxPXW9AxtR%2F4sjQ%3D%3D&trackingId=bSJGmYR8AYeyyuI%2FGlbpoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 08:31:53",
-        "email_sent": true
-    },
-    {
-        "title": "Cobb- Real Time Feed Conversion",
-        "company": "Cobb",
-        "location": "Spavinaw, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cobb-real-time-feed-conversion-at-cobb-4370335059?position=13&pageNum=0&refId=fqx6hwvPxPXW9AxtR%2F4sjQ%3D%3D&trackingId=y9xHrOH6bTA5xrmbMw6bYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 08:31:53",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer - Infrastructure/Supercomputing",
         "company": "xAI",
         "location": "Palo Alto, CA",
@@ -98,5 +68,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-08 09:01:53",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries)",
+        "company": "QuantumBlack, AI by McKinsey",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-quantumblack-ai-by-mckinsey-critical-industries-at-quantumblack-ai-by-mckinsey-4323930224?position=1&pageNum=0&refId=zNConTY%2FFynCSfC3wfdURg%3D%3D&trackingId=B9WHjgX7BzJlOaBWx9hOTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 09:42:45",
+        "email_sent": false
+    },
+    {
+        "title": "ClickHouse Database Developer (C++)",
+        "company": "Altinity, Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/clickhouse-database-developer-c%2B%2B-at-altinity-inc-4361765473?position=6&pageNum=0&refId=zNConTY%2FFynCSfC3wfdURg%3D%3D&trackingId=lSQyCZqfsIYcf%2BvEevhtVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 09:42:45",
+        "email_sent": true
+    },
+    {
+        "title": "Data Interface Analyst",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-interface-analyst-at-remotehunter-4370071461?position=7&pageNum=0&refId=zNConTY%2FFynCSfC3wfdURg%3D%3D&trackingId=hvP4luA2ryduKK0Cw6JBUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 09:42:45",
+        "email_sent": false
     }
 ]
