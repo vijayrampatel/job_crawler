@@ -1,542 +1,162 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Vevo",
-        "location": "New York, NY",
+        "title": "Data Engineer",
+        "company": "Digital Infuzion",
+        "location": "Rockville, MD",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-vevo-4371242982?position=1&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=NMTO%2FgA7y6wMGqwSNrOSfA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-digital-infuzion-4325859002?position=1&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=UZPZSIFFMU8j%2F6KSACMu%2Fw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tech Consulting",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tech-consulting-4363181134?position=2&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=D%2Bu74cHmuQEX0nLUFsu2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Norwell, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4370783865?position=3&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=AI8ilJi8XOKGHq5lb0hm0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SnapStream",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-snapstream-4371257409?position=4&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=BGrN1WWAmutsYm3T%2Bvw%2Fyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": false
+    },
+    {
+        "title": "Front-End Engineer (Software Engineer II)",
+        "company": "Alation",
+        "location": "Redwood City, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-software-engineer-ii-at-alation-4361915757?position=5&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=roGc7USPLJoEWKDKs8Pn3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Azure Databricks Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-databricks-data-engineer-at-tata-consultancy-services-4371102178?position=6&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=kQuNC7f2Hguw208HxZNQ6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Network Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/network-data-engineer-at-tata-consultancy-services-4371100274?position=7&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=GE42Up0817kuZr2H0q3APg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Clinical System Engineer I",
+        "company": "RG&T Solutions",
+        "location": "Morrisville, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/clinical-system-engineer-i-at-rg-t-solutions-4370798542?position=8&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=BQKesQ13Bm9Fs6lBn7kq6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Data Center System",
+        "company": "Tata Consultancy Services",
+        "location": "Farmington Hills, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-center-system-at-tata-consultancy-services-4370795614?position=9&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=kyURSnyQAQM6lCidoEUW4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Axon",
+        "location": "Washington, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-axon-4371258520?position=10&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=n31tZZL2WhQIXOidQTe6HA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "RG&T Solutions",
+        "location": "Waco, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rg-t-solutions-4370789813?position=11&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=Sdt9Z6DGNOxd0n17Onrznw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
         "email_sent": false
     },
     {
         "title": "Software Engineer",
-        "company": "Monarch Recruiters",
-        "location": "San Francisco Bay Area",
+        "company": "RG&T Solutions",
+        "location": "Hewitt, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-monarch-recruiters-4359750654?position=2&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Eu%2BGrODXw2Hg6tGPIUcYFg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rg-t-solutions-4370796585?position=12&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=Z%2BY6b2CjedJld4wMPy30nA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Stablecoins",
-        "company": "Ramp",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-stablecoins-at-ramp-4364990921?position=3&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=%2FWdrVAUYaWPnbs6MDoEaLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "company": "Monarch Recruiters",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-monarch-recruiters-4359625798?position=4&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Uhl3qlFps4z5dGUwf3aqIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Founding Software Engineer",
-        "company": "Monarch Recruiters",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-monarch-recruiters-4340796448?position=5&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=gl3pGlUBU5bYcOdqWPM%2Frw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst 1",
-        "company": "NYS Office for People With Developmental Disabilities",
-        "location": "Schenectady, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-at-nys-office-for-people-with-developmental-disabilities-4369214868?position=6&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=t8it7s9cPuE64I3wXOqHNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371246918?position=7&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=IxVUVhqyKeKOK1ExvEjE9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer 2",
-        "company": "Garmin",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-at-garmin-4365006581?position=8&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=BZJiYqszSUpf7vz4hvahmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371245950?position=9&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=vWhN%2BbGgq%2FBpQu955G1UaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371248888?position=10&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=bVmwysvOwGpCPDzxirq4yQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Sacramento, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371245949?position=11&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=ZdX31pQPE1voxjHnN5dEAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371246916?position=12&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=tCVD%2FEr27x41f70PQMHgLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371261114?position=13&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=8gFwoy1%2FJzd8OHnJ1%2B0XWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371246915?position=14&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=gNojbz%2BPe0SX0hAzkqIcdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371261117?position=15&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=rvrXrZ6by6Z%2BFBHYNN5e9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371244879?position=16&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=p6ETsdcL2qXId7C5uERDfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371263095?position=17&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Z%2BLkoCj93mlEBxYQIWDegA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371249844?position=18&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=wDMU5kSbfyPPQ4heO%2F697g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371254685?position=19&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=xG0Fl8wwuJC4xz9LCg6AUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371253805?position=20&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Pre6CiG5wLoCNlpFw5ErgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371260102?position=21&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=b88U7yo2ZZ%2FMe%2BkzEuvbfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "San Bernardino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371262094?position=22&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=2UTgyTWyuPwrxPhewlHG0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Buffalo, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371249842?position=23&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=eqxIv%2FMcRRGNeqjvB11j%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371261115?position=24&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=n4M3I6%2Fvyn4BL0ZDepEIaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Syracuse, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371264056?position=25&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=XRFkGtsgBMGcFKK55cHCLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Oklahoma City, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371254684?position=26&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=8KaFo5WZgotvG4KpYmgQJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371244877?position=27&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=G12MtXD4cY8d806AX9RWCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Baltimore, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371265055?position=28&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=VkZx%2BMu3SLbmGSu4Jyxfng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371247930?position=29&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=unMegGXn%2BZCnHvxPvPcbuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Rochester, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371266004?position=30&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=K%2FWM2evw%2FbDEb89ZwgEynw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Daytona Beach, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371253806?position=31&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=W86RtGvZj21eU28kFt7Srg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371251802?position=32&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=ipZHl%2Bu%2Fdor7GekaRK%2FLrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Tacoma, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371254686?position=33&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=MzGQD0K4ylWE2sR%2FY7mFXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371265058?position=34&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=QEHNAaoOnaQQpeGUfL5vjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Fresno, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371260098?position=35&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Jh%2BXB9LVU%2Bo27mB2CFXfug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371249846?position=36&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=hGSdqz7riO4zSCML5XSsUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371258231?position=37&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=UtXq2NKU8%2FgSDN2Ss2201A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Cleveland, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371257326?position=38&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=bv5VwJiuwdpszqpRQq1Kzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371244880?position=39&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=JwnNx75EOru1AXySVv%2BOCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371256374?position=40&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=oMqkWGOCExT6SLT4Cnd5nQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Anchorage, AK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371249843?position=41&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=94j7RATOtRCGXf4YjlyB9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Albany, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371253803?position=42&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=EpVLfAX0dATJjXo%2F0UEr4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Honolulu, HI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371256373?position=43&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Wl7U788pR5yxlhZALoEuMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Boise, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371247927?position=44&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=rWPdDarVyce9Ynl7if3J8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371251801?position=45&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=QrJkqr7U3ph0fY6yKNdFEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Electric Engine Software Engineer - (SJ2026AT)",
-        "company": "Archer",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/electric-engine-software-engineer-sj2026at-at-archer-4354077165?position=46&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=O%2BxUEVkcGXAQlMOPcilNng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Spokane, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371252814?position=47&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=GulNPruQQCMQsG0px9lQlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371263096?position=48&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=ObnNIPXhQMypKcRBZG0eqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Wichita, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371255431?position=49&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=d110Lf9GIxxDNp6c%2FncVkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4371247931?position=50&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=Q3p3pg4xWlbtMr55iPPpPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": true
-    },
-    {
-        "title": "Catalog and Metadata Evaluator, 2581-1",
-        "company": "Cypress HCM",
-        "location": "Raleigh, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/catalog-and-metadata-evaluator-2581-1-at-cypress-hcm-4354859783?position=51&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=hTUFb6q5FM49ApVzRfXXkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
+        "scraped_date": "2026-02-11 07:32:18",
         "email_sent": false
     },
     {
-        "title": "BVT Analyst_02/11/2026",
-        "company": "ADP WFN Test Company",
-        "location": "Anchorage, AK",
+        "title": "Associate Embedded Software Engineer",
+        "company": "Curtiss-Wright Corporation",
+        "location": "Fairborn, OH",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bvt-analyst-02-11-2026-at-adp-wfn-test-company-4370798297?position=52&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=agcAFsM85Bk74Z6I95iUHw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/associate-embedded-software-engineer-at-curtiss-wright-corporation-4353955689?position=18&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=5Jc1TxeZezjPiEyBOQv1%2FQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": false
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
     },
     {
-        "title": "Technical Advisor \u2013 Industrial Data Science",
-        "company": "MACH-20",
-        "location": "Arlington, VA",
+        "title": "SOFTWARE ENGINEER L3",
+        "company": "Wipro",
+        "location": "Austin, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-advisor-%E2%80%93-industrial-data-science-at-mach-20-4371027752?position=53&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=gCa%2BXBQ0I4nkRJ%2FB2Sfn%2Fg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-l3-at-wipro-4371100420?position=54&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=LaX88Gjkr67P4spCaFjDXA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
-        "email_sent": false
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
     },
     {
-        "title": "Environmental Engineer",
-        "company": "EKI Environment & Water, Inc.",
-        "location": "Daly City, CA",
+        "title": "Robotics System Operator (Deployment Engineer)",
+        "company": "Charge Robotics",
+        "location": "San Leandro, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/environmental-engineer-at-eki-environment-water-inc-4364932373?position=54&pageNum=0&refId=d20dBamoYTPIwX%2FFGOpK5A%3D%3D&trackingId=qQu0kYcoxIs63tUnlQFK%2FQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/robotics-system-operator-deployment-engineer-at-charge-robotics-4332200446?position=55&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=jbHzMChwg%2FL%2F8O%2FyhfVUlQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-11 06:18:44",
+        "scraped_date": "2026-02-11 07:32:18",
+        "email_sent": true
+    },
+    {
+        "title": "Edge Networking Software Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Mount Laurel, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/edge-networking-software-engineer-at-tata-consultancy-services-4370797471?position=59&pageNum=0&refId=lkViQPKWpkzgM2Kqobf2KA%3D%3D&trackingId=qCXeZBnry25kEKqmkFcr5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-11 07:32:18",
         "email_sent": true
     }
 ]
