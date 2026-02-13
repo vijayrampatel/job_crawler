@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Turnberry Solutions",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-turnberry-solutions-4365431042?position=1&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=yDsuQY09Imis8L10S30bZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Anuvu",
-        "location": "Lombard, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-anuvu-4348892992?position=2&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=Vg2kQfdKhOoPUfOHUTqT9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Data Science Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-software-engineer-at-fetchjobs-co-4371759129?position=3&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=4rMh8FiKEraMtNTXxrnHXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Candescent",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-candescent-4355361123?position=4&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=KlJMHcXfLv3355333JLFEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analytics",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-at-fetchjobs-co-4371756206?position=5&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=tRWkoeX3%2BPd41NcMd0sidg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Global Quant Trading Firm (Hong Kong based)",
-        "company": "Orion James",
-        "location": "Los Angeles Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-global-quant-trading-firm-hong-kong-based-at-orion-james-4363997030?position=6&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=0ICw1Ap6hF9YyLdZBPsx1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Albert Bow",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-albert-bow-4355371938?position=7&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=boKgK3n7cEOCxGAMEg%2BRpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4371767049?position=8&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=DU5YGzkT3cmFetik1yXBHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Software Design Quality Engineer",
-        "company": "Stryker",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-design-quality-engineer-at-stryker-4319448362?position=11&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=xuV5BD2y2VM6denkrXGUuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Design Quality Engineer",
-        "company": "Stryker",
-        "location": "Orlando, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-design-quality-engineer-at-stryker-4319568170?position=13&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=RngYdGk6tWRZMDe8TofwQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Design Quality Engineer",
-        "company": "Stryker",
-        "location": "Kalamazoo, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-design-quality-engineer-at-stryker-4319518292?position=15&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=%2BaRKtFSxGLSiHaIr96uCBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer- Medical Device Embedded SW (Hybrid)",
-        "company": "Stryker",
-        "location": "Grand Rapids, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-medical-device-embedded-sw-hybrid-at-stryker-4365229377?position=16&pageNum=0&refId=JvYLfdKRUCNMcIgcsRKuXQ%3D%3D&trackingId=IH61aP9Ja6LhdQGVZeyVkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-13 10:01:16",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer - Infrastructure",
         "company": "xAI",
         "location": "Palo Alto, CA",
@@ -327,6 +207,116 @@
         "url": "https://www.linkedin.com/jobs/view/buyer-planner-components-at-super-micro-computer-spain-s-l-4364490576?position=37&pageNum=0&refId=o0SdYlv7qYNz42JJ4gGGFw%3D%3D&trackingId=RLq6q2oqQp4UY7Q0KzATbw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-13 10:58:59",
+        "email_sent": true
+    },
+    {
+        "title": "IT Software Engineer I",
+        "company": "Resource Management Concepts, Inc.",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-i-at-resource-management-concepts-inc-4323267482?position=5&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=Y4n7Xxh5BtUrikmsQOEEwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4371766436?position=8&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=jRMGqZ%2BYLro7zyqnfRUumw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-remotehunter-4371759532?position=9&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=kz4xXpjgO4itA5pBjys9gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": false
+    },
+    {
+        "title": "AI & Data Associate Analyst",
+        "company": "Silver Grove",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-associate-analyst-at-silver-grove-4364121403?position=10&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=GcAmeL3Pj0UzvsCC0cy6Hw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Security & Automation I (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Hillsboro, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-full-time-%E2%80%93-united-states-at-cisco-4337141709?position=13&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=UGFPznZ4DxlMv%2FLZzflGSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-risk-engineering-new-grad-2025-at-remotehunter-4371754673?position=15&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=YXSVWlhI1Sq59W%2Fzp%2FmbYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Security & Automation I (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-i-full-time-%E2%80%93-united-states-at-cisco-4337211446?position=16&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=xlscu3eyTCKv9L202TXvWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": true
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-wiraa-4372237639?position=23&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=35lGJD9xbBiqd07foN4XRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst III",
+        "company": "Aroha Technologies, Inc",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-iii-at-aroha-technologies-inc-4372259034?position=24&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=TkIDE%2FSYOKFr8h8xsocUUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Software Engineer  - Global Dining",
+        "company": "American Express",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-global-dining-at-american-express-4372236940?position=25&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=2k1F9DrwWt5opYQNraeqFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
+        "email_sent": true
+    },
+    {
+        "title": "Advanced Manufacturing Engineer",
+        "company": "MAS HVAC",
+        "location": "Maple Grove, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/advanced-manufacturing-engineer-at-mas-hvac-4355343268?position=30&pageNum=0&refId=WJhSMwUcL3%2FsFnHWkMKmLQ%3D%3D&trackingId=LMyxF2quhp4Xq09D2aXjng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-13 11:37:24",
         "email_sent": true
     }
 ]
