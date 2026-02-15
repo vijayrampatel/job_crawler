@@ -1,135 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4372323036?position=1&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=wP4T2cFkVSXBCzPPJP%2FdCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hyra",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4373279310?position=2&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=7367azpmi%2BTgAW2P1dTo6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-remotehunter-4372325038?position=3&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=WI%2BshS8%2Fuv9b%2FpuRdsJeGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "BlackLine",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-blackline-4327151734?position=4&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=poqdXYZFju33swmW%2BIlvcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "BlackLine",
-        "location": "Pleasanton, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-blackline-4327151735?position=5&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=3yb%2BPQvfug%2FRxz4%2FlfALfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Cloud/Software Engineer",
-        "company": "Conagra Brands",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-at-conagra-brands-4329867416?position=6&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=MqEAby1FNcjX46jOJa1Pzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4373271692?position=7&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=vAQVhcu%2F6uPy0UQ1twP2aA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Clearance Required)",
-        "company": "Whiteboard Federal Technologies",
-        "location": "Reston, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-clearance-required-at-whiteboard-federal-technologies-4346935839?position=8&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=EgOomg9bL8dfi51xGmaMow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": false
-    },
-    {
-        "title": "Power Analyst",
-        "company": "Susquehanna International Group",
-        "location": "Greater Philadelphia",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-analyst-at-susquehanna-international-group-4327127891?position=9&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=zaxmRz0aInmr86nuPCmowA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Innovation Engineer, SMAI",
-        "company": "Micron Technology",
-        "location": "Boise, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/innovation-engineer-smai-at-micron-technology-4321308052?position=10&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=YJDS5wMmgEN7OFBe88IpJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Commissioning Engineer (Data Centers)",
-        "company": "Jobot",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-data-centers-at-jobot-4364566616?position=11&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=PYzzLKRx4RkXQYEQs7htow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": false
-    },
-    {
-        "title": "Business Services Analyst",
-        "company": "Conagra Brands",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-services-analyst-at-conagra-brands-4329995247?position=12&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=6nDCs87GKU%2BX19mylCgKdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Research Analyst",
-        "company": "Micron Technology",
-        "location": "Boise, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-research-analyst-at-micron-technology-4327231455?position=14&pageNum=0&refId=%2Fg%2BRZS05pybZbLu45OQfGw%3D%3D&trackingId=eZ5KUDp2PnOHdeHkP915pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 09:18:07",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer, Support",
         "company": "RemoteHunter",
         "location": "United States",
@@ -288,5 +158,115 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-15 10:13:09",
         "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "The Voleon Group",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-voleon-group-4338311139?position=1&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=NxNcbic9a2UZR36Wcw7CaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "The Voleon Group",
+        "location": "Berkeley, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-voleon-group-4338291187?position=3&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=%2FQXuuW%2BNYsYk9INDFyDK8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Solutions",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-solutions-at-wiraa-4373268882?position=10&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=RR5j%2Btg%2BkWwmAd7HjonUlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI/ML",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-wiraa-4373277487?position=16&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=mpLNLvGx%2BRihRGlr5%2FrIaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI/ML)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-wiraa-4373276448?position=17&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=olm%2BGwpmaxcl%2F%2FI185WGxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "CPU Software Math Acceleration Engineer",
+        "company": "Proven Recruiting",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cpu-software-math-acceleration-engineer-at-proven-recruiting-4338318816?position=20&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=ie6t2ZR5HjlXOYGLt%2FnyYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": true
+    },
+    {
+        "title": "ML Engineer/AI Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ml-engineer-ai-engineer-at-wiraa-4373280283?position=21&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=776SGDiMQ0zV9aYsgKrpmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4373283079?position=22&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=%2B8Xul9jH8hTLko7PsnLymg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Fullstack Software Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-sr-at-wiraa-4373280282?position=26&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=sPGdkgfIFuVFDorZtkPpRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": false
+    },
+    {
+        "title": "Transplant Data Registry Analyst - BMT Coordination",
+        "company": "Texas Children's Hospital",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/transplant-data-registry-analyst-bmt-coordination-at-texas-children-s-hospital-4373280331?position=34&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=vXfZYt8TC34rJ9AY0gAm1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": true
+    },
+    {
+        "title": "M/E Engineer 2- Commissioning, Mission Critical",
+        "company": "JE Dunn Construction",
+        "location": "Kansas City, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-2-commissioning-mission-critical-at-je-dunn-construction-4320073194?position=37&pageNum=0&refId=j5%2FwbzKwkoM7IudhiRPsNw%3D%3D&trackingId=zoEPYvED9hTqA3M3DfikwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 10:49:28",
+        "email_sent": true
     }
 ]
