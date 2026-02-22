@@ -1,25 +1,5 @@
 [
     {
-        "title": "SOFTWARE ENGINEER I/JAVA/J2EE",
-        "company": "Streamlyne",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-java-j2ee-at-streamlyne-4373793349?position=21&pageNum=0&refId=Tw7qb0Em6x2h3mz6Oip%2FnQ%3D%3D&trackingId=xucFI9kBNLBKuzMqJQHkWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 10:30:23",
-        "email_sent": true
-    },
-    {
-        "title": "Mobile Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Utah, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-dataannotation-4334710178?position=59&pageNum=0&refId=Tw7qb0Em6x2h3mz6Oip%2FnQ%3D%3D&trackingId=O4bW5np2ZHDkTf%2FpOtwrNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 10:30:23",
-        "email_sent": false
-    },
-    {
         "title": "Forward Deployed Software Engineer",
         "company": "Northslope Technologies",
         "location": "New York, United States",
@@ -57,6 +37,36 @@
         "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-at-cloudflare-4337953884?position=6&pageNum=0&refId=ryYlTDJzz1Yo7Sij882yug%3D%3D&trackingId=pMB105%2F1%2BgJqf%2FO877z%2BYA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-22 11:20:13",
+        "email_sent": true
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4373793491?position=1&pageNum=0&refId=gqIIzFgvszMQpMGB4RWogw%3D%3D&trackingId=N4V0XrKFNkGdSvjJtcnitg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 11:40:23",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Offboard Python Application",
+        "company": "Latitude AI",
+        "location": "Detroit Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-offboard-python-application-at-latitude-ai-4306285150?position=5&pageNum=0&refId=gqIIzFgvszMQpMGB4RWogw%3D%3D&trackingId=sZ2pOQ%2BVC9YGO4asGaWq9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 11:40:23",
+        "email_sent": true
+    },
+    {
+        "title": "Marketing Data Quality Analyst",
+        "company": "Veeva Systems",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-quality-analyst-at-veeva-systems-4305288831?position=9&pageNum=0&refId=gqIIzFgvszMQpMGB4RWogw%3D%3D&trackingId=FY0eWursMjfKSajO2QQnyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 11:40:23",
         "email_sent": true
     }
 ]
