@@ -1,116 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Hawaii, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4375305573?position=1&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=JKqW%2FxGsx9G8a37VIwXCBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4376390506?position=2&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=MgZMjNXGDW%2BaVoXQurLsog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Generative AI Engineer",
-        "company": "Capgemini",
-        "location": "Nashville Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-capgemini-4375302780?position=5&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=B4kboU%2FVR6dGQPeHFRvaFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": true
-    },
-    {
-        "title": "Front End Software Engineer (React & Next.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-react-next-js-at-wiraa-4376314223?position=9&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=2mJZYG73B9CpDqD56torBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-wiraa-4376395364?position=11&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=ZI3qqw%2BbhrvDIb6hYPoJKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer (NodeJs, Python)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-nodejs-python-at-wiraa-4376365621?position=12&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=93%2BeeAGeO9UbqZVg%2BC5lIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (React, TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-typescript-at-wiraa-4376361793?position=13&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=1qdY3YGXFJJJaU4EgUCF%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-c%2B%2B-at-wiraa-4376187213?position=16&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=oTxRMxIlv3Hd9Np8Ueuclw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4376374324?position=17&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=QzrqVJqcOHyvWcLI%2FXHz2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4376380017?position=18&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=8o%2BSbQztc5qfSf3RUvv%2BgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Product",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-product-at-wiraa-4376359913?position=20&pageNum=0&refId=tOQOIAaiXLtNIodgP3GO0g%3D%3D&trackingId=ICIts%2FPcw1eDkGqWElJJ9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 21:59:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "FetchJobs.co",
         "location": "United States",
         "date_posted": "Recent",
@@ -138,5 +28,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-22 22:57:12",
         "email_sent": false
+    },
+    {
+        "title": "Junior Backend Software Engineer",
+        "company": "HiringAgents.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-backend-software-engineer-at-hiringagents-ai-4344366681?position=1&pageNum=0&refId=yLcE5Fw5f4xNPY%2BhM6x5Cg%3D%3D&trackingId=J2CRwz8j9fAhdE6GPNZZbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:28:12",
+        "email_sent": false
+    },
+    {
+        "title": "Implementation Engineer",
+        "company": "talentpluto",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/implementation-engineer-at-talentpluto-4376520018?position=3&pageNum=0&refId=yLcE5Fw5f4xNPY%2BhM6x5Cg%3D%3D&trackingId=N7k6SwRMhGqJKUcBHV3TMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:28:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist With Marcom",
+        "company": "W3Global",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-with-marcom-at-w3global-4332840007?position=6&pageNum=0&refId=yLcE5Fw5f4xNPY%2BhM6x5Cg%3D%3D&trackingId=64PVfO%2FOscZp%2ByavmMlTMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:28:12",
+        "email_sent": true
     }
 ]
