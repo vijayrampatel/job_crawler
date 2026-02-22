@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fetchjobs-co-4374994903?position=1&pageNum=0&refId=Pxt%2Bks4TOEC0qZG6vzUC%2FQ%3D%3D&trackingId=VAOKrtEhAcVcZpsOuvivcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 22:35:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Haystack",
-        "location": "San Antonio, Texas Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4374996914?position=4&pageNum=0&refId=Pxt%2Bks4TOEC0qZG6vzUC%2FQ%3D%3D&trackingId=jzwCrOKPlWdBm%2BUPxUBw5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 22:35:28",
-        "email_sent": false
-    },
-    {
         "title": "Summer 2026 Co-Op - Software Engineer",
         "company": "WD",
         "location": "Rochester, MN",
@@ -58,5 +38,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-22 23:28:12",
         "email_sent": true
+    },
+    {
+        "title": "Data Analyst Support",
+        "company": "Helios HR",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-support-at-helios-hr-4376501880?position=1&pageNum=0&refId=WEF78Rf7MGcNZMUssLLTIg%3D%3D&trackingId=%2BGUxPIpQjy2LKxv8y1%2F7AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:50:55",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4374229209?position=7&pageNum=0&refId=WEF78Rf7MGcNZMUssLLTIg%3D%3D&trackingId=Mhw%2FcFt2w97erWsQH7WUJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:50:55",
+        "email_sent": false
     }
 ]
