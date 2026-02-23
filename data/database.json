@@ -1,265 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "The Wildlife Trusts",
-        "location": "Lewes, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-wildlife-trusts-4374242124?position=1&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=ZF%2B7PLtflyb6Rj6s39vFwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Garner Health, LLC",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-garner-health-llc-4375349283?position=2&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=zHBXl8I42Qh3JjplBd81VA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4376372360?position=3&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=kDJQ1bNcoe%2FuCEqU%2Fn2u6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Engineer",
-        "company": "MLabs",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-at-mlabs-4376545466?position=5&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=%2BNRa3SghjkMgRaV3kVc8hQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4376390506?position=6&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=CV7SPQo16r1J3sONTiQOOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Innovative Refrigeration Systems, Inc.",
-        "location": "Waynesboro, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-innovative-refrigeration-systems-inc-4376536793?position=7&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=mujDjr3gc%2FMnbc0ZaRJ%2Flw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "Front End Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-wiraa-4376190045?position=8&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=xE%2BPwoX8q0W2ceM3AFDnBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Software Engineer (React & Next.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-react-next-js-at-wiraa-4376314223?position=9&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=y0b8pmIF9k1HNq6mh1KamA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-wiraa-4376395364?position=10&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=SD65HYKKBL9Fwnr9Xs0GLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer (NodeJs, Python)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-nodejs-python-at-wiraa-4376365621?position=11&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=7QO%2BQrPgyiqIL20k6J2wkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (React, TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-typescript-at-wiraa-4376361793?position=12&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=4hIEkd1qjQoTqYP06NFcxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, AI)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-ai-at-wiraa-4376378045?position=13&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=6EKsW8ME50yIMd99ZF%2BiWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "[2026 Global]_Firmware Design Engineer_Power and System & ICTBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-firmware-design-engineer-power-and-system-ictbg-thailand-based-at-delta-electronics-4375346277?position=14&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=ju7fHG47CYeOSyWPSz5IEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Java, C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-c%2B%2B-at-wiraa-4376187213?position=15&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=%2FztcM2nKsFW95VN6lZnQlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4376374324?position=16&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=DaFmAlPX3FJcCNdArrw6zw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4376380017?position=17&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=8M4HVt1I6R84MUSb6YVetQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
-        "title": "[2026 Global]_Electrical Design Engineer_Power and System, Industrial Automation & ICTBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-electrical-design-engineer-power-and-system-industrial-automation-ictbg-thailand-based-at-delta-electronics-4375343303?position=20&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=VXpjyKHdXWE8Se1srwAesw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Electrical Design Engineer_Power and System, Industrial Automation & ICTBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-electrical-design-engineer-power-and-system-industrial-automation-ictbg-thailand-based-at-delta-electronics-4375336333?position=21&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=OlUMdDAk8kjGudr%2BcEXqug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Mechanical Design Engineer_Power and System, Industrial Automation & ICTBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-mechanical-design-engineer-power-and-system-industrial-automation-ictbg-thailand-based-at-delta-electronics-4375331983?position=22&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=6xcz8N7VJgZ71NGclDnNLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Mechanical Design Engineer_Power and System, Industrial Automation & ICTBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-mechanical-design-engineer-power-and-system-industrial-automation-ictbg-thailand-based-at-delta-electronics-4375348200?position=23&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=UK%2BRb21cUBSxCXggY4w3xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Digital control engineer_PSBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-digital-control-engineer-psbg-thailand-based-at-delta-electronics-4375329973?position=24&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=N1ZL%2FgGWxHAqxaK2SR5%2Bqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Digital control engineer_PSBG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-digital-control-engineer-psbg-thailand-based-at-delta-electronics-4375337395?position=25&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=MSs9U%2FjqX2RJ3B6Kqfs43g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "Process Improvement Engineer",
-        "company": "Innovative Refrigeration Systems, Inc.",
-        "location": "Waynesboro, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/process-improvement-engineer-at-innovative-refrigeration-systems-inc-4376540630?position=26&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=Qmd%2FM%2B1KgYMmLiXWlMrQjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Test Engineer or Product Engineer_Global MFG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-test-engineer-or-product-engineer-global-mfg-thailand-based-at-delta-electronics-4375343315?position=27&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=WyV%2FZLcK5sY%2BLKteufmk4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "[2026 Global]_Test Engineer or Product Engineer_Global MFG (Thailand-based)",
-        "company": "Delta Electronics",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/2026-global-test-engineer-or-product-engineer-global-mfg-thailand-based-at-delta-electronics-4375330997?position=28&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=nGmpCsc7ZU49jzHD39ZQxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, Product",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-product-at-wiraa-4376359913?position=29&pageNum=0&refId=u5DbnhudpMZribE5e9sprw%3D%3D&trackingId=cx8VkY56YHQgmKehDh5B5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 07:34:30",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Customer Service Platform",
         "company": "Orchestrate Consulting Group",
         "location": "United States",
@@ -307,6 +47,156 @@
         "url": "https://www.linkedin.com/jobs/view/utility-analyst-i-at-osmose-4375349340?position=7&pageNum=0&refId=HQumvXEeTIf0gLMqRjJiRg%3D%3D&trackingId=ZRASSeQBgo%2Bm%2FpD948jrpQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-23 08:08:38",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Ajinomoto Foods North America, Inc.",
+        "location": "Ontario, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ajinomoto-foods-north-america-inc-4376548841?position=1&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=ch6z5Vj06HoycoDnv41BXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Shortcuts",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-shortcuts-at-apple-4375340633?position=2&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=eIwDFa%2BUAGoNB1SXptwB4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4375354227?position=3&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=SgU1YU9qZyfJzBQWN7ooYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Java Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-remote-at-crossing-hurdles-4375332991?position=4&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=vzdoehvkOYjGtDR6eCaetw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer II - Machine Learning Platform",
+        "company": "hackajob",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-machine-learning-platform-at-hackajob-4375339630?position=5&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=2dbwbiL5Sg%2BzM3KLe%2BqYDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4376568029?position=6&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=FHJo1TfH7wQ5Amaqi7ruHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Candidates on Visa 3",
+        "company": "hackajob",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-candidates-on-visa-3-at-hackajob-4375352275?position=7&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=yt%2BbwoIk3aybGnH05ydhLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4376547879?position=8&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=rWaoBrydiuD9LS38dxZfZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist With Marcom",
+        "company": "W3Global",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-with-marcom-at-w3global-4332840007?position=9&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=gHAusTljE2%2Fsazcu7sZX3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "[2026 Global] _Automation/Mechanical/Electrical/Software Engineer_Global MFG (China-based)",
+        "company": "Delta Electronics",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-global-automation-mechanical-electrical-software-engineer-global-mfg-china-based-at-delta-electronics-4375349475?position=10&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=VU5HkFsctDGFiJjqHVhmDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "[2026 Global]_Power Electronics Design Engineer_power & system(China-based)",
+        "company": "Delta Electronics",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-global-power-electronics-design-engineer-power-system-china-based-at-delta-electronics-4375333926?position=11&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=tsXjdji0PqPZTnlPboOR2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "[2026 Global]_Power Electronics Design Engineer_power & system(China-based)",
+        "company": "Delta Electronics",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/2026-global-power-electronics-design-engineer-power-system-china-based-at-delta-electronics-4375349453?position=12&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=sl4axNuHCoc3jOI%2Fa006xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Staff DFT Engineer",
+        "company": "Marvell Technology",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-dft-engineer-at-marvell-technology-4374243498?position=14&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=cxcS0yK0QE5mhCVamuYKXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Transportation Project Engineer",
+        "company": "TalentAlly",
+        "location": "Birmingham, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/transportation-project-engineer-at-talentally-4375335673?position=15&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=Go3bb%2FtkQ94%2BJiXqOXhhlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
+        "email_sent": true
+    },
+    {
+        "title": "Data Collection Technician - Indonesian Language Specialist",
+        "company": "Experis",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-collection-technician-indonesian-language-specialist-at-experis-4375345472?position=16&pageNum=0&refId=CSxhjt5kpz7CItTAtf1xlA%3D%3D&trackingId=BIs5XGL6m%2FF0UGC4t7xz3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 09:06:05",
         "email_sent": true
     }
 ]
