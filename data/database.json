@@ -1,156 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fetchjobs-co-4375351509?position=1&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=0ZmKSA6hH%2F5l1xSjhl7exA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Q2",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-q2-4303760538?position=2&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=IrXACjjT8TbggFRwTuUr%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-fetchjobs-co-4375336765?position=3&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=7qKcPb5Z%2F8o8j9vWYbwnsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Joinrs",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-joinrs-4376562481?position=4&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=ai7YXV70kKR90a1QCOIHcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist - IT&D",
-        "company": "McLane Company, Inc.",
-        "location": "Temple, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-it-d-at-mclane-company-inc-4334739023?position=5&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=Wt3vKnBNAtCnMzSEIZs%2BpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "Product Engineer",
-        "company": "Alexander Lyons Solutions",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/product-engineer-at-alexander-lyons-solutions-4374397809?position=6&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=bKnr45MIUQFcDLDPAG%2F2xA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "WhiteCrow Research",
-        "location": "Wayzata, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-whitecrow-research-4376551752?position=7&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=HVk87xw1%2FX%2Ffn2YWlZB%2Bog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4375336766?position=8&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=s3W0HerEr5s6QvFW8Ki9xA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer \u2013 Hardware Research",
-        "company": "Optiver",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-hardware-research-at-optiver-4203034567?position=9&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=Mp1XEe8Lge9ehYKMGA%2FHfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "Knowledge Analyst - Energy Solutions",
-        "company": "McKinsey & Company",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/knowledge-analyst-energy-solutions-at-mckinsey-company-4315859595?position=10&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=P%2Fpd3qbqo98JOlTr3tOhhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-fetchjobs-co-4375342756?position=11&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=zmSLanYWKcgaKkOopC5U5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Commissioning Engineer I (M/F/D)*",
-        "company": "TGW Logistics",
-        "location": "Grand Rapids, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-commissioning-engineer-i-m-f-d-at-tgw-logistics-4338065580?position=12&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=fNnRiKYoJkvroLRQeXyC0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "ENGINEER 2 - SYSTEM INTEGRATION TESTING",
-        "company": "Newport News Shipbuilding, A Division of HII",
-        "location": "Newport News, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-2-system-integration-testing-at-newport-news-shipbuilding-a-division-of-hii-4328571561?position=13&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=9Pf6oCfT1e1NyDnE2DQJog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Technical Support Engineer (MFT/B2Bi)",
-        "company": "Axway",
-        "location": "Scottsdale, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-technical-support-engineer-mft-b2bi-at-axway-4259612260?position=14&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=h0ode7Y%2FlMsvX2kilZSimg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": true
-    },
-    {
-        "title": "Building Commissioning Agent (TAB- Test and Balance)",
-        "company": "Jordan & Skala Engineers",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/building-commissioning-agent-tab-test-and-balance-at-jordan-skala-engineers-4334809518?position=15&pageNum=0&refId=CjxXoICbkhx4BpXeaqjudw%3D%3D&trackingId=yNo%2Ba5VHiqAP78Q73ABELw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-23 10:09:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "Recent",
@@ -827,6 +677,196 @@
         "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4376557895?position=10&pageNum=2&refId=COOcoXtRVuOhvaiD%2Fdodlg%3D%3D&trackingId=QPLLgzO5RcKpqXz9YditIg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-23 11:06:18",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer - Manufacturing",
+        "company": "ChatGPT Jobs",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-manufacturing-at-chatgpt-jobs-4374256950?position=3&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=ZyH68mrt0sRE8tAeO82bjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Grok Voice",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-grok-voice-at-xai-4219071233?position=5&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=oxkxtVikI0wIfP9CcrZ6rw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4375371369?position=8&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=6AyTp6YHajm6SpFlnrkiEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4374279078?position=13&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=Oox2JDJcrR0Kc1YMmy61XA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4375395511?position=15&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=Y3db2oa0eT19%2BbxdVBxAvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-remotehunter-4375397477?position=16&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=eKUjgzzg8%2Fci71c1ERzqmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Frontend",
+        "company": "Optym",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-optym-4376565651?position=18&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=54Lxra9%2Bul8SdTLtlKY3jQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer",
+        "company": "Shipt",
+        "location": "Greater Birmingham, Alabama Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-at-shipt-4345780044?position=20&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=EtjWfepbhH%2BtiBTZMzaaiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-risk-engineering-new-grad-2025-at-remotehunter-4375385734?position=22&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=YBD1OFQH0qKruYEVtgzmUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-remote-at-crossing-hurdles-4375379115?position=24&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=kq1cbx7o%2FlYCthu6G%2BSYWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Quantitative Developer - AI Implementation",
+        "company": "WorldQuant",
+        "location": "West Palm Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249643026?position=27&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=6%2FORq6GsXXysXaHiEeomHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Doppel",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-doppel-4300082049?position=28&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=aptT%2Bwb629A9ZYxej2IX3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Quantitative Developer - AI Implementation",
+        "company": "WorldQuant",
+        "location": "Old Greenwich, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249635839?position=32&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=goaHFx%2BuNAmN%2BnT1%2Fsb63A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Albert Bow",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-albert-bow-4355371938?position=38&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=11PMwLV2mwa%2FBTc7%2Fy4kPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Auxo Solutions",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-auxo-solutions-4376563763?position=53&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=ZJSQFPaBAcft4IKyFLCaxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4376569210?position=59&pageNum=0&refId=8dauttA8PaUCbS%2FqDpyE%2Bw%3D%3D&trackingId=YECjs8H2U9hA8kzb43FqyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Developer - AI Implementation",
+        "company": "WorldQuant",
+        "location": "West Palm Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249643026?position=2&pageNum=2&refId=pczB1rawwL0L0T2BAgW82A%3D%3D&trackingId=7xK5o7PXn2Px%2BGFbPt%2F23Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Doppel",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-doppel-4300082049?position=3&pageNum=2&refId=pczB1rawwL0L0T2BAgW82A%3D%3D&trackingId=uE0g5WDjyPWmo8VsSBsucw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
+        "email_sent": true
+    },
+    {
+        "title": "Quantitative Developer - AI Implementation",
+        "company": "WorldQuant",
+        "location": "Old Greenwich, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249635839?position=7&pageNum=2&refId=pczB1rawwL0L0T2BAgW82A%3D%3D&trackingId=2Y1Hp40x%2F5HQrCc9TKUN%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-23 11:51:17",
         "email_sent": true
     }
 ]
