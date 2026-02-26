@@ -1,276 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Mayo Clinic",
-        "location": "Rochester, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mayo-clinic-4378631097?position=1&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=k0HLTkRQZYpK57q3%2FyMhMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "onXmaps, Inc.",
-        "location": "Bozeman, MT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-onxmaps-inc-4377298220?position=2&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=6GoVn49I3S84M5CFC9ozPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Datasys Consulting and Software Inc.",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-datasys-consulting-and-software-inc-4375576398?position=4&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=7Fc5nf%2BxL71b30SJtovr%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Dana-Farber Cancer Institute",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-dana-farber-cancer-institute-4375573398?position=5&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=Eq7AzBSJo41vFeer%2FnAf6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4378326519?position=6&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=cxkog0KlIfDrFeJ9Rny9%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "AWS Data engineer Developer",
-        "company": "eTeam",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-developer-at-eteam-4377288631?position=8&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=f%2BvdpiLmGQDt506poVG5UQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-wiraa-4378314796?position=11&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=kdq5d154xs4526%2FDVFIVQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Automation",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-automation-at-wiraa-4378313788?position=12&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=lnwC%2BKr0lF1II1zPY7knxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "The Affiliati Network",
-        "location": "Santa Barbara County, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-the-affiliati-network-4377604102?position=13&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=yi2%2ByPYtEw2rkLbtuutIFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Denken Solutions, Inc.",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-denken-solutions-inc-4377605120?position=15&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=4WItgsuj7I8cPJzSBR30bA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4378324628?position=16&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=%2F4EySCXtjL0xLiirCorlcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Databricks Engineer",
-        "company": "CGI",
-        "location": "Lafayette, LA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-cgi-4378625368?position=17&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=MgVqlZR5P%2F5CizJYzhtndQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4377289480?position=18&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=i1ThSSJ9yH6IPupD2luPeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-wiraa-4378317702?position=22&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=hclYCwO4ILUeap2yMAUttw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-risk-engineering-new-grad-2025-at-remotehunter-4377285870?position=27&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=m3YoShL1XgcPwwoAzLHsEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Full Stack AI Engineer",
-        "company": "Ascot Group",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-full-stack-ai-engineer-at-ascot-group-4375566594?position=41&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=m4hAjFisTtPr6lawtVboKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4378330440?position=42&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=9x4Fka6pWskatUHRyNfcEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer (Java, Python)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-java-python-at-wiraa-4378322714?position=45&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=UPiljGF4qoZNh8k09a2Ysg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Fullstack",
-        "company": "DroneDeploy",
-        "location": "Austin, Texas Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-dronedeploy-4377603080?position=46&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=uajq8lZxCIPR5NPSeER4wQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Raas Infotek",
-        "location": "Hillsboro, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-raas-infotek-4378628382?position=47&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=j4miqDn2D%2F2D92U9GRTBkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Full Stack AI Engineer",
-        "company": "Ascot Group",
-        "location": "Iselin, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-full-stack-ai-engineer-at-ascot-group-4375580069?position=49&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=ZQ8WxzI580nJaODa9FNHZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II, Research",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-research-at-wiraa-4378310895?position=51&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=Q5A6XMj7qZJayqeAQHqIUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II, Behavior Simulation",
-        "company": "Aurora",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-behavior-simulation-at-aurora-4377601246?position=52&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=rIqcFR3p%2F0iLeEI8kfD2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Full Stack AI Engineer",
-        "company": "Ascot Group",
-        "location": "Stamford, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-full-stack-ai-engineer-at-ascot-group-4375575459?position=54&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=ZzT0lQEv15RkT5vEvgYZEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Support Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-wiraa-4378321713?position=56&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=ZWcnL6ymDTsdInTiHqsVVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "PAR Technology",
-        "location": "New Hartford, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-par-technology-4377606127?position=57&pageNum=0&refId=Sa0UzkIaZWnGygj8VC%2BcJw%3D%3D&trackingId=mD8Wu%2FR%2FM%2FqMjMI2Jlyyyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-risk-engineering-new-grad-2025-at-remotehunter-4377285870?position=2&pageNum=2&refId=Y%2BJKfT5ZRzlOWDQDF70cAA%3D%3D&trackingId=MdY2Ihj2FWOcsXIVSHLCzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-26 20:35:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "The Phoenix Group",
         "location": "United States",
         "date_posted": "Recent",
@@ -748,5 +478,435 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-26 21:06:38",
         "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Applications",
+        "company": "Apple",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applications-at-apple-4377608214?position=6&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=FXWVRr12jgm96t9DpC5kNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "AWS/AZURE Data Engineer (Full-Time)",
+        "company": "Precision Technologies",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/aws-azure-data-engineer-full-time-at-precision-technologies-4377287991?position=7&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=1Po%2FyroAQUQYuBj1zeboOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377600527?position=8&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=c0f%2F3WURfqgNEGtLgB%2FwyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Applications",
+        "company": "Apple",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-applications-at-apple-4377603398?position=9&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=XO%2F8IWWrDthq58mI8aeWNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377605357?position=10&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=0b0JpLQ%2FYUvuA4Ao1fEuQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377289823?position=11&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=%2BAycHX9vShjrF7IEKNEJ5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377607309?position=13&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=otwM7YvVlqCE0Cd5C8ZUbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Apps",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-apps-at-apple-4377600529?position=14&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=vL%2BKQee99mOm2EV1SDXCtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Junior AI/ML Software Engineer",
+        "company": "Advita Ortho",
+        "location": "Gainesville, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-ai-ml-software-engineer-at-advita-ortho-4377605378?position=17&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=OJHnbY64HXK%2F4tDZLL2FrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Factory Engineer",
+        "company": "Brown & Brown",
+        "location": "Milwaukee, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-factory-engineer-at-brown-brown-4378633542?position=21&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=qdviSlR5Oq44G0FNMHZjlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Systems",
+        "company": "Apple",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-systems-at-apple-4377290839?position=22&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=NtxYItzlH024jPHC%2BmhOhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377600534?position=24&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=jcZ9hZb4AAa10Welxc1Jaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Azure Data Factory Engineer",
+        "company": "Brown & Brown",
+        "location": "Milwaukee, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-factory-engineer-at-brown-brown-4378643278?position=25&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=0do3eFCeND7o3wU6lv3B7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377299592?position=26&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=rHV9k3kHjDAqnw0jsgoQzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Healthcare Data Analyst \u2013 Consultant",
+        "company": "Lucem Health",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-%E2%80%93-consultant-at-lucem-health-4368275861?position=27&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=ETmkn4eWgIgR75J7g7%2BsaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Network/Data Engineer",
+        "company": "PTR Global",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/network-data-engineer-at-ptr-global-4378640505?position=28&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=H0VzmgdBlLkZ%2FAPtekRlyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Colorado, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377017826?position=29&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=Fvk3lWi%2BKOzo9AzKTtJeSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer \u2013 Applications",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-applications-at-apple-4377299593?position=31&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=stifo%2FYws%2BiqXJ9QKS0%2Bow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "IT Data & Analytics Platform Data Engineer",
+        "company": "Consumers Energy",
+        "location": "Jackson, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analytics-platform-data-engineer-at-consumers-energy-4376400938?position=32&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=SNE7BmYMPZsybCzP1Hqxtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Lincoln, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377031163?position=34&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=K8Kiyh7ojPZ4%2BU1zBW%2FWyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer- Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-apple-4377295710?position=35&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=zvfTd6AQP3jIxP6BmA7DAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377028236?position=37&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=T4mnO0QEeUUf3dhgpcsYNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Lexington, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377020706?position=38&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=%2B2fqHWWnphDdVXngMrpWvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer- Systems",
+        "company": "Apple",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-apple-4377603400?position=39&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=BTrc3pya7cR8BJnyFO84uA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-apple-4377287925?position=42&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=%2ByVTef%2BRzM02qvaMmHYwCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Wilmington, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377026462?position=43&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=tVG7QfxBkk7fvKnMMiSExw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Cloud Software Engineer II",
+        "company": "Abbott",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-ii-at-abbott-4378640465?position=46&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=52CoUkT93xcLEOcXCQLOtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Dover, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377024608?position=47&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=dj551pyG9xUmjyKs0kEz0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377298572?position=48&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=6XeEmM1YZg6T9gMTn%2FK0rA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-apple-4377292854?position=49&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=JNJd2ftK3vJiSbjLwKh%2BHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-systems-at-apple-4377291877?position=51&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=hh6YrHCioDWovhHYRdGYvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Systems",
+        "company": "Apple",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-systems-at-apple-4377610158?position=52&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=FC8chpbiFnkLlDOLrsiBZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-systems-at-apple-4377293790?position=55&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=TJEPrt3rllOKMtV0m6MPVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377605358?position=58&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=ca8PkeqO0Kl2uyhNW%2BzcJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer- Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-systems-at-apple-4377296652?position=59&pageNum=0&refId=BC%2FaF1QjtGSAg4qpdQu1YA%3D%3D&trackingId=uLL%2FF4XjV%2F%2B5aJduzBLr2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Apple",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4377299592?position=1&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=YhbbpGvRUx0d%2FZOjdOOXJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Healthcare Data Analyst \u2013 Consultant",
+        "company": "Lucem Health",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-%E2%80%93-consultant-at-lucem-health-4368275861?position=2&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=XKZpQTZf79et1r2Yb9n%2Frg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Network/Data Engineer",
+        "company": "PTR Global",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/network-data-engineer-at-ptr-global-4378640505?position=3&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=cAD3YebZ3JZlPpKNtlAq2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Colorado, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377017826?position=4&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=JFcqiXHtRyzuWkbNi7QKvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer \u2013 Applications",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-applications-at-apple-4377299593?position=6&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=SJ%2F69nh8WJ%2Fnsg2HVTbTXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "IT Data & Analytics Platform Data Engineer",
+        "company": "Consumers Energy",
+        "location": "Jackson, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analytics-platform-data-engineer-at-consumers-energy-4376400938?position=7&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=6RPj4SkFpCSICiXHFaRxzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst/Data Scientist M/F/D",
+        "company": "Agilent Technologies",
+        "location": "Lincoln, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-scientist-m-f-d-at-agilent-technologies-4377031163?position=9&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=fxIO1Fo%2FfRpWgt07%2FylP6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer- Systems",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-apple-4377295710?position=10&pageNum=2&refId=cH%2BUzICw5yaKbDTFtIdaPQ%3D%3D&trackingId=QzbSjXH%2FjHfdkFzG2yGjcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-26 21:45:20",
+        "email_sent": true
     }
 ]
