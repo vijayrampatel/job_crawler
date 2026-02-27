@@ -1,275 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "The Phoenix Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-phoenix-group-4375565727?position=2&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=E0iB15v1hD9CFrfwPxqUTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Abacus Service Corporation",
-        "location": "Juno Beach, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-abacus-service-corporation-4377958297?position=3&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=Bv91g4HUgiS3vhi12gqW%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Workerbee",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-workerbee-4379049755?position=6&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=%2BDMCsJ32GLaB%2FdbESa8kvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Associate, Data Engineer",
-        "company": "KPMG US",
-        "location": "Albany, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376434457?position=8&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=UKgfSfM5vRxxKXKfHjn0hw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - AI",
-        "company": "Brellium",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-brellium-4377945766?position=9&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=hlrYLItobaxAmpYg0wnjoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Associate, Data Engineer",
-        "company": "KPMG US",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376434456?position=10&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=kfoaCWBMj4O9HL9AgL1kug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Associate, Data Engineer",
-        "company": "KPMG US",
-        "location": "Harrisburg, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376434458?position=11&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=2glDYP%2FiLX%2FtFEuAdXIL5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Asta Crs Inc",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-asta-crs-inc-4377960239?position=13&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=sS4dtWKRkL5edo9tm816Nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "GenAI Data Automation Engineer",
-        "company": "Equiliem",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/genai-data-automation-engineer-at-equiliem-4377947827?position=14&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=bIm9KoVC4eLMstrkUTVQgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Assoc. Analytics Engineer",
-        "company": "Numerator",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/assoc-analytics-engineer-at-numerator-4379069016?position=16&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=dwMECWUQMaJTNgz8ha9DNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "MSX International",
-        "location": "Troy, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-msx-international-4379067385?position=19&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=FjAw9Ww1jQxq9Y2h%2BQGerg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Aditi Consulting",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4379052715?position=20&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=72iAT2YkNdAgoFhqDzGCww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I (US)",
-        "company": "TD",
-        "location": "Mount Laurel, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-us-at-td-4379070042?position=21&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=blMiovZISNt2gqhNuPafvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer l",
-        "company": "Mevion Medical Systems",
-        "location": "Littleton Common, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-l-at-mevion-medical-systems-4377956299?position=34&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=WuzxPhSmDBBnEc7w6uz3Mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist - Houston,TX",
-        "company": "Ocean Blue Solutions Inc",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-houston-tx-at-ocean-blue-solutions-inc-4376205358?position=35&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=jIIhsmVBTfrQ9%2FfwunnLIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4379061531?position=36&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=Sng6bVnyEvP58%2B7WnrL5OQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer IV",
-        "company": "University of Utah",
-        "location": "Salt Lake City, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-iv-at-university-of-utah-4377960234?position=37&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=RbReX%2FTnjAe6Oa25Dc%2FyUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "Covetus",
-        "location": "Alpharetta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-covetus-4379052673?position=39&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=TiEOqdKtOSK8G32qYGwrIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Forward Deployed",
-        "company": "Ramp",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-at-ramp-4379068248?position=40&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=0Mv6H5hY1c5TMyKZVBaWSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst -Canadian English/French",
-        "company": "HCLTech",
-        "location": "Reno, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-canadian-english-french-at-hcltech-4379059567?position=43&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=CpWpbxPqkXcL83i371iiQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Careerscape",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-careerscape-4376217019?position=45&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=m9XjNJXNWHLIFc%2F66HZInQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer [Multiple Positions Available]",
-        "company": "hackajob",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-multiple-positions-available-at-hackajob-4377956273?position=46&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=BJhHYU53n34scyNjKFv%2FUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4379052693?position=55&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=BVDT0NhCjJjN5BgJdx2GvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst Supporting the USMS",
-        "company": "FSA",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-usms-at-fsa-4379022656?position=57&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=bDg5jJdq2geSJbbxFRC4lA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Supporting the USMS",
-        "company": "FSA",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-usms-at-fsa-4379037772?position=58&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=b4DHeSxI%2FQNBQjcnxZPC7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Staff Engineer Software (Prisma Access- Backend)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-staff-engineer-software-prisma-access-backend-at-palo-alto-networks-4376218009?position=59&pageNum=0&refId=cVPElnh80Wfq6NlWcHl8BA%3D%3D&trackingId=gRRNmN%2FY8xqlJ5vOMCVOqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer l",
-        "company": "Mevion Medical Systems",
-        "location": "Littleton Common, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-l-at-mevion-medical-systems-4377956299?position=10&pageNum=2&refId=mWr9n6M9zMKS%2BIHgPMQZJw%3D%3D&trackingId=zq%2B1cQZXAiGs2kAzLG60AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-27 20:42:52",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer - Stores & Supply Chain",
         "company": "Target",
         "location": "Greater Minneapolis-St. Paul Area",
@@ -567,6 +297,196 @@
         "url": "https://www.linkedin.com/jobs/view/engineer-i-at-lumen-technologies-4379074128?position=6&pageNum=2&refId=iFfNnzZZuVM3GV8lptACPw%3D%3D&trackingId=sN3%2FTM046I8Hw5mUWTOQUQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-27 21:13:33",
+        "email_sent": true
+    },
+    {
+        "title": "Artificial Intelligence Engineer",
+        "company": "Smart IT Frame LLC",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-smart-it-frame-llc-4377961754?position=6&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=IgkqaaXokU3jvZEFWH3fHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Audience Platform",
+        "company": "Target",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-audience-platform-at-target-4377973358?position=11&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=uVhPMHZdJk%2Famy%2BgUAQKrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "AI SW Engineer- Enterprise AI",
+        "company": "Northern Trust",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-sw-engineer-enterprise-ai-at-northern-trust-4375994888?position=12&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=5hpQSxemlmf61u1EWu4nVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Cadence",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4377963715?position=18&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=AaWf2ybZLkPTGh2UOQMJiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer \u2013 SSFB (IRES000036)",
+        "company": "GeoControl Systems",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-ssfb-ires000036-at-geocontrol-systems-4376890260?position=26&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=QdBUKeeGGVkxnRp7kPaElA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Sr Front End Software Engineer",
+        "company": "Mitchell Martin Inc.",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-front-end-software-engineer-at-mitchell-martin-inc-4375999770?position=29&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=6epcDPqHICKR4PeeLxhckQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software QA Engineer 2 - 16753",
+        "company": "Transcend Solutions",
+        "location": "Berkeley Heights, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-2-16753-at-transcend-solutions-4377972445?position=33&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=MginUPiVhNinX%2BPWbwlFxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer ll (New College Grad 2026)",
+        "company": "Cadence",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ll-new-college-grad-2026-at-cadence-4377975350?position=38&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=OGt0XC6l5Sui4vIm8Ug1tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4377950577?position=39&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=pWd8KMqr%2B0l%2BIEK499ZK7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Geomechanics Software Engineer (DEM) - Minneapolis, Minnesota, USA",
+        "company": "ITASCA International Inc.",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/geomechanics-software-engineer-dem-minneapolis-minnesota-usa-at-itasca-international-inc-4377968592?position=41&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=8hvdz49nDYp1QgTZ0Eam3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Entry Researcher",
+        "company": "Brooksource",
+        "location": "Charlotte Metro",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-entry-researcher-at-brooksource-4377958894?position=45&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=%2B2sL0jSXhkRxDf7dJQMBSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4377948595?position=52&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=jjRX8%2BzOcftw8hb1rQyL%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4379066487?position=55&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=mmCyZE%2BiO%2F4EuonZBFfh4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4377955348?position=56&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=6KXmcauGoUQ1mf3054yPBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4377945681?position=57&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=sIu82XUUPyIMLxazu4%2F9Dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Project Controls Data Analyst",
+        "company": "WSP in the U.S.",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/early-career-project-controls-data-analyst-at-wsp-in-the-u-s-4379055782?position=60&pageNum=0&refId=%2FqGyjJMuvkRni44E%2BuSC0A%3D%3D&trackingId=ZDQyPiPyFIu73iYbrOe1Tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer \u2013 SSFB (IRES000036)",
+        "company": "GeoControl Systems",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-ssfb-ires000036-at-geocontrol-systems-4376890260?position=1&pageNum=2&refId=5OI%2BBAQ2RWkQkDhjS8w8ug%3D%3D&trackingId=W5KikQk8s6oLjXddHRLKbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Sr Front End Software Engineer",
+        "company": "Mitchell Martin Inc.",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-front-end-software-engineer-at-mitchell-martin-inc-4375999770?position=4&pageNum=2&refId=5OI%2BBAQ2RWkQkDhjS8w8ug%3D%3D&trackingId=ROb%2BZcVdvmIpvAdXFEwcFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software QA Engineer 2 - 16753",
+        "company": "Transcend Solutions",
+        "location": "Berkeley Heights, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-2-16753-at-transcend-solutions-4377972445?position=8&pageNum=2&refId=5OI%2BBAQ2RWkQkDhjS8w8ug%3D%3D&trackingId=hWlLAXJ6RV2lryeN9TMVcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-27 21:46:00",
         "email_sent": true
     }
 ]
