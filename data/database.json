@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Manulife",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-manulife-4378229062?position=1&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=tQ%2FNUWOqq4aBlti2s6nZMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, Semi Service Programs",
-        "company": "Tesla",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-semi-service-programs-at-tesla-4379200987?position=2&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=v7AqWZmGmLIQNLqYn0uf7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Data Operations Engineer",
-        "company": "People Architects",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-operations-engineer-at-people-architects-4379217260?position=3&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=19ienIOIwbZOnQ%2B8w5tiaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Data analyst",
-        "company": "Finezi Inc.",
-        "location": "Oakland, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-finezi-inc-4378224002?position=4&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=f52L1cixgtTKOXMGEeSHXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, GenAI OneRecipe",
-        "company": "Google DeepMind",
-        "location": "Buffalo-Niagara Falls Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-genai-onerecipe-at-google-deepmind-4379212760?position=5&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=9V%2FYHM9ddL3MD325q6hqNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4378222061?position=6&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=%2Ft1ByTRz6pdGmfLOlDAPCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": false
-    },
-    {
-        "title": "Web Interface Software Engineer",
-        "company": "Silvus Technologies",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/web-interface-software-engineer-at-silvus-technologies-4376243296?position=7&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=N4KyCWgtm1dd1OYOnZpXEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-fetchjobs-co-4378218175?position=8&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=SY48ALhqCiG3bh6qDBtv7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer: Validation of Crypto and Security IPs",
-        "company": "Apple",
-        "location": "Cupertino, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-validation-of-crypto-and-security-ips-at-apple-4378200951?position=9&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=ty5wGFmgHwydZk1ZXZNcGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Silvus Technologies",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-silvus-technologies-4376238643?position=10&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=B2vlKPYDvB2UAM1nfHUsZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Software Test Engineer, Flight Software Integration & Test Operations",
-        "company": "Xona",
-        "location": "Burlingame, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-flight-software-integration-test-operations-at-xona-4379084581?position=11&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=zdoZWYyrToxURBc%2FopObVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer - Research And Development (R&D)",
-        "company": "Silvus Technologies",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-research-and-development-r-d-at-silvus-technologies-4376233744?position=12&pageNum=0&refId=OBNMtyoBpjgwJstLDQuNNg%3D%3D&trackingId=SGkdsM%2FwZjfrkLe9P65gNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-28 04:08:23",
-        "email_sent": true
-    },
-    {
         "title": "Associate, Data Engineer",
         "company": "KPMG US",
         "location": "Austin, TX",
@@ -568,5 +448,135 @@
         "source": "LinkedIn",
         "scraped_date": "2026-02-28 05:02:32",
         "email_sent": true
+    },
+    {
+        "title": "REMOTE- Junior Data Engineer",
+        "company": "Lensa",
+        "location": "Fort Worth, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-junior-data-engineer-at-lensa-4379094443?position=1&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=lldSkzEg4EgCzFQB3aQeXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Lensa",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-lensa-4379201156?position=11&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=Zubj%2FvvGU0OPxxrJASaArw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Developer/Data Engineer - Entry Level",
+        "company": "Lensa",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-developer-data-engineer-entry-level-at-lensa-4379209019?position=23&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=w%2FF2s1LH2Yj%2BS4Rm9ys2LQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "SQL Data Analyst (REMOTE EST)",
+        "company": "Lensa",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sql-data-analyst-remote-est-at-lensa-4379098255?position=34&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=8d7Y9qMjFgmIPLYZWFV%2B2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4379208045?position=41&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=VKUIn%2Fm1dLcG51WyPLNcXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Tableau Data Analyst",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/tableau-data-analyst-at-lensa-4379096349?position=42&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=2iOtvBQ9pAp8qzCwdgy9dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Lensa",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-lensa-4379089842?position=43&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=%2BLrpoDP%2FUELqEHJDrTMPpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Virginia Beach, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4379200141?position=45&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=yJ50nPYOSXhNMlO2Cr4d9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Assurance Engineer - Entry Level",
+        "company": "Lensa",
+        "location": "Vienna, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-entry-level-at-lensa-4379208053?position=53&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=wP%2Bk6O%2FZYiztc1FWRwiAzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Quality Assurance Engineer",
+        "company": "Lensa",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/jr-quality-assurance-engineer-at-lensa-4379098259?position=54&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=TvZSHdroy8wy310w%2FF9dhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4379206105?position=55&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=lvLa1eqAeeSjzbglnOhlQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "Truck Remote Control System Engineer",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/truck-remote-control-system-engineer-at-lensa-4379090858?position=56&pageNum=0&refId=B5pACw3u32G5xkQlggqAMw%3D%3D&trackingId=y1047P7umVOEtf5GIlnkkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
+    },
+    {
+        "title": "SQL Data Analyst (REMOTE EST)",
+        "company": "Lensa",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sql-data-analyst-remote-est-at-lensa-4379098255?position=9&pageNum=2&refId=lPp8lFzMBX%2BaeCCiPBKY2w%3D%3D&trackingId=1cvFS9dWjxOyghc9Euz%2BmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-28 05:47:01",
+        "email_sent": false
     }
 ]
