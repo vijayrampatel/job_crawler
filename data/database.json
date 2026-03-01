@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4379720149?position=3&pageNum=0&refId=rxlQEqrMBLty3gjCBCkRGw%3D%3D&trackingId=pkBw6H164y5e0Q3RIO1dKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-01 21:45:04",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer \u2013 SSFB (IRES000036)",
-        "company": "GeoControl Systems",
-        "location": "Colorado Springs, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-ssfb-ires000036-at-geocontrol-systems-4376890260?position=5&pageNum=0&refId=rxlQEqrMBLty3gjCBCkRGw%3D%3D&trackingId=XUS0xrg%2BL6b5MBY9TJzw0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-01 21:45:04",
-        "email_sent": true
-    },
-    {
-        "title": "Indy Car engineer",
-        "company": "Dale Coyne Racing",
-        "location": "Plainfield, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/indy-car-engineer-at-dale-coyne-racing-4378465320?position=9&pageNum=0&refId=rxlQEqrMBLty3gjCBCkRGw%3D%3D&trackingId=j2W6e6TtZqVdpyeb8ISH%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-01 21:45:04",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Ara (YC X26)",
         "location": "San Francisco Bay Area",
@@ -118,5 +88,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-01 22:27:19",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Definitive Healthcare",
+        "location": "Framingham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-definitive-healthcare-4379738127?position=1&pageNum=0&refId=ThAfC0ICe%2BMsqymHYR9HlA%3D%3D&trackingId=VJZ2V8XRcNhnnyvWplMRzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-01 22:50:15",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "PT Phoenix Resources International",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pt-phoenix-resources-international-4376671250?position=4&pageNum=0&refId=ThAfC0ICe%2BMsqymHYR9HlA%3D%3D&trackingId=AmtFrWImUuMvUw6NmSB82w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-01 22:50:15",
+        "email_sent": true
+    },
+    {
+        "title": "HWIL Software Engineer - P4",
+        "company": "CityView Solutions",
+        "location": "Tucson, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hwil-software-engineer-p4-at-cityview-solutions-4379736229?position=6&pageNum=0&refId=ThAfC0ICe%2BMsqymHYR9HlA%3D%3D&trackingId=HBSjtwk3XggNAs%2FrgeEKEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-01 22:50:15",
+        "email_sent": false
     }
 ]
