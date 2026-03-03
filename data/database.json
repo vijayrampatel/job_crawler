@@ -1,345 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fetchjobs-co-4379462531?position=1&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=JOv7HkcwAWSbFun7DbWJ8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4380542092?position=3&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=avAdmYrOjM%2FNko0j8Ilz3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Engineer",
-        "company": "Pushnami",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-at-pushnami-4379452715?position=4&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=7Si3i7DUNo9ZgjvgJNfaXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Detroit Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4380527965?position=8&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=whjR74LwoPBYyo7qhUBSZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer New Grad 2025-2026 - Data Infrastructure, Quora (Remote)",
-        "company": "Quora",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-2025-2026-data-infrastructure-quora-remote-at-quora-4377075440?position=10&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=67CWcrGRFPHHJMnnlqUjEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-fetchjobs-co-4379466440?position=12&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=5qwVU4yEyjiUOrd1LXU0Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Tranzeal Incorporated",
-        "location": "Rancho Cordova, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-tranzeal-incorporated-4379461626?position=13&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=J2BWObxyrRwLtJorBuBVbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I (Backend)",
-        "company": "Abbott",
-        "location": "Burlington, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-backend-at-abbott-4380538109?position=15&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=TvEXK5MS37M5ZzEGO4fIAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4380547030?position=17&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=j8MytCUT3MOpIBxJTjIPUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Tustin, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4380535192?position=18&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=cAPCfy3Pm0WG5Bv9liP1aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst - AD273",
-        "company": "Native American Rehabilitation Association of the Northwest, Inc. (NARA)",
-        "location": "Portland, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ad273-at-native-american-rehabilitation-association-of-the-northwest-inc-nara-4380519956?position=19&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=CIXGSZSfwc2mla1jfxd32A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Humana",
-        "location": "Louisville, KY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-humana-4378534851?position=20&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=3zklIq4vRwP5%2BfdWP5E9gQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "IT System Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-system-engineer-at-fetchjobs-co-4379465399?position=23&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=7ybI4eeBTj2%2FJku3H3CUxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-fetchjobs-co-4379449969?position=26&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=m4rc62%2BYRHi%2BsZlix3PHRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-software-engineer-at-fetchjobs-co-4379456642?position=27&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=tWjeMYNpnwMm%2BZ5GnBDEYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Cudahy, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4380533207?position=30&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=k%2Fp2h%2F9s4oIaz75QonHVNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst - Remote Optional",
-        "company": "TalentAlly",
-        "location": "West Bend, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-optional-at-talentally-4380529965?position=31&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=astrgSGLse2geeoEeednLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Operations Engineer",
-        "company": "Tranzeal Incorporated",
-        "location": "Rancho Cordova, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-operations-engineer-at-tranzeal-incorporated-4379453831?position=33&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=Q%2BG%2FaU93YRMRnOYX0kI67w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Scientist - AI Practice Team",
-        "company": "ABS Group",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-ai-practice-team-at-abs-group-4379454780?position=36&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=e40YqJSj53AoEdJC0p6XNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "East Windsor, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4377761316?position=37&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=qKXW3kuS3YDfOzJcEO%2B%2Fdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4379465398?position=38&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=3y8Amy3xhaIKBTucMtjDxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Warehouse Analyst",
-        "company": "Acro Service Corp",
-        "location": "Carson City, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-warehouse-analyst-at-acro-service-corp-4379450820?position=39&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=lDFx%2F6ZPpVuq%2BXKfmLBRUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Robotics Security",
-        "company": "Google DeepMind",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-robotics-security-at-google-deepmind-4380529996?position=42&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=6P%2F7E%2BLvd%2BAadQ2sg14DJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Sr DevOps Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-devops-software-engineer-at-fetchjobs-co-4379466438?position=49&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=7EL%2BisGx8%2FNKsvqXSZyB0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Software Engineer - R10221219",
-        "company": "Northrop Grumman",
-        "location": "Melbourne, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-software-engineer-r10221219-at-northrop-grumman-4380534150?position=51&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=iCZbgDHI2kDdQzskGYQMmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Construction Data Analyst",
-        "company": "The Walsh Group - Walsh Construction & Archer Western",
-        "location": "Racine, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/construction-data-analyst-at-the-walsh-group-walsh-construction-archer-western-4379077967?position=53&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=64bAZ9xdZtOXZps87w5P%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "SOFTWARE ENGINEER",
-        "company": "TalentAlly",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4380548034?position=55&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=0RR0lqbOp7tXyJtJUcsp0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Sentinel Associate/ Software Engineer - 17872 - R10224288-2",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sentinel-associate-software-engineer-17872-r10224288-2-at-northrop-grumman-4380539020?position=58&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=NOcAdNFirQiOl%2B59YNPyLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "KellyMitchell Group",
-        "location": "Greenwood Village, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kellymitchell-group-4378389744?position=59&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=ELHqlHwOEcp4Wgsiq%2FYiQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Sentinel Associate/ Software Engineer - 17872 - R10224288",
-        "company": "Northrop Grumman",
-        "location": "Roy, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sentinel-associate-software-engineer-17872-r10224288-at-northrop-grumman-4380534148?position=60&pageNum=0&refId=KBGZtKRH2anxR1KpISvGbA%3D%3D&trackingId=1gZU13jB%2Fdq%2FX8QfISUUzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/devops-software-engineer-at-fetchjobs-co-4379456642?position=2&pageNum=2&refId=iZnxlT20RX8soke35LaYOQ%3D%3D&trackingId=BSvn6w3x2sqwRPNR%2FCKlUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Cudahy, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4380533207?position=5&pageNum=2&refId=iZnxlT20RX8soke35LaYOQ%3D%3D&trackingId=MSOn%2BsLNvm8nxPtO%2FSdO0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst - Remote Optional",
-        "company": "TalentAlly",
-        "location": "West Bend, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-optional-at-talentally-4380529965?position=6&pageNum=2&refId=iZnxlT20RX8soke35LaYOQ%3D%3D&trackingId=qILoACss880iQpbMM4oClw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Operations Engineer",
-        "company": "Tranzeal Incorporated",
-        "location": "Rancho Cordova, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-operations-engineer-at-tranzeal-incorporated-4379453831?position=8&pageNum=2&refId=iZnxlT20RX8soke35LaYOQ%3D%3D&trackingId=pOojXjVi4EVaTBDT7o8hdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-03 21:47:06",
-        "email_sent": true
-    },
-    {
         "title": "DATA SCIENTIST",
         "company": "TalentAlly",
         "location": "Fairfax, VA",
@@ -928,5 +588,325 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-03 22:46:56",
         "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4379458914?position=11&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=Vbtm8r2YmzKIFHRT6EMvvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Data Engineer (Celonis)",
+        "company": "Waters Corporation",
+        "location": "Milford, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-data-engineer-celonis-at-waters-corporation-4340716005?position=12&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=KYK33cnqbW5sakQZlapQYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4379462767?position=15&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=gJ%2B9FLB6%2BayC91WRS4dEIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Collabera",
+        "location": "St Louis, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-collabera-4379477070?position=16&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=feLOvk10bmI7u8D63RIsFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Data Pipeline Analyst",
+        "company": "AscellaHealth",
+        "location": "Berwyn, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-pipeline-analyst-at-ascellahealth-4380574374?position=19&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=vARnCRtQ9KTkGGbQlv2rnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Associate Software Engineer - .Net",
+        "company": "Ensora Health",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-net-at-ensora-health-4380534096?position=22&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=sS0Tpe6KkV0RbepdZRumMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Scrum Focus), Veterans Affairs",
+        "company": "THUNDERYARD SOLUTIONS",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-scrum-focus-veterans-affairs-at-thunderyard-solutions-4378546741?position=32&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=megpbQqQ7Aab3rn42qMPfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "SEACORP",
+        "location": "Middletown, RI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-seacorp-4380583256?position=36&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=%2BmFuVMZfJ5cnX8%2Fyfc1mzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Inventory Data Analyst",
+        "company": "Motion",
+        "location": "Birmingham, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/inventory-data-analyst-at-motion-4380535923?position=38&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=KxAJ%2F6%2FqLTTiMZ74rfo2JA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Combat Systems",
+        "company": "Lockheed Martin",
+        "location": "Mount Laurel, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-combat-systems-at-lockheed-martin-4380587020?position=39&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=2Swtybbx2agUiIoBGsuu5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Computer System Validation Engineer",
+        "company": "SIMARN Solutions",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/computer-system-validation-engineer-at-simarn-solutions-4380555508?position=40&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=I8yMMVwwUagJdT6KqNaQIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Asset & Wealth Management - Software Engineer - Analyst- Dallas",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-software-engineer-analyst-dallas-at-goldman-sachs-4379465575?position=41&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=SJsSR5DYXDm5MfldVJ0Keg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Principal Software Engineer - Digital Media",
+        "company": "Avery Dennison",
+        "location": "Little Rock, AR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-digital-media-at-avery-dennison-4379474119?position=42&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=CT764O2xKXBWvE750Vk8KA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Data Governance Analyst (W2)",
+        "company": "Snowrelic Inc",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-w2-at-snowrelic-inc-4380560896?position=43&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=V0pbeqUBFG9Uq7gNJLpBCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (Multiple Levels)",
+        "company": "Parsons Corporation",
+        "location": "Summit Point, WV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-multiple-levels-at-parsons-corporation-4380573222?position=44&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=L9XsbGxp%2Ftsef1uipxbAMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst Supporting the ATF",
+        "company": "FSA",
+        "location": "Columbia, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-atf-at-fsa-4380523618?position=45&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=reIc%2BAlGbrUKj8VNCvdpzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "\u26a1Join Our Talent Pool: Media Data Analyst \u26a1",
+        "company": "Idea Peddler",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/%E2%9A%A1join-our-talent-pool-media-data-analyst-%E2%9A%A1-at-idea-peddler-4380535843?position=46&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=qml9D89hV0%2BROFgNHBzcxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "DevSecOps Software Engineer - Secret Clearance",
+        "company": "Lockheed Martin",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/devsecops-software-engineer-secret-clearance-at-lockheed-martin-4380557903?position=47&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=148CFe7s4AoE2TfXFzIaTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Fund for Public Health in NYC",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-fund-for-public-health-in-nyc-4378557045?position=48&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=aRd4Lz1qo%2B6JIN3i4QbRwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "ASSYST",
+        "location": "Gaithersburg, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-assyst-4380531477?position=49&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=ljAacGRlysaGMgwKZUv%2F%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Entry Level Human Resources & Data Analyst",
+        "company": "Social Capital Resources",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-human-resources-data-analyst-at-social-capital-resources-4379456840?position=50&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=N0Xk%2B3EfGYWA52dPpm3kYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Systems Innovation Engineering",
+        "location": "St Paul, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-systems-innovation-engineering-4380522471?position=51&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=QJNabKtnV1ftIyi9mg3bEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II",
+        "company": "Harris & Associates",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-at-harris-associates-4380532216?position=52&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=TjpS4R4DAgllXtLEA4JGmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Automation System Controls Engineer (Indefinite US Work Authorization Required)",
+        "company": "Crown Equipment Corporation",
+        "location": "New Bremen, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/automation-system-controls-engineer-indefinite-us-work-authorization-required-at-crown-equipment-corporation-4380574424?position=53&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=2SIGOezjvzWxlUlnI445Qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Power Integrity Engineer",
+        "company": "TE Connectivity",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-power-integrity-engineer-at-te-connectivity-4339338821?position=54&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=rVedOBq%2FreYCehLpB3jLJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Project Engineer",
+        "company": "B&S Site Development LLC",
+        "location": "Manassas, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-b-s-site-development-llc-4380539955?position=55&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=KiGl2LdaN7vQeAC6rGaKew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Network Engineer",
+        "company": "Collabera",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/network-engineer-at-collabera-4379472120?position=56&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=4GEZAhQA0Ig41y15dA87OQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Production Analyst",
+        "company": "Citarella - The Ultimate Gourmet Market",
+        "location": "Bronx, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/production-analyst-at-citarella-the-ultimate-gourmet-market-4380558035?position=57&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=4e9XciUCyPnXR0A3PLjeFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise Analyst II",
+        "company": "Murphy USA",
+        "location": "El Dorado, AR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-analyst-ii-at-murphy-usa-4362473646?position=58&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=1l%2B8iqUjksePi4UT%2BkkiPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
+    },
+    {
+        "title": "MANUFACTURING ENGINEER I",
+        "company": "TE Connectivity",
+        "location": "Landisville, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/manufacturing-engineer-i-at-te-connectivity-4380566433?position=59&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=iUWx7TfEudEF6HhP%2FjJYEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Business Analyst - Federal Sector",
+        "company": "Procon Consulting",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-federal-sector-at-procon-consulting-4380393573?position=60&pageNum=0&refId=KKQIGS%2FUkMTPanlZV3P7fw%3D%3D&trackingId=XabNiLUUHAy9ucx%2BrJz8zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst (Scrum Focus), Veterans Affairs",
+        "company": "THUNDERYARD SOLUTIONS",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-scrum-focus-veterans-affairs-at-thunderyard-solutions-4378546741?position=7&pageNum=2&refId=dmnaDbAP2ZYttGeh1t4l5A%3D%3D&trackingId=O3muk7Fe0Ps4FdatnWKulA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-03 23:01:51",
+        "email_sent": false
     }
 ]
