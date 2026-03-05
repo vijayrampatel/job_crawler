@@ -1,56 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "AAA Auto Club Enterprises",
-        "location": "Coppell, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaa-auto-club-enterprises-4379337458?position=2&pageNum=0&refId=pGJ%2B7qsfhb9CRdBV0T16Bw%3D%3D&trackingId=Cp7t0Bjlzi%2BoougdKmmFnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-05 06:29:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "DC Department of Human Resources",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dc-department-of-human-resources-4381408038?position=3&pageNum=0&refId=pGJ%2B7qsfhb9CRdBV0T16Bw%3D%3D&trackingId=%2BI349BVzk2x%2BuXlm6bSwJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-05 06:29:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Aditi Consulting",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4367176259?position=4&pageNum=0&refId=pGJ%2B7qsfhb9CRdBV0T16Bw%3D%3D&trackingId=NChYqGWb%2BEvVnHSzHq4BzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-05 06:29:30",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Alignerr",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-alignerr-4381184799?position=5&pageNum=0&refId=pGJ%2B7qsfhb9CRdBV0T16Bw%3D%3D&trackingId=W8v8AFICZNGpLygBTaDXBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-05 06:29:30",
-        "email_sent": false
-    },
-    {
-        "title": "National Field System Engineer - Madison, WI Area",
-        "company": "bioM\u00e9rieux",
-        "location": "Madison, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/national-field-system-engineer-madison-wi-area-at-biom%C3%A9rieux-4367008430?position=6&pageNum=0&refId=pGJ%2B7qsfhb9CRdBV0T16Bw%3D%3D&trackingId=R%2Bp1UHFc2KgH56ZPCkgHjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-05 06:29:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "Robert Half",
         "location": "Cleveland, OH",
         "date_posted": "Recent",
@@ -228,5 +178,55 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-05 07:26:38",
         "email_sent": false
+    },
+    {
+        "title": "Data Strategy Analyst - Python - Work From Home",
+        "company": "Pinnacle Method Consulting",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-strategy-analyst-python-work-from-home-at-pinnacle-method-consulting-4380092257?position=5&pageNum=0&refId=t20UUWvoyZNJc0EXawqCGA%3D%3D&trackingId=csPsoApO3J%2Bef3cHA5kNnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 08:00:32",
+        "email_sent": false
+    },
+    {
+        "title": "Clinical Info Analyst Inter",
+        "company": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/clinical-info-analyst-inter-at-university-of-michigan-4381410408?position=8&pageNum=0&refId=t20UUWvoyZNJc0EXawqCGA%3D%3D&trackingId=MFHgzk3WFpPUb86TK9hXuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 08:00:32",
+        "email_sent": true
+    },
+    {
+        "title": "PROGRAM ANALYST",
+        "company": "Naval Supply Systems Command (NAVSUP)",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-naval-supply-systems-command-navsup-4380076943?position=9&pageNum=0&refId=t20UUWvoyZNJc0EXawqCGA%3D%3D&trackingId=%2Bldgt4bTouEJap0oU7Z8Hw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 08:00:32",
+        "email_sent": false
+    },
+    {
+        "title": "PROGRAM ANALYST",
+        "company": "Naval Supply Systems Command (NAVSUP)",
+        "location": "Mechanicsburg, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-naval-supply-systems-command-navsup-4380098058?position=10&pageNum=0&refId=t20UUWvoyZNJc0EXawqCGA%3D%3D&trackingId=%2FDihr6vhCCHID3v7WYuSXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 08:00:32",
+        "email_sent": false
+    },
+    {
+        "title": "Chemical EIT",
+        "company": "Stantec",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/chemical-eit-at-stantec-4381196924?position=11&pageNum=0&refId=t20UUWvoyZNJc0EXawqCGA%3D%3D&trackingId=zw9dkKgzWpSPJXzsWHf45g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 08:00:32",
+        "email_sent": true
     }
 ]
