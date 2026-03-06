@@ -1,135 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Robert Half",
-        "location": "Cleveland, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4333365136?position=1&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=7tdl3AZIm%2BEu0JG1xFeWew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Actalent",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-actalent-4381941418?position=3&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=dEeS3OjNt%2FUaCwhkFTTuzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4380675709?position=4&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=H2RHoGtBoSNi%2BZ9KWLCjrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Athenix Solutions Group",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-athenix-solutions-group-4381933834?position=5&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=2%2F3Ha6S8H12RZV0wV5iRFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Assured Information Security (AIS)",
-        "location": "Rome, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-assured-information-security-ais-4381945404?position=6&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=GAXm8yeym0OBiqaSGPBkjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Customer Service Platform",
-        "company": "Orchestrate Consulting Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-customer-service-platform-at-orchestrate-consulting-group-4380685174?position=7&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=ZX9qWo84wEuhbiZ4PNRO0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst I - Justice Services",
-        "company": "Pima County",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-justice-services-at-pima-county-4381929925?position=8&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=jsqGF0Vh432qEUnIFa9Z4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "AWS DevOps Engineer",
-        "company": "Jobs via Dice",
-        "location": "Toronto, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-devops-engineer-at-jobs-via-dice-4380674699?position=10&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=nSKAZ2pkmahNWXmveNmyfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software 2",
-        "company": "Jobs via Dice",
-        "location": "Huntsville, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-2-at-jobs-via-dice-4380674695?position=12&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=w6YBmfop7HbQHW1y%2FF251w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Class of 2026: Bertelsmann Data Science Rotational Program",
-        "company": "Bertelsmann SE & Co. KGaA",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/class-of-2026-bertelsmann-data-science-rotational-program-at-bertelsmann-se-co-kgaa-4360513379?position=13&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=3xh5ukftO11WJHaaRoHS5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Jobs via Dice",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-jobs-via-dice-4380672639?position=14&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=6tRu9U9SavPq37hUYyiAyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-at-jobs-via-dice-4380681336?position=18&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=BnMd%2FQckeQhywlblRRDQTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Software Engineer *CLEARANCE*",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-clearance-at-jobs-via-dice-4380682305?position=20&pageNum=0&refId=Cf2WbaAltEvRc%2BlW4GwiSw%3D%3D&trackingId=AJIL4xItH7QSocv6SsN3KQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-06 07:50:10",
-        "email_sent": false
-    },
-    {
         "title": "Junior Backend Software Engineer",
         "company": "HiringAgents.ai",
         "location": "San Francisco, CA",
@@ -217,6 +87,106 @@
         "url": "https://www.linkedin.com/jobs/view/product-engineer-division-production-software-at-hexagon-manufacturing-intelligence-4374560078?position=20&pageNum=0&refId=vN98KA6GXExONpwK1RZztg%3D%3D&trackingId=d8c63plzAKVEOv0DN365NA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-06 08:21:29",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380489084?position=1&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=TPzYYQs%2BY56p2CupH2JadQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380488166?position=2&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=yqR2pp0ShbsToBPvrgdQlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Machine Learning",
+        "company": "Roku",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-roku-4365190171?position=4&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=bvtyCuuTfaxoPuBBxETEZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4380688461?position=5&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=5xVkRxWfSebzgaCRXAekoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer III",
+        "company": "University of Utah",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-university-of-utah-4380693231?position=6&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=4G9%2BMZZfAWZ73BLm4T43mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-remotehunter-4380688483?position=8&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=%2B86UVWUCFObDadWjcyarxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Analyst",
+        "company": "Argo Trans Abadi",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-argo-trans-abadi-4381946748?position=10&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=1kt1gIRsBXli%2FhQFF6PJXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Argo Trans Abadi",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-argo-trans-abadi-4380695097?position=12&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=7mUHPHgK0hF4C97O5mEnEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Kratos Defense and Security Solutions",
+        "location": "Crane, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-kratos-defense-and-security-solutions-4381954274?position=13&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=c6%2BVdksRWA5gzL3gNCzBXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Shift Equipment Engineer ID1",
+        "company": "Micron Technology",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/shift-equipment-engineer-id1-at-micron-technology-4362177242?position=16&pageNum=0&refId=BpDUaUh8%2F23SghbDO9sy8Q%3D%3D&trackingId=iJqoO0QRSyWI78CUtQySKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-06 09:03:21",
         "email_sent": true
     }
 ]
