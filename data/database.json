@@ -1,115 +1,5 @@
 [
     {
-        "title": "Data Analyst I",
-        "company": "Honeywell",
-        "location": "Phoenix, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-honeywell-4372939817?position=9&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=AMk4EEeq24w9d839jLkINg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Pariveda",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4363387375?position=12&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=HPwUFS5TZSdH2UOtqSc%2Fww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Ground Network Engineering (Gateway)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ground-network-engineering-gateway-at-spacex-4312504256?position=16&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=jxkj%2FTELqaRmQEjqhDapMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Salesforce Developer",
-        "company": "Panasonic Connect North America",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/salesforce-developer-at-panasonic-connect-north-america-4379507548?position=20&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=mHYL3eH769sc9qZvyxG5Hg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "CLOUD IT STAFFING LLC",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cloud-it-staffing-llc-4381380041?position=27&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=tk8cV%2BRT1MN8Rh0Y92Br3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": true
-    },
-    {
-        "title": "AI/ML Software Engineer",
-        "company": "Toyon Research Corporation",
-        "location": "Goleta, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-toyon-research-corporation-4309585988?position=41&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=cYaC%2Btg3g5J3ObUItsew6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": true
-    },
-    {
-        "title": "Mobile Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-dataannotation-4334720153?position=42&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=FXk1aHYIrt51C52WdQgULQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Engineer",
-        "company": "M1 Technology LLC",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-m1-technology-llc-4382112688?position=49&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=94KMfLolnUAgXrvgULC91w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Engineer (Falcon)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-engineer-falcon-at-spacex-4337530092?position=51&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=frMhw%2FBQ6t0U%2BBGMtAcR%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Engineer (Starshield)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-engineer-starshield-at-spacex-4337141681?position=57&pageNum=0&refId=33COHw7loty4HuQbgf5zjw%3D%3D&trackingId=da8lhbeCEjWaExkl6s02Jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "CLOUD IT STAFFING LLC",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cloud-it-staffing-llc-4381380041?position=2&pageNum=2&refId=xtBFz3LMDiFbOSUKchqEYw%3D%3D&trackingId=z4OWdWZPotglT9EfwDsetw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-07 16:50:43",
-        "email_sent": true
-    },
-    {
         "title": "Claims Data Analyst",
         "company": "McNeil & Co.",
         "location": "Cortland, NY",
@@ -498,5 +388,175 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-07 17:36:13",
         "email_sent": true
+    },
+    {
+        "title": "Data Analytics Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-wiraa-4382611043?position=1&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=3UMNCcbVm%2FJ5wvbcpnFUOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Top Secret Clearance (Application Software, Data)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-top-secret-clearance-application-software-data-at-spacex-4337032260?position=4&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=zxqhVCGTOUszgUuBq1pKvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, DevOps",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-devops-at-wiraa-4382393672?position=7&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=NCU1I5LGh8SdqVmPijIfBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-wiraa-4382611045?position=8&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=jsUDv%2BbMLgOuiwir2FB6PQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Advanced Tableau Data Analyst",
+        "company": "Honeywell",
+        "location": "Morris Plains, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/advanced-tableau-data-analyst-at-honeywell-4372958238?position=10&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=FUgetLBkzO7lHJZOCbtwhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (SQL, Typescript)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-typescript-at-wiraa-4382390853?position=12&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=cFMvdaeEscDbBU8qJIxYdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Engineer (Js/TypeScript)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-js-typescript-at-wiraa-4382394654?position=13&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=SvK4YmPacm8Pa8e4TXMKLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Technician",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-technician-at-remotehunter-4381373446?position=16&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=pj2S4Z5g39SR1vMX4l8IOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Mobile Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-dataannotation-4334619197?position=19&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=9N7y%2BrJU7yRf8DUvXDNWyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java, API)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-api-at-wiraa-4382390852?position=23&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=3%2Bk2IG8HFk4OLRZy1b%2BzBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Android Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Illinois, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/android-software-engineer-at-dataannotation-4334730110?position=25&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=Q49l0nMyBsCni8OL6HUsJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Staff IT Software Engineer - IT Go-To-Market & Customer Experience",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-it-software-engineer-it-go-to-market-customer-experience-at-palo-alto-networks-4364760911?position=31&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=5gHh6QN85i5No%2B17dq6VWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4382391776?position=33&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=EYfeOZng%2F9yONNddts1u1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer II, Robotic Controls",
+        "company": "ICON",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-robotic-controls-at-icon-4372742993?position=50&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=G%2Fle6LGqHVX0s0qdP1vM1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist I \u2013 Applied AI",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-%E2%80%93-applied-ai-at-remotehunter-4381369757?position=51&pageNum=0&refId=rC3uqD2KlOr4nWnk0L9HTg%3D%3D&trackingId=4Ye1FsYYl3EN5kujbZernA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Staff IT Software Engineer - IT Go-To-Market & Customer Experience",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-it-software-engineer-it-go-to-market-customer-experience-at-palo-alto-networks-4364760911?position=6&pageNum=2&refId=mrMRRoRg9M9pU5%2Bsk8xgvQ%3D%3D&trackingId=VTFl0ly%2Fw0EZth6qhybDcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4382391776?position=8&pageNum=2&refId=mrMRRoRg9M9pU5%2Bsk8xgvQ%3D%3D&trackingId=JEtogHxwg8szkThDDDzo0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 17:52:43",
+        "email_sent": false
     }
 ]
