@@ -1,22 +1,212 @@
 [
     {
-        "title": "Engineer 2",
-        "company": "Memphis Light, Gas and Water (MLGW)",
-        "location": "Memphis, TN",
+        "title": "Data Engineer",
+        "company": "Benecon",
+        "location": "Lititz, PA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-2-at-memphis-light-gas-and-water-mlgw-4382367052?position=4&pageNum=0&refId=H%2BrCztJn8NQC0Ps7o2CcYg%3D%3D&trackingId=R6yCxjG5e9iqug7B%2FiZ%2BHA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-benecon-4382369277?position=1&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=pSpuGVAAa%2Bp1bs3rVg2TPg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-07 06:38:45",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Tulsa Community Foundation",
+        "location": "Tulsa, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tulsa-community-foundation-4382371182?position=2&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=W9V0cqioXtdS3qH%2F4RzyOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
         "email_sent": true
     },
     {
-        "title": "Engineer 2",
-        "company": "Memphis Light, Gas and Water (MLGW)",
-        "location": "Memphis, TN",
+        "title": "Business Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Austin, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-2-at-memphis-light-gas-and-water-mlgw-4382346940?position=5&pageNum=0&refId=H%2BrCztJn8NQC0Ps7o2CcYg%3D%3D&trackingId=ZUfR%2BXl%2FtH06BpwYfxTy6g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/business-data-engineer-at-jobs-via-dice-4381335734?position=3&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=ExGaSSSA%2FI8noYuHOX8J5w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-07 06:38:45",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-data-engineer-at-jobs-via-dice-4381350076?position=4&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=JahtUMbkqLg8xmspeeRYLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "AI Infrastructure|Platform & Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-infrastructure-platform-data-engineer-at-jobs-via-dice-4381329956?position=5&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=Iap899BpfLSxRb8jfjQT9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Applications Developer (Data & Analytics",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applications-developer-data-analytics-at-jobs-via-dice-4381333899?position=6&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=kQzgXv1VISVD1axy9KQfAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Associate, Data Products & Quality",
+        "company": "Character Biosciences",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-products-quality-at-character-biosciences-4382360631?position=7&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=eccmf1bgb9F7CliFwyaKCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Actalent",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-actalent-4382370147?position=8&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=M7Y%2BaOgcJ3mCqSejePrulA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": true
+    },
+    {
+        "title": "Linux Systems Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/linux-systems-software-engineer-at-jobs-via-dice-4381331851?position=11&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=PxFDfV3lTfw3JIHscV8FVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Development Program",
+        "company": "Oak Street Health, part of CVS Health",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-development-program-at-oak-street-health-part-of-cvs-health-4382361702?position=12&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=b4FiRczIU1H%2BqZZSWva4ow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Verification Engineer - White Box Testing",
+        "company": "Actalent",
+        "location": "Grand Rapids, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-engineer-white-box-testing-at-actalent-4382366291?position=13&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=aBam5Y7tVhUgOB4%2F9j0CTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": true
+    },
+    {
+        "title": "The Lab Quality Analyst I /Data Reviewer I",
+        "company": "Pinnacle Method Consulting",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/the-lab-quality-analyst-i-data-reviewer-i-at-pinnacle-method-consulting-4381347447?position=14&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=n6mIjAlRINz9n7LUITrtRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "St. Petersburg, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380862065?position=15&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=ffFSYidMuL90TeA6C0OozQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Jacksonville, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380859561?position=16&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=vUk74SgjshSTJybgSOecAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380862152?position=17&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=MifXppkhaC5B3FoB7VAUmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380850747?position=18&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=5LNCfSpBJUsGUOEOyKnfjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380851969?position=19&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=wOlVpEEWIC99ksRAMAenGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380863366?position=20&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=QHVufMU5vy4o%2B20DwgohKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "White Plains, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380843955?position=21&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=KEipOifMh2q6gFYQ%2BhTU4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4380851620?position=22&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=f%2B0Lk9UXmewrxGlLwBvVJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Project Engineer- Construction",
+        "company": "Actalent",
+        "location": "Milwaukee, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-project-engineer-construction-at-actalent-4382361585?position=23&pageNum=0&refId=CLPEvVIRNukD2DFcSXrj0w%3D%3D&trackingId=%2Buhn7iEhaUNFFF%2FAvxUJ%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-07 07:40:47",
         "email_sent": true
     }
 ]
