@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Atlanta Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380475864?position=2&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=Gsz8dv3uTrFWQXDHDj%2BUfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380483369?position=4&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=kWl2GbfvIKMEKe3f5QoRzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": true
-    },
-    {
-        "title": "IT System Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-system-engineer-at-fetchjobs-co-4381520996?position=17&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=OagN7PdDr717m5%2FpaQPDSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": false
-    },
-    {
-        "title": "ML Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-wiraa-4382651997?position=21&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=rWEJoDfUJt8MQDlojmk3kA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Georgia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4376219277?position=23&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=XiyhRNRXaNa12pVkaNNssg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4376216445?position=27&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=KYpVUoqUYlmJMf4ICoBOQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4381540234?position=30&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=XdksiOS0uct7JSGuq9kwaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": false
-    },
-    {
-        "title": "Graduate Engineer",
-        "company": "RJN Group, Inc.",
-        "location": "Downers Grove, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/graduate-engineer-at-rjn-group-inc-4373360208?position=36&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=kcnqaxbY1%2BnHYrKfljyqaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": false
-    },
-    {
-        "title": "Geotechnical Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/geotechnical-engineer-at-fetchjobs-co-4381529563?position=37&pageNum=0&refId=ZPhnGsWAAeEoQ2jtfAHFQg%3D%3D&trackingId=QKNDt7Wz2fv0yxb8RXnn0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 21:35:12",
-        "email_sent": false
-    },
-    {
         "title": "Full Stack Data Engineer, Origination Data Pipeline & Reporting",
         "company": "BIP",
         "location": "New York City Metropolitan Area",
@@ -137,6 +47,56 @@
         "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-clearesult-4381280084?position=15&pageNum=0&refId=Hc8dxT93IKxcLCeQrMS1vw%3D%3D&trackingId=m%2Fk57w2IpD1rVy0FPeSIrg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-08 22:21:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380490000?position=1&pageNum=0&refId=K2Ej7dkW3yuWLD1%2BjMDNFg%3D%3D&trackingId=kvzcUNrgt0PPdAtx9ORdCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 22:49:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Dallas County, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380490101?position=3&pageNum=0&refId=K2Ej7dkW3yuWLD1%2BjMDNFg%3D%3D&trackingId=nynlSVntbnxM16AmRDyccA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 22:49:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4380486287?position=5&pageNum=0&refId=K2Ej7dkW3yuWLD1%2BjMDNFg%3D%3D&trackingId=xFwTr42lyMO6D0d%2BDoB5ZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 22:49:06",
+        "email_sent": true
+    },
+    {
+        "title": "Java/Javascript Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-javascript-software-engineer-at-beaconfire-inc-4376217387?position=9&pageNum=0&refId=K2Ej7dkW3yuWLD1%2BjMDNFg%3D%3D&trackingId=km4nFCTP1qvsIjdfmLodGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 22:49:06",
+        "email_sent": true
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Massachusetts, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4376218326?position=11&pageNum=0&refId=K2Ej7dkW3yuWLD1%2BjMDNFg%3D%3D&trackingId=%2BIbjjc8US5Eh5PthHhkMQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 22:49:06",
         "email_sent": true
     }
 ]
