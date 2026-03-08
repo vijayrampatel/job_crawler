@@ -1,25 +1,5 @@
 [
     {
-        "title": "Early Career Software Engineer",
-        "company": "Xenia",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/early-career-software-engineer-at-xenia-4381535447?position=7&pageNum=0&refId=Hc8dxT93IKxcLCeQrMS1vw%3D%3D&trackingId=yBVWfGtZyu9ozNG1lGiRFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 22:21:56",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "CLEAResult",
-        "location": "Nashville Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-clearesult-4381280084?position=15&pageNum=0&refId=Hc8dxT93IKxcLCeQrMS1vw%3D%3D&trackingId=m%2Fk57w2IpD1rVy0FPeSIrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 22:21:56",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New York City Metropolitan Area",
@@ -68,5 +48,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-08 22:49:06",
         "email_sent": true
+    },
+    {
+        "title": "Junior Backend Software Engineer",
+        "company": "HiringAgents.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-backend-software-engineer-at-hiringagents-ai-4344366681?position=1&pageNum=0&refId=Gm%2FAmp65Ys73hUyNuuwoSw%3D%3D&trackingId=nMdLhv82uFdQuPtMYMv2pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 23:35:39",
+        "email_sent": false
+    },
+    {
+        "title": "Freelance Software Engineer",
+        "company": "Egotechworld",
+        "location": "Mobile, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/freelance-software-engineer-at-egotechworld-4381539525?position=3&pageNum=0&refId=Gm%2FAmp65Ys73hUyNuuwoSw%3D%3D&trackingId=fCK6IcV56R9kdi28Ep%2B4qA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 23:35:39",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Research Ops Associate",
+        "company": "Soq\u00f3no",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-research-ops-associate-at-soq%C3%B3no-4381528838?position=5&pageNum=0&refId=Gm%2FAmp65Ys73hUyNuuwoSw%3D%3D&trackingId=bjiuiAvzo2tVvQM90V9OEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 23:35:39",
+        "email_sent": false
     }
 ]
