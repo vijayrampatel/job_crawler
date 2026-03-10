@@ -1,675 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Inceed",
-        "location": "Tulsa, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-inceed-4372568076?position=1&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=03smLT%2FAdKmj3%2FwQJnIcTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "The People Placers",
-        "location": "Montvale, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-people-placers-4383802331?position=2&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=7IHPl94h8%2F6E9MgC6rm9yg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Analyst (Remote)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-remote-at-remotehunter-4382458137?position=3&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=MEAf8RgO2z%2FgSn8cZE8hOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4383809486?position=4&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=E5s4z409HIYSgz4w2S9D5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Henderson Brothers, Inc.",
-        "location": "Pittsburgh, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-henderson-brothers-inc-4383794729?position=5&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=uqaryfJPuJlO%2FdlwOAmrQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-beacon-hill-4382456284?position=6&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=m58m1LMQxup9E%2F2hcZYQqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Workforce AI & Data Engineer",
-        "company": "Comcast",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/workforce-ai-data-engineer-at-comcast-4382463293?position=7&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Nb0PKTBdoIaOHkjrKtHbZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "The Ksquare Group",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-the-ksquare-group-4383806217?position=8&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=bFm8XR1Cjzw9Pzg%2BK8C4yA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "System Software Engineer",
-        "company": "Orange Business",
-        "location": "Elkhart County, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-software-engineer-at-orange-business-4382277878?position=9&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=BYDu32c%2FKERlcs85ZXmg%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Fidelity Investments",
-        "location": "Durham, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fidelity-investments-4383803117?position=10&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Jg5Rr6Zekzuzv1rt5UFUbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Prudential Financial",
-        "location": "Newark, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prudential-financial-4382426720?position=11&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Pu8BJeJZQHC5sY%2FrlsXnrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 2 - Data Acquisition",
-        "company": "WEX",
-        "location": "Maine, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-data-acquisition-at-wex-4303205073?position=12&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=efAuUDZRrY6SKel8n4wukQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "System Engineer",
-        "company": "Venteon",
-        "location": "Detroit Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-venteon-4380955069?position=13&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=r8vGDa88s38PGyPM%2FABoyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I - C# .NET",
-        "company": "Continuous",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-c%23-net-at-continuous-4382444543?position=14&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=g7kaundpxaNnj598y7ogzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (hybrid onsite)",
-        "company": "Ledgent Technology",
-        "location": "Buena Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-hybrid-onsite-at-ledgent-technology-4382457192?position=15&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=EC%2FX8WT26ELlylHW%2FTRdQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Security Engineer",
-        "company": "Sargent & Lundy",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-security-engineer-at-sargent-lundy-4382457344?position=16&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=duxqdKA2hzwnluwwP7u5BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Frontend Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-at-best-job-tool-4383813380?position=17&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=cnamje0czjzkKTGJTjvqOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "System Quality Assurance Engineer",
-        "company": "Plume",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-quality-assurance-engineer-at-plume-4382445513?position=18&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=r8vDn%2FjD3NeGYYP7sjcZng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Tax",
-        "company": "Jobgether",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-tax-at-jobgether-4383805064?position=20&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=I4JEplCR9RbHBH5M4Tviqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "TalentAlly",
-        "location": "Melbourne, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4383812260?position=21&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=cUz4afc5NV4TZeSpmPeToA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Microsoft Cloud Solutions Specialist",
-        "company": "Liberty Personnel Services, Inc.",
-        "location": "Hamilton Township, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/microsoft-cloud-solutions-specialist-at-liberty-personnel-services-inc-4372878978?position=22&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=EpoggDzDjcWdZ561Xy6d0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Billing Transformation Data Analyst",
-        "company": "Segra",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/billing-transformation-data-analyst-at-segra-4382082916?position=23&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=ztdEzdQGZWLiryY71rVmXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "TalentAlly",
-        "location": "Hazelwood, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4383805402?position=24&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=da%2FWprkzCmDBAuDww5YvFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Orlando, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202747?position=25&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=kDyx7tENi53kaH028guZVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Systems Engineer",
-        "company": "TalentAlly",
-        "location": "Hazelwood, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-talentally-4383820003?position=26&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=rTt4Z1dL1U%2BtfJKDd738pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282478?position=27&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Daz736uZbLcgiRGHvMNNGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "LIMS/Java Software Support Engineer",
-        "company": "The Planet Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/lims-java-software-support-engineer-at-the-planet-group-4382462324?position=28&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=yqZnd9P0Xu%2FklgIClk5X8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Miramar, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142823?position=30&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=8C3tERpsvflsAwhm4WOKPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Field Engineer II - Data Center",
-        "company": "Gilbane Building",
-        "location": "Greater Cleveland",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-ii-data-center-at-gilbane-building-4382120926?position=31&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=hEF%2BMrbzRW2UE6zF59VM2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Huntington Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320182814?position=32&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=YUCDsuz5xFd5neQ8HJbpIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Ana, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202727?position=33&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Axmq5dj1bUUstJlXvNOVZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Hollywood, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282490?position=34&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=TWrim56HUHOoiX6M6UbIcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Palm Bay, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142822?position=35&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Lg6VLoedXCx7cuPj6U6vWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Denton, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320122930?position=36&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=62UwBW9A17n4EzG%2Bq5eoAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Bowie, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262519?position=37&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=1KMTVgpJQcME6Q9yAydRLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Frederick, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320122919?position=38&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Kso77WRC1gwFz8NEt19gng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Enterprise, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094879?position=39&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=kklkYhN3YsNS0%2Fi8GHLCdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Kailua-Kona, HI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094901?position=40&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=ndn87eoGsC04Iav6Py5qNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Oxnard, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320212682?position=41&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=oGmGsopvvC%2FSvWRrG9Ldhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Field Engineer II - Data Center",
-        "company": "Gilbane Building",
-        "location": "Baltimore, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-ii-data-center-at-gilbane-building-4382141141?position=42&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=5PLTZG5m%2F1FrrXzN9Fq01w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, I - Decision Science",
-        "company": "Torc Robotics",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-decision-science-at-torc-robotics-4382451681?position=43&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Orswt%2B%2FrvauFoduKL24mBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Albuquerque, NM",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302500?position=44&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=RgC%2BKvXkSMd2YQHIVb5upg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Private Equity Data Operations Analyst",
-        "company": "LP Analyst",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/private-equity-data-operations-analyst-at-lp-analyst-4382442724?position=45&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=4G48Jzod4VdVU8szfiz%2BEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242609?position=46&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=ZpWZ%2F9%2F%2ByeALx6NsBqmOAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Rancho Cucamonga, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320321960?position=47&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=xV7k4x2s%2BvznsXewmmn7dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Eugene, OR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262505?position=48&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Uo6HNnGEBfBJQGgK1hM7vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Charleston, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232516?position=49&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=RWpd%2F%2Bt0O7ALULCPEJFFXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Fontana, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142807?position=50&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=vdsDIJrZHq2Ga5txTXMLfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Victorville, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320192713?position=51&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=suR2oya2C3JLQa9N6s6O9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Murfreesboro, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320182825?position=52&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=1xMrVonoXlsy1FHuEZJBxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst, Psychology - Emory College of Arts and Sciences",
-        "company": "Emory University",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-psychology-emory-college-of-arts-and-sciences-at-emory-university-4380822537?position=53&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=viEZqVDAej2xDqC0PdpYzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Modesto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102916?position=54&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=W5zvibqgby7BZ%2F8OY42CpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tallahassee, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320122934?position=55&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=F4IU2Rl5Ec%2BWEL%2FtsyhtWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Brownsville, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320252646?position=56&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=Uko%2B33OmQjtHLipT2o0JSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Overland Park, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320182808?position=57&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=MrJwLjMez%2Fk88aS48KLFtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Waterbury, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282479?position=58&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=zS60coPixV8IVsi8BCUz8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Newport News, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202720?position=59&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=RiwagWtxtWFZPBGOVsxNWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Provo, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320272566?position=60&pageNum=0&refId=%2FOPB3RtZl4DlaB4%2B8MpFOQ%3D%3D&trackingId=cJR0bgBgX2S2oUdHqI29hg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Systems Engineer",
-        "company": "TalentAlly",
-        "location": "Hazelwood, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-talentally-4383820003?position=1&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=TzzLKyDBLDvYsVrH5lR0%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282478?position=2&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=b90PAMS%2BTdZDENau9i26Pw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "LIMS/Java Software Support Engineer",
-        "company": "The Planet Group",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/lims-java-software-support-engineer-at-the-planet-group-4382462324?position=3&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=VUv6tRH%2FFbANBU0eBhk8eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Miramar, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142823?position=5&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=5Ww9WyDRBWXtCCbifj5UfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Field Engineer II - Data Center",
-        "company": "Gilbane Building",
-        "location": "Greater Cleveland",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-ii-data-center-at-gilbane-building-4382120926?position=6&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=Kok%2F0RBTWI%2FlfAKs5yqTag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Huntington Beach, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320182814?position=7&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=Vh%2B5560C6MMmTe72roeWwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Ana, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202727?position=8&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=dn1u65lYwwCyaogDEOhnXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Hollywood, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282490?position=9&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=VNqILkdvhCzo9NXR6UxE8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Palm Bay, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142822?position=10&pageNum=2&refId=Ld7JfM3ic07SaDoF4K1bww%3D%3D&trackingId=pqGwez6RL9HH2tvvoZar%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 19:02:39",
-        "email_sent": true
-    },
-    {
         "title": "Jr Data Engineer",
         "company": "Inadev",
         "location": "St Louis, MO",
@@ -1028,5 +358,385 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-10 19:48:59",
         "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "A-V Services, Inc.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-a-v-services-inc-4383833236?position=9&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=fBsyeHp7b355WLcC7l7FJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I- Neural Data Processing, Moore Lab",
+        "company": "Howard Hughes Medical Institute (HHMI)",
+        "location": "Stanford, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-neural-data-processing-moore-lab-at-howard-hughes-medical-institute-hhmi-4382505346?position=17&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=%2B7EYpdR4vI9jIK2%2Bkl%2BUSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Dometic",
+        "location": "Pompano Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-dometic-4371448602?position=18&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=nRp009nMRBX2TCOS5%2F1cyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Data Reliability Analyst",
+        "company": "impact.com",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-reliability-analyst-at-impact-com-4382096677?position=19&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=ujvu3EiQWU1tw%2BuRUe06uA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Compliance Data Analyst",
+        "company": "BetMGM",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/compliance-data-analyst-at-betmgm-4383823441?position=21&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=dus%2BOo8w3VRqG4qVrvG93Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - capabilities",
+        "company": "hackajob",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-capabilities-at-hackajob-4371554623?position=23&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=DqSPwTG1pPLVXnaBgoEIlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Engineer",
+        "company": "atlas",
+        "location": "Greater Boston",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-atlas-4383346871?position=24&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=MshL%2FvMrTy%2B5v18q9NyomQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (Trajectory) (Train AI Models Part Time!)",
+        "company": "hackajob",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-trajectory-train-ai-models-part-time%21-at-hackajob-4371522379?position=26&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=K28ShKIE9LO3xgwowZEEew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Support Engineer",
+        "company": "Workiva",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-workiva-4382459875?position=28&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=PA4tbZ7Loe0r%2FsyMTXcTlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Responsible Gaming Data Analyst",
+        "company": "BetMGM",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/responsible-gaming-data-analyst-at-betmgm-4383815833?position=30&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=E41WslAO4U9nwB7%2FKa3CAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "BAS Software Engineer",
+        "company": "Control Solutions Inc.",
+        "location": "Alpena, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bas-software-engineer-at-control-solutions-inc-4382509019?position=31&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=v4b6uO06AmSttewtnpeehw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Radiologic Data Systems Engineer",
+        "company": "Stanford Medicine Children's Health",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/radiologic-data-systems-engineer-at-stanford-medicine-children-s-health-4382098710?position=32&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=p%2By%2Be4cBwDCgsFnFRyhW3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II Software Engineering X",
+        "company": "Vertiv",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-software-engineering-x-at-vertiv-4383827083?position=34&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=ruT4pNHJh3xBo9p7fb6GpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "NL-26-016 BMDS Software Engineer",
+        "company": "nLogic",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/nl-26-016-bmds-software-engineer-at-nlogic-4382462661?position=40&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=IbY0zBY3LWmdeboCkcljgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate - DataOps",
+        "company": "BlackRock",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-dataops-at-blackrock-4383829207?position=41&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=hr66JZwyZQpnqBYSmxrzeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Test",
+        "company": "Cboe Global Markets",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-test-at-cboe-global-markets-4383816823?position=42&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=TjGF7QDOfmkgfq2R%2FkuZzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Fully Cleared Software Engineer in Maryland",
+        "company": "hackajob",
+        "location": "Hanover, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/fully-cleared-software-engineer-in-maryland-at-hackajob-4366439298?position=44&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=duZearBfqUU%2F6N4Fw%2Btr%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer for Naval Research Technology",
+        "company": "Amentum",
+        "location": "Fredericksburg, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-for-naval-research-technology-at-amentum-4383827381?position=45&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=4w6ZNzEJar8vV6iRfi5pdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Actalent",
+        "location": "Moorestown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-actalent-4383811628?position=47&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=hkUtEvuWzJ%2FRZn2FFgfWyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Associate, Compliance Analytics & Model Ops",
+        "company": "New York Technology Partners",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-compliance-analytics-model-ops-at-new-york-technology-partners-4383819804?position=48&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=qxYXmU5TFHO9X6fTr%2FRy%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Actalent",
+        "location": "Moorestown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-actalent-4383809678?position=49&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=S0dr5wUJEFHXptvwgDdf7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Control System Engineer II",
+        "company": "Nevada National Security Sites",
+        "location": "North Las Vegas, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/control-system-engineer-ii-at-nevada-national-security-sites-4375609794?position=50&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=6YrxjIbdTL5tyCAhxGUurQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Autonomous Vehicles - Security Clearance",
+        "company": "iO Associates",
+        "location": "Richmond, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-autonomous-vehicles-security-clearance-at-io-associates-4382457809?position=51&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=ovC4iwrLxziAlokVHqlm%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Quality Software Engineer II",
+        "company": "Medtronic",
+        "location": "North Haven, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-software-engineer-ii-at-medtronic-4383821403?position=52&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=zp3qNHIj25nFOmE672HoYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Real Estate Research Analyst - Data Center Development",
+        "company": "Provident",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/real-estate-research-analyst-data-center-development-at-provident-4383805943?position=53&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=LlkHS1uQ%2F9KoULHKIOzl4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Java Software Engineer- Top Secret/ SCI Clearance required- Herndon, VA",
+        "company": "Zachary Piper Solutions",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-top-secret-sci-clearance-required-herndon-va-at-zachary-piper-solutions-4382447835?position=54&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=osVaCcoXO0DokUbzF0KSKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Zachary Piper Solutions",
+        "location": "Tampa, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-zachary-piper-solutions-4382443932?position=55&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=IF3vIpyrCIXdaeNc2LzndA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Verification Engineer (Secret Clearance)",
+        "company": "Actalent",
+        "location": "Grand Rapids, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-engineer-secret-clearance-at-actalent-4383807669?position=56&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=bHA%2F4tI22lP5ekymzq%2BxzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Clinical Research Repository Analyst",
+        "company": "Michigan Medicine",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/clinical-research-repository-analyst-at-michigan-medicine-4383827210?position=57&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=riQhQ%2BlRS2cDQDRmFvKukA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "System Design Engineer",
+        "company": "KLA",
+        "location": "Milpitas, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-design-engineer-at-kla-4382508219?position=58&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=X4YWTc%2BKlRKyWgGf1WkS0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Data Science Analyst I - Geriatric and Palliative Care",
+        "company": "Icahn School of Medicine at Mount Sinai",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-i-geriatric-and-palliative-care-at-icahn-school-of-medicine-at-mount-sinai-4371009831?position=59&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=jA9AGYDg1tu%2BhJiYSrE5Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "AI Data Scientist W2 Only (Local to NC and Texas)",
+        "company": "YOTTA SYSTEMS INC.",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-w2-only-local-to-nc-and-texas-at-yotta-systems-inc-4382454886?position=60&pageNum=0&refId=3G5jiTGBr99uok3nv6MWhQ%3D%3D&trackingId=RiwQ%2BVK8bY8olkdS7eBo5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (Trajectory) (Train AI Models Part Time!)",
+        "company": "hackajob",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-trajectory-train-ai-models-part-time%21-at-hackajob-4371522379?position=1&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=1m2hnIP2C6tzea5AiLTG0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Support Engineer",
+        "company": "Workiva",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-workiva-4382459875?position=3&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=6dzB8cwPgXxLNMwrPngEyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Responsible Gaming Data Analyst",
+        "company": "BetMGM",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/responsible-gaming-data-analyst-at-betmgm-4383815833?position=5&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=bKOAfSeXcyx5iB8ozYS7TQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": false
+    },
+    {
+        "title": "BAS Software Engineer",
+        "company": "Control Solutions Inc.",
+        "location": "Alpena, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bas-software-engineer-at-control-solutions-inc-4382509019?position=6&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=aeIxS6IkEZUjvydUPBg3Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Radiologic Data Systems Engineer",
+        "company": "Stanford Medicine Children's Health",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/radiologic-data-systems-engineer-at-stanford-medicine-children-s-health-4382098710?position=7&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=Occ9D9ZPH8JrRbgRk15UaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II Software Engineering X",
+        "company": "Vertiv",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-software-engineering-x-at-vertiv-4383827083?position=9&pageNum=2&refId=y3gJkOZBT0XlBhtAjxhoIg%3D%3D&trackingId=QmXPoC7Ji6vJH9RwNbddkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 20:18:07",
+        "email_sent": true
     }
 ]
