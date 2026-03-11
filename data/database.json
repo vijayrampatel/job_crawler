@@ -1,295 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Amplify",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-amplify-4374174605?position=1&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=apznzFlIa2y374kol9DtWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4382881192?position=2&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=XyWI7zMnY%2BbLRYjiZVxqeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend",
-        "company": "Robinhood",
-        "location": "Menlo Park, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-robinhood-4315424790?position=3&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=JunTKoZUnoWBwZV15xmmKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Python Software Engineer",
-        "company": "Garmin",
-        "location": "Olathe, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-at-garmin-4374150488?position=4&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=QT1fonMYrgZ4ndg5i2E%2Bfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Python, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-wiraa-4382865821?position=5&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=wtUIf2O22Yy06y3ptNaVaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst 2",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-2-at-wiraa-4382870504?position=8&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=qwiZDTMdETHQ5LY9qnW%2BrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Quit For Life",
-        "company": "RVO Health",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-quit-for-life-at-rvo-health-4374706276?position=11&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=X98zI%2Favdp3jnRqyhUyLmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Optiver",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-optiver-4133291932?position=13&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=zEv3EnLP0hPzK%2FQY%2BKZuhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (AI/ML)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-wiraa-4382873387?position=16&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=Av%2Fv3fNUhBgcs1WkthCH6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "HR Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-wiraa-4382861865?position=17&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=GAIdNMX06WAyvVTpBb9%2FSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Solution Engineer, Commercial Acquisition",
-        "company": "Snowflake",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/solution-engineer-commercial-acquisition-at-snowflake-4366685507?position=18&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=h39DA2sloBk8zOjOVHPkmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Registrar",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-registrar-at-cloudflare-4372400037?position=19&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=HplhTJxOV%2F2CuLL6q5e1Ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II - Data Management and Governance (DMG)",
-        "company": "Klaviyo",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-management-and-governance-dmg-at-klaviyo-4373010922?position=23&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=GTamPNjHKt9zVAOeaINkHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Infrastructure",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-wiraa-4382862846?position=26&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=L%2Bq%2FFrCUgVobAzQpK4oTYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Florida, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4384154322?position=27&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=D4CAWueoJUJtfh9AxNTggQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist - Deep Learning (Hybrid)",
-        "company": "Caris Life Sciences",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-deep-learning-hybrid-at-caris-life-sciences-4374447415?position=30&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=QTCzpCJtb3o8ED3mk5MjPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Node.js, React.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-node-js-react-js-at-wiraa-4382872434?position=36&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=Kj7mS56Ckwx4QIvxYL2B0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "AV System Engineer",
-        "company": "Merge IT",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/av-system-engineer-at-merge-it-4382863946?position=41&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=ekpE2DlrweRlLbZgh9qHeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4382867534?position=45&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=KgUy9ieVC6yE%2BgZwnzB35Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "DSI Applications Engineer -Remote- Southeast Region - US",
-        "company": "JBT Marel",
-        "location": "Alpharetta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/dsi-applications-engineer-remote-southeast-region-us-at-jbt-marel-4351431439?position=47&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=57jcgq%2F37nIfw%2F0WHQNBDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Commissioning Software Engineer",
-        "company": "Saronic Technologies",
-        "location": "New Orleans, LA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-software-engineer-at-saronic-technologies-4354676525?position=48&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=W5s0Lx6y6yqPsHuvNBOEKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "ML Administrator",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ml-administrator-at-wiraa-4382862847?position=49&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=wrTKcK%2B643GCpnjoW45oXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Electrical Engineer (New Graduate)",
-        "company": "Amrize",
-        "location": "New Grand Chain, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-new-graduate-at-amrize-4356202949?position=50&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=X8CI2b0ZCvpILl6oRFXIJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Partner Engagement",
-        "company": "DaVita Kidney Care",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-partner-engagement-at-davita-kidney-care-4366646048?position=53&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=Al6IB7fGGpPkK2F%2FT3gLIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Student Success Analyst",
-        "company": "Arkansas Cooperative Extension Service",
-        "location": "Jonesboro-Paragould Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/student-success-analyst-at-arkansas-cooperative-extension-service-4384157305?position=54&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=nGv%2Fm%2BYX6%2BEFf5s5DnyGMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "M/E Engineer 2- Commissioning",
-        "company": "JE Dunn Construction",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-2-commissioning-at-je-dunn-construction-4324293162?position=55&pageNum=0&refId=na453LaDae10%2Bdzup5zPIw%3D%3D&trackingId=wd0mXcw0UZ2HM9M0wNR8Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Infrastructure",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-wiraa-4382862846?position=1&pageNum=2&refId=2UZOcmdJZbatRSHhvAR1jQ%3D%3D&trackingId=jtD%2Fiu%2B55lQYy3sXk6ztPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Florida, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4384154322?position=2&pageNum=2&refId=2UZOcmdJZbatRSHhvAR1jQ%3D%3D&trackingId=9ZntXWTx3f3WlELEtBGvzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist - Deep Learning (Hybrid)",
-        "company": "Caris Life Sciences",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-deep-learning-hybrid-at-caris-life-sciences-4374447415?position=5&pageNum=2&refId=2UZOcmdJZbatRSHhvAR1jQ%3D%3D&trackingId=fiYYph4%2Bg5sajEeP%2FynP6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-11 10:59:04",
-        "email_sent": true
-    },
-    {
         "title": "Software Engineer I / II - San Francisco",
         "company": "Giga",
         "location": "San Francisco, CA",
@@ -457,6 +167,76 @@
         "url": "https://www.linkedin.com/jobs/view/receiving-clerk-at-standex-international-4382867701?position=47&pageNum=0&refId=72rBtbF1zG4bNa1rSVTNBQ%3D%3D&trackingId=U1kIS%2FElx3XXVq%2FRH0cnaw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-11 11:39:14",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "PARKVIEW HEALTH SYSTEM INC",
+        "location": "Fort Wayne, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-parkview-health-system-inc-4384172316?position=3&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=h7hegj%2FuWbN8jxGS3AnLKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Data Analyst (Remote)",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-remote-at-remotehunter-4382875798?position=6&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=wdvDcW4pXfU43wBqF4iUdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Applied AI: 26-00269",
+        "company": "Akraya, Inc.",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-26-00269-at-akraya-inc-4367302161?position=8&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=JobF2tr3AJImxiw9n5i%2F7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": true
+    },
+    {
+        "title": "Instructional Assistant (Data Engineer) (3-6 month contract)",
+        "company": "Per Scholas",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/instructional-assistant-data-engineer-3-6-month-contract-at-per-scholas-4366405644?position=13&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=YnPY09c%2BoafKGqhfCIX6Jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Inside Higher Ed",
+        "location": "Augusta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-inside-higher-ed-4384154973?position=15&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=iLFZ3LUf%2BcG7HuVU2sRxSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Scientist",
+        "company": "UT MD Anderson",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-ut-md-anderson-4384156988?position=24&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=rAdB9s8zeMlGJieCi%2B85jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Applications Engineer",
+        "company": "Arm",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-applications-engineer-at-arm-4382888316?position=26&pageNum=0&refId=MVUxEnNyh%2BWGmVjozyhYig%3D%3D&trackingId=ZU1aKMV31YkQtyPW6oJxjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-11 12:00:34",
         "email_sent": true
     }
 ]
