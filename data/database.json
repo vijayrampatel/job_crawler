@@ -1,605 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-wiraa-4387809685?position=1&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=%2FU1RjCvxzhS9UeJN7l6VTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Curana Health",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-curana-health-4385484557?position=2&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=x2UDl9fQEvXo%2FU19v6hBuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4387805723?position=3&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=fAyR6tAr4fu4rCVBqzSRhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst (Remote)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-remote-at-remotehunter-4387710889?position=4&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=5JbqTUmh57YuDO%2BUxelMuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4387816238?position=5&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=bhXdN4Gh%2FnOu4wnhZ%2B0qqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4387804795?position=6&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=NugpiCnttZarawgTuvvUCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Engineer",
-        "company": "Bayer",
-        "location": "Chesterfield, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-bayer-4380729151?position=7&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=o1lDOkh101RZUwjY%2FOvi4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Platform Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-remotehunter-4387715740?position=8&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=GsNkKRqeM1tOLa81qgk3og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Software Engineer - Junior",
-        "company": "AIS (Applied Information Sciences)",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-software-engineer-junior-at-ais-applied-information-sciences-4387899432?position=10&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=cFJ7oHRi9K6wUUkfywXOiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Applied AI (FDE)",
-        "company": "Attune",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-fde-at-attune-4387866128?position=11&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=kCftbPAPeTV0oZOQHiFcOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Systems Engineer I",
-        "company": "DigitalOcean",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-i-at-digitalocean-4384564156?position=12&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=L42co5vs8%2B%2Fsi%2FhVyxWYZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Azure Support Engineer",
-        "company": "Ascendion",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-support-engineer-at-ascendion-4387721809?position=13&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=BBIpMnu31AeqSCl7ioC0jQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Backend Software Engineer, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-data-at-wiraa-4387817214?position=14&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=5q5eIVPnHNHliR3hNHUDBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "AWS Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-at-jobs-via-dice-4387734273?position=15&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=MhyppU458uHq9V4bH8sTZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II, Cloud Engineering",
-        "company": "Axon",
-        "location": "Sterling, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-cloud-engineering-at-axon-4369284798?position=16&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=q%2Fot5uaWdR%2BxjtWAcSqh1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer I",
-        "company": "GM Financial",
-        "location": "Irving, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-at-gm-financial-4387731381?position=17&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=Law52cSyHcGoMPxfM2LmvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Azure Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-jobs-via-dice-4387727610?position=18&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=CHZ88SekpG%2F7gvCIXjxGUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer I",
-        "company": "GM Financial",
-        "location": "Arlington, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-at-gm-financial-4387742014?position=19&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=lS%2ByQC%2BYyK4Ve7ZsvWaPHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Healthcare Data Analytics / Data Analyst",
-        "company": "Ztek Consulting",
-        "location": "Skokie, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analytics-data-analyst-at-ztek-consulting-4382061909?position=20&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=Wfixb7WJekcaH9k1vMlxJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer - Databricks - Hybrid",
-        "company": "Jobs via Dice",
-        "location": "Glastonbury, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-databricks-hybrid-at-jobs-via-dice-4387740116?position=21&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=f00xrau%2Br%2BfATThe90leHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4387821047?position=22&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=BQEk8dMX7jVR8nP0M%2BizWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "SEACORP",
-        "location": "Newport, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-seacorp-4387886587?position=23&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=m2wtM0stzOmAL%2F2mIrMpaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Software Engineer II, Axon Air",
-        "company": "Axon",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-ii-axon-air-at-axon-4368874428?position=24&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=4P%2F4beIH6J%2FS6BYi8fVxiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Eligibility Data Analyst - 251696",
-        "company": "Medix\u2122",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/eligibility-data-analyst-251696-at-medix%E2%84%A2-4385493037?position=25&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=KLGfHikgQa7maR2nGTZIcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Associate, Data Reporting",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-reporting-at-remotehunter-4387732029?position=26&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=fKtlARGKTR6xVkIt0l%2BeMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Software Engineer (Js, CSS)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-js-css-at-wiraa-4387803843?position=28&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=W8vGxuNywSiXtlJxZ5FObA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Big Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Pennington, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/big-data-engineer-at-jobs-via-dice-4387730484?position=29&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=pD0%2FytAFY6sHWsFKxg5f7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "AbiShar Consulting Services",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-abishar-consulting-services-4388100315?position=31&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=SPxizSEAoc5mpRAnDvWV6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Energy Data Portfolio Analyst",
-        "company": "TotalEnergies",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/energy-data-portfolio-analyst-at-totalenergies-4378030697?position=33&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=jgCT3wbaSFyhG0B1ZmvLpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-wiraa-4387803830?position=34&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=w4JV74UNb4cT2UJ5gPDp0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Engineer",
-        "company": "Agilent Technologies",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-at-agilent-technologies-4387889224?position=35&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=Cmo1m7T%2F6T5JvHRnNlpXeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist/Analyst",
-        "company": "Bespoke Technologies, Inc.",
-        "location": "McLean, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-bespoke-technologies-inc-4387895203?position=38&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=4Au%2Byo1o3Dbw2S7jMgpVbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Aditi Consulting",
-        "location": "Thousand Oaks, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-aditi-consulting-4387871923?position=39&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=BSF8QF8hknCMHW%2Fw6MgD1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer with AI Kubernetes",
-        "company": "Jobs via Dice",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-with-ai-kubernetes-at-jobs-via-dice-4387728568?position=40&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=SC7IqCXvhMd6Q3vjFrBVHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analytics Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-analyst-at-remotehunter-4387724484?position=41&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=XCifByRrQ810vS%2FhmusCDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "\ud83d\ude80 NOW HIRING \u2013 ENTRY & MID-LEVEL TECH OPPORTUNITIES IN THE USA",
-        "company": "Emonics LLC",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-now-hiring-%E2%80%93-entry-mid-level-tech-opportunities-in-the-usa-at-emonics-llc-4387730306?position=42&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=jJW7F9%2FbpCKPLaFmVp2AnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Oracle Data Integrator Developer",
-        "company": "CGI",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/oracle-data-integrator-developer-at-cgi-4369414765?position=43&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=zQIm9PPoNIglH11JTIT3%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Software Quality Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-ii-at-wiraa-4387803823?position=45&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=s4Hugcd2QJJ%2BM0UBTpjcFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Anayst- Retail",
-        "company": "Jobs via Dice",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-anayst-retail-at-jobs-via-dice-4387721927?position=46&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=XfFs%2FAFNBzVy2posiegTjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Control System Engineer",
-        "company": "WorldBridge Partners - Leaders in Recruiting and Executive Search",
-        "location": "Providence, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/control-system-engineer-at-worldbridge-partners-leaders-in-recruiting-and-executive-search-4385483566?position=47&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=%2BdoGSSFIrmSeV%2FTyZIg4yQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Implementation Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/implementation-engineer-at-remotehunter-4387733032?position=48&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=1bhcDZg5vJF%2F4QMNsJB0RQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, Angular)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-angular-at-wiraa-4387804794?position=49&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=w9WYLbM4GeMWOtIJl7lfIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer II, Weapon System Integration",
-        "company": "V2X Inc",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-ii-weapon-system-integration-at-v2x-inc-4371621615?position=50&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=WyUKisG2wkkbsqJNKhsO8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Metadata & Data Products Specialist - 90405340 - Washington DC, Philadelphia, Wilmington, Chicago",
-        "company": "Amtrak",
-        "location": "Wilmington, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/metadata-data-products-specialist-90405340-washington-dc-philadelphia-wilmington-chicago-at-amtrak-4374835942?position=51&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=WFs8nbfl2WmuyGdAW0oxGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Data Scientist",
-        "company": "Vanguard",
-        "location": "Malvern, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-vanguard-4387736170?position=52&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=XaEN3EFTfktrqqEbU%2FnUiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4387822016?position=53&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=0ybELnnK7ZK6Blqh2p0xzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist for Nuclear Power Plant Applications",
-        "company": "Idaho National Laboratory",
-        "location": "Idaho Falls, ID",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-for-nuclear-power-plant-applications-at-idaho-national-laboratory-4381777890?position=54&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=oCbjcf65pOQcVQtnxwmezA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Data Scientist",
-        "company": "Vanguard",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-vanguard-4387726563?position=55&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=AhCxkEczIz4MJ%2B4DlKomaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-wiraa-4387883015?position=56&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=jNTV8Pc6LuI%2BOYUHLl2NIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "EW Embedded Software Engineer II",
-        "company": "RTX",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ew-embedded-software-engineer-ii-at-rtx-4368830686?position=57&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=EgxRuscp0Yv%2BMAX4y8Ytog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Business Analys",
-        "company": "HR Shorts",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-analys-at-hr-shorts-4387887837?position=58&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=JdJdltPJS2WmZDh%2BD6HGqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Tax Compliance Data Analyst",
-        "company": "State of Vermont",
-        "location": "Montpelier, VT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/tax-compliance-data-analyst-at-state-of-vermont-4385494017?position=59&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=DbzljXXbV7q2bXeBkVy%2BEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist (Non C2C Only)",
-        "company": "Modern Data Solutions",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-non-c2c-only-at-modern-data-solutions-4387732039?position=60&pageNum=0&refId=eYRtapxLnjZnngVoMAb03w%3D%3D&trackingId=fC1bDGRl57LNpzVq3FU66A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Associate, Data Reporting",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-reporting-at-remotehunter-4387732029?position=1&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=oZOBnKgVm7qIFUONv1q9hw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Software Engineer (Js, CSS)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-js-css-at-wiraa-4387803843?position=3&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=eh7s2bUfZkJCUwK6kKVr%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Big Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Pennington, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/big-data-engineer-at-jobs-via-dice-4387730484?position=4&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=vWw13JYs8dLK%2FdT6sd7nfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "AbiShar Consulting Services",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-abishar-consulting-services-4388100315?position=6&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=5cwRg4MqCU3V8mhGLYirlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Energy Data Portfolio Analyst",
-        "company": "TotalEnergies",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/energy-data-portfolio-analyst-at-totalenergies-4378030697?position=8&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=K7B2fvgj3W%2FhJIPwTtoCPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-wiraa-4387803830?position=9&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=uXAfTQRiBr5FJ32oVCBOeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Engineer",
-        "company": "Agilent Technologies",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-at-agilent-technologies-4387889224?position=10&pageNum=2&refId=Sp1GAAhAPTAiV%2BAVenhpMQ%3D%3D&trackingId=3EB2ydjQlAvavUjeMyQmoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 19:12:39",
-        "email_sent": true
-    },
-    {
         "title": "Junior Data Enginee",
         "company": "Be Evolution",
         "location": "United States",
@@ -877,6 +277,276 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-pop-up-talent-4387744093?position=8&pageNum=2&refId=nfHQ%2FC2AGA5%2FUDlZEmHTvw%3D%3D&trackingId=leBtCmAyUznVa6krGIzS6w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-19 19:55:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Central Point Partners",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-central-point-partners-4385496238?position=4&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=hXFDK7Q7KpWUaz4TCzkBtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Scarlet Wireless Inc.",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-scarlet-wireless-inc-4388119595?position=6&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=VAB2nmB45UE3HKcUfm0aWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4388110808?position=7&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=aJMpUZ0ZIpj45QHbPStnHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hyra",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4388116792?position=11&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=0p9MXfnrSJHyXUADEi7aEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer (New College Graduate)",
+        "company": "KLA",
+        "location": "Milpitas, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-college-graduate-at-kla-4385705027?position=14&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=7Ko5HycoDWIlLRgHZz0aKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "Pasadena, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4388113708?position=18&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=Ah%2Bm4bez361oIJcxvd8wug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "CORPORATE DATA ANALYST 1",
+        "company": "HII",
+        "location": "Newport News, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/corporate-data-analyst-1-at-hii-4387745265?position=27&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=Fq4VHMjAuz85lgtAmVhZWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Python Developer)",
+        "company": "UST",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-python-developer-at-ust-4385490535?position=30&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=BJ3vNj0%2BBzWmBfm6esoQyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Specialist - Jr. Java Software Engineer",
+        "company": "Charles Schwab",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/specialist-jr-java-software-engineer-at-charles-schwab-4385486753?position=37&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=dCplP4cs8W2QCbbAXCv80w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "AI Systems Associate - Office of the CEO",
+        "company": "Product.ai",
+        "location": "Los Angeles Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-systems-associate-office-of-the-ceo-at-product-ai-4387732728?position=39&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=cWgV%2BQrLl2AOmdNoNSRwtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II Embedded",
+        "company": "CARIAD, Inc.",
+        "location": "Mountain View, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-embedded-at-cariad-inc-4387746115?position=41&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=BS2Kn3YPh8VoKvP1wMbxpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst Intern",
+        "company": "TalentAlly",
+        "location": "Windsor, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-intern-at-talentally-4388121452?position=43&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=6iSpoqQ0518h0sCrL1RlHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4388120623?position=44&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=UcvP6hrjaU6e03SJ64LuRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Specialist - Jr. Java Software Engineer",
+        "company": "Charles Schwab",
+        "location": "Omaha, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/specialist-jr-java-software-engineer-at-charles-schwab-4385489554?position=45&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=8lWdNipOA3uF%2BU3styAs8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Database Application Analyst",
+        "company": "ECLARO",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-application-analyst-at-eclaro-4385702175?position=48&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=s3XpUtnTi%2FZtUspzH2COjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Sorenson Communications",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-sorenson-communications-4387739510?position=49&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=C7PUNdiSDrRVqdeCyDD9KQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "QA Engineer",
+        "company": "Metalinked",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/qa-engineer-at-metalinked-4387739502?position=51&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=Y%2BwrbSmFopWNakp5mOQQig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4387725728?position=52&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=oEv%2BW0WplTmrVb70Yx%2FbLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Greater St. Louis",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4388117724?position=54&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=wnJe%2F8cKjcRTigVUIuwKuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Governance Analyst",
+        "company": "AgreeYa Solutions",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-agreeya-solutions-4387743180?position=55&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=z5tS%2FB0%2B4gWZerQjQr84BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Rahway, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4388115602?position=56&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=0bgwi3ukvWdoNmuJdj6CKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Databricks Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/databricks-engineer-at-jobs-via-dice-4387743042?position=57&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=b28%2BKDlZLTaDFMv6J7tQNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "RICEFW Technologies Inc",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ricefw-technologies-inc-4387720912?position=58&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=NbR2xfOpBW3CgdgRzuGVDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst Supporting the FBI",
+        "company": "FSA",
+        "location": "Linthicum Heights, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-fbi-at-fsa-4381919491?position=59&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=drfH3cMk25w4a9%2Ff6jwFlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4388118656?position=60&pageNum=0&refId=plbQA4VuSqj4dD1qaVuP5g%3D%3D&trackingId=XX6KCRjNhnUjQ4YWNYrASA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": true
+    },
+    {
+        "title": "CORPORATE DATA ANALYST 1",
+        "company": "HII",
+        "location": "Newport News, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/corporate-data-analyst-1-at-hii-4387745265?position=2&pageNum=2&refId=i183Xm0gPIpIVDml0AJkBQ%3D%3D&trackingId=7eTGwIsLdNcTQW5SgDQPeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Python Developer)",
+        "company": "UST",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-python-developer-at-ust-4385490535?position=5&pageNum=2&refId=i183Xm0gPIpIVDml0AJkBQ%3D%3D&trackingId=TKyFUcPpDZi1ND4nJyGMng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-19 20:36:00",
         "email_sent": false
     }
 ]
