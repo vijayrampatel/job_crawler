@@ -1,45 +1,5 @@
 [
     {
-        "title": "Pharmacy Data Analyst",
-        "company": "Lockton",
-        "location": "Kansas City, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-analyst-at-lockton-4102794840?position=3&pageNum=0&refId=xZR4ch6oog4nqzKaT953qA%3D%3D&trackingId=NbHOAKUlxF6JsOSSuzf1Eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 10:01:02",
-        "email_sent": true
-    },
-    {
-        "title": "Field Engineer, Mission Critical",
-        "company": "JE Dunn Construction",
-        "location": "Omaha, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-mission-critical-at-je-dunn-construction-4369160961?position=22&pageNum=0&refId=xZR4ch6oog4nqzKaT953qA%3D%3D&trackingId=LGO54pJfYGD%2BSlvKf4sjYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 10:01:02",
-        "email_sent": true
-    },
-    {
-        "title": "Mechanical Engineering Technical Support Specialist - OCU - Technical - 3rd Shift",
-        "company": "Cummins Inc.",
-        "location": "Seymour, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-technical-support-specialist-ocu-technical-3rd-shift-at-cummins-inc-4378216085?position=24&pageNum=0&refId=xZR4ch6oog4nqzKaT953qA%3D%3D&trackingId=fy%2B4GtP%2FpRF0X7T5LgR5rA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 10:01:02",
-        "email_sent": true
-    },
-    {
-        "title": "Federal Plans Reporting Analyst",
-        "company": "CVS Health",
-        "location": "Hartford, CT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/federal-plans-reporting-analyst-at-cvs-health-4388722149?position=25&pageNum=0&refId=xZR4ch6oog4nqzKaT953qA%3D%3D&trackingId=fcmkh0QtniSUHjhC%2F0%2FaCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 10:01:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "PitchBook",
         "location": "Seattle, WA",
@@ -298,5 +258,85 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-21 10:44:37",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Fellow Experience",
+        "company": "Handshake",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fellow-experience-at-handshake-4369608031?position=5&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=%2BcAUyq8lCQSYhBUNDCAKsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Perception (All levels)",
+        "company": "Overland AI",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-perception-all-levels-at-overland-ai-4353111144?position=7&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=eh7mUBQHGO2oIbWeLcef7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Frontend",
+        "company": "Mercor",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-mercor-4318556053?position=10&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=YZpdTJSNMoxiFuvCir3o1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Mercor",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-mercor-4318534977?position=11&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=Xu%2Fto3uy56FcoljMQ4d7Lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4386162553?position=18&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=PosqpZdtUGKs0FPOUgRbEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Workers Builds & Automation",
+        "company": "Cloudflare",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-workers-builds-automation-at-cloudflare-4233788465?position=19&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=i0tNUgRJwgEChK9cIA6ezg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": true
+    },
+    {
+        "title": "Platform Enabling Software Engineer",
+        "company": "Intel",
+        "location": "Hillsboro, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-enabling-software-engineer-at-intel-4359122632?position=23&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=Leosic%2BlUu8zOt0UgEIddA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": true
+    },
+    {
+        "title": "QE / CMM Operator | Contract |Thomson, GA/Lexington, NC",
+        "company": "Stratosphere Quality",
+        "location": "Lexington, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/qe-cmm-operator-contract-thomson-ga-lexington-nc-at-stratosphere-quality-4368767716?position=35&pageNum=0&refId=iXQ%2BL2jFzIqJdXiVIhdtEw%3D%3D&trackingId=0ATSlg%2FA56WSl0FUGz0Jpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 11:02:01",
+        "email_sent": false
     }
 ]
