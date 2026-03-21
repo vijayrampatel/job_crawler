@@ -1,26 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Agency AI",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-agency-ai-4388752353?position=2&pageNum=0&refId=Bp1XzUbnmmZaVRUCTDf3vw%3D%3D&trackingId=sHEXSeFF4JMW36m4AK9H1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 22:00:12",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Software Engineer",
-        "company": "CG Charitable",
-        "location": "Layton, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-cg-charitable-4388605541?position=7&pageNum=0&refId=Bp1XzUbnmmZaVRUCTDf3vw%3D%3D&trackingId=LrrF0MkQQ1XbLdb0p2wmQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 22:00:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "Haystack",
         "location": "San Diego Metropolitan Area",
         "date_posted": "Recent",
@@ -178,5 +158,25 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-21 22:56:47",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Hyra",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hyra-4388762046?position=1&pageNum=0&refId=%2Bqc57TofupJNpBo2IcR6zA%3D%3D&trackingId=XtgWrUcIAQJ2clF%2FS5ivEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 23:26:28",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst, Supplier Operations Support",
+        "company": "Tesla",
+        "location": "Fremont, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-supplier-operations-support-at-tesla-4388753464?position=7&pageNum=0&refId=%2Bqc57TofupJNpBo2IcR6zA%3D%3D&trackingId=FWug%2BHOHSNXUex4tNp3Pow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 23:26:28",
+        "email_sent": true
     }
 ]
