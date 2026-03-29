@@ -1,605 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Petco",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-petco-4392357648?position=1&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=SZqicJbQyJ0E0TcC6iKyFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - SQL",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sql-at-hirenza-4392347838?position=2&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=eUH5y029RXWJt07QtWi3YA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "AMDOR ANALYTICS",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-amdor-analytics-4391678351?position=3&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=rej5IeotgS5VtzbJHACfIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "McDermott International Inc.",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mcdermott-international-inc-4394548354?position=4&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=jBHz2P0cehFUZrsWo1JTPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Database Engineer (Azure Data Bricks)",
-        "company": "DC Department of Human Resources",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-azure-data-bricks-at-dc-department-of-human-resources-4392361452?position=5&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=W4ZLPdkNFaEQ7ms9a7DFuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Premier Group",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-premier-group-4392350844?position=7&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=2f4PFH773%2By5ntyvZr5%2B%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tampa, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242627?position=9&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=mSrdRftYty3YYB2Dblo6pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Hayward, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202750?position=10&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=GFNMVvVclIdUM8c%2BjAkRFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Escondido, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094883?position=11&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=Ea9YspvEI6CS3%2BJnXehQCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232541?position=12&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=h%2FrYnqJXqQDl%2FuHb%2F4gAzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262536?position=13&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=OqboJ7vwHUZXwBYu0dhLZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lowell, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262525?position=14&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=2RH0tSNyEjBtvEsecj%2Fk8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Frisco, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242623?position=15&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=I%2BdTuuHsTp2s%2BptQ9tHh6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Round Rock, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142803?position=16&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=w57mXRiEf3enZZwF4rRdpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Kapolei, HI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262539?position=17&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=PsEt6tyH2V1r%2BgyHvZIvrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Albany, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320112980?position=18&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=vCPQHoSJRVEgd9XC%2Bmfisg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202725?position=19&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=Mr5FgdwR2puYDPIL8otjxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Fort Collins, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262507?position=20&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=v26bFs5nDuO842xjW1aJNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Portland, ME",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320272580?position=21&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=kqLkz9orB%2B51QJOWYOiooA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lakewood, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232520?position=22&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=0tjEfJVvm1d%2FxB2gPwZzsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "South Portland, ME",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320192725?position=23&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=4ipKTknwHYZKbvB08W0N3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Garland, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102922?position=24&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=VVM5mymCTJ8LlflxnJQaPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Visalia, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242630?position=25&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=0jnvKQUd5dSVoQp5FaqBQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Rosa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162894?position=26&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=HagOTZ%2F%2Ftv599KvUS0C5aQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "North Charleston, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094877?position=27&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=bq96xSFb5rs7wkZgVLGoig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Bloomington, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320172763?position=28&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=Egtr2aBBegpVU5xKGIF%2FXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Springdale, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142791?position=29&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=pjHkg8tYF%2BXNLIXTdaJwyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elk Grove, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320292610?position=30&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=2i3JBeEDP6%2BtclgWoj10sQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Manchester, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142815?position=31&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=9KRfMCoQ4HaMaasEl30png%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162883?position=32&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=UGQcxBgs0%2BOTtAcXY4x4oA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302496?position=33&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=fp2F5UEsTK7ca5lUunmZRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Chesapeake, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242605?position=34&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=YkmL67qXkSqx58FtuK9oYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Columbia, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320192711?position=35&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=tsCa7%2F0O6JCd0mg1spULWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lake Charles, LA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320222685?position=36&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=JuSQlKtX2Dwi6UmB9b5Grg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elizabeth, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262500?position=37&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=OZUnIYVSWCIJ1Yy4zJn%2FgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Billings, MT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242619?position=38&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=AqlqoNYexk1E%2Bq0G3wTSrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Traverse City, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320321954?position=40&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=uiy1ZPr2r5cab7hOFza0tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Aurora, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302518?position=41&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=T8VwEM6yKqvu%2FXaHhSjDgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Watertown, SD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282465?position=42&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=lat4sNwEQG8eK9SMUk5WEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Pawtucket, RI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320252643?position=44&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=wIYBNth5%2Fd1fhxcy8C2WMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Mobile, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102903?position=46&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=6mrCyPlVLuttI2vf6xTCWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lincoln, NE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102892?position=47&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=cKHcdicKk8EHSOIXqBgoZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lawrence, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232507?position=48&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=nVLO11FLef4iDVTjmn%2BY6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Hiring our Heroes Skillbridge - Systems Engineer",
-        "company": "Systems Planning & Analysis",
-        "location": "Alexandria, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/hiring-our-heroes-skillbridge-systems-engineer-at-systems-planning-analysis-4267244913?position=49&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=euzyKbL87gIpctJucLHwJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394182396?position=53&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=1yQ%2FZGa%2ByCMHCNHm%2BckfFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394177886?position=54&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=RRXtfdycvIP1wx8y8rWzwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394187206?position=55&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=OzYEkLiZqSQEyZEC5y0aUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394184320?position=56&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=%2BUJEdoGQxn%2FQPq7IJD%2BF%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394193107?position=57&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=AQhtWpgJrBuCS%2BXrV4mF%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394181578?position=58&pageNum=0&refId=SaTIRfqhubP4vTs6HSOhVw%3D%3D&trackingId=o3MmBBmIcve5j2OB9%2Bfk2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Visalia, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242630?position=1&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=h2FQtxgKaSABdLMr01uWtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Rosa, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162894?position=2&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=uZ%2Fpx7R8L0gPbl%2Bg4ylYxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "North Charleston, SC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094877?position=3&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=8K74RvjP3zSiNQEbHuj0bA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Bloomington, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320172763?position=4&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=WOsegojsh6%2Fsu%2FPUjFpqcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Springdale, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142791?position=5&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=PPvwssYpPTL6W3LJwm34Gg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elk Grove, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320292610?position=6&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=cIrbgUgA0wJw5l%2F5NVURAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Manchester, NH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142815?position=7&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=Ql4wRdZQ13uPf9oFKx9nLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tucson, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162883?position=8&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=%2FCeqr%2BSqwarqmjeLeB4IIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302496?position=9&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=Q9nhoh%2BY792j6y9HlHqQrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Chesapeake, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242605?position=10&pageNum=2&refId=rYZeOmAZ1ABrq%2BRKkhPkjA%3D%3D&trackingId=CSqXALV3kQJ3HLQrT%2FoLSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:57:41",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer",
         "company": "Stefanini Group",
         "location": "San Francisco, CA",
@@ -687,6 +87,396 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4391668749?position=54&pageNum=0&refId=QjOuDms7pcvC6rJE94eNjA%3D%3D&trackingId=Qa104OjEsGHwCH8ZxRGQhA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-29 19:34:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Mount Pleasant, SC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394500463?position=2&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=HAlhytPkJsOs1sZqwiPowA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "State College, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394521923?position=3&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=eTUPjlA7atGAZ7M9Lxb8Dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Virginia Beach, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394198651?position=4&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=OdOwkNuNYJOwrtyAZ2mreg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "McKinney, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394510689?position=5&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=Sl2b1BG494laT5aRaEDt2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Harrisburg, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394510435?position=9&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=gwqlSHc%2FGnHAxs5Hd8St8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Sunrise, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394528682?position=13&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=GWWt25jTzidGqMQzAC8g%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Hartford, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394199887?position=14&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=tsmfppLWdydBzI0ujPaDYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Hialeah, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394514745?position=16&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=NI6zxsA0vfZAYZcMtVdAlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Henderson, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394522556?position=17&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=XqXXSOI4JdD0W4mHQSDQMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Binghamton, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394533395?position=20&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=dU5rKDV9NEUs8YmVcLGLdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Elizabeth, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394507977?position=22&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=oCRXYV3SQXTGIdEIPYLpZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Pearland, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394508168?position=23&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=RcxcM5awJeMZHXEBDjYVng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4391666824?position=24&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=fEXhjgaL2AmBmeZmxERkGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Maryland, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394193154?position=28&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=WpVgtuzOtvz2nwSWFxDLAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Augusta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394508855?position=29&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=PAeIKZnNiLb%2F6UFwMhyCiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Marietta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394533013?position=30&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=KLPChX%2BK1RMLMNv82y2NOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Ohio, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394190188?position=31&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=Av4nkPMJrAEAp5ogojBsKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Highland Park, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394186984?position=34&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=cEqsKWyy7JQKmfj2RwKbYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Fort Pierce, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394539216?position=35&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=xzhoZ3u4bxmwxKHgPdrmWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Knoxville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394516357?position=37&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=oO1KMmSmehwkqO10CFKFkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Grand Prairie, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394192875?position=38&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=661AtDiVtHxRFhq2SYPNTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Somerville, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394510882?position=39&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=gm%2BjBSnBlfAKvpG%2FRPiNUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4392362455?position=44&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=Rz4LUts8K8E7%2BfYJ04KOow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "College Station, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394195768?position=45&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=yIfHQsuVdc9Sksea5FFM3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Johns Creek, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394193966?position=47&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=oh9f2qTSvjhoem4r81OBfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394517692?position=48&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=X7v%2FnKYOVbOnhf3sm3V8lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Logan, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394506599?position=50&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=K75JKp3h3zYbPHvqQktcug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394524400?position=51&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=9kF40w7ZS%2B3reDoKjaJLOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Alpharetta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394528061?position=52&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=GlqN3wPnyMSRYviR7nOq4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Pennsylvania, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394503840?position=54&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=x7TtljXPL5XNT%2F%2FRkKbhwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Lowell, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394525541?position=57&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=lA3WH4HeS4%2BkCRPQITMs%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Lockheed Martin",
+        "location": "Littleton, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4364629846?position=58&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=sso15onRQ4vZeYP7Fs8PdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Lincoln, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394504572?position=59&pageNum=0&refId=t%2Fwxv%2FivPpwRgEAzsenISA%3D%3D&trackingId=IyUuuIBfyiULF2%2B3a3SYKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Maryland, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394193154?position=3&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=1cHdnYiCJXHkaWjAyB4BKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Augusta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394508855?position=4&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=x2OHjlcYKwY3jlz25EnTDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Marietta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394533013?position=5&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=s1dp63fH5Koc4eWuyqxE%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Ohio, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394190188?position=6&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=SqRxWPGLZ5b9alO%2BM1Wc3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Highland Park, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394186984?position=9&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=4%2BLcRH9kDfDWL%2F3dtgz77g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Fort Pierce, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394539216?position=10&pageNum=2&refId=GCF42AStBdrmru1Ied99pQ%3D%3D&trackingId=080bUb0uhvonsFP8PY9HCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:58:08",
         "email_sent": false
     }
 ]
