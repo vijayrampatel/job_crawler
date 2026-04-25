@@ -1,625 +1,5 @@
 [
     {
-        "title": "Data Engineer 2",
-        "company": "People Inc.",
-        "location": "Ontario, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-people-inc-4397409477?position=1&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=UaA08HzCNr12RPqN1d9Zpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Lightspeed",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lightspeed-4405754643?position=2&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=3gqeJIEpuV3iWTnltGyL0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AgileGrid Solutions",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-agilegrid-solutions-4406859353?position=4&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=gIbfFGvFUzXJzDizAPrwvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Productivity",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-productivity-at-openai-4352132396?position=8&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=aAlR2wE1YquSKHPmM58ilg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Netrolynx AI",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-netrolynx-ai-4406874011?position=9&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=Qe1%2B2qSPCMhqzLiPTsOzfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397400495?position=10&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=KtdWB3hsKGm1ZGyu17sVGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397392797?position=11&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=aKCkYAgAuWz%2F0ZinsaQusQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397395737?position=12&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=2Ns0nmIIkEQtYYkgmKc4pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "West Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397395712?position=13&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=SYy%2BI18OZ9G%2FUotPTQGa1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4405758466?position=14&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=fNejYZouZXTPXgAnya%2BiMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Robotics Software Engineer",
-        "company": "Komatsu",
-        "location": "Warrendale, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-at-komatsu-4344982936?position=16&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=dPTHdj0sZmnSRVqFjnl8cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer - Seeking 2025 & 2026 Grads",
-        "company": "Veeva Systems",
-        "location": "Columbus, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-seeking-2025-2026-grads-at-veeva-systems-4384623601?position=17&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=AzuW0MxUhH1jY7yFzaN8Hg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-remotehunter-4405741858?position=18&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=LyoqmdoV5wKKHl4eiKv7Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Java/Javascript Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "North Carolina, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-javascript-software-engineer-at-beaconfire-inc-4400870151?position=19&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=hjSACvjZp0WqenAszefoDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Netrolynx AI",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-netrolynx-ai-4406866063?position=20&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=%2Bn2WX7Ye5mI9FZGv%2FqMRWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4400876001?position=21&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=kp6Y9t3UX7rFXhQqAlMHEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4404121273?position=22&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=c8j5Rxd11vjrHaq%2FV7BSeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Georgia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4400857957?position=23&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=3z4HCRubO6OTs3jsH7IAvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4400854992?position=24&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=A4Juo535Ix8pLu5XdUi%2FWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Georgia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4401974385?position=25&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=Q9%2Bm5aHMya%2BA7ASXFbHEug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4405760399?position=26&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=AOnbNdrS%2F3nKPYMkO%2Bl4Yg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4400859896?position=27&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=rv3C8190v0ALekoax8k7UA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397404118?position=28&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=frra4JMwAm3WPRIODzvVMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software AI Engineer",
-        "company": "micro1",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-ai-engineer-at-micro1-4406871331?position=29&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=XVZ1s2jHTTC3tUW1nqfD2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4397954835?position=30&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=DHfEoS%2FbcVlhGHUSg73EYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "EPDI Data Abstractor: Part Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/epdi-data-abstractor-part-time-at-carta-healthcare-4245998026?position=31&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=prnmjaHt1UnuslRBzQkn7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I (Loyalty)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-loyalty-at-remotehunter-4405750760?position=32&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=pq4XbO%2B9xjlu18j82vHexQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Analyst - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397394613?position=33&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=KAbeJzN3vkfFhBd9zYJNQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Implant Manufacturing",
-        "company": "Neuralink",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-manufacturing-at-neuralink-4147219629?position=34&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=2fLcYGawdPDhEIiMB9SSkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4405764002?position=35&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=xCGU6MNgav05h35m3SIEAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Analyst - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Arizona, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397402289?position=36&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=MTNZWa7lO8BNI0FN%2FevojQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Program Associate",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-program-associate-at-remotehunter-4405738980?position=37&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=xyuaky%2BEXYW1O3loZJ9gOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Virginia, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397405252?position=39&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=a7GS%2BEq1diA8qsrA99ywuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Analyst - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Wyoming, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397403287?position=40&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=5mIdtoZhvQTaHJuHKN8%2Fuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Tennessee, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397387972?position=42&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=8x4tFY%2B9MCznnQtM88d76w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Maryland, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397408213?position=43&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=fSEXLrWbsgggzcinx%2FjjRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-remotehunter-4405749837?position=44&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=iicC21zv8rJ%2BKeVhyn459A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Kentucky, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397389906?position=45&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=75DewOYvvYhh4gucF%2BQoOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Alaska, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397394764?position=46&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=9Yudh%2FRw8ypH2E4nT0CDBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "New Hampshire, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397405221?position=47&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=DGIXvOFwNx269bj1kHqFYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Idaho, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397386936?position=48&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=8F7NkAc7quTkuc68dkme3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Arizona, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397403411?position=49&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=mvsqRvzSKJ75NjJwrgM0Aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Tennessee, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397406203?position=50&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=eYgP%2FbpmCwhd6uPJekbcJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Rhode Island, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397395744?position=51&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=PsHoOfHjj0fXYkSKGpNQNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Nebraska, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397398688?position=52&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=5SN6hJaThHAaFjltD9y86g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Lifecycle Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Oregon, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397397696?position=54&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=fK6%2BK%2F0bIHX0%2BaHsx1f3mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Lifecycle Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Tennessee, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397397682?position=55&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=adTqZVXmA39GMRZtJNRAHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:30",
-        "email_sent": false
-    },
-    {
-        "title": "Software Lifecycle Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Arkansas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397408159?position=56&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=4nZ9bdlmZAQLxCHvPRvQqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Robotics",
-        "company": "Neuralink",
-        "location": "Fremont, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-robotics-at-neuralink-4383975354?position=57&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=nV08HYg5VivEE9IYWB1VXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": true
-    },
-    {
-        "title": "Software Lifecycle Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Montana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397392842?position=58&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=by%2Bf92WAyFCHN0YY1rv0FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Scientist",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-remotehunter-4405754638?position=59&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=Hp15bbD%2Fyui8Wgw7APmDPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Test Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Ohio, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397394663?position=60&pageNum=0&refId=6j1sFxUJLVp4ycoDOzAASQ%3D%3D&trackingId=w02jnYF8GsgXeJ737ojpyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4405760399?position=1&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=%2B0nSn9p3J%2FiAEpd43a%2BbqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4400859896?position=2&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=0orz5jLUYY4S36%2FKDKY8Eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": true
-    },
-    {
-        "title": "Remote Software Engineer - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397404118?position=3&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=j6%2BagPA5C%2FlxV2hf9I8K%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software AI Engineer",
-        "company": "micro1",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-ai-engineer-at-micro1-4406871331?position=4&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=yi%2FRftvB%2BOFgA%2BiREtnxtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4397954835?position=5&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=o0a9lSKxsUqJpBNjitCXQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": true
-    },
-    {
-        "title": "EPDI Data Abstractor: Part Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/epdi-data-abstractor-part-time-at-carta-healthcare-4245998026?position=6&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=PPWZChwUYgA%2BYOB9YuxuDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer I (Loyalty)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-loyalty-at-remotehunter-4405750760?position=7&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=7R3%2BdF6qC7zCqS2En1Sdzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Analyst - AI Trainer",
-        "company": "DataAnnotation",
-        "location": "Illinois, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397394613?position=8&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=isUeGKoO%2BwLy5DqqFGzy%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Implant Manufacturing",
-        "company": "Neuralink",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-manufacturing-at-neuralink-4147219629?position=9&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=XPFIvrJ%2FJsuf3s%2BOJHrhGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4405764002?position=10&pageNum=2&refId=sp4RlWHAedpkIYKkDCprhQ%3D%3D&trackingId=MATADQsEwy6afR6ty4R%2FOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-25 13:48:31",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - AI Trainer",
         "company": "DataAnnotation",
         "location": "California, United States",
@@ -917,6 +297,326 @@
         "url": "https://www.linkedin.com/jobs/view/satellite-systems-software-engineer-starlink-at-spacex-4367339013?position=2&pageNum=2&refId=Wc4j4Ui1XiKD5V%2BPtWNUKQ%3D%3D&trackingId=pZ%2B3%2F0kU6mgzIcoWOx7Hlw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-04-25 14:32:48",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Doordarshan Kendra",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-doordarshan-kendra-4404163835?position=1&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=TY2o8jNHxd2jl5HNomGGWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Enginer",
+        "company": "Apna College LPU",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-enginer-at-apna-college-lpu-4406867571?position=2&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=DlCgFe6CBrksHX823Va%2B2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Horizon Talent Search",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-horizon-talent-search-4404163944?position=3&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=nQW4KZ4lpx42giyanUN3gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, New Grad",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-at-jobright-ai-4405753865?position=4&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=BAA%2Bb6PPi6NcYt%2F9mTOAWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Midwest Express Clinic",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-midwest-express-clinic-4405761271?position=12&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=Qn4g6quZ6TGgwgwZ5%2F6TDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, User Co-Experience",
+        "company": "Roblox",
+        "location": "San Mateo, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-user-co-experience-at-roblox-4384605090?position=14&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=R2GGkQ4Ft52h1pwRZtlFyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": true
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "James Search Group",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4406860628?position=15&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=dNOyHf7JhQjtKDmXd5f6nw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": true
+    },
+    {
+        "title": "Associate, Digital Data Analyst",
+        "company": "AIPAC",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-digital-data-analyst-at-aipac-4375086721?position=16&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=d5SJlkkGKzgwV0U7VamiDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Sign-On Bonus Available)",
+        "company": "BAE Systems, Inc.",
+        "location": "Nashua, NH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-sign-on-bonus-available-at-bae-systems-inc-4397596124?position=17&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=g%2FXupLVOpx1BIoyUpon0WQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobright-ai-4405745942?position=20&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=h3JIL3F6srauVs%2B4bblhEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Tennessee, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397403261?position=37&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=F81w3XCf3BqKtyEcU64Wdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397400379?position=38&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=5D1%2FhFejCUiA1CMe5rxlBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Massachusetts, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397386935?position=40&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=G1GkpdunhvDFkD9B6Gmi7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "South Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397407046?position=41&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=q9iN3QMEdoShZ%2Bq1%2Fq%2FgRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Health Analytics - Data Science Analyst",
+        "company": "Aon",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/health-analytics-data-science-analyst-at-aon-4375689903?position=42&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=B9r%2BAfdlD0uGJAMSDGanQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": true
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "North Dakota, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397404153?position=43&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=1cVYUPk5GpA9PrZ7QjF%2FHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397400520?position=44&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=0WHMWg9ex%2FBMwg5bVI7e3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Indiana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397387749?position=45&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=3jqCAwCYpXdGLXyBeox93Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397391881?position=46&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=yAvDgczDCCUzZn9DVttZsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Arkansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397403240?position=47&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=oZJjr0hB2M21Aa6cvJJlFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Rhode Island, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397404301?position=48&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=rsbafCGRACgOKZs75CYdvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Alabama, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397406082?position=49&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=a4t72Fyhapa9oYONX%2B5J%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Louisiana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397391697?position=50&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=AeokiM5bHsWu8d%2BgD1zGmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Massachusetts, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397405107?position=52&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=fWk31n%2FpDPpsUPlgQ2YwMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Iowa, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397405251?position=53&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=tmbcXHS25NCZTR%2B2SfcNxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397406204?position=54&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=3I%2BuIyaQ05A%2F%2FODVl4TDWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "West Virginia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397404307?position=55&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=REV6v2h36JhNtbRapDJRGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "New Hampshire, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397397688?position=56&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=8fhXAkzrrPiSwUfKq%2FAaIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer-EN",
+        "company": "CAE",
+        "location": "Little Rock, AR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-en-at-cae-4344689779?position=57&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=V0ztaSVBRCPLhDPMGNLXnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Vermont, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397389742?position=58&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=zgsXjS49OP3bMb5kwcbPtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397403425?position=59&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=aIxmy48UmQz4t35AD%2FHPZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397394729?position=60&pageNum=0&refId=mvp4kmGDtKQQaS0MKrihEg%3D%3D&trackingId=PchTixce4Dvm7d%2F6B4L9vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-25 15:24:17",
         "email_sent": false
     }
 ]
