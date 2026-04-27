@@ -1,212 +1,52 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Net2Source (N2S)",
-        "location": "Cedar Rapids, IA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-net2source-n2s-4407177728?position=1&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=5nNHPIuOkL%2F%2FuY5%2F52dv4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer I - Early Career (2026 Starts)",
-        "company": "Blue Origin",
-        "location": "Greater Seattle Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-i-early-career-2026-starts-at-blue-origin-4352423967?position=2&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=%2BAeR9O0T5KHUg8b8%2BX5V8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4407198479?position=3&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=9hHciqKDb5KaqAGbLIUd%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Data Scientist",
-        "company": "Why Hiring",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4404678636?position=4&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=FlnwzF5rVPhobfdmVCGiNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Ramsey Solutions",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-ramsey-solutions-4407192540?position=5&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=uAToeTo39SwnI5MYIKXmBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Data Analyst",
-        "company": "General Dynamics Information Technology",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-general-dynamics-information-technology-4407194312?position=6&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=u7%2Fl55jhIwoC5NfK58vUuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-remotehunter-4407198489?position=7&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=z7cTIgLXIhr8R1MRfFUz3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Workers Deploy & Config",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-workers-deploy-config-at-cloudflare-4337794545?position=8&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=8AH9qYkYAtMVTzayfD0zvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Security Platform",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-platform-at-cloudflare-4373486577?position=9&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=HEy%2FlB4w1PK4GfJxGzAjcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Credit",
-        "company": "Optiver",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-credit-at-optiver-4397911381?position=10&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=k2M6iji0KoMhmGGgd9lFzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Engineering Associate",
-        "company": "EOG Resources",
-        "location": "New Albany, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineering-associate-at-eog-resources-4313231143?position=11&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=2J17gvDg1brGabPhkAsRBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Data Program Associate",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-program-associate-at-remotehunter-4407189568?position=12&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=4mNzIV3S9PYBSmVgD4wi3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Avionics / Embedded Software Engineer I - Early Career (2026 Starts)",
-        "company": "Blue Origin",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/avionics-embedded-software-engineer-i-early-career-2026-starts-at-blue-origin-4352325892?position=13&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=zu0xU%2BBhfiq8tcLTIeD%2FCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineering Solutions Architect",
-        "company": "Jobot",
+        "title": "Data Analyst (1066)",
+        "company": "Sharp Decisions",
         "location": "New York, NY",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-solutions-architect-at-jobot-4407185421?position=14&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=negg8q4xaZnDx8R%2BTo7PTw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-1066-at-sharp-decisions-4389769025?position=1&pageNum=0&refId=DDGR%2B3UnRMAYaQULywEpbQ%3D%3D&trackingId=TVnh90TAoKtvWBIOxte5bg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
+        "scraped_date": "2026-04-27 12:01:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Detection",
+        "company": "Doppel",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-detection-at-doppel-4296661060?position=2&pageNum=0&refId=DDGR%2B3UnRMAYaQULywEpbQ%3D%3D&trackingId=NnSVV5HLmSmW87j73VLTaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-27 12:01:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst Intern (Remote, USA | Entry-Level | SQL/Excel)",
+        "company": "Resumai Solutions",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-intern-remote-usa-entry-level-sql-excel-at-resumai-solutions-4407192840?position=3&pageNum=0&refId=DDGR%2B3UnRMAYaQULywEpbQ%3D%3D&trackingId=t92LmxO60grYkuEnhySEYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-27 12:01:34",
         "email_sent": false
     },
     {
-        "title": "Software Engineer I (Onsite)",
-        "company": "Collins Aerospace",
-        "location": "Fulton, MD",
+        "title": "Software Engineer - Backend",
+        "company": "HappyRobot",
+        "location": "San Francisco, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-collins-aerospace-4407194375?position=15&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=dlZSieoEc976yJSa15aGTg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-happyrobot-4328245911?position=4&pageNum=0&refId=DDGR%2B3UnRMAYaQULywEpbQ%3D%3D&trackingId=d6Cj9Fp419ru3rdv5ryJpA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
+        "scraped_date": "2026-04-27 12:01:34",
         "email_sent": true
     },
     {
-        "title": "Principal Software Engineer: Resiliency",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
+        "title": "Revenue Operations Analyst II",
+        "company": "RemoteHunter",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-resiliency-at-cloudflare-4181952567?position=16&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=6RKfVc7jXzcLX2v3QyAfrQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-analyst-ii-at-remotehunter-4407407075?position=6&pageNum=0&refId=DDGR%2B3UnRMAYaQULywEpbQ%3D%3D&trackingId=MBUoATKlIZtX57aOgcANKA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Commissioning Engineer (Data Centers)",
-        "company": "Jobot",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-data-centers-at-jobot-4407181504?position=17&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=vg17fHzJGgF6vvLAFPRseQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Associate - Global Transaction Analytics",
-        "company": "Alvarez & Marsal",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-global-transaction-analytics-at-alvarez-marsal-4328320866?position=18&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=H%2Bs8tzuwkWEVfbJeanIcCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Associate - Global Transaction Analytics",
-        "company": "Alvarez & Marsal",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-global-transaction-analytics-at-alvarez-marsal-4328144792?position=19&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=eZf2BzFYxr9D4UqZDEHbGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": true
-    },
-    {
-        "title": "Quality Engineer",
-        "company": "Konik",
-        "location": "Little Falls, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-konik-4383187662?position=20&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=uoXlqK2GdgH5awOYKgEb0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
-        "email_sent": false
-    },
-    {
-        "title": "Powertrain Analyst - Americas Vehicle Forecasts",
-        "company": "GlobalData Plc",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/powertrain-analyst-americas-vehicle-forecasts-at-globaldata-plc-4373706851?position=21&pageNum=0&refId=VRILO%2FCVFs7wodyvdWwlwQ%3D%3D&trackingId=Z0gdMrXH0OeB93cSFcLLLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-27 10:14:13",
+        "scraped_date": "2026-04-27 12:01:34",
         "email_sent": false
     }
 ]
