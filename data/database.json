@@ -1,1 +1,632 @@
-[]
+[
+    {
+        "title": "Data Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-starlink-at-spacex-4398524761?position=1&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=ntqD2vJJCg08bkSCctbe7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "RSC Solutions",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-rsc-solutions-4406565180?position=2&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=2KI4sbsNFxNutF%2BgvT%2Fe7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, University Grad",
+        "company": "Glean",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-university-grad-at-glean-4295123743?position=3&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=i5ywNA5k7AqNPXS8ej8HwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "PT Samulos Rambuti Makmur",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-pt-samulos-rambuti-makmur-4408004125?position=4&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=NsnXCNtWpL0v7RqwcczSOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Research Business Intelligence",
+        "company": "Mayo Clinic",
+        "location": "Rochester, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-research-business-intelligence-at-mayo-clinic-4408003045?position=5&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=bwSrbNEXJu4eoSKYO7QJag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fetchjobs-co-4406558587?position=6&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Z3aolUQcLhuIq%2F3ergmksQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer",
+        "company": "Versant Media",
+        "location": "Orlando, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-versant-media-4406237173?position=7&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=BkQwN79dSH6CeP26wBvjLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python)",
+        "company": "Brio Digital",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-at-brio-digital-4407869789?position=8&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Gq4VBZpDjZPPsCIEMMn8mQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Great West Casualty Company",
+        "location": "South Sioux City, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-great-west-casualty-company-4405553958?position=9&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=IUg6SPBZbEVX7kQ%2F4RN2%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer II-AWS",
+        "company": "Versant Media",
+        "location": "Orlando, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-aws-at-versant-media-4399796579?position=10&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=5fyqDDwHXosdSjc0HBi3%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analys",
+        "company": "AGENCIA ESTATAL DE INVESTIGACI\u00d3N",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-agencia-estatal-de-investigaci%C3%B3n-4405571292?position=11&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=5JbIBlmzsk0mGvxedXeZHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Metrolina Greenhouses",
+        "location": "Huntersville, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-metrolina-greenhouses-4403775117?position=12&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=TmIp5AJh1jgn68cBd%2B%2B8Mw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Jr BackEnd Software Engineer",
+        "company": "KeyBank",
+        "location": "Brooklyn, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/jr-backend-software-engineer-at-keybank-4405054121?position=13&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=TPsZcsI5Z%2Bc5KLdoYmI2xQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-fetchjobs-co-4406567055?position=15&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=96d1z%2FVmYIvNzAZrOszZtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Opus IVS - US",
+        "location": "Dexter, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-opus-ivs-us-4406553823?position=16&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=3DB4IhxMdf3KPQVfwGJyqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Apex Systems",
+        "location": "Glen Allen, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-apex-systems-4407871959?position=17&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Yt%2FU8ji5%2FUu9acu%2FHiP%2FIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "AI Engineer-Remote",
+        "company": "Answer Financial",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-remote-at-answer-financial-4406565247?position=18&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=PZKS0smRjF2NbWjDFd9%2BpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4407886698?position=19&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=n13eN3suMnVmfcv6GkonKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Frontend Software Engineer",
+        "company": "Chalk",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-chalk-4406568149?position=21&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=W5NTYA3nad%2B7yZtTW62VRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Video Platforms",
+        "company": "Versant Media",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-video-platforms-at-versant-media-4364418399?position=25&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=ZDZq7gMk1OkWTmCbI41MqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Chalk",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-chalk-4406562211?position=26&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=spXz4xWI8Bf5iqaw2JMncQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "Las Vegas Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4407896193?position=27&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Uc6C7q1YVqjpf1ZNcWdX%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "Los Angeles Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4408001113?position=28&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=IE8XEsalBLOJWeHPfZdcpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Loss Prevention Support Engineer",
+        "company": "AsceticVoyage",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-loss-prevention-support-engineer-at-asceticvoyage-4406575069?position=29&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=PR4%2FKcWucyQltSFAZSWHyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Platform Team)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-team-at-spacex-4398320770?position=30&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Jx39I6m%2FrsTusXobRkbATw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Developer - Data Analysis",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-developer-data-analysis-at-fetchjobs-co-4406565092?position=31&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=JqfG0rrFJ70kZaVsYBG2MA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "SciTec",
+        "location": "Boulder, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-scitec-4407887559?position=32&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=qFJBxX9GQJPTCWLmJb8COQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407881576?position=33&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=YzIvIqWfItKGZUABPkQEmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Full Stack Software Engineer (Application Software)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-application-software-at-spacex-4398052840?position=34&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Uexwbcw7esGw5waJkoJLdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Web Developer",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/web-developer-at-fetchjobs-co-4406567058?position=35&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=fdxmEa3e9q%2BppD4roXNUFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407889313?position=36&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=TXOUHjlDnPAK%2FKoLowaIQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Agentic First",
+        "company": "Sonatype",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-agentic-first-at-sonatype-4406576029?position=37&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Z0Thh2lOwhQyQcsv%2B3kQCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Agentic First",
+        "company": "Sonatype",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-agentic-first-at-sonatype-4406568108?position=38&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=e%2BkTysewqJQZ7T93pW7lWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407889315?position=39&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=tKupy94C%2BmkD2rqRjIgTyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407888415?position=40&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=XrHBu%2FSAJGd9mtBQWgZ2ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Hillsboro, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407884528?position=41&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=2DWy8pzJjktD41YIOEUD5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Fulton, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407874690?position=42&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=fnI%2Fx9GkY%2BIAoDzRNZHeXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Agentic First",
+        "company": "Sonatype",
+        "location": "Scottsdale, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-agentic-first-at-sonatype-4406564142?position=44&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=AnPXVUdHQLNY3BQ50%2BmDQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Insights Analyst",
+        "company": "Modivcare",
+        "location": "Denver Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-modivcare-4406553963?position=45&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=7V4TBCK%2BweCQQjHjiuwRnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Agentic First",
+        "company": "Sonatype",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-agentic-first-at-sonatype-4406560229?position=46&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=J8Yyj8qh%2FgS7lM5hsqSV6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Associate Data Scientist",
+        "company": "Cadent",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-cadent-4407890739?position=47&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=Qgnu%2FXe%2FaLzs%2BBn%2Bv%2Fmb9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Data Intelligence, LLC",
+        "location": "Moorestown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-data-intelligence-llc-4406573017?position=48&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=pg%2Fa1AhlqgUUBn43VpHIUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Agentic First",
+        "company": "Sonatype",
+        "location": "Las Vegas, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-agentic-first-at-sonatype-4406556798?position=49&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=XhF73lvtPPFeUptAoMxLqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Alpharetta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407874688?position=50&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=MPERb8TnlzG6qPuQHMm5MA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Chalk",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-chalk-4406560261?position=51&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=sFhf45FqZyCCkz8S0cBz8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "New Grad- Software Engineer, Simulations",
+        "company": "Symbotic",
+        "location": "Wilmington, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-simulations-at-symbotic-4398546550?position=52&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=0e9d6mjeib1NryEI6S5G4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Frontend Software Engineer",
+        "company": "ASSA ABLOY Group",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-assa-abloy-group-4405567331?position=53&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=9%2BaskZyFoeld2%2FzFGO%2F26A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "System Engineer",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-fetchjobs-co-4406557733?position=54&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=o0e1kuyLtnBz7fjsHPMPbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Freelance QA / System Engineer (IIoT & MES \u2013 On-site Michigan)",
+        "company": "META Smart Factory",
+        "location": "Michigan, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/freelance-qa-system-engineer-iiot-mes-%E2%80%93-on-site-michigan-at-meta-smart-factory-4405569158?position=55&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=OCIOO1FBP4iScCAYGxd19A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "ASSA ABLOY Group",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-assa-abloy-group-4405576040?position=56&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=G69uiNW%2FujlTQ9lSN%2FiT9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Sub-Zero Group, Inc.",
+        "location": "Madison, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-sub-zero-group-inc-4406561389?position=57&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=orUzBeRDk0opXjAcfMUDog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Software Engineer, Backend- Rotten Tomatoes",
+        "company": "Versant Media",
+        "location": "Orlando, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-backend-rotten-tomatoes-at-versant-media-4406274007?position=58&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=%2B6DfyuUnOjQVN9VPcck8kw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Hybrid Software Engineer - Java (Entry Level)",
+        "company": "State Farm",
+        "location": "Bloomington, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hybrid-software-engineer-java-entry-level-at-state-farm-4406254647?position=59&pageNum=0&refId=TMi7h7txYsKvMtntqykSPQ%3D%3D&trackingId=64JcV%2Fl39aYdPjINDeBSxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Video Platforms",
+        "company": "Versant Media",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-video-platforms-at-versant-media-4364418399?position=1&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=xjsUlEg2tIOqD2SPr%2BzjVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Chalk",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-chalk-4406562211?position=2&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=UKLrJQWF95reJRkWhdfcmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "Las Vegas Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4407896193?position=3&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=3G5CQ8qDwr5w5JI9ETVVQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TalentAlly",
+        "location": "Los Angeles Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4408001113?position=4&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=GqmgkCFdW4fglL%2FiFT57TA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Data Loss Prevention Support Engineer",
+        "company": "AsceticVoyage",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-loss-prevention-support-engineer-at-asceticvoyage-4406575069?position=5&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=%2Bi082jpWl2mBMHyFPOjsIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Platform Team)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-team-at-spacex-4398320770?position=6&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=%2Bsp0Z3mWbhIrp%2FOkxI8XTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Developer - Data Analysis",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-developer-data-analysis-at-fetchjobs-co-4406565092?position=7&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=RFDV5RV0sBWj%2B3EyMJErrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "SciTec",
+        "location": "Boulder, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-scitec-4407887559?position=8&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=8yA6%2FMYJMCRCv%2BrG4KWDEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "company": "Cisco",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-automation-ii-full-time-%E2%80%93-united-states-at-cisco-4407881576?position=9&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=lFuy0PAJ6XQp%2BaW7z8H8Ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": true
+    },
+    {
+        "title": "Full Stack Software Engineer (Application Software)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-application-software-at-spacex-4398052840?position=10&pageNum=2&refId=Eo3oUxFW50bbnxeKCXitkA%3D%3D&trackingId=QbsPlCHWARhwOvt1ckrLyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-28 17:16:06",
+        "email_sent": false
+    }
+]
