@@ -1,482 +1,642 @@
 [
     {
-        "title": "Data Engineer 2",
-        "company": "People Inc.",
-        "location": "Ontario, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-people-inc-4397409477?position=1&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=PO%2BbXyVCQ7pkmkS3nFpCRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4416028458?position=2&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=R8zV8lGBND5IHJZWKTT3xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Prestige Staffing",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-prestige-staffing-4372619451?position=3&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=X5doLvHLib4O8iYL3%2FZs2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "W HealthTech",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-w-healthtech-4415462143?position=4&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=WfcwIuH15ImAJ9KOqzNnhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Python | Remote",
-        "company": "Crossing Hurdles",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-remote-at-crossing-hurdles-4384256671?position=5&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=cSPWjHZ6tG2AE%2FdIBQ3QIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst (Entry-Level / Junior)",
-        "company": "Ascend:The Placement Cell, SSNC",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-junior-at-ascend-the-placement-cell-ssnc-4416024548?position=6&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=meaWDroLD5cWuM%2BEJ2YxjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Engineer",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-science-engineer-at-sundayy-4416018517?position=7&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=PfxtPTjxVY9JvE7A%2BjkoKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Onboard Infrastructure",
-        "company": "Nuro",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-onboard-infrastructure-at-nuro-4374304769?position=8&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=aVOIqxT6fcMWdRdtGwt2Dw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "San Diego Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4415449143?position=9&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=LoCMm0jFNGQboGPl%2FFvfUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "San Diego Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4415468121?position=10&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=xLuFU6mIA6sm9HBhpkcTZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Consortium pour la Nature ,l'Environnement et le D\u00e9veloppement Durable (CNEDD)",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-consortium-pour-la-nature-l-environnement-et-le-d%C3%A9veloppement-durable-cnedd-4415461151?position=11&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=iIAk2QA9jhutX3M29peWyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sundayy-4416027512?position=12&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=7Vt7InHXKqHyKYPvk2NPFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Valon",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4366508876?position=13&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=ajEu4IIneoEJvhlrOnJnXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "LATAM - Data Science Engineer",
-        "company": "Playsaurus Inc.",
-        "location": "Alameda, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4412222543?position=14&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=1e7HVzp029NBroE1IN41%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Rillet",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rillet-4367074328?position=15&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=DmGvJvpyYnWuNeP1H2D9Kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "CFB Medical Centre",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-cfb-medical-centre-4412222249?position=16&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=qAJnYn2zckExGPUffMda4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Technical Services Engineer, Customer Data Platform",
-        "company": "Rokt",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/technical-services-engineer-customer-data-platform-at-rokt-4383011280?position=17&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=ahj0e2Nt0DP6mppSW1ST7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Entry Analyst",
-        "company": "Agni Raksha Niti Engineering Consultancy Services Pvt. Ltd.",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-entry-analyst-at-agni-raksha-niti-engineering-consultancy-services-pvt-ltd-4416017635?position=18&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=qyceh%2Fr4Xc7v8zbslJj5rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data QA Analyst",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-qa-analyst-at-sundayy-4416027514?position=19&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=YPajgPVFyTPIIiEyZFOEpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Viral Network",
-        "location": "Worcester, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-viral-network-4416025513?position=20&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=plRtmRa%2Fs3rFkg%2FHpXXmQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Python, C++)",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-sundayy-4416018519?position=21&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=tqgNaScBbq7YFuXUrW0kyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "GSS Data Analyst",
-        "company": "Westinghouse Electric Company",
-        "location": "Cranberry Township, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/gss-data-analyst-at-westinghouse-electric-company-4405748978?position=22&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=UiYOXqqCYih6yP74JyyCaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning & Operations Engineer",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-at-sundayy-4416029477?position=24&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=NBPsJ5fEcNT4Fj4qQ5CRgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer \u2013 Mobile",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-mobile-at-sundayy-4416023547?position=25&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=DUNWpNfttsCjwybwB9KXrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "United Briquettes Producers Association of Kenya",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-united-briquettes-producers-association-of-kenya-4415456170?position=26&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=pBjxGRHHFMuCeypS77%2F0sQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (iOS, API)",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-api-at-sundayy-4416020558?position=27&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=8bfeUdx14QBXqg78xBwD9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "ML Research Scientist I/II, Multimodal Data Extraction",
-        "company": "Lila Sciences",
-        "location": "Cambridge, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ml-research-scientist-i-ii-multimodal-data-extraction-at-lila-sciences-4333888222?position=28&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=YD5Yss38ySNgtIEZ9b%2Flww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer, Implant Embedded Systems",
-        "company": "Neuralink",
-        "location": "Fremont, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-implant-embedded-systems-at-neuralink-4212887425?position=31&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=dQC3olyAmMssLcfP0gKYaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Technician I",
-        "company": "Ares Technology Consultants",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technician-i-at-ares-technology-consultants-4338913741?position=35&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=9ZVAKAfIT8F3KStakrX%2B8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Graduate Engineer - Geotechnical",
-        "company": "Raba Kistner, Inc.",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/graduate-engineer-geotechnical-at-raba-kistner-inc-4385120198?position=36&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=V2CnWV9p1poNB1YISesBJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": true
-    },
-    {
-        "title": "Research Assistant",
-        "company": "Egotechworld",
-        "location": "Mobile, AL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-egotechworld-4415459148?position=38&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=7vVWAF%2F%2F1AyzdhIlidlXSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Image Quality Assurance Specialist",
-        "company": "CodeGeniusRecruit",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/image-quality-assurance-specialist-at-codegeniusrecruit-4405768351?position=39&pageNum=0&refId=7sx6TZGmU4goc89l%2Bf3%2Bew%3D%3D&trackingId=Yw5IvmHW%2FvVw9aXS0Jq2QA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 11:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Huawei ICT Academy-Egypt",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-huawei-ict-academy-egypt-4416014803?position=1&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=wpqdXvTV3KJ4BY0jygcwlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Greater Pittsburgh Region",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4415456213?position=2&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=rrO2RYxLxIv%2FKzIEp52zxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - Contract ($65 - $95)",
-        "company": "Irvine Company Chicago",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-contract-%2465-%2495-at-irvine-company-chicago-4415454189?position=3&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=H0%2BC7skCfXZN2BYAVqesag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. Data Engineer",
-        "company": "Authority Brands",
-        "location": "Atlanta Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-authority-brands-4373490523?position=4&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=TsWVUvffdEl4eePw%2F8QvqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Kafka",
-        "company": "Applied Intuition",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-kafka-at-applied-intuition-4263726719?position=6&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=vxekx7C%2BpcxtEQVzqMpqoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer - Decatur, IL",
-        "company": "ADM",
-        "location": "Decatur, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-decatur-il-at-adm-4385501421?position=7&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=7%2Fd1KPJmt5nH375uw8s8Kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Data Infrastructure & Acquisition - Denver, CO, USA",
+        "title": "Data Engineer I IS - Remote",
         "company": "RemoteHunter",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-infrastructure-acquisition-denver-co-usa-at-remotehunter-4415458243?position=8&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=odXH8u0nv4B72LNpz%2F4XQw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-is-remote-at-remotehunter-4415448255?position=1&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=0O3%2Fo636XHNULCFtISQ86w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
+        "scraped_date": "2026-05-17 14:15:09",
         "email_sent": false
     },
     {
-        "title": "Database Developer II",
-        "company": "Tyndale Company, Inc.",
-        "location": "Doylestown, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-developer-ii-at-tyndale-company-inc-4376131965?position=9&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=ZXnFtAl6asWfzmitLLXOHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": false
-    },
-    {
-        "title": "Staff/Principal Database Engineer",
-        "company": "Everlaw",
-        "location": "Oakland, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-principal-database-engineer-at-everlaw-4368867418?position=10&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=DhEtwuBhOBBvfo2MWypIHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst/ETL Developer (remote)",
-        "company": "RemoteHunter",
+        "title": "Data Analys",
+        "company": "PCF G\u00e9nie civil",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-etl-developer-remote-at-remotehunter-4415460241?position=12&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=nS%2BSZbH6WrHWg4eeXCCp%2BQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-pcf-g%C3%A9nie-civil-4416015864?position=2&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=sTEb30QnSf67kyk3q%2Bx%2FsA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
+        "scraped_date": "2026-05-17 14:15:09",
         "email_sent": false
     },
     {
-        "title": "Director, Data & Analytics Engineering",
-        "company": "Charlie Health",
-        "location": "New York, NY",
+        "title": "Data Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Idaho, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/director-data-analytics-engineering-at-charlie-health-4179919760?position=13&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=MopX6lIEiLPNBzXQMGyalQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397408147?position=3&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=L0AfSl%2FVWz2BjwSZxNafBw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
+        "scraped_date": "2026-05-17 14:15:09",
         "email_sent": false
     },
     {
-        "title": "Software Engineer - Forward Deployed",
-        "company": "Arcesium",
-        "location": "Utica-Rome Area",
+        "title": "Data Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Louisiana, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-at-arcesium-4374322659?position=14&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=GHdUbiqSiOKdnby0nn80Xw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397403357?position=4&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=2yKNNzptiX91S7kbZCOG8w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Quantitative Latency Engineer",
-        "company": "Hudson River Trading",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-quantitative-latency-engineer-at-hudson-river-trading-4384273725?position=15&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=4mhS%2Bsx8FAZldE1Z8iBWEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer, Ads Data Manager",
-        "company": "Amazon",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ads-data-manager-at-amazon-4397373892?position=16&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=xBmG5hEvg3PK3AiLbXx7Cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
-        "email_sent": true
-    },
-    {
-        "title": "Power BI Developer with Fabric",
-        "company": "Knowvia Tech Inc",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-developer-with-fabric-at-knowvia-tech-inc-4416029578?position=17&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=kzD2Zd3FNlgygxN%2FnPF%2FjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
+        "scraped_date": "2026-05-17 14:15:09",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Minnesota, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397402355?position=5&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=1cQTBkfbIc1rfk8WUhjFgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Illinois, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-trainer-at-dataannotation-4397403377?position=6&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=yfKEePnrWlHyW3eNYzwy3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SS&C Eze",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ss-c-eze-4317343216?position=7&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=9O74Fxx2dRYHjcGg1o3QbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SS&C Eze",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ss-c-eze-4317326496?position=8&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=ypJgIpG2Zq%2B5bN9HHTSWqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": true
     },
     {
         "title": "Machine Learning Engineer",
-        "company": "Griffin Global Systems, Inc.",
-        "location": "New York City Metropolitan Area",
+        "company": "Jobright.ai",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-griffin-global-systems-inc-4410716649?position=18&pageNum=0&refId=QaPMzwNTQ4d938oNohdiPA%3D%3D&trackingId=Tqn4w6gU0aPs89eKVuU4rQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jobright-ai-4415463291?position=9&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=LfEcxXHY66YxjpAaDPtzFw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 12:43:09",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Yaskawa Motoman",
+        "location": "Irvine, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-yaskawa-motoman-4345412901?position=10&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=y%2BUxd4NqPmDL0%2Fh%2BOb%2BD0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
         "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4415456260?position=11&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=ZHJf1eHDM6jXufegK%2BWICQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Analys",
+        "company": "Progressive Climate Foundation - PCF",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-analys-at-progressive-climate-foundation-pcf-4412234412?position=12&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=TQpU5LmcjIseGFePw4Uv8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Hawaii, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397408066?position=13&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=nFVwe653C4tDslbR%2FkRtcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Indiana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397392691?position=14&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=un3fBROJuoNF96f2wwuYlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Pennsylvania, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397386852?position=15&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=4eLXqP0XldH8JW%2FVvTzZvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397394705?position=16&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=jeZ3rDyLCqjvc9L%2F27yEgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Colorado, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397398736?position=18&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=SStvszhIVbvcELHpOUXn4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Nevada, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ai-trainer-at-dataannotation-4397409086?position=19&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=jJRSGrnT9s%2BISjI9GaNXJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397402285?position=20&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=zeniMzR0ZfcPz93KX4ZVbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "West Virginia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397387803?position=21&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=WyhBFEVj89%2BdeO%2FL2bmxqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Analyst - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Delaware, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-analyst-ai-trainer-at-dataannotation-4397387813?position=22&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=1U3oY4wPNHxjgcBNo9K3fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kentucky, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ai-trainer-at-dataannotation-4397385898?position=24&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=v%2Bt%2BtSqBPqGtHDHJ4HpdBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397390830?position=25&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=Fu6APvgdAvbcYAMKSaluAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397391711?position=26&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=3aeRqWxbPaAqMFU8Ea5ABA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397395773?position=27&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=pe6r4Ydr8TUbfcjA9qPUpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Utah, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397397554?position=28&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=OWurV7KpYAhUba45VQI1vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Wyoming, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397386913?position=29&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=0UR5NSquwvAAD%2BW2zYySXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397385920?position=30&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=B9tbB5FIb3ZDCjtlDXml0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397403279?position=31&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=1HFUcWbUkchv1UQa7%2FwXow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Mississippi, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397400394?position=32&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=H7uxgLR3ZufED%2B4%2BGoEbhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397408099?position=33&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=aZDR%2FBkrmbnl%2BGchfC6rDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Lifecycle Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397405206?position=34&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=eiUjmUsEpk57%2FKi7DsXb4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397387848?position=35&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=hRzsYCbNOJ8MY0GeFvEHrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397405126?position=36&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=STxyHYQr8%2F0i7PpNGsFtmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-dataannotation-4397407043?position=37&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=NK6ASxmdC4WKPHSW%2Fp9WHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobright-ai-4415446695?position=38&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=FRtPWdYZbG%2FESS0JTm5s7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-ai-trainer-at-dataannotation-4397399473?position=39&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=%2BxDKgQxtWMMQ8%2BxrTgrbcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Indiana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-dataannotation-4397400359?position=40&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=ifJO7AL2pIwIGosXVWE%2F5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "SDET (Software Dev Engineer in Test) - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "North Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sdet-software-dev-engineer-in-test-ai-trainer-at-dataannotation-4397403354?position=41&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=XCEVuTX60dTYXMSrLValeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Ohio, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-ai-trainer-at-dataannotation-4397399534?position=42&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=7y6P9s87Q7S7qjW5GWoqnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Power Engineer / System Operator",
+        "company": "Tenaska",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/power-engineer-system-operator-at-tenaska-4270553288?position=43&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=xBnq%2B0HBjX3Y5et0wqlWaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": true
+    },
+    {
+        "title": "Software Test Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Alabama, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397388712?position=44&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=hvLpor07gVfDwYt8%2B4WiiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "DataAnnotation",
+        "location": "North Dakota, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-dataannotation-4397408197?position=45&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=ajyxpMJqUIL5LP7mMTx92w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Lifecycle Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Iowa, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397395776?position=47&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=VIZvFAZz41XOkLQi9xkunw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Contract Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Illinois, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/contract-software-engineer-ai-trainer-at-dataannotation-4397392770?position=48&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=VNoZOPaqeWGJuLNGcuw6DA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Alaska, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-ai-trainer-at-dataannotation-4397390628?position=49&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=lv408BTMBzI07uiW7m2I8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Controls Engineer- Data Center",
+        "company": "BW Design Group",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/principal-controls-engineer-data-center-at-bw-design-group-4331581603?position=50&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=78J8Qd4TSiY%2FqsVQFM7tzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": true
+    },
+    {
+        "title": "SDET (Software Dev Engineer in Test) - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sdet-software-dev-engineer-in-test-ai-trainer-at-dataannotation-4397402282?position=51&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=Yx7oDPD3nDl418EH1XsNww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Freelance Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-trainer-at-dataannotation-4397390757?position=53&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=bPMbCUScYTVa548XeC%2BLtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-ai-trainer-at-dataannotation-4397395572?position=54&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=MJ66xnEJDVX8TXpp5URc0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Freelance Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Georgia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-trainer-at-dataannotation-4397389791?position=56&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=DpCK3iAMTfkD513mmEr8Tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Integration Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-integration-engineer-ai-trainer-at-dataannotation-4397395718?position=57&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=8A1IYm68%2BFvmR%2BtsPKhDLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Massachusetts, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-ai-trainer-at-dataannotation-4397401359?position=58&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=zIeb6dd7dGeXhMPbvSQjgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Freelance Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "North Dakota, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/freelance-software-engineer-ai-trainer-at-dataannotation-4397393781?position=59&pageNum=0&refId=5PB9zjCAKMcxxhpUU8LZUw%3D%3D&trackingId=NLIhnpenbbA1SHMGtpXAdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397391711?position=1&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=pbTYFnEQlF5vJSvKe5WlpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397395773?position=2&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=AvdHa3w5CYykyrRAtx7qFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Utah, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397397554?position=3&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=YbMOTi4g1hW6ckuVzUbEgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Wyoming, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-at-dataannotation-4397386913?position=4&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=sJgCBm0RpdpBe1Vefmoi4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397385920?position=5&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=GNF5wsdVdSlGVcliBCfJqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397403279?position=6&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=ATGFYzgpwZbrDrp6FsvvPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Mississippi, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-trainer-at-dataannotation-4397400394?position=7&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=T2rVku3Qe19JmUCxDeQ4jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ai-trainer-at-dataannotation-4397408099?position=8&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=2TGA3sK28Dedxxt6coCz1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Lifecycle Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-lifecycle-engineer-ai-trainer-at-dataannotation-4397405206?position=9&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=fy5GgWhJSV0jchSWCrsMWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
+    },
+    {
+        "title": "Contract Software Engineer - AI Trainer",
+        "company": "DataAnnotation",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/contract-software-engineer-ai-trainer-at-dataannotation-4397408121?position=10&pageNum=2&refId=Vv1J%2FPNRDwR7Fk2MWWGgAw%3D%3D&trackingId=hpI1hobkwjcRapyBXv7hqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-17 14:15:09",
+        "email_sent": false
     }
 ]
