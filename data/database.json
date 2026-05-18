@@ -1,52 +1,352 @@
 [
     {
-        "title": "Data Annotator",
-        "company": "Jobright.ai",
-        "location": "United States",
+        "title": "Data Engineer",
+        "company": "Stuut",
+        "location": "San Francisco, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-jobright-ai-4415445955?position=5&pageNum=0&refId=CipKCajNt%2FIDdjPhT4x%2FGg%3D%3D&trackingId=LMA%2FwnhKgM0GYWvOBWHl8w%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stuut-4404323470?position=1&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=%2BJKreb2mr5sM%2BQkarxelFQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 23:39:38",
+        "scraped_date": "2026-05-18 01:34:56",
         "email_sent": false
     },
     {
-        "title": "AI Data Annotator",
-        "company": "Handshake AI",
+        "title": "Junior Data Enginer",
+        "company": "PCC Realty",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-data-annotator-at-handshake-ai-4416042934?position=6&pageNum=0&refId=CipKCajNt%2FIDdjPhT4x%2FGg%3D%3D&trackingId=pHdG%2FgcbnmAmPT4Pt%2FBgSA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-enginer-at-pcc-realty-4415488298?position=2&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=Zofig3B3TFFdTYDDX%2BbRpA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 23:39:38",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415482321?position=3&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=OtUbVD%2ByFOSiK1BYotNCCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
         "email_sent": true
     },
     {
-        "title": "Software Engineer (NodeJS, ReactJS)",
-        "company": "Sundayy",
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Loudoun County, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415477379?position=4&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=QrGOZR9qaK%2FTVf0UIZ%2BjxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Oregon City, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415470629?position=5&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=RQga2R6F7kVV1Fy2ZIOBDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Marion County, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415483313?position=6&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=tFcV3t8x4qVKZFBxQiLWpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Baltimore County, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415476343?position=7&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=FibEmtSqiu%2FB%2Fysk686uGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Washoe County, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415471412?position=8&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=BBxYpNo9sMv1La%2FMsVHlGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Maui County, HI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415484291?position=9&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=PBojJrJcRhOy0Qg1ZdTsvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "New Haven, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415489246?position=10&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=X2%2BtZoZ0sgKCQV%2FrwnipRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Middlesex County, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415491255?position=11&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=9ZOfoA827O4KjuMbqkNf9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Memphis, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415489253?position=12&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=w4%2FBNL6BhF1T%2Bv66etFQDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "St Paul, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415486322?position=13&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=JSi0EBjX8H09fo6W8rvx2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Portland, ME",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415488315?position=14&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=08CpQ2Nab7ssAXXz15xOSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Kent County, RI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415485301?position=15&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=NN1O8PYdVQOfkFLgkar%2FrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Chittenden County, VT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415482343?position=16&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=QRY16B1D%2FzSGSQOfjGFWMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Gallatin County, MT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415492245?position=17&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=E%2FCbkOhKp5gSf3ti8yC0eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "St. Charles County, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415472392?position=18&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=RLFzuCC5wUImu6lzr%2FfzLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Lexington, KY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415486326?position=19&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=6z4q1IwIKA0ZUKJeZX5Ksw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Lancaster County, NE",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415475341?position=20&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=klm91Yu4houw03CX85c0cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Bismarck, ND",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415484299?position=21&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=eCIo05HX7xSxXEImnXgOrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Blue Origin",
+        "location": "Berkeley County, WV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-blue-origin-4415472377?position=22&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=01u1VrFZgsaDIBgIqr5IPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Serco",
+        "location": "Virginia, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-serco-4416051946?position=23&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=fkGE5drFUduSF6MvT%2Fq%2F3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Software Engineer (Golang, Platform)",
+        "company": "Jobgether",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-nodejs-reactjs-at-sundayy-4416015656?position=11&pageNum=0&refId=CipKCajNt%2FIDdjPhT4x%2FGg%3D%3D&trackingId=0whhQROZD6CQ6PekeTU7%2FA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-golang-platform-at-jobgether-4415484272?position=24&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=vBb6lCt1WAhTqFikW%2FQf2g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 23:39:38",
+        "scraped_date": "2026-05-18 01:34:56",
         "email_sent": false
     },
     {
-        "title": "Automation Engineer",
-        "company": "Amount",
+        "title": "Software Engineer - YAML Experience",
+        "company": "Alignerr",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-yaml-experience-at-alignerr-4416079066?position=25&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=85kEBJj%2BXKrhgg9koEFQtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Ruby",
+        "company": "Alignerr",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ruby-at-alignerr-4416065222?position=26&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=G%2BXld%2B1HWGe0FoJBa8RXjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Otis Elevator Co.",
+        "location": "Farmington, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-otis-elevator-co-4414734501?position=27&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=o9xiGz82OTvaF62UMYl7bA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4416070171?position=28&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=xyfgbvejYcqnUjroe6EDHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
         "location": "Chicago, IL",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/automation-engineer-at-amount-4416060708?position=15&pageNum=0&refId=CipKCajNt%2FIDdjPhT4x%2FGg%3D%3D&trackingId=PZoDWgEUL5pTSm6k4k5bJQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4416063355?position=29&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=scxhYUYaOxvVBGUmy%2FMuwQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 23:39:38",
-        "email_sent": true
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
     },
     {
-        "title": "Data Scientist",
-        "company": "Sundayy",
-        "location": "United States",
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Sheffield, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-sundayy-4416020554?position=16&pageNum=0&refId=CipKCajNt%2FIDdjPhT4x%2FGg%3D%3D&trackingId=SB1v31KpY0ESg%2Bl2XHzTQA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4416071153?position=30&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=IMe1H7p03A6KlF4OakDB8Q%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-17 23:39:38",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4416064281?position=31&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=khqXxgESJAhCwoIFbOs34Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Population Health Informaticist",
+        "company": "Alignerr",
+        "location": "Austin, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/population-health-informaticist-at-alignerr-4416064260?position=32&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=l4PX5Z8VEvj2hAkwwCSTTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Population Health Informaticist",
+        "company": "Alignerr",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/population-health-informaticist-at-alignerr-4416076087?position=33&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=8wEtTZbMs9eQZFskMbU9dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Video Research Expert - Robotics",
+        "company": "Alignerr",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/video-research-expert-robotics-at-alignerr-4416071142?position=34&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=AZgpIDY%2FdrcDvJjQunCdWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineering",
+        "company": "Alignerr",
+        "location": "Sheffield, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4416066230?position=35&pageNum=0&refId=0QwGWO%2BZV05ZCJHfkB%2B7DQ%3D%3D&trackingId=V0T%2FJYqjfPiL3sRNEKa9Xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-18 01:34:56",
         "email_sent": false
     }
 ]
