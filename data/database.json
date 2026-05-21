@@ -1,132 +1,822 @@
 [
     {
-        "title": "Snowflake Data Engineer",
-        "company": "Biblioso",
-        "location": "Greater Seattle Area",
+        "title": "Engineer II \u2013 Data Engineer",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/snowflake-data-engineer-at-biblioso-4416385557?position=1&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=Oj13yCL7TD5A3FaiC%2BoBeA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-%E2%80%93-data-engineer-at-geico-4405358895?position=1&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=%2FsZXk497P1UOU5deCQrJAg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Nscale",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=2&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=4IIk7qY0%2Bar7vst1SPpJAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AM Best",
+        "location": "Oldwick, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-am-best-4416516387?position=3&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=ZTxvmjmJ5qYUaiOpwSfycg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-modmed-4407020795?position=4&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=vjljyYCAiVZljelxDPop1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408571990?position=5&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=C3p7TG%2FmUzwjDVG03ZTsOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-%24170k-%24220k-%2B-equity-at-stealth-mode-cloud-financial-data-platform-at-jack-jill-4405079460?position=6&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=htKNGwgaInTxAjEg70Qr1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408581264?position=7&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=zrmz8%2F3EkpKi4l3QIH4rOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386953186?position=9&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=AgtHCJ1f5TtLI%2BEVR7o4jA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer / Full\u2011Stack Data Developer (Databricks / Python)",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-full%E2%80%91stack-data-developer-databricks-python-at-qualcomm-4385939097?position=10&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=Mhi19TxxHfx1cCJZ88VGWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Denver, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386945605?position=11&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=4xA%2FKCzTWm%2FAf1NmS9JhrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Ramsey Solutions",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-ramsey-solutions-4417492579?position=12&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=34hxnu5vPGNZp0TTL%2FZihQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Analytics Engineer II",
+        "company": "Earnest",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-earnest-4408568065?position=14&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=RZzYumsxNvl%2F8MQOtUFVBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Data Engineer",
+        "company": "Ignite Digital",
+        "location": "Charleston, South Carolina Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-ignite-digital-4384089963?position=16&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=J7pK1ZG5zu4Rt54oYrORcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Supply Chain Data Engineer",
+        "company": "Banner Health",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/supply-chain-data-engineer-at-banner-health-4413687238?position=17&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=y6wG5p3L%2BkSa21qjiSfTcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
         "email_sent": true
     },
     {
         "title": "Data Engineer",
-        "company": "Polar Semiconductor",
-        "location": "Bloomington, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-polar-semiconductor-4417464752?position=2&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=Lwf3Ze%2BRD8qUmAyAooIcpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - Junior",
-        "company": "Anakim Consulting Incorporated",
-        "location": "Garretson, SD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-junior-at-anakim-consulting-incorporated-4417483169?position=3&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=56ThFq6ksLctxn9ZDJrMEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "AI Engineer \u2014 Workplace AI",
-        "company": "Vanguard",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%94-workplace-ai-at-vanguard-4415695614?position=4&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=k3SvaxnMyasM8O7M5h3PTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Platform Team)",
-        "company": "Sequoia Capital Global Equities",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-team-at-sequoia-capital-global-equities-4417484079?position=5&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=%2Bktj624Cfi6caBVcrBD8Pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer (Platform Team)",
-        "company": "Sequoia Capital Global Equities",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-team-at-sequoia-capital-global-equities-4417483150?position=6&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=GdhRpaagx69xHxWSH3yNyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "MemryX Inc.",
-        "location": "Ann Arbor, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-memryx-inc-4417468793?position=7&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=31Az8WXRzlG5XliKoqaIfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "C# Software Engineer | Remote",
-        "company": "Crossing Hurdles",
+        "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/c%23-software-engineer-remote-at-crossing-hurdles-4416381952?position=9&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=cx7%2Fi2MunR0avmtbcWSDJA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4417705452?position=19&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=%2FbXnGj8r459SzN9r90QvJg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist (Data Analytics Developer II)",
-        "company": "Fowler College of Business at San Diego State University",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-data-analytics-developer-ii-at-fowler-college-of-business-at-san-diego-state-university-4413655648?position=10&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=LYNW9qhyPt2AkJabN%2BCE8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer - C++",
-        "company": "Optiver",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-optiver-4413661681?position=11&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=o0S6DK7bcVJZSuJAfgNIgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "Encounter Data Management Professional",
-        "company": "Humana",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/encounter-data-management-professional-at-humana-4413657418?position=12&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=%2F64vOz67ySsbjyobsy14Jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
-        "email_sent": true
-    },
-    {
-        "title": "R&D Test Engineer",
-        "company": "Katalyst CRO",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/r-d-test-engineer-at-katalyst-cro-4417480509?position=13&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=T%2FeMjC8bOsykwFNZbSRzCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
+        "scraped_date": "2026-05-21 10:55:20",
         "email_sent": false
     },
     {
-        "title": "Statistical Scientist (Ph.D.)",
-        "company": "Exponent",
-        "location": "Bellevue, WA",
+        "title": "Analytics Engineer \u2014 Data Warehouse",
+        "company": "Together AI",
+        "location": "San Francisco, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/statistical-scientist-ph-d-at-exponent-4416397194?position=14&pageNum=0&refId=62tQ1vArQ8J2DXDk%2BJnuVQ%3D%3D&trackingId=vFe1%2BFYXo5P1yGeU1wDxGA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-%E2%80%94-data-warehouse-at-together-ai-4395930432?position=20&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=mNOzVpce9uXdW9SayUMGeQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-21 07:49:55",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "SeatGeek",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-seatgeek-4384775937?position=21&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=KNacUglYuzCScK3B6Yuzww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Las Vegas, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407039630?position=22&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=vtmxcUdIXVaPIC0HEEed7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407031780?position=23&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=Bo2HNI76pII3w37SYX4W0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Analytics Engineer, Business Intelligence",
+        "company": "NBCUniversal",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-analytics-engineer-business-intelligence-at-nbcuniversal-4408283907?position=24&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=wfUhOoGi1LkxaY4CjsJdzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Modeling Engineer - Onsite/Hybrid",
+        "company": "NTT DATA North America",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-modeling-engineer-onsite-hybrid-at-ntt-data-north-america-4408516776?position=25&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=MUEpXizgtAZ%2FAAQdGt4Dsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Developer I",
+        "company": "Spectrum",
+        "location": "Greenwood Village, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-developer-i-at-spectrum-4417494679?position=26&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=5VoU2dABtcUuOr72dsZzdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Director ETL and Data Engineering",
+        "company": "Church Pension Group",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/director-etl-and-data-engineering-at-church-pension-group-4376414744?position=27&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=Hu0gXcNwHod0uGJ99C3A7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-sundayy-4417492724?position=28&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=fchNfvOIee%2F1qkEg7sMp0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Operations Engineer",
+        "company": "Veritone",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-operations-engineer-at-veritone-4384488277?position=29&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=V6RMcrMqM7kInfJv0R%2B6Kw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Trench Group",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-trench-group-4397326866?position=31&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=Y%2FRaY6Hhnpld9PecjBthbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Architect II, III, IV",
+        "company": "University of Utah Health Research",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-architect-ii-iii-iv-at-university-of-utah-health-research-4417701393?position=33&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=J6lSYrPHBTuC5eUmVZG9ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Agentic Delivery Engineer",
+        "company": "Deloitte",
+        "location": "Greater Sacramento",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/agentic-delivery-engineer-at-deloitte-4408595482?position=36&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=R6lLPzalEoiMWqCpeZebrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Tools & Automation",
+        "company": "Zoox",
+        "location": "Foster City, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-tools-automation-at-zoox-4399820077?position=38&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=%2BRun6LytH1wWXwkpXulpoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Research Engineer",
+        "company": "Thomson Reuters",
+        "location": "Ann Arbor, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-engineer-at-thomson-reuters-4407319013?position=40&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=3nEr6b9AJzn2yFLbg0%2FhDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Research Engineer",
+        "company": "Thomson Reuters",
+        "location": "Eagan, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-engineer-at-thomson-reuters-4407327981?position=41&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=rL1%2FvqqjbJU8l26BEE75%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst - Data Engineering",
+        "company": "Medpace",
+        "location": "Cincinnati, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-data-engineering-at-medpace-4368261634?position=42&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=JcGDOrQdyOZ6W3KS49coHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Prediction Markets (Python)",
+        "company": "DRW",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-prediction-markets-python-at-drw-4386976314?position=43&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=T4I5pb8xi63Muw0qB%2Ft12g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Microsoft Power BI Developer",
+        "company": "SIRITECH SOLUTIONS CORP",
+        "location": "Tallahassee, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-power-bi-developer-at-siritech-solutions-corp-4417487711?position=44&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=S%2FHm%2FYB2lm5VVsPSicNmqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Technical Partnerships Engineer",
+        "company": "Clay",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/technical-partnerships-engineer-at-clay-4395481949?position=45&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=WARF6PZb6Htn%2BhU%2Bi8zTJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386950505?position=47&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=TSEoSJrl4o1Xr%2B%2B2BwGIvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Reston, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386954177?position=48&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=jt0Ks%2F0yRmXVzwstdCBCPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407039622?position=52&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=eVWEGn9ts8hXtzYhf0OdHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Sioux Falls, SD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407029814?position=53&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=Z54mZFqklg3IGi98mxXrlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Miami, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407028849?position=54&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=3v0hl44g8Dq3uQmlliZ1Sw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Richmond, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407050220?position=55&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=mMJ1PeCAP2U2dMgyMF1pVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "St Louis, MO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407034701?position=56&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=KUjnt2IJlyVFWSJ%2B8iuxcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Portland, OR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407034702?position=57&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=bHZxOCZQbDygYMnL%2FLPQUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Nashville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407031774?position=58&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=IpJ2FzW%2BVxJZX66CMXkSKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Baltimore, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407048398?position=59&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=PhnRpTXCpIMQQ3rBeOcitg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Analytics Engineer, Subledger Platform",
+        "company": "Affirm",
+        "location": "Minneapolis, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-subledger-platform-at-affirm-4407032723?position=60&pageNum=0&refId=BZQl5inZaOFSxPnSbS89nQ%3D%3D&trackingId=JW%2BbrY5JrbbLppzdrUZeaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II \u2013 Data Engineer",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-%E2%80%93-data-engineer-at-geico-4405358895?position=1&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=ShhajmH0kJcXOZHx7UbjrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Nscale",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=2&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=aK9v5yyETu4wH3C4ww4MZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AM Best",
+        "location": "Oldwick, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-am-best-4416516387?position=3&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=47itlVGI7UoMmQeZcaroiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-modmed-4407020795?position=4&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=GArxxapdCRIP3Zd4yrP%2BpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408571990?position=5&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=nNA%2FE29Nsb17w5sgpIZSaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-%24170k-%24220k-%2B-equity-at-stealth-mode-cloud-financial-data-platform-at-jack-jill-4405079460?position=6&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=Y3ILffY7a30RTgvflh9ykA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408581264?position=7&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=lT8l%2BKhkpad6lWGTVutZJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386953186?position=9&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=2uuZYgPbPGq%2BYMFjuZ2m%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer / Full\u2011Stack Data Developer (Databricks / Python)",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-full%E2%80%91stack-data-developer-databricks-python-at-qualcomm-4385939097?position=10&pageNum=2&refId=nvFr0%2BO8vo97z3mJq9CDMw%3D%3D&trackingId=qhwLlZdN9LBjB3V4tYjYDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II \u2013 Data Engineer",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-%E2%80%93-data-engineer-at-geico-4405358895?position=1&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=r%2BmplNNS%2F8HtGNpFUyr%2Bug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Nscale",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=2&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=MjQtGtzcOy2tHxrMiSJYnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AM Best",
+        "location": "Oldwick, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-am-best-4416516387?position=3&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=W97OSOKErbcEYPThuwavuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-modmed-4407020795?position=4&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=jn4R8H%2B%2Bw0EwOF1W2zYN0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408571990?position=5&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=3x22AgGR1OWTi7fCh3xIEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-%24170k-%24220k-%2B-equity-at-stealth-mode-cloud-financial-data-platform-at-jack-jill-4405079460?position=6&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=7yGmtICvHtDwAxuMPz4u9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408581264?position=7&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=roKFchj6ORykZw%2FTANInlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386953186?position=9&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=TJV8c5eTRMLokplMhRjvuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer / Full\u2011Stack Data Developer (Databricks / Python)",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-full%E2%80%91stack-data-developer-databricks-python-at-qualcomm-4385939097?position=10&pageNum=5&refId=fs7APhwkCBbPFsCM5NQvPw%3D%3D&trackingId=dakB7UG5R2JP%2BLqMXovcQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II \u2013 Data Engineer",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-%E2%80%93-data-engineer-at-geico-4405358895?position=1&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=MblhaANMae%2BAnpQJcLUffw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Nscale",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=2&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=tOAOmbwtBzd9%2BMUm3g3tAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AM Best",
+        "location": "Oldwick, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-am-best-4416516387?position=3&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=TT2NqcyTnpAGf2xQsTtfEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-modmed-4407020795?position=4&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=EB9AZ30pGWotiDPDt2M91g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408571990?position=5&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=94oJY4EXQSD09HgW0iOiqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-%24170k-%24220k-%2B-equity-at-stealth-mode-cloud-financial-data-platform-at-jack-jill-4405079460?position=6&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=8W8CQj9Hy13sp%2FPZUbyNqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408581264?position=7&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=sWQISgCr5L%2Fm%2FJrDSK3Vdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386953186?position=9&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=ei8IY%2BnCP6MguJmfGdk5pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer / Full\u2011Stack Data Developer (Databricks / Python)",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-full%E2%80%91stack-data-developer-databricks-python-at-qualcomm-4385939097?position=10&pageNum=7&refId=KCFscZ3Rep1sFz6R3NDuQA%3D%3D&trackingId=cxv%2F%2BBMRXS68rszO2PuJ6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": true
+    },
+    {
+        "title": "Engineer II \u2013 Data Engineer",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-%E2%80%93-data-engineer-at-geico-4405358895?position=1&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=4GjDen8KlSLADDt3uKvILA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Nscale",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=2&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=gRhasXyJKuen3o3w2x8CbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AM Best",
+        "location": "Oldwick, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-am-best-4416516387?position=3&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=g0mt3Va%2BMIMAMDq5PWTBEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-modmed-4407020795?position=4&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=z7%2BrE%2Bxclq%2FfpcOA2p419w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408571990?position=5&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=9i6kFRIFUSSP5Nyo%2BrLTWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Engineer ($170k-$220k + Equity) at Stealth-mode Cloud Financial Data Platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-%24170k-%24220k-%2B-equity-at-stealth-mode-cloud-financial-data-platform-at-jack-jill-4405079460?position=6&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=9sqvLUopJ1%2FvrkK6S%2FCdJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Data Engineer",
+        "company": "FloQast",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-data-engineer-at-floqast-4408581264?position=7&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=5hPMKdCWuBiQ783%2Fv6bdVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (AWS, Azure, GCP)",
+        "company": "CapTech",
+        "location": "Columbus, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-captech-4386953186?position=9&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=4%2FaG%2BPn%2B515PHcdsJg3gtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer / Full\u2011Stack Data Developer (Databricks / Python)",
+        "company": "Qualcomm",
+        "location": "San Diego, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-full%E2%80%91stack-data-developer-databricks-python-at-qualcomm-4385939097?position=10&pageNum=10&refId=hsyM9CE09e%2BeFYhooONtLw%3D%3D&trackingId=IVQKc%2FCKNWmLr6P7%2F20aJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-21 10:55:20",
         "email_sent": true
     }
 ]
