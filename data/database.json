@@ -1,202 +1,152 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "OneDigital",
-        "location": "Atlanta, GA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-onedigital-4411513471?position=1&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=8oRr86a%2B7tGXrQvqbgjn6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Flex",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-flex-4417511238?position=2&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=SXpqgMYySksYEyEXuez0pw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Software Engineer - onsite",
-        "company": "Eccalon, LLC",
-        "location": "Detroit, MI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-onsite-at-eccalon-llc-4417513151?position=3&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=yN1JZvlzyjVysdlOhpgdRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jobright-ai-4417517380?position=4&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=zxW%2B330RpE4hKenw2wDP%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Embedded I",
-        "company": "EVONA",
-        "location": "Folsom, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-embedded-i-at-evona-4372543268?position=5&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=8petz%2ByekJwalGPkQZXNbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
-    },
-    {
-        "title": "HR Data Analyst",
-        "company": "Texas Association of School Boards",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-texas-association-of-school-boards-4418441644?position=6&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=syJOfwx%2Bc4rEV3xDFrn3tw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
-    },
-    {
-        "title": "System Software Engineer - GPU",
-        "company": "NVIDIA",
-        "location": "Santa Clara, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-software-engineer-gpu-at-nvidia-4417508859?position=7&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=my0QMuJySLiEBJwQ%2Bv3tRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "swipejobs",
-        "location": "Bronx, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-swipejobs-4418459022?position=8&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=3lZ1wU2dO3ivqr0RFBHBpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "System Analysis Engineer",
-        "company": "Storage Solutions - A Jungheinrich Company",
-        "location": "Westfield, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-analysis-engineer-at-storage-solutions-a-jungheinrich-company-4417521021?position=9&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=%2Bhw6s23s%2Fg0xW6sdQufkYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Capacity & Workload Management",
-        "company": "GEICO",
-        "location": "Palo Alto, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-capacity-workload-management-at-geico-4417521443?position=10&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=ycpf1t8e%2Fvc0nPvkaOqWrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Entry - Focus Group Panelist (Part-Time)",
-        "company": "val's services",
-        "location": "Quad Cities Metropolitan Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-entry-focus-group-panelist-part-time-at-val-s-services-4418455130?position=11&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=N5YYi%2Fj78i1yY2OBrfgpzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Capacity & Workload Management",
-        "company": "GEICO",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-capacity-workload-management-at-geico-4417530358?position=12&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=3oIuTqrB%2B2VfXTLj26VV6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Capacity & Workload Management",
-        "company": "GEICO",
-        "location": "Bethesda, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-capacity-workload-management-at-geico-4417532320?position=13&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=nj1meTar7PZGIlKzfsCehQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Capacity & Workload Management",
-        "company": "GEICO",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-capacity-workload-management-at-geico-4417517471?position=14&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=LbZ53n7M%2F8%2FZNRDpHO9jdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (15-1252, Software Developers)",
-        "company": "OpusClip",
+        "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
+        "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
         "location": "Mountain View, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-15-1252-software-developers-at-opusclip-4418455528?position=15&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=7OS7jOr6SLnu2FLPAXhpaQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-user-understanding-entry-level-new-grad-at-unity-south-apac-sea-anz-ind-subcont-4414399559?position=1&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=VrKLC4iCPqio1l63OUqD0g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Systems Engineer Entry Level",
+        "company": "General Dynamics Mission Systems",
+        "location": "Manassas, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-entry-level-at-general-dynamics-mission-systems-4416186587?position=2&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=BU1CE1ZmI99IJ56regg8UA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": true
+    },
+    {
+        "title": "Algorithms Software Engineer",
+        "company": "Northrop Grumman",
+        "location": "Boulder, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/algorithms-software-engineer-at-northrop-grumman-4418481177?position=3&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=RCI4DMdow1ugmzaff7lNTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Algorithms Software Engineer - Level 2",
+        "company": "Northrop Grumman",
+        "location": "Boulder, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/algorithms-software-engineer-level-2-at-northrop-grumman-4418482156?position=4&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=NAWu2be3eTISGDSID%2B7lHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotation Specialist",
+        "company": "Bot Auto",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-annotation-specialist-at-bot-auto-4418469470?position=5&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=urpD27%2FokYu%2BiBm5%2Fne1tA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Level 2",
+        "company": "Northrop Grumman",
+        "location": "Aurora, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-northrop-grumman-4418477259?position=6&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=0i9hO5Z1nTv0DJdCTn%2FGeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Northrop Grumman",
+        "location": "Orlando, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-northrop-grumman-4418479179?position=7&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=PSwJ93uXVrNr7Ns%2FY4RPyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Sentinel - Radar Post Flight Analysis - Systems Engineer (T01/T02) - 18023",
+        "company": "Northrop Grumman",
+        "location": "Roy, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sentinel-radar-post-flight-analysis-systems-engineer-t01-t02-18023-at-northrop-grumman-4409852134?position=8&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=elyD92b7cRR%2Fwnc%2BgjQgxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Engineer - level 2",
+        "company": "Northrop Grumman",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-level-2-at-northrop-grumman-4418477265?position=9&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=GqRR0nuCnYKu4GxTFVHn%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Engineer - level 2",
+        "company": "Northrop Grumman",
+        "location": "Huntsville, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-level-2-at-northrop-grumman-4418476244?position=10&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=jMaC%2FY%2B2xvQ1Ck2c4z6exw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
         "email_sent": false
     },
     {
         "title": "Data Scientist",
-        "company": "Jobright.ai",
-        "location": "United States",
+        "company": "UCSF Health",
+        "location": "San Francisco, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobright-ai-4417512526?position=16&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=oJlsxI5do3RjzNyjmI3dew%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ucsf-health-4415570518?position=11&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=WfJHJrbtInhUmRSHqWfwOw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
+        "scraped_date": "2026-05-23 05:09:07",
         "email_sent": false
     },
     {
-        "title": "Engineer II",
-        "company": "ONE Gas",
-        "location": "Austin, TX",
+        "title": "Data Solutions & Insight Analyst, CHARITY PEOPLE",
+        "company": "Guardian Jobs",
+        "location": "Home, KS",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-ii-at-one-gas-4418449494?position=17&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=lTqYnn%2FMQm9ETktSC%2Fgt6g%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-solutions-insight-analyst-charity-people-at-guardian-jobs-4417551053?position=12&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=AgYq7rvnzoyBumV8e6hVYQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
+        "scraped_date": "2026-05-23 05:09:07",
         "email_sent": true
     },
     {
-        "title": "Staff Software Engineer (Hybrid)",
-        "company": "KnowBe4",
-        "location": "Clearwater, FL",
+        "title": "Journeyman Data Scientist",
+        "company": "MANTECH",
+        "location": "Ashburn, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-hybrid-at-knowbe4-4409985503?position=18&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=8L2q0kVRGV0peIeIWmxeLw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/journeyman-data-scientist-at-mantech-4414384544?position=13&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=FewzDhyOgf0zIBkC2VOHhg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
-    },
-    {
-        "title": "Production Engineer",
-        "company": "LHH",
-        "location": "Bourbonnais, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/production-engineer-at-lhh-4376785297?position=19&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=BourSMdrPOwcQ8NgIlc6VA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
+        "scraped_date": "2026-05-23 05:09:07",
         "email_sent": false
     },
     {
-        "title": "Program Analyst",
-        "company": "AIS (Applied Information Sciences)",
-        "location": "Alexandria, VA",
+        "title": "Sustainability Data and Operations Analyst (Level 2 or 3)",
+        "company": "Northrop Grumman",
+        "location": "Falls Church, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-ais-applied-information-sciences-4414674967?position=20&pageNum=0&refId=a8Pdwh%2Fc7qkeHWNmNmvElw%3D%3D&trackingId=Y0QDUPSPPP7afP6pdkmNhA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-data-and-operations-analyst-level-2-or-3-at-northrop-grumman-4418470393?position=14&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=MiMgNd0eUUaSkrN8StP1Jg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-23 01:29:43",
-        "email_sent": true
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Instrumentation & Control Engineer - Nuclear Power, Black & Veatch",
+        "company": "C3E",
+        "location": "Rockville, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-instrumentation-control-engineer-nuclear-power-black-veatch-at-c3e-4418478278?position=15&pageNum=0&refId=Il74%2FVnyBmhAf5DcwA7sCg%3D%3D&trackingId=NASvPaQOvhM0QduFXm8dIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-23 05:09:07",
+        "email_sent": false
     }
 ]
