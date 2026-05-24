@@ -1,292 +1,102 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "GRC SUMMIT",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-grc-summit-4414864759?position=1&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=356G463n%2BXOj3R9cLy2jJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst/ETL Developer (remote)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-etl-developer-remote-at-remotehunter-4417831575?position=2&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=D7eqXjoZAEZfVeQ71YBNzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (New York)",
-        "company": "Jobright.ai",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-york-at-jobright-ai-4417842228?position=3&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=FxxEs1wc9O7b5RPc9bklFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobright-ai-4417848223?position=4&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=J9tlbJvoKx%2FTVf4W3B6ANg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Chicago)",
-        "company": "Jobright.ai",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-chicago-at-jobright-ai-4417846241?position=5&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=cfZZ7EIoG8KjViEeDG20UQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Seattle)",
-        "company": "Jobright.ai",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-seattle-at-jobright-ai-4417835249?position=6&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=%2BDQrmzy8oKf924axdD5nDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-at-jobright-ai-4417837250?position=7&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=EXUkqAegLvGSEAjWd4uu5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Healthcare Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-remotehunter-4417830591?position=8&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=4cgo6F%2FrWKMDdrUeDelVvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4417847192?position=9&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=QnFum9NJO7t0EhOyfPpnLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4417845213?position=10&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=ebRbDo6urQdW27GiSF70Aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "J K Consultancy",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-j-k-consultancy-4417848234?position=11&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=VW%2F6eUSTP4faH4Cj%2BzPduA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobright-ai-4417831609?position=12&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=bmJkcCxQb8c%2FEdZxALGXXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobright-ai-4417841282?position=13&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=Y6xzYWQpy7GxzapZKEhiPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-remotehunter-4417828241?position=14&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=7qFYV91lIQCjZr65ucdh2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer - Infrastructure",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-infrastructure-at-remotehunter-4417838248?position=15&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=gZK1LXmYwOZcnH5WUvPEsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remotehunter-4417847212?position=16&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=YINvbjX7I8VKt18YNdobtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Annotator",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-jobright-ai-4417849221?position=17&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=H7WExqrbjiK6FZJrLQEiGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer",
+        "title": "Data Engineer",
         "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-sundayy-4418672095?position=18&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=OsU8HXRXpa7X3yu9f5HWSg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4418684002?position=2&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=Tem60oidTQE0Nbie4w2dVg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
+        "scraped_date": "2026-05-24 22:56:44",
         "email_sent": false
     },
     {
-        "title": "Software Engineer",
-        "company": "Jobright.ai",
+        "title": "Data Engineer, Sr.",
+        "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobright-ai-4417840264?position=19&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=756RI%2Fxk3u2pFVCxzZ1iuw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-sundayy-4418663982?position=3&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=m4Wcq8JIPGyd%2BtJFRY%2FOTQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
+        "scraped_date": "2026-05-24 22:56:44",
         "email_sent": false
     },
     {
-        "title": "Software Engineer II",
-        "company": "RemoteHunter",
+        "title": "Software Engineer (Python, SQL)",
+        "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-remotehunter-4417833240?position=20&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=GzAH5mcg%2BXr%2ByEuvoBr6mA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-sundayy-4418661996?position=4&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=smwkg7HUVSpqkxu1%2BfdAXg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
+        "scraped_date": "2026-05-24 22:56:44",
         "email_sent": false
     },
     {
-        "title": "Software Engineer",
-        "company": "Haystack",
-        "location": "Raleigh-Durham-Chapel Hill Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4417848181?position=21&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=VfukEMSwIgIS79NM7AOGcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "Ryboa Haima Well Engineering Academy",
-        "location": "Texas, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-ryboa-haima-well-engineering-academy-4418908106?position=22&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=TD1TjhIAjybfozrucPh9tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Governance Analyst",
-        "company": "SG2 Recruiting",
-        "location": "Maryland, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-sg2-recruiting-4414858868?position=23&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=qIBUkrL1QUaSWf3K32Nulw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": false
-    },
-    {
-        "title": "Epic Clarity Data Analyst",
-        "company": "RemoteHunter",
+        "title": "Data Analys",
+        "company": "Socket9",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/epic-clarity-data-analyst-at-remotehunter-4417841264?position=24&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=Wc0v4BQG7SLAdnSXQO4BMg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-socket9-4418695336?position=5&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=MZIeSMO0Rp1hj%2BHCwdq8Lg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
+        "scraped_date": "2026-05-24 22:56:44",
         "email_sent": false
     },
     {
-        "title": "Data Scientist II - AMZ9803565",
-        "company": "Amazon Science",
-        "location": "Culver City, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-amz9803565-at-amazon-science-4414862826?position=25&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=1H7BtTHCutFtHdIGB8dH9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
-    },
-    {
-        "title": "Business Analys",
-        "company": "MarketMingle PNG",
+        "title": "Software Engineer (API, SQL)",
+        "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-analys-at-marketmingle-png-4418695214?position=26&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=QAqGNkAo7ETNQNdLBeqB3w%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-sundayy-4418672098?position=11&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=qYjVLixks6GuyVm%2FHdd7oQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
+        "scraped_date": "2026-05-24 22:56:44",
         "email_sent": false
     },
     {
-        "title": "Research Analys",
-        "company": "PMA",
+        "title": "Data Analyst, Servicing",
+        "company": "Sundayy",
         "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analys-at-pma-4414871624?position=27&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=JNyRXr%2FPQ%2FckqX6NyaAGVw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-servicing-at-sundayy-4418677062?position=14&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=fiUICjgdJJB77pP6KdQVdg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
+        "scraped_date": "2026-05-24 22:56:44",
+        "email_sent": false
     },
     {
-        "title": "Electrical Engineer",
-        "company": "McClure Engineering",
-        "location": "St Louis, MO",
+        "title": "Software Engineer (Js/TypeScript)",
+        "company": "Sundayy",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-mcclure-engineering-4417837222?position=28&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=8cECqHCd8Dy1r3BXgwQcWw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-typescript-at-sundayy-4418667123?position=18&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=0Imnpixa9O3a2apriHvskA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
+        "scraped_date": "2026-05-24 22:56:44",
+        "email_sent": false
     },
     {
-        "title": "Wafer Process Shift Engineer (7am-7pm)",
-        "company": "AOI",
-        "location": "Sugar Land, TX",
+        "title": "Junior Analys",
+        "company": "Seguros C\u00f3ndor",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/wafer-process-shift-engineer-7am-7pm-at-aoi-4418910076?position=29&pageNum=0&refId=m3eQH2sNTycqGB6lVmepMA%3D%3D&trackingId=qXhriTaq0eN5olifVwVj%2Bw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-analys-at-seguros-c%C3%B3ndor-4417843281?position=19&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=Wnr8qbq3BipwXadL5sM2Rg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-24 21:54:59",
-        "email_sent": true
+        "scraped_date": "2026-05-24 22:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-at-sundayy-4418673080?position=20&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=rNwZHGJ%2BtUgJKzMJfXHIKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-24 22:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-sundayy-4418663981?position=23&pageNum=0&refId=FEusIJLTnMsmB5E1gPuquw%3D%3D&trackingId=V%2Fwpf15ojnT6ETS7QIC7Jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-24 22:56:44",
+        "email_sent": false
     }
 ]
