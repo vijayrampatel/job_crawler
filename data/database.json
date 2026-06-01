@@ -1,22 +1,332 @@
 [
     {
-        "title": "Data Architect",
-        "company": "iVoyant",
-        "location": "Louisiana, United States",
+        "title": "Junior AI Engineer",
+        "company": "Onto Innovation",
+        "location": "Wilmington, MA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-architect-at-ivoyant-4422829044?position=3&pageNum=0&refId=qyhfa5%2BIaaZ11RPb71fpbA%3D%3D&trackingId=YqWjiFe5evVwV%2BLvlOQ9hw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-onto-innovation-4310893067?position=1&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=G%2BnY2agSGPoD6uDtjZfRoQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-01 06:59:34",
+        "scraped_date": "2026-06-01 12:44:47",
         "email_sent": true
     },
     {
-        "title": "Database Administrator 1",
-        "company": "Commonwealth of Pennsylvania",
-        "location": "Dauphin County, PA",
+        "title": "Junior Full-Stack Software Engineer",
+        "company": "Kollabio, Inc.",
+        "location": "Brambleton, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-administrator-1-at-commonwealth-of-pennsylvania-4420692557?position=4&pageNum=0&refId=qyhfa5%2BIaaZ11RPb71fpbA%3D%3D&trackingId=kP%2BL%2FdxAxLUMDq51pN4Iog%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-full-stack-software-engineer-at-kollabio-inc-4421698968?position=2&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=xZHkwDnQ48jOCNgaXUj4OA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-01 06:59:34",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "AI Engineer - Infrastructure",
+        "company": "Aurora",
+        "location": "Berkeley, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-infrastructure-at-aurora-4421804790?position=3&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=1oOvvyhhrf%2BpC3Ic1%2BjvoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4422871355?position=4&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=ui6PBuTQwf7bjt%2FRQk6%2BKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Systems Software Engineer (Remote)",
+        "company": "CodeGeniusRecruit",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-remote-at-codegeniusrecruit-4412741557?position=5&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=P6TI8JC9djbNhifzPw%2FOFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4418738933?position=6&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=yUwYno1hK58nzCDbudsg%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Software Engineer (AWS, APIs) | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-aws-apis-remote-at-crossing-hurdles-4412742807?position=7&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=JZW5bEvigmZVvHLZ5SgTwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4422884323?position=8&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=WW8p81keyLnwXdWa95XsRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Full Stack AI + Data Engineer",
+        "company": "TechTorch",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-ai-%2B-data-engineer-at-techtorch-4418744822?position=9&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=CjIqGaf0FPE4VZftsF6zrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-remote-at-crossing-hurdles-4412749572?position=10&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=a3phrMz1eOPwgaHt91Oy3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Avast",
+        "company": "Gen",
+        "location": "Tempe, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-avast-at-gen-4401291509?position=11&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=CA2uz3xIp2NN7h0Z8M68jw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Front End Software Engineer",
+        "company": "JCW Group",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-jcw-group-4414028377?position=12&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=BinGKj6Hi3N69NmpC79kVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "Full-Stack Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-crossing-hurdles-4412753053?position=13&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=ralMZd4W0QA3MwaV1shYvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer \u2013 Banking Systems",
+        "company": "JCW Group",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-banking-systems-at-jcw-group-4408429985?position=14&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=4NohDnhogAAqNZzJTkwmPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise Software Engineer (Remote)",
+        "company": "CodeGeniusRecruit",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-software-engineer-remote-at-codegeniusrecruit-4412751242?position=15&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=0SpAkFJyrmtN1E4M%2BL1fhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Open 3D Engine | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-open-3d-engine-remote-at-crossing-hurdles-4422865912?position=16&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=xu67n6hT%2Be1lRDlUmlKRAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Open 3D Engine | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-open-3d-engine-remote-at-crossing-hurdles-4422861921?position=17&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=X72ooqW32vKd6E2pjZI11A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Open 3D Engine | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-open-3d-engine-remote-at-crossing-hurdles-4422853919?position=18&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=2jSt%2F7ojy9bADXiPcyEiJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Project Data Analyst (Entry / Junior Level)",
+        "company": "CUTR Transit Safety and Workforce Development",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/project-data-analyst-entry-junior-level-at-cutr-transit-safety-and-workforce-development-4422870350?position=19&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=%2BRdV2WsepVIAn2ActZnaOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": false
+    },
+    {
+        "title": "O3DE Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/o3de-software-engineer-remote-at-crossing-hurdles-4422866902?position=20&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=2uMr6VAFZjNzC2qGwfkHAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Cocos2d-x Software Engineer",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cocos2d-x-software-engineer-at-crossing-hurdles-4422874170?position=21&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=5Ahf5dmBuxNZ7UlAvkpjWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Total Rewards Data Analyst",
+        "company": "Micron Technology",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/total-rewards-data-analyst-at-micron-technology-4422882279?position=22&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=8n95Z4Qh3NBufql7R2WKSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "The Judge Group",
+        "location": "Columbus, Ohio Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-the-judge-group-4411889600?position=23&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=rRg05Gj9aiZgbnaQF4ccGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "C# Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c%23-software-engineer-remote-at-crossing-hurdles-4412732561?position=24&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=3nh3SfVQn4bH7BC8YswUFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "TalenTech Digital",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-talentech-digital-4420693274?position=25&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=hSWdK%2Bo6fA0ypzgWF65S8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Rust Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rust-software-engineer-remote-at-crossing-hurdles-4412721971?position=26&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=ozBbSq%2BBMDxJAwqsGQIJCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Micron Technology",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-micron-technology-4422879287?position=27&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=qTby2ssl%2B2Gy01YLMw9tRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "C Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-software-engineer-remote-at-crossing-hurdles-4412729756?position=32&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=58J3WX1FdLcIpS1adogXtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Security Software Engineer - Endpoint Security",
+        "company": "Anduril Industries",
+        "location": "Costa Mesa, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-endpoint-security-at-anduril-industries-4372900099?position=53&pageNum=0&refId=wSoF24UMltAFpXMfGWZDEw%3D%3D&trackingId=WZhjJI3jN1Iq9Caf%2FEIQxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Rust Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/rust-software-engineer-remote-at-crossing-hurdles-4412721971?position=1&pageNum=2&refId=FmoSnKxFIdsFWsCVgKj1Og%3D%3D&trackingId=nSkzyKNTUu95zydFKDpMmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Micron Technology",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-micron-technology-4422879287?position=2&pageNum=2&refId=FmoSnKxFIdsFWsCVgKj1Og%3D%3D&trackingId=Ilh7IVCqf31GNxdiqz6ZBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "C Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/c-software-engineer-remote-at-crossing-hurdles-4412729756?position=7&pageNum=2&refId=FmoSnKxFIdsFWsCVgKj1Og%3D%3D&trackingId=UaIcnPBfnXXHgKxl6tL0yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
+        "email_sent": true
+    },
+    {
+        "title": "Security Software Engineer - Endpoint Security",
+        "company": "Anduril Industries",
+        "location": "Costa Mesa, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-endpoint-security-at-anduril-industries-4372900099?position=3&pageNum=5&refId=X2VyUop9xmlvjCe4%2BpDozA%3D%3D&trackingId=s64fGBmJ6OCFOc9tR7r33w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-01 12:44:47",
         "email_sent": true
     }
 ]
