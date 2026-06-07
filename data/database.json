@@ -1,32 +1,122 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Peaple Talent",
-        "location": "United States",
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-peaple-talent-4425004412?position=1&pageNum=0&refId=dkQeJO2T7seclXkh24Q9Nw%3D%3D&trackingId=9hIV9Y%2BnYkR%2B2EA6dH47Ew%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4397168521?position=1&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=K9db9suvtchWkuWFE%2Bolww%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-07 06:38:43",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Software Engineer",
-        "company": "Jobgether",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-jobgether-4425008453?position=2&pageNum=0&refId=dkQeJO2T7seclXkh24Q9Nw%3D%3D&trackingId=ng0y509K4a6Yf8aPYynjBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-07 06:38:43",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Security Software Engineer",
-        "company": "WindBorne Systems",
-        "location": "Redwood City, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-security-software-engineer-at-windborne-systems-4425160610?position=3&pageNum=0&refId=dkQeJO2T7seclXkh24Q9Nw%3D%3D&trackingId=KisCeQUqLSLoKdb6oT%2B7LA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-07 06:38:43",
+        "scraped_date": "2026-06-07 09:49:25",
         "email_sent": true
+    },
+    {
+        "title": "Forward Deployed Software Engineer",
+        "company": "Flatiron Health",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-flatiron-health-4406817128?position=2&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=UDEzraksNlh1mDpHlM%2BoNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "Data and Analytics Consultant",
+        "company": "SEI",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-and-analytics-consultant-at-sei-4114860703?position=4&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=O1VpFP8m79zJ5BELyvaXhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "Java/ETL Developer - TS/SCI with Polygraph",
+        "company": "General Dynamics Information Technology",
+        "location": "Herndon, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/java-etl-developer-ts-sci-with-polygraph-at-general-dynamics-information-technology-4385319658?position=5&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=YLRj7whtgX9yLPSkk3axEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer - Operations Improvement",
+        "company": "Micron Technology",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-operations-improvement-at-micron-technology-4415187577?position=9&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=ZMH4P6CgGLVKdlQ80byE1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "ML Solution Architect",
+        "company": "Jobot",
+        "location": "Kissimmee, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ml-solution-architect-at-jobot-4421585653?position=10&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=FklABnDMANx64VjLq0h%2BMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Prediction Markets (Python)",
+        "company": "DRW",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-prediction-markets-python-at-drw-4385166575?position=11&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=17MJyPch1yGxV8mugeTMMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "ML Solution Architect",
+        "company": "Jobot",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ml-solution-architect-at-jobot-4421585656?position=12&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=05yzX07AjvJ4NXBLE0BA5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": false
+    },
+    {
+        "title": "Specialist, Global Facilities Operations Systems",
+        "company": "Micron Technology",
+        "location": "Boise, ID",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/specialist-global-facilities-operations-systems-at-micron-technology-4415175891?position=13&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=uIrMHopnVBOErJohfvxExQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "Legal Practice Technology Data Scientist",
+        "company": "Kirkland & Ellis",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/legal-practice-technology-data-scientist-at-kirkland-ellis-4406822263?position=15&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=u1gczCfz%2Bj%2B1lPBr%2BCQTRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "DTC/P AA & AI, Data Analyst",
+        "company": "Sanofi",
+        "location": "Morristown, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/dtc-p-aa-ai-data-analyst-at-sanofi-4415857569?position=16&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=Q4Q3H4M9qzlLbcb7ampvxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": true
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Jobot",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-jobot-4421592624?position=18&pageNum=0&refId=fTxG6ryemcL8BcyXbAZ3Ww%3D%3D&trackingId=U54cVt1kuFzyt5zrPIV%2BRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-07 09:49:25",
+        "email_sent": false
     }
 ]
