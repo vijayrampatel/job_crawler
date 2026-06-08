@@ -1,12 +1,202 @@
 [
     {
-        "title": "Growth Data Engineer",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
+        "title": "Software Engineer",
+        "company": "Bloomerang",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/growth-data-engineer-at-jobright-ai-4425069123?position=1&pageNum=0&refId=m7F%2FWwJoCj0K7dSElXQkmw%3D%3D&trackingId=g2GBru0wm5FlHd4%2BfV2DAw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bloomerang-4417457197?position=1&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=VQ3LaK8uoETC4LJpmd2JTQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-07 23:49:30",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Tech Consulting",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-tech-consulting-4425068309?position=2&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=dPlb09JZq7mFoXce%2FzMmAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": true
+    },
+    {
+        "title": "Hedge Fund Data Implementation/ Integration Analyst (SQL/ Python)",
+        "company": "NYLON Search - Recruitment and Executive Search",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/hedge-fund-data-implementation-integration-analyst-sql-python-at-nylon-search-recruitment-and-executive-search-4418843739?position=3&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=x%2B18lpJYFw3acZnARJRfYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - YAML Experience",
+        "company": "Alignerr",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-yaml-experience-at-alignerr-4425412987?position=4&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=oTzEN4%2BPak%2B5cC6iGoLEjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Ruby",
+        "company": "Alignerr",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ruby-at-alignerr-4425423676?position=5&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=eXY9KRBtq8jPbYgba8qnQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist at early-stage AI startup",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4425055030?position=6&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=TnTtlffBd3kYj76IjujYqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4425060266?position=7&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=6DduKSChXxpUDr77U9E5HQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Infrastructure Engineer (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-infrastructure-engineer-starlink-at-jobs-via-dice-4425068266?position=8&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=f%2BOaWLTZTUOwihmxqq2xyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4425434014?position=9&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=ZRd5qhorHLWwLqUXGDNpNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4425416888?position=10&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=Dh1v2W6ZjDw990vKw4%2FIBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4425427061?position=11&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=zVI%2BD33Ocxv1TdZcAQUkKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Masters)",
+        "company": "Alignerr",
+        "location": "Sheffield, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4425422924?position=12&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=xv1BYQuqRBtElqDqy4tKhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Security Software Engineer (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-starlink-at-jobs-via-dice-4425069263?position=13&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=OFBBGJwQdq2o0cwR8ZQO1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Population Health Informaticist",
+        "company": "Alignerr",
+        "location": "Austin, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/population-health-informaticist-at-alignerr-4425430039?position=14&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=4uVNzERRhJhrL65Dqus22Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Population Health Informaticist",
+        "company": "Alignerr",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/population-health-informaticist-at-alignerr-4425419957?position=15&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=TtIThvirQ8Lx1675YacCaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Firmware Engineer",
+        "company": "Jobs via Dice",
+        "location": "Lexington, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/firmware-engineer-at-jobs-via-dice-4425072112?position=16&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=EbTFE3%2FN%2Fg4GlSQPpLw0vQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Video Research Expert - Robotics",
+        "company": "Alignerr",
+        "location": "Boca Raton, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/video-research-expert-robotics-at-alignerr-4425425076?position=17&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=adSxeMoOuPpi%2BZOCDQ1WTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineering",
+        "company": "Alignerr",
+        "location": "Sheffield, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineering-at-alignerr-4425434018?position=18&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=CeUaTI9Pq5LBlQQx1xRRQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": false
+    },
+    {
+        "title": "Wafer Process Shift Engineer (7am-7pm)",
+        "company": "AOI",
+        "location": "Sugar Land, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/wafer-process-shift-engineer-7am-7pm-at-aoi-4418910076?position=19&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=aBLuJUudeHkrBhExKqkSWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Propulsion Simulation & Data Analysis",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-propulsion-simulation-data-analysis-at-jobs-via-dice-4425047896?position=20&pageNum=0&refId=3Ngd2gCrhVn1H6QI4y98NA%3D%3D&trackingId=wsz6zWFf4xfL9mbX4hOYOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-08 02:05:34",
         "email_sent": false
     }
 ]
