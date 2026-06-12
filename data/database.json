@@ -1,192 +1,802 @@
 [
     {
         "title": "Data Engineer",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
+        "company": "BLN24",
+        "location": "McLean, VA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-t-mobile-4426704887?position=1&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=AliyK5E36c4shz5E%2Fu5VLQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-bln24-4409363465?position=1&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=Ew1Zt3ZGDxb6MZooMoJ69Q%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "(USA) Staff, Data Engineer",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/usa-staff-data-engineer-at-walmart-4424857146?position=2&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=zQToJkNiVqTturqNkIodPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer IV",
-        "company": "Fred Hutch",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-iv-at-fred-hutch-4427919409?position=3&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=LteeWIfMVjQRe0KNWAdaFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer I - API",
-        "company": "BioSpace",
-        "location": "Clayton, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-api-at-biospace-4427146901?position=4&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=ae7QOqFNpUsNH%2BHxOK4zUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Cirrascale Cloud Services",
-        "location": "San Diego, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cirrascale-cloud-services-4427913286?position=6&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=TD1MQd5gOnqTFPKWo%2Bk6yQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Power BI Engineer",
-        "company": "Hussmann",
-        "location": "Bridgeton, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-power-bi-engineer-at-hussmann-4422218349?position=7&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=CZ46TPNbGGnD6rzNiFHjhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Application Developer \u2013 Data & Digital Solutions",
-        "company": "TC Energy",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/application-developer-%E2%80%93-data-digital-solutions-at-tc-energy-4424856313?position=8&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=1Q%2FlzE%2FQyII0zGf6rhpOkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Knowledge Engineer Specialist",
-        "company": "Accenture",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/knowledge-engineer-specialist-at-accenture-4426909309?position=9&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=AaWCSZRbckvZz1FQpzxE9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "(USA) Principal, Data Architect",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/usa-principal-data-architect-at-walmart-4424844233?position=10&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=ckuL4PxlqbV70ro7iaiyhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Developer",
-        "company": "FAMU National Alumni Association",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-developer-at-famu-national-alumni-association-4427924342?position=11&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=342IaIsxw6l97XP4%2BbwHbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
+        "scraped_date": "2026-06-12 09:11:30",
         "email_sent": true
     },
     {
         "title": "Data Analyst",
-        "company": "World Fuel",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-world-fuel-4426921134?position=12&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=Vy1NOx2PQdDWOdzxuCi84w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Principal Data Architect",
-        "company": "Haefele Software",
-        "location": "Indiana, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-haefele-software-4427924218?position=13&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=Dq6Y8JCy91EY%2BKdG50Hmyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Technical Program Manager (Data Engineering)",
-        "company": "Oracle",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-technical-program-manager-data-engineering-at-oracle-4424845348?position=14&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=PqgJOcDduWFoeFf43r5G6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Master Data Management Administrator",
-        "company": "M&T Bank",
-        "location": "Wilmington, DE",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/master-data-management-administrator-at-m-t-bank-4427646994?position=15&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=9dSNaPHGFxqjKCTl0fh9tg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": false
-    },
-    {
-        "title": "Security Data Science Specialist",
-        "company": "Metropolitan Transportation Authority",
+        "company": "Alpaca",
         "location": "New York, NY",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/security-data-science-specialist-at-metropolitan-transportation-authority-4426918235?position=18&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=sLHTT4WyDl1av%2FvbpiSoNw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-alpaca-4427925437?position=2&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=P5Sl%2FwzSVTxST6mcuWqcew%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Principal Technical Program Manager (Data/ BI)",
-        "company": "Oracle",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-technical-program-manager-data-bi-at-oracle-4424839394?position=19&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=jEZ2PprbTbvXNc3%2FXMX42A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
-        "email_sent": true
-    },
-    {
-        "title": "Azure Platform Engineer",
-        "company": "BioSpace",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/azure-platform-engineer-at-biospace-4427144985?position=20&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=2uafPzDy3hmZO0QxTg%2BxUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
+        "scraped_date": "2026-06-12 09:11:30",
         "email_sent": false
     },
     {
-        "title": "Supply Chain Systems Analyst",
-        "company": "Hitachi Energy",
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418064125?position=3&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=AVHqycEJt0eSPD0VXhevlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Washington, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418064126?position=4&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=9hvHsVk8w8QyHasMFJ5joQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418051524?position=5&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=sPd0Cx7qUM7CRxPXBwg28g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Illinois, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418060167?position=6&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=3WWDF47bRHxA9i2yvSue1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Massachusetts, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418050709?position=7&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=3nmP8TKXta7VaBzrQn2MMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Arizona, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418048781?position=8&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=oyzLNP%2BRlSWR2PhPPNd4Zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
         "location": "North Carolina, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/supply-chain-systems-analyst-at-hitachi-energy-4427908248?position=21&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=N0MDwNLrNkjBszZfIjgJqA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418054310?position=9&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=9Bza%2B%2BCt0EPOGqMnFAfXmg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
+        "scraped_date": "2026-06-12 09:11:30",
         "email_sent": true
     },
     {
-        "title": "Data Scientist III",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Washington, DC",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-walmart-4424842270?position=22&pageNum=0&refId=4KtO%2Bci%2FBS6vPlg9Xje76A%3D%3D&trackingId=3%2B1%2FN8IhBKjKnH4nqh7kkw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418051525?position=10&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=m07%2BWDwUxpDwETQnmC23qw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-12 05:10:16",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Tennessee, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418057187?position=11&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=VdU%2BfB8MCqOBJV0tS6qaXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "South Carolina, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418068006?position=12&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=fi8EQ39MSmBO7SUn7T3kcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Kansas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418051509?position=13&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=TCpmPu%2FOb7rrHDYL4RyF%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Connecticut, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418059190?position=14&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=EatCAhY3UMMmZ7pXbEJ1%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Indiana, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418067040?position=15&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=zoAjtcP7psHloEhKuBJusQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Oregon, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418067041?position=16&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=mVDEvbqBi62w1%2F1Nvw5Vdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Idaho, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418059183?position=17&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=1hr2om40Aa3GnfHreoT7vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Oklahoma, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418047915?position=18&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=uUPrQvl0u9f%2FqhQN5eTMvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Florida, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418044928?position=19&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=cTrFfFQBKjrLfW4BK09Xlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Alabama, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418064130?position=20&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=KdewJJtMjiLumA9ChMeleA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Minnesota, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418065097?position=21&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=gc%2BRBtuj3AlILavyyN9d1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Michigan, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418067042?position=22&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=ymRSt62ZNlMa32UzPEbzAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418055307?position=23&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=vhtQAlfpCOtd75LT5ztfrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Relativity",
+        "location": "Kentucky, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relativity-4418060163?position=24&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=Gd74I6L%2F%2FUSxdoD3u%2FEZZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Software Engineer - Engineering Tools",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-engineering-tools-at-jobgether-4426950119?position=25&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=TPn1rCd%2FRxwUhswiiuGcVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
         "email_sent": false
+    },
+    {
+        "title": "Backend Engineer, Data",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-data-at-sundayy-4427506694?position=26&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=OdFduzgtX9jphgV%2FnVyiqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935209?position=27&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=TFbv%2F2DNk03dOQmNXBQA%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "San Diego County, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427948105?position=28&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=Xixj1u2BuvQ0wBSTHcMx2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Staff",
+        "company": "Lockheed Martin",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-staff-at-lockheed-martin-4417745634?position=29&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=B7OuwvFrvbsSFmjDJ8l6Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Reno, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427942277?position=30&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=P2c6QwVHrdfLRXXjybj3ag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "AI Data Scientist-Furman lab",
+        "company": "Buck Institute for Research on Aging",
+        "location": "Novato, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-furman-lab-at-buck-institute-for-research-on-aging-4427938237?position=31&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=XxeqihJVs2OU0w%2BFpySXng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427932314?position=32&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=WS6XOdWtlyHl%2BDraGh1FYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427948197?position=33&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=cqmi%2FZuoD6eJwjGgXgFyTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Greater Colorado Springs Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427931536?position=34&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=9G4OlYulCt73rgTSm8uszw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Orange County, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427937300?position=35&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=kEC0IEOF%2FInIP2mo7RnnLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Phoenix, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427943316?position=36&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=n4c8JD8h4G9Oc4trfq4yuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "New London County, CT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427927459?position=37&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=H31uH0%2BEqthQoxsKp7xQRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Nassau County, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935453?position=38&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=fmg3Xtv1lD3ENbRcbs9Pzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Greater Idaho Falls",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427942325?position=39&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=yUD11HfY4mYlLM7mhvLQaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Tulsa County, OK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427937328?position=40&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=FuLVWXobisO4LhyWxvy0tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Wichita, Kansas Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427931445?position=41&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=%2FrxOax0%2FRTN5b1Kv0mxCpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "San Diego Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4426947025?position=42&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=w5AXcaxFkg%2BDazcnISdI0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Macomb County, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427943307?position=43&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=i0QbEFXldBgcYs%2B8X%2FS1KA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Raleigh, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427938350?position=44&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=1j80FA6fN033AgTTVfq3qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Knoxville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427930622?position=45&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=k%2FKjhPvdMb8BCLd2sXgE8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Boone County, KY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427928466?position=46&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=D5QO3ozywTd2wwzOT6P9cg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427930417?position=47&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=TDwWPTd3pv8gBoY59TmAxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Philadelphia County, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427943247?position=48&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=4%2FShPq%2FevDTQTj9Lz0VuYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Fayetteville, AR",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427943332?position=49&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=LuYyePqsqak9rCwaJvbLQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Strafford County, NH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427936383?position=50&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=gh1zQssvJFjRrV566u64JA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935301?position=51&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=XnOYcquqUEg4oMrFmu5TVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Bergen County, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427944279?position=52&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=5q890neK2LlKKgTlOyyb9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Bismarck, ND",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427940414?position=53&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=0cE19uiws2z72s857mz6rg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Lake County, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427931467?position=54&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=3Pb306Psdmz4R06kcD9sfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Birmingham, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427938260?position=55&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=OhC%2FIr4l%2BD6L9rD7oq%2F8jA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Jackson, MS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427925451?position=56&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=rMQwx3G3AjoJ43Xp2L099A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Fulton County, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935445?position=57&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=yFmj5ljLUqv4RmnVPK7Rjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Business Analyst - Salesforce & BI",
+        "company": "Pinnacle Method Consulting",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-salesforce-bi-at-pinnacle-method-consulting-4426912923?position=58&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=s2U9odlWS5kiG%2FhcqcuapQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "company": "ACE Partners",
+        "location": "Exton, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-ace-partners-4427947280?position=59&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=NyJwqcC%2FY%2BAuplhkFQUBRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Associate - Global Transaction Analytics",
+        "company": "Alvarez & Marsal",
+        "location": "Greenwood Village, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-global-transaction-analytics-at-alvarez-marsal-4328171794?position=60&pageNum=0&refId=odqW%2FNEs0%2FL%2FJbw4PAA9OQ%3D%3D&trackingId=sEQVBdfcsPFIFZdogyk4yA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Engineer, Data",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-data-at-sundayy-4427506694?position=1&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=OuheQIY2zfnauOgE%2FJ0A0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935209?position=2&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=76cocpszqzC2TNVOhkAETQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "San Diego County, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427948105?position=3&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=JE9LXXDu%2BklA01I8SSrnlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer Staff",
+        "company": "Lockheed Martin",
+        "location": "Sunnyvale, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-staff-at-lockheed-martin-4417745634?position=4&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=bESJfCgJ9ss278IU6O2cHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Reno, NV",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427942277?position=5&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=k6bweqn6nGgmBdKpKPVN6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "AI Data Scientist-Furman lab",
+        "company": "Buck Institute for Research on Aging",
+        "location": "Novato, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-furman-lab-at-buck-institute-for-research-on-aging-4427938237?position=6&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=96GFnk84A56R0h9yR3Kdyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427932314?position=7&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=mgUp0rtQW0phGTD3PnI7XA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427948197?position=8&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=sbLSB5%2BJkGejduHzL5TeNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Greater Colorado Springs Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427931536?position=9&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=odQRjn%2FpDyLW9ytEcFn2AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Orange County, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427937300?position=10&pageNum=2&refId=XY4UyjSeCpih%2Bn%2F2cJEaKA%3D%3D&trackingId=bc2H9NAMP5Fg%2BIH6DJvSbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935301?position=1&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=GBhl9x2H653XAwRoYoGVJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Bergen County, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427944279?position=2&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=15gV%2FkTmAl0CCiBSzJMWwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Bismarck, ND",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427940414?position=3&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=tE%2F%2F2Wz1F1MVMGQ9fU0dng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Lake County, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427931467?position=4&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=a5S%2F6Ocsch9uzgAw9esxMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Birmingham, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427938260?position=5&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=nioiQWaXWj7skPNT%2FTZOzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Jackson, MS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427925451?position=6&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=7vo8NNsPeumz78MB4TkcZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "CoreWeave",
+        "location": "Fulton County, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-coreweave-4427935445?position=7&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=5dqdc7yUULYDcaPL0avjCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Business Analyst - Salesforce & BI",
+        "company": "Pinnacle Method Consulting",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-salesforce-bi-at-pinnacle-method-consulting-4426912923?position=8&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=8UOZWqzzlEqFZ93rhq92sg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "company": "ACE Partners",
+        "location": "Exton, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-ace-partners-4427947280?position=9&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=FP%2B6e6wEU3XnF92hgpVcIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
+    },
+    {
+        "title": "Associate - Global Transaction Analytics",
+        "company": "Alvarez & Marsal",
+        "location": "Greenwood Village, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/associate-global-transaction-analytics-at-alvarez-marsal-4328171794?position=10&pageNum=5&refId=ep1fHdJ3b5zMVXfl2Zxz5A%3D%3D&trackingId=6SamTrkAgyQlNIn%2B2d7DDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-12 09:11:30",
+        "email_sent": true
     }
 ]
