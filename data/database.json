@@ -1,32 +1,82 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Peaple Talent",
-        "location": "United States",
+        "title": "Data Engineer II",
+        "company": "Chewy",
+        "location": "Boston, MA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-peaple-talent-4427419318?position=1&pageNum=0&refId=idMQRXPGOWILmODGE6OwAQ%3D%3D&trackingId=cM1fiojkUAuOMRwyibSKlQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-chewy-4428399900?position=1&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=Ehg4SfVld88RY8%2FBGzUlqw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-14 06:20:04",
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4330361169?position=2&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=pZPrxS3kchxSTpJx3NN7cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobot",
+        "location": "Mansfield, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobot-4425737256?position=4&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=DBVwDtN65zY%2FWFrj6IHKug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-14 10:00:04",
         "email_sent": false
     },
     {
-        "title": "Machine Learning Engineer, User Understanding (Entry-Level / New Grad)",
-        "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-        "location": "Mountain View, CA",
+        "title": "Platform Engineering Consultant - Cloud and Database Services",
+        "company": "AMETEK",
+        "location": "Berwyn, PA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-user-understanding-entry-level-new-grad-at-unity-south-apac-sea-anz-ind-subcont-4425728073?position=2&pageNum=0&refId=idMQRXPGOWILmODGE6OwAQ%3D%3D&trackingId=nAEgJ7rLvO9QDqR2MpTUrA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineering-consultant-cloud-and-database-services-at-ametek-4388187665?position=5&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=6mRZxxERbG7on3e%2Bb1o19A%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-14 06:20:04",
-        "email_sent": false
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
     },
     {
-        "title": "Danish Data Annotator",
-        "company": "RemoteHunter",
-        "location": "United States",
+        "title": "Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Pittsfield, MA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/danish-data-annotator-at-remotehunter-4427425227?position=4&pageNum=0&refId=idMQRXPGOWILmODGE6OwAQ%3D%3D&trackingId=45QKP7G0xaMcg0of8lgGuA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-general-dynamics-mission-systems-4374322841?position=6&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=P6m8vx83vcDril1xgpfYoA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-14 06:20:04",
-        "email_sent": false
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
+    },
+    {
+        "title": "Avionics Software Engineer II",
+        "company": "ENSCO, Inc.",
+        "location": "Endicott, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/avionics-software-engineer-ii-at-ensco-inc-4385783148?position=8&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=IffDYHvoEEW%2Fem66Vapf5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Waystar",
+        "location": "Lehi, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-waystar-4369430569?position=9&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=%2B%2BiOp%2FmA%2FarJK89Ng7%2BJbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
+    },
+    {
+        "title": "M/E Engineer 2, Mechanical",
+        "company": "JE Dunn Construction",
+        "location": "Council Bluffs, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-2-mechanical-at-je-dunn-construction-4397633040?position=10&pageNum=0&refId=OsEogdl0%2FkuZebYYxgsVAg%3D%3D&trackingId=leBuUWaAfUmG6gIFCZa3Ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-14 10:00:04",
+        "email_sent": true
     }
 ]
