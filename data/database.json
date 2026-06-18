@@ -1,392 +1,142 @@
 [
     {
-        "title": "Software Engineer, Cloud Platform",
-        "company": "Taco Bell",
-        "location": "Irvine, CA",
+        "title": "Data Engineer",
+        "company": "Supio",
+        "location": "San Francisco, CA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-platform-at-taco-bell-4427395695?position=1&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=qQp%2F0T7P2Vg%2FPnkzHCKZiw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-supio-4430194374?position=1&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=DGrEZjwZr1RMiqNxbSeeCQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "WesTech Engineering",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-westech-engineering-4427818550?position=2&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=fiB6eotgBotV%2FNRtX1oZWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
         "email_sent": true
     },
     {
-        "title": "Data Analyst (Entry-Level / Junior)",
-        "company": "Pixel Peak Digital Services",
+        "title": "AI Engineer",
+        "company": "Palmer Holland",
+        "location": "Westlake, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-palmer-holland-4430184556?position=4&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=a18KQwRWV3%2Baway6H6FldA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Palmer Holland",
+        "location": "Westlake, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-palmer-holland-4430190479?position=7&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=XgnkJd7Fr%2FT1udeTJRH6kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Latency Engineer",
+        "company": "Hudson River Trading",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-latency-engineer-at-hudson-river-trading-4429001460?position=8&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=huYIRsqKZybr3m6uzRbAFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
+    },
+    {
+        "title": "Database Engineer",
+        "company": "Parsons Corporation",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-parsons-corporation-4421869322?position=9&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=6EpbfRmPfWOGyyvG6uvLYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
+    },
+    {
+        "title": "Forward Deployed Engineer (Rust)",
+        "company": "Spice AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-rust-at-spice-ai-4427826395?position=10&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=6aokl%2BNf9hxe%2BDeUk1e56Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
+    },
+    {
+        "title": "Data Analytics & BI with Tableau",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-bi-with-tableau-at-tata-consultancy-services-4428792473?position=11&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=OW5r7m%2BVFWdbSIHrvE37Cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
+    },
+    {
+        "title": "Junior Quantitative Latency Engineer",
+        "company": "Hudson River Trading",
         "location": "Chicago, IL",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-junior-at-pixel-peak-digital-services-4430161213?position=2&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=hnQNwO87vJP3D9NIqj93hA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-quantitative-latency-engineer-at-hudson-river-trading-4429004435?position=12&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=1%2FjVcgMg3GeM1j4%2Fx%2BG2bQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "KellyOCG",
-        "location": "Plano, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kellyocg-4430141870?position=3&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=OeM6pWRxY8TuucdnQV2DtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Platform ($200k-$250k + Equity) at Duckbill",
-        "company": "Jack & Jill",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-%24200k-%24250k-%2B-equity-at-duckbill-at-jack-jill-4428789285?position=4&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=hlpql85jJrNz%2BG5BnpJK6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Sacramento Steps Forward",
-        "location": "Sacramento, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sacramento-steps-forward-4428765550?position=5&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=jrK9Z%2BenPChLMt9YgvWPYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Virality and Activation",
-        "company": "Otter.ai",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-virality-and-activation-at-otter-ai-4430162287?position=6&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=rdwyHjRE5TXi4DnMTaowGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Entry Analyst",
-        "company": "Young African Research Network",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-entry-analyst-at-young-african-research-network-4427814441?position=7&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=9Gz134XCuj2JEfBVlHgcIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
+        "scraped_date": "2026-06-18 06:27:13",
         "email_sent": true
     },
     {
-        "title": "Software Engineer, iOS/Mobile ($135K \u2013 $260K + Equity) at Beacon AI Inc.",
-        "company": "Jack & Jill",
-        "location": "San Carlos, CA",
+        "title": "Environmental Data Management Specialist III - EQuIS",
+        "company": "Jacobs",
+        "location": "North Slope Borough County, AK",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-mobile-%24135k-%E2%80%93-%24260k-%2B-equity-at-beacon-ai-inc-at-jack-jill-4428765828?position=8&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=v7pg1cdSD51aFkMbS6bqYg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/environmental-data-management-specialist-iii-equis-at-jacobs-4430191368?position=13&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=LgIu1LNrFOz0idrmtIEsQg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst (Manufacturing)",
-        "company": "Elbit Systems of America",
-        "location": "Roanoke, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-manufacturing-at-elbit-systems-of-america-4430168406?position=9&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=IqR1y0ESVRz5RnFO4qz2PQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
+        "scraped_date": "2026-06-18 06:27:13",
         "email_sent": true
     },
     {
-        "title": "Software Engineer at fast-growing Series A healthtech startup",
-        "company": "Jack & Jill",
-        "location": "San Francisco, CA",
+        "title": "Environmental Data Management Specialist III - EQuIS",
+        "company": "Jacobs",
+        "location": "Anchorage, AK",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fast-growing-series-a-healthtech-startup-at-jack-jill-4428770577?position=10&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=uQhnEsMy%2BtPr0ZnQWe0YMg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/environmental-data-management-specialist-iii-equis-at-jacobs-4430404208?position=15&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=e0gM8py9fRBppGopUnkGMQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
     },
     {
-        "title": "Software Engineer at Den",
-        "company": "Jack & Jill",
-        "location": "New York, United States",
+        "title": "Sr. Business Intelligence Analyst",
+        "company": "Henry Ford Health",
+        "location": "Detroit, MI",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-den-at-jack-jill-4428775485?position=11&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=9Fb0VWa2dEyhcMSidBdwiQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/sr-business-intelligence-analyst-at-henry-ford-health-4430401243?position=17&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=c5d3%2FIkl8jTbP5hwwOTDrA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
     },
     {
-        "title": "Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana",
-        "company": "Jack & Jill",
+        "title": "Environmental Data Management Specialist III - EQuIS",
+        "company": "Jacobs",
+        "location": "Fairbanks, AK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/environmental-data-management-specialist-iii-equis-at-jacobs-4430195318?position=19&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=IEpl%2F41CdOVe%2B%2B0iDUD7FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-18 06:27:13",
+        "email_sent": true
+    },
+    {
+        "title": "Risk Engineer",
+        "company": "Hudson River Trading",
         "location": "New York, NY",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-%24120k-%24150k-%2B-equity-at-arzana-at-jack-jill-4428783485?position=12&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=zxHBnT8Tl3Qy1kShM1BpWA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/risk-engineer-at-hudson-river-trading-4429008384?position=20&pageNum=0&refId=ARUrC319i4GGmgzVMqmkmg%3D%3D&trackingId=d3AIsEQ3eRWnA4QQYV6TSA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I - Radiology",
-        "company": "Medical College of Wisconsin",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-radiology-at-medical-college-of-wisconsin-4430180246?position=13&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=JRrk4VOUETQmZFG4j%2FcBtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Operations Data Analyst (Entry Level)",
-        "company": "Elbit Systems of America",
-        "location": "Roanoke, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-entry-level-at-elbit-systems-of-america-4430173351?position=14&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=QY9ed16oL01dWunxigtjHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Infrastructure Project Controls Systems Engineer",
-        "company": "Tesla",
-        "location": "Sparks, NV",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/infrastructure-project-controls-systems-engineer-at-tesla-4430179303?position=15&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=qeW8FSN2SnY0yqMljq43rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Network Performance & Reliability",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-network-performance-reliability-at-cloudflare-4427397634?position=16&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=sKNQEJPASIEtRRLSAdwDSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer -Weapon System Integration (T01)",
-        "company": "V2X Inc",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-weapon-system-integration-t01-at-v2x-inc-4430167014?position=17&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=Qln1oHGG8bESa6cmfrwxSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Engineer at well-funded industrial AI startup",
-        "company": "Jack & Jill",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-well-funded-industrial-ai-startup-at-jack-jill-4428780438?position=18&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=pbkXxqhTk8mo4OMzg6KU%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer 3 (contract)",
-        "company": "Boeing",
-        "location": "Oklahoma City, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-3-contract-at-boeing-4430172322?position=19&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=07K2WOzz1He%2BYAyTzCRpeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Provider Data Analyst - 26-54",
-        "company": "Hill Physicians Medical Group",
-        "location": "San Ramon, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/provider-data-analyst-26-54-at-hill-physicians-medical-group-4428774571?position=20&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=4Hxo214gLC7qTNAplb9IOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Forward Deployed Engineer at CommodityAI",
-        "company": "Jack & Jill",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-commodityai-at-jack-jill-4428779474?position=21&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=dlAtDZsNYpz9u%2BDaU4el3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (Masters)",
-        "company": "Alignerr",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-masters-at-alignerr-4430169273?position=22&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=UtKER90ZNzRPInz3ETGu8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer - EIT",
-        "company": "Williams County",
-        "location": "Williston, ND",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-eit-at-williams-county-4430163513?position=23&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=EV1BIKJJ9zAmxV5%2F4EN4sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer II (Vehicle Solutions)",
-        "company": "GRAYHILL",
-        "location": "La Grange, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-vehicle-solutions-at-grayhill-4428775440?position=24&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=oNrD7thfgztJ7cy23HvaoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Data QA Reviewer",
-        "company": "Alignerr",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/clinical-data-qa-reviewer-at-alignerr-4430181142?position=25&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=FjFXZpEtZo0%2BkUOMMPBIOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Design Engineer - Dynamic Traffic",
-        "company": "Dynamic Engineering Consultants, PC",
-        "location": "Belmar, NJ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/design-engineer-dynamic-traffic-at-dynamic-engineering-consultants-pc-4428770675?position=26&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=Ib6jjzQ8a%2BJAYZ4DxQWrLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. Analyst Pricing Optimization - Old Navy",
-        "company": "Gap Inc.",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-pricing-optimization-old-navy-at-gap-inc-4429941117?position=27&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=oCKu5hkNDx%2FI3OLA6n6xig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Research Analyst, Sanctions Monitoring",
-        "company": "Kharon",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-sanctions-monitoring-at-kharon-4388213475?position=28&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=A8qHfQaaCLEgik3i9rSwHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Estimating Coordinator",
-        "company": "AtkinsR\u00e9alis",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/estimating-coordinator-at-atkinsr%C3%A9alis-4427616203?position=29&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=Ssyy0CojB4RjSdP%2BxK22NA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Assistant Research Manager",
-        "company": "Zonda",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/assistant-research-manager-at-zonda-4427398614?position=30&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=R%2FHQ3Y9VGbOUNZeOAZg8pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Process Engineer 2",
-        "company": "Garmin",
-        "location": "Olathe, KS",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/process-engineer-2-at-garmin-4387447962?position=31&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=JEu9CN6F75KRVZqMKR2tSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Video Research Expert - Robotics",
-        "company": "Alignerr",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/video-research-expert-robotics-at-alignerr-4430173271?position=32&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=IvEfbO2PDIvHEHlkgQHt%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Video Research Analyst",
-        "company": "Alignerr",
-        "location": "Boca Raton, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/video-research-analyst-at-alignerr-4430168317?position=33&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=qlLLVINTutnuYDqXneR9PA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Video Research Analyst",
-        "company": "Alignerr",
-        "location": "West Palm Beach, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/video-research-analyst-at-alignerr-4430176223?position=34&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=PEWkesj29xqjjNW4szM5Sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Video Research Analyst",
-        "company": "Alignerr",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/video-research-analyst-at-alignerr-4430168313?position=35&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=vrwo6J9AWXumTgwJ0mGENg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "State of Indiana",
-        "location": "Indianapolis, IN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-state-of-indiana-4430165365?position=36&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=k31W%2B9Wbeucnq5UCr5zzQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Associate Operations Analyst",
-        "company": "United Network for Organ Sharing (UNOS)",
-        "location": "Richmond, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/associate-operations-analyst-at-united-network-for-organ-sharing-unos-4428779097?position=37&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=MFsNbSwGsiA59NHSBg44pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": false
-    },
-    {
-        "title": "Construction Schedule Analyst",
-        "company": "Clark Construction Group",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/construction-schedule-analyst-at-clark-construction-group-4430166096?position=39&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=AcqhCBKYh22TADFBoBJBjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer Intern (Hybrid)",
-        "company": "KnowBe4",
-        "location": "Clearwater, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-hybrid-at-knowbe4-4428777303?position=40&pageNum=0&refId=rpt87JmWIwX4AGtSMwr8WQ%3D%3D&trackingId=GH56AWk%2ByYrHMm3oBN2Cig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-18 01:40:42",
+        "scraped_date": "2026-06-18 06:27:13",
         "email_sent": true
     }
 ]
