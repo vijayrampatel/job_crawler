@@ -1,382 +1,102 @@
 [
     {
-        "title": "Data Engineer - Data Science & Technology",
-        "company": "Castleton Commodities International",
+        "title": "Azure Data Engineer",
+        "company": "Lavance LLC",
+        "location": "New York, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-lavance-llc-4436905086?position=1&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=TpmVn2RSyJiIgi4GlKU9hQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer 2 (Full time) - Special Projects Department",
+        "company": "The Church of Jesus Christ of Latter-day Saints",
+        "location": "Salt Lake City, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineer-2-full-time-special-projects-department-at-the-church-of-jesus-christ-of-latter-day-saints-4435490143?position=2&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=1gqlMegMzQkqvFTs8NJRng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Analyst / Junior Developer",
+        "company": "UST",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/analyst-junior-developer-at-ust-4433711432?position=5&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=wt10gPlMjPvUQBrMF63ntQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Specialist",
+        "company": "Minnesota Rural Electric Association",
+        "location": "Fargo, ND",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-minnesota-rural-electric-association-4436908003?position=6&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=%2BDt0VuHnjMqvYC1LQkzk%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "UW School of Medicine and Public Health",
+        "location": "Madison, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-uw-school-of-medicine-and-public-health-4436902217?position=8&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=Q7CEl1yZbIVa%2FkNTRXTk7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Python Software Engineer - HR Technology",
+        "company": "Gartner",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-hr-technology-at-gartner-4435479527?position=9&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=%2BYnu78vVzSNATsYD4Aw10g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": true
+    },
+    {
+        "title": "Data Architect",
+        "company": "Avanciers Inc.",
+        "location": "Lake Forest, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-architect-at-avanciers-inc-4430735093?position=10&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=QeeoJnBX%2Fy9pE7eOWt9j3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Beacon Bank",
+        "location": "Pittsfield, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-beacon-bank-4435477668?position=11&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=PdPnh%2F6ytTJ0HaMr7Nxy3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Infrastructure Architect",
+        "company": "UW School of Medicine and Public Health",
+        "location": "Madison, WI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cloud-infrastructure-architect-at-uw-school-of-medicine-and-public-health-4436790588?position=12&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=unesMjteYp9mCZ1aFXjEVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-03 21:03:21",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack TypeScript Engineer, AI Products (DataEdge)",
+        "company": "Bain & Company",
         "location": "Houston, TX",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-technology-at-castleton-commodities-international-4361439908?position=1&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=Pu3UjMQqdolT%2FK5Osife7w%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-typescript-engineer-ai-products-dataedge-at-bain-company-4426384703?position=14&pageNum=0&refId=RFRXCe5fT82fq6pdTqZ3PA%3D%3D&trackingId=R75uNzirZXyBLEyUxEdhpg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer DHS ICE LESA 06 30 26",
-        "company": "Unissant",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-dhs-ice-lesa-06-30-26-at-unissant-4436788466?position=3&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=Tm3EqlorooGbe0pXv%2FEAlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Data (L1)",
-        "company": "Acrisure Innovation",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-l1-at-acrisure-innovation-4436798015?position=4&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=Ov4SP8g1v2K7ERm5Rjw43g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Summit Credit Union",
-        "location": "Cottage Grove, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-summit-credit-union-4433707709?position=5&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=oZE%2FQUfPSf1wSIwaEJAg7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-jobright-ai-4435491066?position=6&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=gf7tpHMEqEAwNp9Nw14Fsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "\u0635\u062d\u0627\u0641\u0629 \u0648\u0625\u0639\u0644\u0627\u0645 Journalism Media I",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D9%88%D8%A5%D8%B9%D9%84%D8%A7%D9%85-journalism-media-i-4436777773?position=7&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=4jujinyAj3CDzWG4emvfAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Growth Data Engineer",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/growth-data-engineer-at-jobright-ai-4435488110?position=9&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=2LU3JFuVYjDaOYqR6Aq%2Fqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer II",
-        "company": "Reflexive Concepts",
-        "location": "Linthicum, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-ii-at-reflexive-concepts-4436781844?position=10&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=LfzRUZllEvJcpEk6syOLDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "SteerBridge",
-        "location": "Yuma, AZ",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-steerbridge-4436787481?position=11&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=eQgjNDJk038fp16RyQiQaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Director of Data Engineering",
-        "company": "Jet Support Services, Inc. (JSSI)",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/director-of-data-engineering-at-jet-support-services-inc-jssi-4436780823?position=12&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=q99Lp5nGVg5GcmQeLTSvrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "IT Solutions Architect",
-        "company": "CommonSpirit Health",
-        "location": "Englewood, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/it-solutions-architect-at-commonspirit-health-4433199984?position=13&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=urYZtrSaJ8vduUXSJ4f3sA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Radiance Technologies",
-        "location": "San Antonio, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-radiance-technologies-4436785512?position=16&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=NJy7fZJnJSOnX51XAjepYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics and Reporting Sr Analytics (IKC)",
-        "company": "DaVita Kidney Care",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-and-reporting-sr-analytics-ikc-at-davita-kidney-care-4436789221?position=17&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=BhHXeS7rJjPDsyKUrpXMFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "BI Developer and Data Architect - REMOTE",
-        "company": "Sligo Software Solutions Inc.",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/bi-developer-and-data-architect-remote-at-sligo-software-solutions-inc-4436783865?position=19&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=mAMbgySeaYRy0AygAZt3GQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "CodeVertex Innovations",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-codevertex-innovations-4433700934?position=20&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=wa6j1dGQaRDP5lQMNBzWew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "AgileGrid Solutions",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-agilegrid-solutions-4436775972?position=21&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=ET%2FIskrsklkdsOMO0CliZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst",
-        "company": "U.S. Bank",
-        "location": "Milwaukee, WI",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-u-s-bank-4436798113?position=22&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=pCjTuiAMCog1a7A5s9nH3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Applied AI Engineer",
-        "company": "Castleton Commodities International",
-        "location": "Houston, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-castleton-commodities-international-4433717120?position=23&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=HP8%2B0HopHPNlcPOCd5SL3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. Machine Learning Engineer",
-        "company": "Illumio",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-illumio-4406232692?position=24&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=BRtv8tunNi7mD%2BjwD9UA1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Business Intelligence Engineer",
-        "company": "CodeVertex Innovations",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-at-codevertex-innovations-4433707721?position=25&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=8ikKHRE%2Bo5NMQIPQ915t2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analytics - PCS Customer Insights and Experience",
-        "company": "U.S. Bank",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-pcs-customer-insights-and-experience-at-u-s-bank-4436776985?position=26&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=PsIYFJejA6KhJ6HElxlHrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data / Operations Research Analyst",
-        "company": "P17 Solutions, LLC",
-        "location": "Oklahoma City, OK",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-operations-research-analyst-at-p17-solutions-llc-4436779975?position=27&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=byGah7IRgDfx5EiRuOwyWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Algo Engineers NYC",
-        "company": "Huxley",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/algo-engineers-nyc-at-huxley-4433702843?position=29&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=l0yCuGrCJJdt14tEtwhtIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Analyst Level II",
-        "company": "MedRisk",
-        "location": "California, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-level-ii-at-medrisk-4436775971?position=30&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=fda%2FPcr1dM2t%2BvkaMNub8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Unissant",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-unissant-4436785662?position=31&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=jp8VdY8mV0ZHzWIZUxTDQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "SQL PostgreSQL DBA",
-        "company": "Request Technology, LLC",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sql-postgresql-dba-at-request-technology-llc-4435483249?position=32&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=hN7elvdXppD0uc6BBWBvfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer III",
-        "company": "Reflexive Concepts",
-        "location": "Laurel, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-reflexive-concepts-4436784711?position=33&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=M7kaWNnKNue2E03osdqAsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Enterprise Data Systems Engineer",
-        "company": "SOLVARUS",
-        "location": "Chantilly, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-data-systems-engineer-at-solvarus-4436901070?position=34&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=HtYLO%2FAtCRr2DRdg0zGgag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Member of Technical Staff II",
-        "company": "Illumio",
-        "location": "San Jose, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-ii-at-illumio-4383921559?position=35&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=zBzbh7fj76kdpYR%2BqZLvog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Compass",
-        "location": "Aventura, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-compass-4436790288?position=36&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=Hb8%2FacHEhNVFnHhN8BKL6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Database Administrator (DBA) / Database Engineer",
-        "company": "CalAmp",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/database-administrator-dba-database-engineer-at-calamp-4435484408?position=37&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=zyMS%2F1StJGE5fKhwxO9KFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Junior AI / Edge Engineer",
-        "company": "Arqaios, Inc",
-        "location": "Evanston, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/junior-ai-edge-engineer-at-arqaios-inc-4435464937?position=38&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=%2FqRSnijh7Av5Tic%2Fww7hsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Assistant Director of Data and Artificial Intelligence",
-        "company": "Metropolitan Airports Commission",
-        "location": "Minneapolis, MN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/assistant-director-of-data-and-artificial-intelligence-at-metropolitan-airports-commission-4436781783?position=39&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=hq4aL65wiSn5rIW15d%2BNiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Software Engineer",
-        "company": "Compass",
-        "location": "Aventura, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-compass-4436783860?position=41&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=leVEl6bXYhspPODzx8fvIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Analyst, Data Management (ROPS)",
-        "company": "DaVita Kidney Care",
-        "location": "East Weymouth, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-management-rops-at-davita-kidney-care-4436772888?position=42&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=bVf1Rh9PMEICYu2G%2BljuBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Sr Analyst, Data Management (ROPS)",
-        "company": "DaVita Kidney Care",
-        "location": "Auburn, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-data-management-rops-at-davita-kidney-care-4436789270?position=44&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=8mKIwQQ%2FMHWJDrt1cYXK1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": true
-    },
-    {
-        "title": "Data Platform Engineer",
-        "company": "CodeVertex Innovations",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-codevertex-innovations-4433706702?position=45&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=dVKNvBDD6ye9dC3T9yJ0WQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
-        "email_sent": false
-    },
-    {
-        "title": "Developer, Compliance Data & Analytics",
-        "company": "DaVita Kidney Care",
-        "location": "Denver, CO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/developer-compliance-data-analytics-at-davita-kidney-care-4436773996?position=46&pageNum=0&refId=21lvVV0H4bzxsDTCg3ah9w%3D%3D&trackingId=1PP9cJgXbAaYUPKf0X3T0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-03 19:53:03",
+        "scraped_date": "2026-07-03 21:03:21",
         "email_sent": true
     }
 ]
