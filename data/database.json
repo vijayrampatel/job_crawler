@@ -1,355 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TAIT",
-        "location": "Lititz, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tait-4445328292?position=1&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=TKXIL93zfXQNHKle2fNnQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "MANTECH",
-        "location": "Washington, DC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mantech-4424819042?position=3&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=jW0PCtic5xr1v%2BqxvT5QMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/engineer-at-tata-consultancy-services-4435271590?position=6&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=YN0fMP3NlOLbccjv%2B76XfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Sr. Data Analytics Engineer",
-        "company": "Under Armour",
-        "location": "Baltimore, MD",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-analytics-engineer-at-under-armour-4428105623?position=8&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=jBZmbZWt39ecwBN2G4Sfdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Software Engineer, Data Platform",
-        "company": "Circle",
-        "location": "Greater Seattle Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-platform-at-circle-4357576379?position=12&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=hZ4s2d9hLzWySgy%2FhHFalg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Fivetran",
-        "location": "Oakland, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fivetran-4445247408?position=13&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=wQnITTEUUAJt71BAaLBwOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineering Manager",
-        "company": "Husch Blackwell",
-        "location": "Springfield, MO",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-manager-at-husch-blackwell-4444398450?position=14&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=X1AU6mm3dyMxdlzQpi3bkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineering Manager",
-        "company": "Husch Blackwell",
-        "location": "Nashville, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineering-manager-at-husch-blackwell-4444390850?position=15&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=QwFHqUWioKBkYXOwydJOuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Information Technology Engineer- Cloud Data",
-        "company": "LiveOnNY",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/information-technology-engineer-cloud-data-at-liveonny-4444992635?position=19&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=HblL4dK8LQRzlj9dchoOtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Digital Innovation Engineer",
-        "company": "Buckman",
-        "location": "Memphis, TN",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/digital-innovation-engineer-at-buckman-4416734383?position=22&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=VKlRS6vGrFYx0hx2OVktjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Engineer, Infrastructure",
-        "company": "Chime",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-chime-4425313405?position=24&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=Kfg5UzQbNylUO%2F0AnkR3BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "ML / AI Software Engineer - C++ Metrics Frameworks",
-        "company": "General Motors",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ml-ai-software-engineer-c%2B%2B-metrics-frameworks-at-general-motors-4305250811?position=29&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=yB9ZyfFOiENtmbJ843%2FeAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Business Intelligence Analyst, Resilience",
-        "company": "Waymo",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-business-intelligence-analyst-resilience-at-waymo-4444664449?position=30&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=msATvhbaoXBxcTfqXS6NZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Staff, Machine Learning Engineer",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-walmart-4353538293?position=33&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=8rQwb4TsW2VxIAikehWF5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer, Personalization, Amazon Personalization",
-        "company": "Amazon",
-        "location": "Irvine, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-personalization-amazon-personalization-at-amazon-4455109008?position=37&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=8WXfkDxBjGxLoB7YnaEorg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Machine Learning Engineer (Staff & Principal)",
-        "company": "Tubi",
-        "location": "Los Angeles, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-staff-principal-at-tubi-4399801379?position=45&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=jsSyPM33inFBELYo44gjvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Software Development Engineer, AWS OpenSearch",
-        "company": "Amazon Web Services (AWS)",
-        "location": "Austin, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-aws-opensearch-at-amazon-web-services-aws-4455117002?position=48&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=yqEvucCwFCzP%2B4CasCQQTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Performance & Capacity Engineering - Capacity Planning Optimization",
-        "company": "Meta",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/performance-capacity-engineering-capacity-planning-optimization-at-meta-4441897620?position=49&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=hYlR9w5PmqV1U7KMVYPEuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Data Center Production Operations Engineer (Third Shift)",
-        "company": "Meta",
-        "location": "New Albany, OH",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-center-production-operations-engineer-third-shift-at-meta-4433137853?position=50&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=tAu1ObnanxcxDfSWprLJLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "AI Ops Engineer",
-        "company": "GovCIO",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-govcio-4445263982?position=52&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=L2D5b41j0CNFmmeERcMJ5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Machine learning Engineer - Agentic Retrieval",
-        "company": "Zoom",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-agentic-retrieval-at-zoom-4445254402?position=53&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=dG2jr43c0qYRKeSQ55kNEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Project Controls Analyst- Reporting & Analytics",
-        "company": "WSP in the U.S.",
-        "location": "South Jordan, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-controls-analyst-reporting-analytics-at-wsp-in-the-u-s-4445285735?position=54&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=CkF6RN38GrmR1vmpqmldVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "ETL Informatica Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/etl-informatica-developer-at-tata-consultancy-services-4444366808?position=57&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=hNFagWnPV5r6yPKXHvEzag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Forward Deployment Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployment-engineer-at-tata-consultancy-services-4444366809?position=60&pageNum=0&refId=UTr50RHdS3KOkR2NKQrZOw%3D%3D&trackingId=aHbZ9Ahxlu0rph8PyV0snw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "ML / AI Software Engineer - C++ Metrics Frameworks",
-        "company": "General Motors",
-        "location": "Sunnyvale, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ml-ai-software-engineer-c%2B%2B-metrics-frameworks-at-general-motors-4305250811?position=4&pageNum=2&refId=v4IVkxw7KqMXHVPLtUcmew%3D%3D&trackingId=x9w5fpf8YQSPSRJc4xxv3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Staff Business Intelligence Analyst, Resilience",
-        "company": "Waymo",
-        "location": "Mountain View, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-business-intelligence-analyst-resilience-at-waymo-4444664449?position=5&pageNum=2&refId=v4IVkxw7KqMXHVPLtUcmew%3D%3D&trackingId=qbmOOotcgO%2FbsEtJF3w0dQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Staff, Machine Learning Engineer",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-walmart-4353538293?position=8&pageNum=2&refId=v4IVkxw7KqMXHVPLtUcmew%3D%3D&trackingId=%2FOgvRtQjiklDdRs6hrNx%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "AI Ops Engineer",
-        "company": "GovCIO",
-        "location": "Arlington, VA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-ops-engineer-at-govcio-4445263982?position=2&pageNum=5&refId=8toi9ksQtDFHpsNm2D2uhQ%3D%3D&trackingId=KmNyGvRl0Nzu4xHLMbcXWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Machine learning Engineer - Agentic Retrieval",
-        "company": "Zoom",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-agentic-retrieval-at-zoom-4445254402?position=3&pageNum=5&refId=8toi9ksQtDFHpsNm2D2uhQ%3D%3D&trackingId=Vbk6Y8DtrpbDtcDcf2M0BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Project Controls Analyst- Reporting & Analytics",
-        "company": "WSP in the U.S.",
-        "location": "South Jordan, UT",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/project-controls-analyst-reporting-analytics-at-wsp-in-the-u-s-4445285735?position=4&pageNum=5&refId=8toi9ksQtDFHpsNm2D2uhQ%3D%3D&trackingId=gXPbqgrSBd56X4R%2Bfhj6KA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": false
-    },
-    {
-        "title": "ETL Informatica Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/etl-informatica-developer-at-tata-consultancy-services-4444366808?position=7&pageNum=5&refId=8toi9ksQtDFHpsNm2D2uhQ%3D%3D&trackingId=yPgB%2BhT00jFXukkrRtBcBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Forward Deployment Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Miami, FL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployment-engineer-at-tata-consultancy-services-4444366809?position=10&pageNum=5&refId=8toi9ksQtDFHpsNm2D2uhQ%3D%3D&trackingId=OStqkv9R%2FmU294wByCXfNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Data Scientist, Datacenter",
-        "company": "Microsoft",
-        "location": "Redmond, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-datacenter-at-microsoft-4455112073?position=1&pageNum=7&refId=Ymqsd7ksKlmsfL4JYpdugg%3D%3D&trackingId=yjOsOyupKy392g3k26RGJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Enterprise Data Analyst",
-        "company": "Husch Blackwell",
-        "location": "Dallas, TX",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-data-analyst-at-husch-blackwell-4444604361?position=2&pageNum=7&refId=Ymqsd7ksKlmsfL4JYpdugg%3D%3D&trackingId=bwujVQmfWGT%2FWQdJpRVCSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
-        "title": "Enterprise Data Analyst",
-        "company": "Husch Blackwell",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-data-analyst-at-husch-blackwell-4444390847?position=3&pageNum=7&refId=Ymqsd7ksKlmsfL4JYpdugg%3D%3D&trackingId=YfNQ39uL6QJkATK55X0n%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 13:46:00",
-        "email_sent": true
-    },
-    {
         "title": "Data Engineer, People Innovation Labs",
         "company": "OpenAI",
         "location": "San Francisco, CA",
@@ -818,5 +468,165 @@
         "source": "LinkedIn",
         "scraped_date": "2026-08-15 14:01:50",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer \u2013 Corporate Technology Data Engineering & Analytics",
+        "company": "MassMutual",
+        "location": "Boston, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-corporate-technology-data-engineering-analytics-at-massmutual-4321743214?position=1&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=VGzic9F5EX%2F%2B%2BEjwecU%2Fpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Charles Schwab",
+        "location": "Southlake, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-charles-schwab-4451738357?position=2&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=IIEFkmVKBi7EMcXBXdSbqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "SAS Data Engineer",
+        "company": "Cognizant",
+        "location": "Missouri, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sas-data-engineer-at-cognizant-4444663354?position=5&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=mm%2Bogj3sfxWOw6nGXNeL3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Growth Platform",
+        "company": "Ramp",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-platform-at-ramp-4387498402?position=6&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=PiHuLB7IFZeZT%2BeyqY9Hlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Eaton",
+        "location": "Syracuse, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-eaton-4451735333?position=9&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=DM4fGlIGH9qewNHJmbG6Yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Eaton",
+        "location": "Coraopolis, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-eaton-4451732368?position=10&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=ijMgOEPSrxl6ciVeyST5lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer, Product Data Platform",
+        "company": "Brex",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-product-data-platform-at-brex-4375462190?position=11&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=YLbB16OGkeRB%2FAtMVuhrmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "AI Data Scientist",
+        "company": "Tanaq Technical Services",
+        "location": "Anchorage, AK",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-tanaq-technical-services-4455114416?position=12&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=AxsfmzV5GeFYsLRcjAsBxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Data Integrity Specialist",
+        "company": "Audio Enhancement",
+        "location": "West Jordan, UT",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-integrity-specialist-at-audio-enhancement-4455110735?position=13&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=ItwNzWY%2BT%2BFYhqiRuzVIvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Coordinator",
+        "company": "CHIRLA",
+        "location": "Compton, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-coordinator-at-chirla-4453917403?position=14&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=dkusUffV4%2FiamEgCDXzptg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "UL Solutions",
+        "location": "Northbrook, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ul-solutions-4433121340?position=15&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=77TF2iiN6546cqtxysGh9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Mid-level Agentic DevOps Engineer - Remote - USA",
+        "company": "FullStack",
+        "location": "Baton Rouge, LA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/mid-level-agentic-devops-engineer-remote-usa-at-fullstack-4417748985?position=16&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=tKHU2O4RgyomPa9P%2FcVmag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer - Cloud Engineering (C++)",
+        "company": "NetApp",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloud-engineering-c%2B%2B-at-netapp-4451726322?position=18&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=qS7C4IHTH4DjRFd2a2LseQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Eaton",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-eaton-4451729336?position=20&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=u7oZAws6ioEWls9n4QPdTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Eaton",
+        "location": "Highland, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-eaton-4451741398?position=21&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=B1N9bQGI9ore1u1Y4mGuQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "Eaton",
+        "location": "Glendale Heights, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-eaton-4451739364?position=22&pageNum=0&refId=UUAnuw9H8%2F1e1Jk0FyvXTg%3D%3D&trackingId=VCRucksgxskeReP2z4Dm4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 14:55:41",
+        "email_sent": true
     }
 ]
