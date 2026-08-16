@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tabs",
-        "location": "New York, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tabs-4455175438?position=11&pageNum=0&refId=MV8cBXgNSuMsMVjUQj5ipA%3D%3D&trackingId=Ez0eKBSBOaQAKn%2F9XljQrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 06:14:57",
-        "email_sent": true
-    },
-    {
         "title": "Staff Data Engineer",
         "company": "Coupang",
         "location": "Seattle, WA",
@@ -68,5 +58,45 @@
         "source": "LinkedIn",
         "scraped_date": "2026-08-16 07:02:33",
         "email_sent": false
+    },
+    {
+        "title": "Software Developer, Advanced",
+        "company": "Naval Nuclear Laboratory (FMP)",
+        "location": "Schenectady, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-developer-advanced-at-naval-nuclear-laboratory-fmp-4453018122?position=7&pageNum=0&refId=A1S59ohgVNAH58lmvFQcbg%3D%3D&trackingId=9fi4ZuE6EnzACX2jnazeZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 07:41:04",
+        "email_sent": false
+    },
+    {
+        "title": "Chief Data Officer at C2 Alaska, LLC",
+        "company": "Direct-Calls.com",
+        "location": "Dayton, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/chief-data-officer-at-c2-alaska-llc-at-direct-calls-com-4455160467?position=8&pageNum=0&refId=A1S59ohgVNAH58lmvFQcbg%3D%3D&trackingId=%2FlOwrcCX5mPJqOmwFosc9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 07:41:04",
+        "email_sent": false
+    },
+    {
+        "title": "CHIEF Data Officer at Trustly",
+        "company": "Direct-Calls.com",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/chief-data-officer-at-trustly-at-direct-calls-com-4455162501?position=9&pageNum=0&refId=A1S59ohgVNAH58lmvFQcbg%3D%3D&trackingId=VaeqXaXzAsqUFkMckTirMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 07:41:04",
+        "email_sent": false
+    },
+    {
+        "title": "R&D Data Architect",
+        "company": "CSL",
+        "location": "Waltham, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/r-d-data-architect-at-csl-4455162529?position=10&pageNum=0&refId=A1S59ohgVNAH58lmvFQcbg%3D%3D&trackingId=%2B8eNXxGnZuyU4Jx%2Bl83pjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 07:41:04",
+        "email_sent": true
     }
 ]
