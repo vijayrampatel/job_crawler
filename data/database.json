@@ -1,65 +1,5 @@
 [
     {
-        "title": "Staff Data Engineer",
-        "company": "Coupang",
-        "location": "Seattle, WA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-coupang-4453966340?position=2&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=W5aQ3azNa10hYvs%2FYr9TiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": true
-    },
-    {
-        "title": "Scientific Technical Engineer - PDS&T CMC",
-        "company": "BioSpace",
-        "location": "North Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/scientific-technical-engineer-pds-t-cmc-at-biospace-4455158356?position=3&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=oU51SaOZMWXk3ywYW2Eukg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": false
-    },
-    {
-        "title": "Vice President, Data Platform Engineering",
-        "company": "AIG",
-        "location": "Charlotte, NC",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/vice-president-data-platform-engineering-at-aig-4432661149?position=4&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=RR%2F%2BcsoIkX0ZIpUFi4b5uA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": true
-    },
-    {
-        "title": "Director, Data Product & Analytics Engineering \u2013 Pathway AI",
-        "company": "BioMarin Pharmaceutical Inc.",
-        "location": "San Rafael, CA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/director-data-product-analytics-engineering-%E2%80%93-pathway-ai-at-biomarin-pharmaceutical-inc-4455177237?position=5&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=N%2FztPckdRDaw4W7ENd7nQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": true
-    },
-    {
-        "title": "Distinguished Architect [Data & Intelligence] - Remote",
-        "company": "Amtrak",
-        "location": "Philadelphia, PA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/distinguished-architect-data-intelligence-remote-at-amtrak-4397174271?position=6&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=thB%2B3STmOsbZPafgTq7kSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": false
-    },
-    {
-        "title": "Data & Reporting Analyst, Career Development; SC Johnson College of Business",
-        "company": "This is CNY",
-        "location": "Ithaca, NY",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-reporting-analyst-career-development-sc-johnson-college-of-business-at-this-is-cny-4455175493?position=14&pageNum=0&refId=MTrhC6urllG0YFVjYyRCqg%3D%3D&trackingId=TWZdBWyBEu%2BO34VKqsnAsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 07:02:33",
-        "email_sent": false
-    },
-    {
         "title": "Software Developer, Advanced",
         "company": "Naval Nuclear Laboratory (FMP)",
         "location": "Schenectady, NY",
@@ -98,5 +38,115 @@
         "source": "LinkedIn",
         "scraped_date": "2026-08-16 07:41:04",
         "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tabs",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tabs-4455175438?position=11&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=%2BlbTbFjAheUCWNBysURN7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer / ML Ops at VC-backed multimodal AI startup",
+        "company": "Jack & Jill",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ml-ops-at-vc-backed-multimodal-ai-startup-at-jack-jill-4453978604?position=15&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=u%2BvaY0%2BmUJyXwlugspJkGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Infrastructure Engineer at well-funded healthtech startup",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-infrastructure-engineer-at-well-funded-healthtech-startup-at-jack-jill-4453977584?position=16&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=KqGpwcjiH2Q1JCNDmPfpyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Research Data Analyst - Policy",
+        "company": "ETS",
+        "location": "Washington, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-policy-at-ets-4435893053?position=18&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=mFLlg4SI0YqD1nHPyIq0AQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Engineer -  AI Gateway",
+        "company": "Cinter Technology",
+        "location": "Regency at Monroe, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-ai-gateway-at-cinter-technology-4455159932?position=19&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=9j7VLkMSQ5vScI1gLTFmHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": true
+    },
+    {
+        "title": "Database Administrator (DBA) / Database Engineer",
+        "company": "CalAmp",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-administrator-dba-database-engineer-at-calamp-4453977616?position=20&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=r2CYXIPujVlLkFmowkuMQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Analytics Engineering ($270k-$330k + Equity) at Current",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/director-analytics-engineering-%24270k-%24330k-%2B-equity-at-current-at-jack-jill-4453963674?position=21&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=L4SL79Ja%2BdF5Bf91jyrcSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff at Crucibl",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-at-crucibl-at-jack-jill-4453969614?position=22&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=NWjGoCX5fVZ8Flu0M2P6cg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Engineer ($120k-$170k + Equity) at V7",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-engineer-%24120k-%24170k-%2B-equity-at-v7-at-jack-jill-4453978606?position=23&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=2lbe%2F2yqvrI6fD1ATmk0NA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Consultant ($118.5k-$127k) at high-growth data and AI consultancy",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/consultant-%24118-5k-%24127k-at-high-growth-data-and-ai-consultancy-at-jack-jill-4453970608?position=24&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=q3jnqHGZEQnv92ezw38pkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Core Financial Platform ($180K-$275K + Equity) at Basic Capital",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-financial-platform-%24180k-%24275k-%2B-equity-at-basic-capital-at-jack-jill-4453971689?position=25&pageNum=0&refId=n%2F21IgYmHUDwwW%2FI7CNZ9Q%3D%3D&trackingId=8PFsb%2BK1%2FhYlnrZOBXc72Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 08:03:18",
+        "email_sent": false
     }
 ]
