@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-remotehunter-4454201492?position=1&pageNum=0&refId=DRLpBUDIo%2FZtkavGl7Xcqw%3D%3D&trackingId=le9Jd8cWFetLKgy617dZSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 21:53:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Architect",
-        "company": "Alter Domus",
-        "location": "New York, United States",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-architect-at-alter-domus-4429910323?position=5&pageNum=0&refId=DRLpBUDIo%2FZtkavGl7Xcqw%3D%3D&trackingId=yITP5gEBECLI6%2BtAEAQt5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 21:53:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Architect",
-        "company": "Alter Domus",
-        "location": "Chicago, IL",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-architect-at-alter-domus-4429797428?position=6&pageNum=0&refId=DRLpBUDIo%2FZtkavGl7Xcqw%3D%3D&trackingId=e4FQFic%2B7ESDJ9k5ccaHzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-16 21:53:01",
-        "email_sent": true
-    },
-    {
-        "title": "Data Engineer",
         "company": "Ramsey Solutions",
         "location": "Nashville, TN",
         "date_posted": "Recent",
@@ -67,6 +37,26 @@
         "url": "https://www.linkedin.com/jobs/view/clickhouse-solutions-engineer-at-altinity-inc-4452210370?position=8&pageNum=0&refId=gCV%2FIdc2djb2Z%2FcxBcu2yA%3D%3D&trackingId=Yau3SlfrC63oRlXxiumgbw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-08-16 22:41:24",
+        "email_sent": true
+    },
+    {
+        "title": "Applied AI Engineers",
+        "company": "NuStudio.AI",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineers-at-nustudio-ai-4454215000?position=2&pageNum=0&refId=yWpP%2BBl%2F7wjMCfCeEKOrag%3D%3D&trackingId=BGvq1Fkdw2rriByXCFpBpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 23:00:30",
+        "email_sent": false
+    },
+    {
+        "title": "Palantir Foundry Engineer",
+        "company": "Raas Infotek",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/palantir-foundry-engineer-at-raas-infotek-4454804969?position=3&pageNum=0&refId=yWpP%2BBl%2F7wjMCfCeEKOrag%3D%3D&trackingId=tNF9JlgJ39AX6HMCwm8uoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-16 23:00:30",
         "email_sent": true
     }
 ]
