@@ -1,1 +1,532 @@
-[]
+[
+    {
+        "title": "Data Engineer, Whole Foods Market, E-commerce Analytics",
+        "company": "Amazon",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-whole-foods-market-e-commerce-analytics-at-amazon-4473234728?position=1&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=0Pj4bG3zxQhjHE62%2FluiWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Jobot",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-jobot-4462290429?position=3&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=NUk%2F%2FBv93rAbe6jMOALUtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer 4",
+        "company": "Capital One",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-4-at-capital-one-4473260617?position=4&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=4pE8nNM7wlybqf6coU52WQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Cincinnati Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4471597600?position=5&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=mS%2BO8xblhWXa6vcVXFTYGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Kansas City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4471900493?position=6&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=tCZe4POHNeRsddtcfLxxxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer 4",
+        "company": "Capital One",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-4-at-capital-one-4473256759?position=7&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=XFwleLkmPJvqeCyWwqXXSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data engineer - USA",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-usa-at-talenthop-4471718786?position=9&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=OgNlW54pM86Kzc29Trod1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Brex",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brex-4359462015?position=10&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=qlQ8HOSqdCxK7SQ0TRWvkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "DetailPage",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-detailpage-4471598663?position=11&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=shPm7P7y6DewrsSwPtaduw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer (TS/SCI) - Reston",
+        "company": "IBM",
+        "location": "Chantilly, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-ts-sci-reston-at-ibm-4452524747?position=12&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=%2BfxMwBH%2FEmHReacwfgdoSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4471217531?position=13&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=W%2FWfuG0cAL%2BY5j9FsDPsHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "East Windsor, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4471225501?position=14&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=RlKgf2J2%2BkxeI08Htr4nCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Data Engineer - Integrations",
+        "company": "Dragos, Inc.",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-integrations-at-dragos-inc-4454411498?position=15&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=pvhaai5ulK4%2Fr%2FTCrsA0Dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Snowflake Data engineer(Datastage, DBT,AWS)",
+        "company": "Tech Genius inc",
+        "location": "Detroit, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/snowflake-data-engineer-datastage-dbt-aws-at-tech-genius-inc-4471740092?position=17&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=RBRODPuYB4ZOJEFp5eEGMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Brooksource",
+        "location": "Indianapolis, IN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brooksource-4471910240?position=18&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=XvlhKNWgpeuPM0Hog2QEIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Enhance IT",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-enhance-it-4471719778?position=20&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=W6pvsCEK67PXZ5Lqavu2CQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "AWS Data Engineer(only W2)",
+        "company": "Astir IT Solutions, Inc.",
+        "location": "Naperville, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-only-w2-at-astir-it-solutions-inc-4471716929?position=21&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=oAGae547Clq0f4PscOsNhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer (Generative AI & Healthcare Data)",
+        "company": "Altarum",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-generative-ai-healthcare-data-at-altarum-4473251708?position=22&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=iEJzPgp8%2BmkPxnPkcJoLSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TaskVerse",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-taskverse-4473244610?position=23&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=%2FG2%2Biq66zJwmDaSLM1COiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Battle Creek, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4473252629?position=26&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=dl8XCFj3BAQUFoi7esyj5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer :: 5 Days Onsite :: San Antonio, TX or Plano, TX :: W2",
+        "company": "Prudent Technologies and Consulting, Inc.",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-5-days-onsite-san-antonio-tx-or-plano-tx-w2-at-prudent-technologies-and-consulting-inc-4469460608?position=28&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=kGMfPoGdIBcTgp1NHqhcpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Pentangle Tech Services | P5 Group",
+        "location": "Michigan, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-pentangle-tech-services-p5-group-4473253816?position=29&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=rycj%2F4FFX0b9Ev1sk1WG0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Python Developer",
+        "company": "Anagh Technologies Inc",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-anagh-technologies-inc-4471738312?position=31&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=ii2ZN%2B38Ou23gm0g7ZvihA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-developer-at-netrolynx-ai-4473250240?position=32&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=WlhI6Hc8aCJcyXX5zyo3BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Agentic Data Cloud Customer Engineer III, Telco, Media, Entertainment and Gaming, Google Cloud",
+        "company": "Google",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/agentic-data-cloud-customer-engineer-iii-telco-media-entertainment-and-gaming-google-cloud-at-google-4471916008?position=33&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=XGcW%2F9vmljd2aMMmVdD12w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Agentic Data Cloud Customer Engineer III, Telco, Media, Entertainment and Gaming, Google Cloud",
+        "company": "Google",
+        "location": "Kirkland, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/agentic-data-cloud-customer-engineer-iii-telco-media-entertainment-and-gaming-google-cloud-at-google-4471599579?position=34&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=PK52r66Luqt9KpEaaqWxJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Engineer - Planning Systems",
+        "company": "American Eagle Outfitters Inc.",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-planning-systems-at-american-eagle-outfitters-inc-4329036725?position=35&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=5zIXdKD4Q2tYTohpKCPjuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "AI/ML Engineer",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-agilegrid-solutions-4473262438?position=36&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=MyRcPX2AvpLnJV%2BJvy9Nrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "ECS",
+        "location": "Chantilly, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-ecs-4455350751?position=37&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=4w%2FGf9wNmHndnkgTknOiBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "PL/SQL Developer",
+        "company": "NTT DATA North America",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/pl-sql-developer-at-ntt-data-north-america-4473262425?position=38&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=4ALcXJrAEm9%2FFqbdEm%2FM1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Database Speaclist",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-speaclist-at-netrolynx-ai-4473238884?position=42&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=pLzxMzjSNJRc05Twiu7yrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Reporting and Analytics Developer",
+        "company": "Freeman Mathis & Gary, LLP",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/reporting-and-analytics-developer-at-freeman-mathis-gary-llp-4465105913?position=43&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=VXV4kR3zzSRWOIqW5NdD7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering Data Analyst",
+        "company": "Analysis and Measurement Services (AMS) Corporation",
+        "location": "Knoxville, TN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineering-data-analyst-at-analysis-and-measurement-services-ams-corporation-4446647607?position=45&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=CGOqPpsjEkqHXHQaVYZvkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "BI Data Analyst",
+        "company": "Motion",
+        "location": "Birmingham, AL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bi-data-analyst-at-motion-4455347371?position=46&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=mR8OjAnXud4zfff8XHmL%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Database Manager / R&D Data Management Manager",
+        "company": "Infiltra Technologies Private Limited",
+        "location": "St Paul, MN",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/database-manager-r-d-data-management-manager-at-infiltra-technologies-private-limited-4471901506?position=48&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=l84jYopUs1pgFOqTOIh5Tw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Analyst",
+        "company": "Titan Technologies",
+        "location": "Fayetteville, North Carolina Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-titan-technologies-4471724623?position=49&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=Di4XOQlvZGEV%2BR7UVGtvBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Platform Engneer 5621",
+        "company": "Tier4 Group",
+        "location": "Quincy, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-platform-engneer-5621-at-tier4-group-4471725683?position=50&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=%2FtOgk%2FB2Hlktwh9Da4%2BATA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Acuity, Inc.",
+        "location": "Northern Virginia, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-acuity-inc-4455380114?position=51&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=fUSwPkjJkxZE9VfEOR8PAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Platform Software Engineer | Hybrid Opportunity",
+        "company": "Vertage",
+        "location": "Dearborn, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-software-engineer-hybrid-opportunity-at-vertage-4471910190?position=52&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=Se4VaJsxRfs3%2BBpvqwjwzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Systems Engagement Specialist",
+        "company": "Pink Ribbon Good",
+        "location": "Dayton, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-systems-engagement-specialist-at-pink-ribbon-good-4473264350?position=54&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=PgD6E3gw%2Fn%2F7YmXfzsLlgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer & AI/ML Specialist",
+        "company": "Torentify",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-ml-specialist-at-torentify-4473242870?position=55&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=u0%2FMbZjA6Gq4j8i4o5KDlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "MERN Stack Developer",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/mern-stack-developer-at-agilegrid-solutions-4473268226?position=57&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=2%2BCysA7amMdpGTU%2FQnz%2FLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer, DA&AI Co-Op",
+        "company": "The Campbell's Company",
+        "location": "Camden, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-da-ai-co-op-at-the-campbell-s-company-4428133468?position=58&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=oxoTPIim4b%2BWMSy0ddgbyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer,Sr. - Remote",
+        "company": "Torentify",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-remote-at-torentify-4473247754?position=59&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=fJVNp6TTyDQSZLM6gx8stw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Full-Stack SWE, Data Acquisition (Foundations)",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-swe-data-acquisition-foundations-at-openai-4417169179?position=60&pageNum=0&refId=BdsNi7Vq7wY8JO%2FfxRnnUA%3D%3D&trackingId=jRshO3DnCszueEnl7pfkmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Battle Creek, MI",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4473252629?position=1&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=oeCRvzIULKx8CE56zmAcpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer :: 5 Days Onsite :: San Antonio, TX or Plano, TX :: W2",
+        "company": "Prudent Technologies and Consulting, Inc.",
+        "location": "San Antonio, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-5-days-onsite-san-antonio-tx-or-plano-tx-w2-at-prudent-technologies-and-consulting-inc-4469460608?position=3&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=XBJZXO7rcwnLyO4ahgPEyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Pentangle Tech Services | P5 Group",
+        "location": "Michigan, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-pentangle-tech-services-p5-group-4473253816?position=4&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=1LV213Tz5wSVhCZEF7g%2Btg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Python Developer",
+        "company": "Anagh Technologies Inc",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-anagh-technologies-inc-4471738312?position=6&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=N9BJ%2BXMWXgcNyPIh46w1cA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Backend Developer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/backend-developer-at-netrolynx-ai-4473250240?position=7&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=qSX9BKFxkMPWLhMGNqurNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": false
+    },
+    {
+        "title": "Agentic Data Cloud Customer Engineer III, Telco, Media, Entertainment and Gaming, Google Cloud",
+        "company": "Google",
+        "location": "Cambridge, MA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/agentic-data-cloud-customer-engineer-iii-telco-media-entertainment-and-gaming-google-cloud-at-google-4471916008?position=8&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=b3b6iTpUMnrOqoPNApgLBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Agentic Data Cloud Customer Engineer III, Telco, Media, Entertainment and Gaming, Google Cloud",
+        "company": "Google",
+        "location": "Kirkland, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/agentic-data-cloud-customer-engineer-iii-telco-media-entertainment-and-gaming-google-cloud-at-google-4471599579?position=9&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=pqZa0Z5QAcrbPaI1%2FJdqVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Engineer - Planning Systems",
+        "company": "American Eagle Outfitters Inc.",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-planning-systems-at-american-eagle-outfitters-inc-4329036725?position=10&pageNum=2&refId=XNZNQoXCD4Srn%2BMEz3Qg3g%3D%3D&trackingId=Yy7Da3fxsZn8nBINzOzJUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-29 14:15:03",
+        "email_sent": true
+    }
+]
