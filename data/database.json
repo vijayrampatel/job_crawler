@@ -1,1 +1,722 @@
-[]
+[
+    {
+        "title": "Data Engineer - Mid-Level",
+        "company": "BAE Systems, Inc.",
+        "location": "Rockville, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-mid-level-at-bae-systems-inc-4476692253?position=3&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=AdTqBFl1XMpzLzf8ARuLzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer 2",
+        "company": "The Farmer's Dog",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-the-farmer-s-dog-4478459916?position=4&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=kN%2BMbnuDOhsW097nfymvFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer (Edify)",
+        "company": "EAB",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-edify-at-eab-4479548826?position=5&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=mVyksdtaH4ob5nYlgelS%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer (Edify)",
+        "company": "EAB",
+        "location": "Richmond, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-edify-at-eab-4479547841?position=6&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=4QEwt3rTaxBxPuCmlqP36g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer 4",
+        "company": "Capital One",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-4-at-capital-one-4470948455?position=9&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=O0dV7R79UcuJZRKKreMwiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Luxoft",
+        "location": "Deerfield Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-luxoft-4479559399?position=12&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=QKn%2Fy6AqtHVyxF9VY1EFVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Engineer, Data (Remote, US)",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-data-remote-us-at-remotehunter-4478471489?position=14&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=KQ2AErMtyxjqy%2FksZ%2FwGrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Product Engineer",
+        "company": "Metso",
+        "location": "York, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-product-engineer-at-metso-4478460953?position=15&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=FjkyL%2Bx9FPKYKhbH%2Bz4j9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4475268370?position=17&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=3LrdW9wy1H4t7kNrln9yQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "East Windsor, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4476035737?position=18&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=FMA%2FDRb7nd9visZuj87w%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Adonis",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-adonis-4460686096?position=24&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=khGWm0Td0K0MjZNlgyGW2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Sr Data Engineer",
+        "company": "MeridianLink",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-meridianlink-4479562359?position=25&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=NNnKW6slhtoXV6fRgJ9K%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer, Jr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-jr-at-wiraa-4479561379?position=28&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=PhyhDi%2FMMLj59W0MAqboEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Warehouse Engineer I",
+        "company": "AssuranceAmerica",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-warehouse-engineer-i-at-assuranceamerica-4479081576?position=29&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=oOp%2F9ZzaqouQagcIGmh4uQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Fonzi AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fonzi-ai-4478467897?position=30&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=YReOz9Zn6cvsvxwk%2BuRrxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data Platform",
+        "company": "Whatnot",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-whatnot-4394200445?position=33&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=9HMmDrCWf%2BRnf0DHt7%2BNGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Palantir Developer",
+        "company": "Guidehouse",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/palantir-developer-at-guidehouse-4479561237?position=34&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=%2FM1JqVupadxO4WaHLPHGNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Data Platform",
+        "company": "Whatnot",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-whatnot-4394204415?position=35&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=aBwqG0aNOj6JkZ6Yj%2Bd4QA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Fonzi AI",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fonzi-ai-4478487024?position=37&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=tdYG7D%2FcwzetKq0flgeEDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "AI Data Engineer",
+        "company": "Staffingine LLC",
+        "location": "Princeton, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-data-engineer-at-staffingine-llc-4479557490?position=39&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=sVGRfBtzhfZeYwfCwz4ayw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Snowflake, Teradata and Databricks Engineer",
+        "company": "Infosys",
+        "location": "Philadelphia, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/snowflake-teradata-and-databricks-engineer-at-infosys-4476687423?position=40&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=AfNv7YomptOYGym1XreKAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Program Engineer",
+        "company": "Northern Trust",
+        "location": "Chicago, IL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-program-engineer-at-northern-trust-4449849751?position=41&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=mvoC5zfRVzFQtDNwZQ29mw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Azure Databricks Data Engineer / Architect",
+        "company": "Cognizant",
+        "location": "California, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-azure-databricks-data-engineer-architect-at-cognizant-4460075304?position=42&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=SEM6jxzVfMl3t8JSZIti5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Delivery Consultant - Data , Professional Services, AWS Industries",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/delivery-consultant-data-professional-services-aws-industries-at-amazon-web-services-aws-4462084818?position=43&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=CtsHf9E2yUcvbBM7z7bDgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Delivery Consultant - Data , Professional Services, AWS Industries",
+        "company": "Amazon Web Services (AWS)",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/delivery-consultant-data-professional-services-aws-industries-at-amazon-web-services-aws-4462099087?position=44&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=8AuOGsxvimvbaRe2IwTNUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Addison Group",
+        "location": "Greater Phoenix Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-addison-group-4470479663?position=45&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=alDRzreShZ7%2F%2FqUYuqvRsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "DATABRICKS Architect......Only Full Time",
+        "company": "Visionary Innovative Technology Solutions LLC",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/databricks-architect-only-full-time-at-visionary-innovative-technology-solutions-llc-4476467065?position=46&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=2WmY3lO%2B1crRP9WB8WPRSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "AWS Python Data Engineer",
+        "company": "eHub Global Inc",
+        "location": "Richardson, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/aws-python-data-engineer-at-ehub-global-inc-4479547786?position=49&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=PzcUmqE%2FEQkCyKp%2Bi49l2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "F2F Interview - Sr Data Engineer , NJ",
+        "company": "Xforia Global Talent  & Technology Solutions",
+        "location": "Jersey City, NJ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/f2f-interview-sr-data-engineer-nj-at-xforia-global-talent-technology-solutions-4478450883?position=50&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=Wxr6N9ll1CkFo8saC0tG%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data and Web Engineer",
+        "company": "Miami University",
+        "location": "Oxford, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-and-web-engineer-at-miami-university-4476670984?position=51&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=7eNZAom6dopyqOHyGb6MKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Backend",
+        "company": "Epic Placements",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-backend-at-epic-placements-4476505926?position=52&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=9Bp%2Fwl%2BrmVSHKj5vp9PLVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "BI Designer- Only W2",
+        "company": "CloudIngest",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bi-designer-only-w2-at-cloudingest-4479551765?position=53&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=OQNyJ6dSo4ZEbFsidFRgJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Platform Engineer",
+        "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-at-underdog-verified-engineers-interview-ready-searching-confidentially-and-companies-apply-to-you-4479564150?position=54&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=vh7zpk65%2FeNByEUpQ4YNHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Big data Pyspark Developer",
+        "company": "Visionary Innovative Technology Solutions LLC",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/big-data-pyspark-developer-at-visionary-innovative-technology-solutions-llc-4476686507?position=56&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=oQnNqbAN%2BCGhWTXtSZbFVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer Architect",
+        "company": "Rooms To Go",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-architect-at-rooms-to-go-4468967579?position=57&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=KbwPgR08DuRNGyawFSzChg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Akkodis",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-akkodis-4476671870?position=58&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=go%2BlMKUDVWoNWzh4oD5VOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intel Engineer, OIS/CXI Analytics , Ops Tech Solution Network Dev",
+        "company": "Amazon",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intel-engineer-ois-cxi-analytics-ops-tech-solution-network-dev-at-amazon-4470653185?position=59&pageNum=0&refId=LlUpixJx856MWyjz9i8x6A%3D%3D&trackingId=LLS8l3JVOMM%2FSAMCxgRvFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer, Jr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-jr-at-wiraa-4479561379?position=3&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=i0aUBT3iuJsVMbZtN%2BU5Cg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Warehouse Engineer I",
+        "company": "AssuranceAmerica",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-warehouse-engineer-i-at-assuranceamerica-4479081576?position=4&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=mI%2B7Bl65CJmv7tZOSKHIag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Fonzi AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fonzi-ai-4478467897?position=5&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=c24Zv0mSgYzJOEEq%2F0uAPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data Platform",
+        "company": "Whatnot",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-whatnot-4394200445?position=8&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=Ek8dKUmDn5vxhUhurJHT9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Palantir Developer",
+        "company": "Guidehouse",
+        "location": "McLean, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/palantir-developer-at-guidehouse-4479561237?position=9&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=BoGgqtw9NmzZ3sP37xuPPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer, Data Platform",
+        "company": "Whatnot",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-whatnot-4394204415?position=10&pageNum=2&refId=gy9vDe8JdXPLplsvKkkfzA%3D%3D&trackingId=yf%2FTly6JMJBittIMEhGLvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data and Web Engineer",
+        "company": "Miami University",
+        "location": "Oxford, OH",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-and-web-engineer-at-miami-university-4476670984?position=1&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=50IzlWHu5K6w9ouSYdZu%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer - Backend",
+        "company": "Epic Placements",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-backend-at-epic-placements-4476505926?position=2&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=JTcnuInk%2BCxwxDdEFmtakA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "BI Designer- Only W2",
+        "company": "CloudIngest",
+        "location": "Dallas, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/bi-designer-only-w2-at-cloudingest-4479551765?position=3&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=XYSPfinxf6eNNBEuv0q%2BHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Platform Engineer",
+        "company": "Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/platform-engineer-at-underdog-verified-engineers-interview-ready-searching-confidentially-and-companies-apply-to-you-4479564150?position=4&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=SqBy9gQ1pRntGKo%2Bo4nOHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Big data Pyspark Developer",
+        "company": "Visionary Innovative Technology Solutions LLC",
+        "location": "Texas, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/big-data-pyspark-developer-at-visionary-innovative-technology-solutions-llc-4476686507?position=6&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=vZaf1xz3OFtdbdUok7Mzog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Engineer Architect",
+        "company": "Rooms To Go",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-architect-at-rooms-to-go-4468967579?position=7&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=ZTxrv1CQv0T8azXxdH25mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Akkodis",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-akkodis-4476671870?position=8&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=%2BBD300WwnzOewPl%2BX8XZnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Business Intel Engineer, OIS/CXI Analytics , Ops Tech Solution Network Dev",
+        "company": "Amazon",
+        "location": "Austin, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-intel-engineer-ois-cxi-analytics-ops-tech-solution-network-dev-at-amazon-4470653185?position=9&pageNum=5&refId=1uHSdT%2BsOcSch6%2BX92a8TQ%3D%3D&trackingId=a4IN6B3zBWQvElVia%2B8aqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "TalentAlly",
+        "location": "Greater Philadelphia",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4479555840?position=1&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=OeV21aWGBlQ7cZhPyXGXUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Sr. Data Architect",
+        "company": "PTI Technologies",
+        "location": "Oxnard, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-architect-at-pti-technologies-4459553893?position=2&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=KrDd6xHICYo9NYt5eo8neg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Platforms Integrator and SME",
+        "company": "Modern Technology Solutions, Inc. (MTSI)",
+        "location": "Colorado Springs, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-platforms-integrator-and-sme-at-modern-technology-solutions-inc-mtsi-4478466702?position=3&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=x6bvqh3L9BYTc4o4w%2FF76Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Engineer",
+        "company": "Koch",
+        "location": "Plano, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-koch-4468929844?position=5&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=OUdn8oIXPIwQcyf3WyJVng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Remote Data Automation Engineer",
+        "company": "Apex Systems",
+        "location": "Washington, DC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-automation-engineer-at-apex-systems-4479566089?position=6&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=6gewIxt%2Bu8RI1FIjexkGtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Python and SQL Developer",
+        "company": "Ztek Consulting",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/python-and-sql-developer-at-ztek-consulting-4476686649?position=8&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=LqF93rPhv%2Bppp0ELQJOJ2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Infrastructure Data Analyst",
+        "company": "Kforce Inc",
+        "location": "West Palm Beach, FL",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/infrastructure-data-analyst-at-kforce-inc-4479556708?position=9&pageNum=7&refId=%2Bp%2Be02EF5NMAnb7z1vzNHQ%3D%3D&trackingId=Fcsp8ZZHDLaFePtl%2FeWfpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Reporting Analyst",
+        "company": "Baanyan Software Services, Inc.",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/reporting-analyst-at-baanyan-software-services-inc-4478463912?position=2&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=58ZanFOfZgrqcPtICmSnqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Systems Planning & Analysis",
+        "location": "Alexandria, VA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-systems-planning-analysis-4470642382?position=4&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=rK1Cz%2FrM7rvJPvuhWteVFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering Manager, Data Platform",
+        "company": "Adonis",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/engineering-manager-data-platform-at-adonis-4460670141?position=5&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=%2FFgKCjYhY4ZJsQxPE9rNoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Supply Chain Application Developer Co-Op",
+        "company": "Covestro",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/supply-chain-application-developer-co-op-at-covestro-4479552847?position=7&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=Rq1tgO6HUMhPSvf5C6YvjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Sr Forward Deployed Engineer (Palantir Foundry & Custom Development)",
+        "company": "Jacobs",
+        "location": "Atlanta, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-palantir-foundry-custom-development-at-jacobs-4470686415?position=8&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=N7kXhQwf%2ByarPU6%2B7HHGVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Vice President, Compliance Analytics & Reporting",
+        "company": "BNY",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/vice-president-compliance-analytics-reporting-at-bny-4470602191?position=9&pageNum=10&refId=DZaaIQc0fdw40TGYhN43jA%3D%3D&trackingId=ToELsXDwrpuNMUuMqz%2FA7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineering Manager",
+        "company": "Harnham",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineering-manager-at-harnham-4479549907?position=1&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=qm7fVGKlE319r8Xi%2BEV%2BLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Data Scientist I",
+        "company": "Early Warning",
+        "location": "Scottsdale, AZ",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-at-early-warning-4470640148?position=2&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=rHCqW25b1QNxeSsDtIjUyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "SQL Server and SSIS Developer",
+        "company": "Randstad Digital Americas",
+        "location": "Charlotte, NC",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sql-server-and-ssis-developer-at-randstad-digital-americas-4479546815?position=4&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=%2FKTFBprTDDBlaVDKMtbfrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Forward Deployed Engineer IV, GenAI, Google Cloud",
+        "company": "Google",
+        "location": "Kirkland, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-iv-genai-google-cloud-at-google-4478462910?position=5&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=p6Q0mt9IIkuCVhY%2BruANZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Forward Deployed AI Engineer, United States - BCG X",
+        "company": "BCG X",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-united-states-bcg-x-at-bcg-x-4469041129?position=6&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=Y3bd5ZdX2IfNSdcE3GdiJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer IV, GenAI, Google Cloud",
+        "company": "Google",
+        "location": "Seattle, WA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-iv-genai-google-cloud-at-google-4478478137?position=7&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=bgHUErXQ5yd9Z8js9w5LTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "AI Forward Deployed Engineer",
+        "company": "Cognizant",
+        "location": "New York, NY",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-forward-deployed-engineer-at-cognizant-4460082165?position=8&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=LIBphDQYCZ7tVYmLNqEjzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": true
+    },
+    {
+        "title": "Manager, Analytics",
+        "company": "Continental Western Group (a Berkley Company)",
+        "location": "Urbandale, IA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/manager-analytics-at-continental-western-group-a-berkley-company-4479554804?position=10&pageNum=12&refId=s2rzYxCnotB%2BEbO9DSPDTg%3D%3D&trackingId=0am8dbTLNbx1eLEqtvXHvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-10-14 17:27:34",
+        "email_sent": false
+    }
+]
