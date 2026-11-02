@@ -1,72 +1,392 @@
 [
     {
-        "title": "Data and AI Engineer",
-        "company": "Sellen Construction",
-        "location": "Seattle, WA",
+        "title": "Staff Engineer, Data (Remote, US)",
+        "company": "RemoteHunter",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/data-and-ai-engineer-at-sellen-construction-4478939892?position=2&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=zVLoT4eoxX6TJ3Ati1m0dg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-data-remote-us-at-remotehunter-4485471241?position=1&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=PpPp48yEzrOVoQBp8uC35w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Analytics Engineer",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-jobgether-4485450804?position=3&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=SIIjUmFRBfsLa3c2iT3XkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Haystack",
+        "location": "Colorado, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4485473073?position=4&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=xhvIqwbxqDULi7V1sZZ84A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4485466278?position=6&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=zP63%2FSBrmIXL%2BMS8h4mQbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Mitchell Martin Inc.",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mitchell-martin-inc-4484319742?position=9&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=Dtws4y2bVHtT7hNv3WUMTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
         "email_sent": true
     },
     {
-        "title": "Principal Data Engineer",
-        "company": "Flagship Pioneering",
+        "title": "Manufacturing Data Specialist",
+        "company": "Ball Corporation",
+        "location": "Rome, GA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/manufacturing-data-specialist-at-ball-corporation-4486127589?position=10&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=BoMaTUseZNwePUF2rwmb1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
+    },
+    {
+        "title": "ERP SOFTWARE DEVELOPER (M/F/D) ORACLE, PL/SQL",
+        "company": "AKTIF Unternehmensgruppe",
+        "location": "Home, KS",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/erp-software-developer-m-f-d-oracle-pl-sql-at-aktif-unternehmensgruppe-4486133311?position=11&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=YB97y6xH9XEuFMDc1sImpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "CAP AI SE4 with Security Clearance",
+        "company": "DCCA",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/cap-ai-se4-with-security-clearance-at-dcca-4484329228?position=12&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=UO93wOzS0szEc7DSg3Zi2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Energy Data Scientist",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/energy-data-scientist-at-talenthop-4484329075?position=18&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=hNBn7AF4Z%2FL7lDYgNJj%2F0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Mitchell Martin Inc.",
+        "location": "Irving, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-mitchell-martin-inc-4484324403?position=19&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=2z6OGxfad7WZcjmnzSzfuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
+    },
+    {
+        "title": "OneStream Engineer",
+        "company": "Celebal Technologies",
+        "location": "Houston, TX",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/onestream-engineer-at-celebal-technologies-4484330076?position=21&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=w7812N4ZOzNdW%2BKI9ZOr7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
+    },
+    {
+        "title": "Co-Op, AI-Driven Equation Discovery",
+        "company": "Teli Labs",
+        "location": "San Francisco Bay Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/co-op-ai-driven-equation-discovery-at-teli-labs-4485472234?position=22&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=cf%2BqG96KgJmf%2B33OWqLBjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Consultant",
+        "company": "SoTalent",
+        "location": "Springfield, Massachusetts Metropolitan Area",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-consultant-at-sotalent-4484332053?position=23&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=7dD4SyqvxyrE9x9kyl1OLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Zetheta Algorithms Private Limited",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-zetheta-algorithms-private-limited-4486142037?position=24&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=KosBS51TIHNvuhHXoFZWPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Program Analyst",
+        "company": "U.S. Geological Survey (USGS)",
+        "location": "Lakewood, CO",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-u-s-geological-survey-usgs-4484317824?position=25&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=yxTVUyCz%2FqcOPa6Mv2%2FSQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Product Engineer",
+        "company": "Acceler8 Talent",
         "location": "Cambridge, MA",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/principal-data-engineer-at-flagship-pioneering-4484306266?position=3&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=ySP%2BlktfyyeSmCu5WT%2Fdvw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/product-engineer-at-acceler8-talent-4484328309?position=26&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=XYnv%2BWa3%2BzYqoKpm4ZPyRw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
-        "email_sent": true
-    },
-    {
-        "title": "Chief AI Systems Architect - Human",
-        "company": "Act Angel AI",
-        "location": "Boston, MA",
-        "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/chief-ai-systems-architect-human-at-act-angel-ai-4485440092?position=4&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=HR4RJ7xPVm%2FwmhNCHss0qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
+        "scraped_date": "2026-11-02 09:22:54",
         "email_sent": false
     },
     {
-        "title": "AI Engineer",
-        "company": "Jobverse.io",
-        "location": "New York, NY",
+        "title": "Data Engineer I IS - Remote",
+        "company": "RemoteHunter",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-jobverse-io-4486110433?position=5&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=u%2BLEFm%2F6NaP82Gyz9jve3Q%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-is-remote-at-remotehunter-4485451740?position=28&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=UV6hCfgeJJ7h%2BBxtK76zDA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
+        "scraped_date": "2026-11-02 09:22:54",
         "email_sent": false
     },
     {
-        "title": "Software Engineer, Infrastructure (4+ yrs), SF at Blockit, Seeded by Sequoia's Pat Grady",
-        "company": "Harper",
-        "location": "San Francisco, CA",
+        "title": "Data Engineer",
+        "company": "RemoteHunter",
+        "location": "United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-4%2B-yrs-sf-at-blockit-seeded-by-sequoia-s-pat-grady-at-harper-4483869221?position=6&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=2HGDcON0Tx1c1OsUFtucfQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-remotehunter-4485471262?position=29&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=tHZGHXUAR%2Fj1ayhIIXh0Hg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
-        "email_sent": true
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Business Analyst",
+        "company": "Haystack",
+        "location": "Monterey County, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-at-haystack-4485473107?position=30&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=5NuUBhnwjtVw462cv%2Bonng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4485452576?position=31&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=xhE4W6cZVJZLci0fuoSkBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4485454474?position=33&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=pJMASRvJoVbT%2FFYurKPt4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4485456436?position=34&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=WLwCO536ty6i%2B%2Bp6XAFoVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
     },
     {
         "title": "Software Engineer",
         "company": "Haystack",
-        "location": "Greater Seattle Area",
+        "location": "Washington DC-Baltimore Area",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485425669?position=8&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=g6%2FCneT2fDQQa6VezTLYmA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485457453?position=35&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=0p8SaCR3rGEPIYhlOCZMTg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4485464219?position=36&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=LSiOq8sdDs0%2Byzp0aSc%2FDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Applied AI Engineer",
+        "company": "Corgi",
+        "location": "San Francisco, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-corgi-4486126617?position=37&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=vOq%2FA5CeqkkDyKLXLOANEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Dashboard Developer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/junior-dashboard-developer-at-remotehunter-4485454538?position=38&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=EmHxhvNKkaXu453a06oSxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
         "email_sent": false
     },
     {
         "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485452628?position=40&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=1QLkAFV7bWuSQzf4LLTTwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Applied AI Engineer (Python/AI)",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-python-ai-at-remotehunter-4485465275?position=41&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=CRkGrnZFEZaBPaOfMWIf3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
         "company": "Haystack",
         "location": "Washington, United States",
         "date_posted": "Recent",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485442188?position=9&pageNum=0&refId=NaZJPF%2FPlvJasZ6vLv42pQ%3D%3D&trackingId=li29xQoDQWXRyMUNNPyazw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-haystack-4485453507?position=42&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=S5fxZBn8Zx12CPfuKRdFQQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-11-02 02:05:53",
+        "scraped_date": "2026-11-02 09:22:54",
         "email_sent": false
+    },
+    {
+        "title": "System Analyst",
+        "company": "Haystack",
+        "location": "Greater Cleveland",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/system-analyst-at-haystack-4485457329?position=43&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=MmRvKLG18UTM6ii%2FMf78wQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ LLM Developer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/ai-llm-developer-at-remotehunter-4485467330?position=44&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=bAaWHR9flZ0atThDXx6SMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Early Career",
+        "company": "Google",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-early-career-at-google-4485456364?position=45&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=DdnHRCGAqh2LTbjKn%2BakeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
+    },
+    {
+        "title": "Staff Software Engineer, Google Local Services Ads Platform",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-google-local-services-ads-platform-at-google-4485465198?position=46&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=OqzoXQQuSc4tumZw7VTBGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "Delaware, United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485461371?position=47&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=LwyKTE3iiyweUKR0M%2F0HvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer (Product Engineering Background)",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-product-engineering-background-at-jobgether-4485455536?position=48&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=JreaLJl6s%2F3SZa7%2FBM86dQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer - Collaborative Web Platform",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-collaborative-web-platform-at-talenthop-4484325312?position=49&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=sA6NXsyoh5ufmIS5NlGW5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4485458309?position=50&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=qCyEH8vZag4Ew0qtTMWjlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Process Analyst",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/operations-process-analyst-at-remotehunter-4485466321?position=51&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=NfC39d9R7SJFpykRgKg5uw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Early Career",
+        "company": "Google",
+        "location": "Los Angeles, CA",
+        "date_posted": "Recent",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-early-career-at-google-4485459338?position=52&pageNum=0&refId=cDgwxqeUjltNTmb30pNCLg%3D%3D&trackingId=bdQmye8%2F0oRQ6SPBHku5Cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-11-02 09:22:54",
+        "email_sent": true
     }
 ]
